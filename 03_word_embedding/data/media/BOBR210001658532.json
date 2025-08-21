@@ -1,0 +1,580 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001658532",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001658532"
+    },
+    "text": [
+      {
+        "content": "가족중에 한명 분명히 물린다 근데 핏불은 안놓아줄껄 아들을 물길",
+        "writer": "UgysJHbXvJ6gbW7xRT54AaABAg",
+        "write_date": "2021-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 아들놈, 지가혼자나가서키우던가, 온가족이 저게 뭐하는짓이야,",
+        "writer": "UgwVsO6kv4K2pybbya14AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하이에나 키우는 게 더 안전할 듯",
+        "writer": "UgzrEgBwOZDxl1Pxhrd4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "핏불에게물면 로트와일러 처럼 놔주지 못해.",
+        "writer": "Ugyh33Taizy7QWJuTCt4AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아들 꼴 보기 싫음",
+        "writer": "UgwBdQS6Mlo-DL_brp94AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "큰딸은 쌍수 몬봐주겠고 둘째는 자연인거가튼데 조금 봐줄만하넹",
+        "writer": "UgxTJApPa4yzpYNM6t94AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "산책한지 오래됐다는 거 너무 충격이네 하루만 못 가도 개입장에선 엄청 힘들텐데",
+        "writer": "Ugw9fLuuKSTbDLBlY0B4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 핏불맞나요 핏불 믹스같은데 쨌던 믹스(반사회적용어) 핏불피가 섞이긴 섞였을테니",
+        "writer": "UgwEj5Zp02YBD2NxpX94AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사람 한명 살기도 좁은집에서 저게 뭐하는 짓임",
+        "writer": "Ugy-kNyiIz95IZewnrt4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "능력이 안되면 키우지 말던가",
+        "writer": "UgxO8tbDQ7H0FX1Q8lN4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개 데려온 아들놈을 개랑 같이 내쫓는게 정답인데. 딱봐도 독립할 나이가 한참 지났구만.",
+        "writer": "Ugz_5mFPHkpwn3Fa60V4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아빠도 무는데 저 쪼고만한 (비속어)는 과연 안물까 저좁은공간에 큰개랑 작은개랑 같이 두는게 (이름)지 의문이다",
+        "writer": "Ugxs_eOBDFo2nH1ga5B4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아들아 저러다 엄마. 죽는다 그냥 (반사회적용어) 해아",
+        "writer": "Ugx9riT7KAmNKox0bGt4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저런집에 5명사는것도(이름)다 20평도안될듯",
+        "writer": "UgyAlUU24zgrClzRrYJ4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아들이 겉멋에 맘대로 데리고와놓고 방치한거네. 때리지만 않는다고 학대가 아닌게 아닌데 생명을 어떻게 생각하면 저렇수있냐",
+        "writer": "UgyaxI-9CKrQB44f43V4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어지간하면 주인한테 뭐라 안하는데, 저건 진짜 개한테도 인간한테도 전혀 좋은말이 안나오는 상황이다, 사람만 모여있기에도 좁아보이는 곳에서 어떻게 핏불을 키울 생각을 할까,아니 애초에 핏불이라는 것도 인식못하고 마구잡이로 데리고 와서 키운거 같은데, 저러다가 자칫 이웃들이 다칠까 걱정되네요,",
+        "writer": "UgyOEDlUHHAQckswTEl4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개가 더 힘들긋다",
+        "writer": "Ugx26iLTaeon8NmVc114AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가족이 물려죽어도 핏불테리어를 키우려나 저런 흉칙한 개들을 왜키우는지",
+        "writer": "Ugxkn8F98k1YBjuGno14AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저런개 키우는사람들 특징 지 스스로도 개감당 못함 개한테 (이름) 개목줄풀려서 다른개 죽이거나 사람들물면 어떻게 어떻게만 외치고 있음",
+        "writer": "UgxrhKR6qlWk8S6nrzJ4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자기들살기도 좁아터져보이는데, 능력없으면 포기하길",
+        "writer": "UgymGCjUa7YHOK0KUEN4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맹견은 법으로 못키우게해야된다. 공원만가봐도 시한폭탄같은 맹견들 입마개도 안하고 심지어 목줄도 느슨하게해서 다니더라. 애들이 무서워서 뒷걸음질치고 도망가더라",
+        "writer": "Ugxi8UznRLcagsAw5AJ4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "집도 코딱지만한데 어떻게 키우냐",
+        "writer": "Ugy1quRb6LoVHAPtDsZ4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개오줌 냄새 지린다 지려",
+        "writer": "UgwmzKbhozH9DadwPax4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나라에서 맹견 규제하기를 청원합니다",
+        "writer": "UgxaQQjkaNAPc7Ph7RR4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 지 오줌싼거를 온가족이 쭈그려서 치우는거 보면은 뭔 생각할까",
+        "writer": "UgzHUAM8_B6Ju0AbHrN4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아들이 가족을 모두 제거하기 위한 장기플랜으로 핏볼을 데려온거, 소오름, ...",
+        "writer": "UgwhCap14OQmtMQZl8x4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 남자 팔 물었음, 좋을듯",
+        "writer": "UgzVjCWaa-_APOlun2V4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "산책하다가 조그만 (비속어)만 발옆으로 와도 움찔한데 저런 큰개가 내쪽으로 달려들면 바로 지리겠다,",
+        "writer": "Ugy2sFZh7DDyOBNj7UN4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)이다, 개나 인간이나,",
+        "writer": "Ugx1uZgiSKuKJETDoSx4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "핏불을 데려왔을때 검색해서 견종이 맹견인줄 알았으면 당장 보내버려야지 노견 말티즈와 같이 키운다는게 말이 되냐",
+        "writer": "UgzFefn60tpkvFf1moZ4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "데리고나가 (비속어)들아",
+        "writer": "Ugx2KuS_YOWyKhuFB1l4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제발 남들한테 피해주지말아라 제발",
+        "writer": "UgyvTY0sEjPcLTD7hLV4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "핏볼이 살기엔 집도 넘 좁고, 그리고 맹견은 일반가정집에서는 못 키우게 해야 한다 집주(반사회적용어) 힘들겠지만 동네 이웃들도 위험함",
+        "writer": "UgxNwNZ1xMohBg-Ynkh4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다른거 다 떠나서 노견 말티즈 불쌍해 미치겠네얼마나 스트레스 받고 물려 죽을수도 있는데 노견 말티즈 키우는 집에 핏불을 무슨 생각으로 데려온(혐오표현) (이름) 개 데리고 집구석 나가세요 진짜 (비속어)이네",
+        "writer": "UgzcgEIpo6wwh-5JnsB4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 핏불이 제대로 키우지못하면 걍 (반사회적용어)시켜라",
+        "writer": "UgwQmSiHUg9Rd8aOzTl4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대(이름)의 국민 의식이나 가치관이 겉만 선진국이라는 점이 이런 사람들을 통해 나온다, 동물 보호법이나 키울 수 있는 법 싸그리 개정 해야 한다. 저런 환경에서 특히 제어도 되지 않는 보호자 특히 가장 책임감을 가져야 할 아들놈 같은 보호자가 있는 곳에서 맹견을 키우면 절대 안됨 시한폭탄이랑 똑같은 거",
+        "writer": "UgzPuu2UIIhusMUOJ8h4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 좀 순서를 (이름) 올려주셨으면해요",
+        "writer": "UgzuMan9Ca59mMu9s2t4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 핏불키우는인간들 지 개한테 물렸다고 할때 왜이리 기쁘냐.",
+        "writer": "UgwcpPIehQ_1zDNC3Ad4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한심한 인간들아 가족전체가 (반사회적용어)이네",
+        "writer": "UgyQpx2JwFxqpWmZ0qx4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다 물려봐야 정신차리지",
+        "writer": "Ugwow-ezKnRvbYLw6nl4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아버(반사회적용어) 뛰어 올라 물었는데 그걸 키운다 고 다들 싸패 뛰어 올라 문다는건 죽이려는 행동이다, 바로 동물병원 데려가서 (반사회적용어) 시켜야지",
+        "writer": "Ugw9otXr5lb4-2Z6zAd4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "핏볼데려온 아들놈 핏볼한데 물려서 손가락 하나 아작나면 좋겠다",
+        "writer": "UgyL2SNAJS0z_if9X6d4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "20평은 되는겨",
+        "writer": "UgyIbqnPmiZqIfd_62h4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "반달 반달하는데 건달건달로 들림",
+        "writer": "UgzOTfyi4x52zlw1NEB4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 아들이 (비속어)임 아들이 가족 상의없이 데려왔고 책임 그냥 큰딸 작은딸한테 떠맡기고 (이름)이 코칭하고있을때 뒤에서 묘하게 음습한 미소 지으면서 안경올리고있던데",
+        "writer": "UgwSRoFmPm0ZcF0P9nR4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사람들의 시선때문에 산책을 못한지 3개월됐다는거는 주인들의 변명. 핏불을 데리고 온거 자체가 미련한 결정이었지만 이왕데리고 온거 정말 개 책임지고 키울꺼면 사람없는 곳이(반사회적용어) 기필코 찾아서 차로 (이름)서(반사회적용어) 가야지. 개는 또 뭔죄야. 사람도 3개월동안 집에만 있으면 미치지, . 아니 일주일만 있어도 미치지,",
+        "writer": "UgyuArnuxdqY78u-N0R4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "분수에 맞게 살아라 분수에 맞게 으이그,",
+        "writer": "UgzOUzyW8OTqJR4ur7N4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헉 저집에서 혼(반사회적용어)기도좁다",
+        "writer": "UgwY9sqTBFdkTTx3cJR4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개가 주인이다. (이름) 오줌 똥 치워주고 감당할 개를 키워라 핏불이라, .",
+        "writer": "UgyEPMXgSS9lBzHpCWN4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "원래 저렇게 못사는 집 인간들이 못배우고 무식한 거임 제대로 된 집에 사는 계몽된 정상적인 사람들은 저런 위험한 개를 공동주택에서 저렇게 키우지 않음",
+        "writer": "Ugz8jfsoAZHfR6-sGs94AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지들도 살기힘든집에서 자기들의 욕심때문에 저게 모하는짓거리냐 개는 죄가 없지 주인이 죄지",
+        "writer": "UgyzQ_NNTpgPRZ-ycVl4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개가 불쌍하다 저런 주인 만나서",
+        "writer": "UgwL2_GY5joeq1EAHl94AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 좁아터진 집구석에 핏불이라, 사람한테나 개한테나 할짓이 못되는군,",
+        "writer": "Ugwc3ktx2mHs2ueRd2J4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 핏블을 방에서 키울생각을 하난",
+        "writer": "UgztWg3CBB6WKd96ukd4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "핏불을 키우다니 간이 부었네",
+        "writer": "Ugy3hh5DhA0R35gD6wB4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저집이 말이되니",
+        "writer": "UgxtWzqqNXZYUxp_Zf54AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흠, 같이 키우는 소형견은 뭔죄임, 죽을수도잇음 진짜 순식간임, 2초면 끝임,",
+        "writer": "UgyuArnuxdqY78u-N0R4AaABAg.9LWk-iwiWI59QVgBVkmp2h",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어휴 ,",
+        "writer": "UgzOUzyW8OTqJR4ur7N4AaABAg.9LW3zY3gLX69PM6yQ3APbh",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제발 생각좀 하고 살았으면 좋겠다 왜 제대로 키우지도 못하면서 본인들 욕심에 사는지 ,",
+        "writer": "UgzBYCGjceAxTUqakDp4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개만도 못한견주 철쫌 들어라. 아니 개집만한 집구석에서 머하는 짓이고.",
+        "writer": "UgxMUfWXF75arEuyyLx4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한심하고 불쌍한 인간 키우지도 못할거 집안에서 입마개 하고 키울거 감당도 못하면서 머하는 짓인지, 개가 불쌍하네",
+        "writer": "Ugw6FkHjg9c1xk1rClB4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가족입장은 솔직히 알바아니지 (이름) 안됐으면 왜 기르는데",
+        "writer": "Ugz1YlRSICGrWt6LFUp4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐하는지 모르겠네요. 사람이 어떻게 살아가는 것인지.",
+        "writer": "Ugz3YNY41wpeOa01XEt4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋아서 개가 상전이네",
+        "writer": "Ugykoft6XaufGQrG7CF4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "핏불키우는 인간은 인간이 아닙니다.",
+        "writer": "UgyAgWQZ9gVBe9NtiE54AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저거 왜키움 토나온다",
+        "writer": "UgzwSpTF3qp0ilX5czF4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 저좁은집에서 저작은개와 저큰개를 한집서같이 이게말이됩니까 본인들의사겠지만 감당도못하면서 진짜 무슨생각인건지",
+        "writer": "UgxTYxRYi1dikXYP7T94AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주인은 (반사회적용어) 시킬 수준으로 무지막지함. 아주 살 권리를 포기해야.",
+        "writer": "UgzwfMFXkmRcnGbLlyJ4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사람살기에도 좁은집에 뭐하는짓입니까, 한심하다라는말도 아까운 인간들이다.",
+        "writer": "Ugyz7B187cSkdmdqw5N4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아들이 문제임 나머지 가족들도 피해자임",
+        "writer": "Ugyz7B187cSkdmdqw5N4AaABAg.9Jn0t3jhB8H9TJz7oYqqdO",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아들이 문제임 나머지 가족들도 피해자임",
+        "writer": "Ugyz7B187cSkdmdqw5N4AaABAg.9Jn0t3jhB8H9TJz9J7vDEA",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=vPoKo7uaQS8",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,660 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001655678",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001655678"
+    },
+    "text": [
+      {
+        "content": "모모가 개 좋아한데 걔가 누군데 .",
+        "writer": "UgwUEZh6xVUu2xqQRX94AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "명견실버 하이에나",
+        "writer": "Ugxdk18WuHkR3inst7N4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 멋져요",
+        "writer": "Ugz68mD92y5qvMaNHg54AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모모 넘 좋아하는데 귀여웡",
+        "writer": "UgyTgNCwXAI41NHXLNt4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 모모링",
+        "writer": "UgwPZ1a4_7TD5jL_gc54AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모구리가 바이마라너를 만났당",
+        "writer": "Ugzkgh1ubxxECatvfwZ4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "견주씌 저두 (비속어) 잘키우는방법 가르쳐주세요..",
+        "writer": "UgwR4DOlEy2dcTz6EvR4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "희색유령 이라기보다는.",
+        "writer": "Ugx2M7BvczSLTw0YmLh4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와이머리너 라고 불러요 미국에서. 요즘 동네에서 마니보임. 눈 진짜 이쁨",
+        "writer": "UgxB5E6s-e5Nfp8x7e94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모모가 진짜 개를 좋아하네 찐사랑이 느껴진다",
+        "writer": "Ugz85aGAlyP7Ke67sLh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는 모모의 반련견이 되고싶다, .",
+        "writer": "UgwzdpYEzZiI9w2Td694AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막 개 표정이 안겨있는 모모보고 이 껌딱지는 모모지",
+        "writer": "UgwyLYpRcsZgXI-MfZh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 친구 거기 모자이크 좀 치, 친구야, 어딜,",
+        "writer": "UgzKYshTw0wNEc885k14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 그래이할래",
+        "writer": "Ugx5RNDv44rXeGOIFtN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네오암스트롱사이클론제트암스트롱포를 달고있네",
+        "writer": "Ugxqm3NB-ipr1kJRGa14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저런 개 여자나 노인은 못키우게 막아놔야대는거 아니냐 산책할때 어떻게 컨(비속어)함 입양할때 피지컬 육안으로 보고 근력테스트 체력테스트 합격한 사람한테만 허가해줘야겠는데",
+        "writer": "UgxJr0_IchlQWBk91Zp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이분 트와이스 영상에서 항상 본다, 구독하고 자주 뵈요 ,",
+        "writer": "UgyTgNCwXAI41NHXLNt4AaABAg.9Iy4YXL2lxX9JpNnZ9dg6m",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남자도 어렵겠네요 우리나라 남자들 평균 173에 왜소하기로 유명하니까 아무래도 걱정이 되네요",
+        "writer": "UgxJr0_IchlQWBk91Zp4AaABAg.9AjZ3ep9fWg9AlcXLeoFoJ",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "키테레츠 대백과 (비속어)형 닮은 개.",
+        "writer": "Ugw0v9ZINq-h6VPEWIp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형(이름) 될까봐 조마조마하면서 봤다.",
+        "writer": "UgypYvo44n_XlA2fM_x4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "별명이 grey ghost 일걸요 아마",
+        "writer": "UgyQ97AsuQYBqxYpwc54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "순간 흠칫햇네",
+        "writer": "UgzBqjXHANqg8Wtea-V4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개만도못한 인생",
+        "writer": "UgywVXxEBw6VKu72JB94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모모 미드 실화냐",
+        "writer": "UgwAnlPVW8gPFoB4rC54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바(이름)너 바이마라너 서브마리너 인가요",
+        "writer": "UgzPpUS1na3imDV5nwh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "노래도좀 마음을 담아 정성껏 부르지",
+        "writer": "UgxhxqRAmK0Qw8qGT2h4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누구 닮았다했는데 렌즈 낀 드럼좌 같당",
+        "writer": "Ugwz5_vu0RWfXv3Lf5F4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누님 저도 술 마시고 개가 되서 가겠습니다",
+        "writer": "UgzA2dGb8sJu0uDZwBZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 개였으면 , 술마시면 갠데, 안되나 독일품종은아니고 한국 토종인데, 똥오줌 다가리고. 밥도 스스로 챙겨먹음 원하면 돈도 벌어다줌",
+        "writer": "Ugwt3yDfkCLPbufXbWl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나연 귀엽다",
+        "writer": "UgxJf9xxnym7fk-8Gr14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무섭다 비이마라너",
+        "writer": "UgyQ8ZMjZLlSKbbgdAt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나보다, 크네,",
+        "writer": "Ugxtfk_ru1ZnGrB2WDN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "약간 정신이 없어요 하는데 자기 심정 얘기하는줄 알았어",
+        "writer": "UgzLNaL5qaCzZzOHpFd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "곧 휴 (비속어)",
+        "writer": "UgxWwTEPBFLYtlrEsDR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도베르만 몸뚱이에 리트리버 얼굴 합친 거 같은 비주얼이네",
+        "writer": "UgwhDxX6vwQLAaB4zLV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "외 비아그라너 멋있게 생겼네요",
+        "writer": "Ugy3EOSV_kqaWergKuh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "163에 49 클라쓰",
+        "writer": "UgwAnlPVW8gPFoB4rC54AaABAg.9AiRkwtwIET9JLH3OI1IP2",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시비는 아닌데 잘못하면 (반사회적용어) 각 잡을수도 있겠네요",
+        "writer": "UgzA2dGb8sJu0uDZwBZ4AaABAg.9AhxMupx2ro9AnhwaJSPh0",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밤엔 늑대로 진화 쌉가능",
+        "writer": "Ugwt3yDfkCLPbufXbWl4AaABAg.9AhMKEb61T29Aqo1WwDjXS",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 개가 되고 싶다,",
+        "writer": "UgyGot1gwi_VUP7YRbh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모모 한국어 많이 늘었넹",
+        "writer": "UgxQzWE9E4wYX1_oFZp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 크기도 실제로는 작은편에 속합니다. 누나가 미국에 있어서 놀러간적이 있는데 시력장애가 있는 여성분이 바(이름)너를 데리고 버스에 타는데 정말 헉 소리가 날정도로 크더라고요. 제 키가 180인데 다리길이만 제 배꼽높이까지 충분히 될거같더라고요",
+        "writer": "Ugxc6h2SB4VaeXttO1V4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "50여년전에 함께 살은적 있슴, 그땐 바이마르너를 전 와이마르너, 와이 마르나로 바꿔 부르고 했던 기억이,참 착하고 애정있는 아니었었는데,",
+        "writer": "Ugzc3_vStwa7dVjdi-d4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "희철이형 휴",
+        "writer": "UgwLm9f4Nm2sQo3sZ2F4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다음생은 그레이다",
+        "writer": "UgyDCfGhO7zcPVonrsB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "단모종은 갈비뼈가 보이니까 굶은거처럼 보여 간식 사주고싶다",
+        "writer": "Ugz4aPmN8MA7aYgoQm94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개가 되고 싶다",
+        "writer": "UgxhXOh5fW9xgoty9Xl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "옾화 베이퍼맥스 가지고싶다",
+        "writer": "UgwrYOV_cpIMSW_uaXB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀로 비행도 할듯,",
+        "writer": "Ugzn-gNr2oAN78V_HWR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "침 진짜 드럽게 흘리네",
+        "writer": "UgwczEtAtIm5yfna0wl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모모 탈색때문에 머리카락 상한거 안타깝네",
+        "writer": "UgwAf9u48BF8_70ePjl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀가 너무 크다",
+        "writer": "Ugy3uAjRm2ntgtZpN994AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진구지 나오 .",
+        "writer": "Ugwmi1ZsArty0uj4nId4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모모쓴 안경 제품뭐임",
+        "writer": "UgwLiZISlsATTaXlssp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "트와이스도 재쳐두고 자기 냄새만 맡게하는 (이름) 당신은 도대췌",
+        "writer": "UgyzwNMhDuXw-DGJiux4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바이마라너 와, 겁나 크네",
+        "writer": "Ugz1xMkELdXVg7UR1wJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 크다,",
+        "writer": "Ugy_cEBmmR0g2fF1pYl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "트와이스 이미 (비속어)견 (이름) 키우고있음",
+        "writer": "UgxnMZ59w1j4Ln7Z1dt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "핏도사이즈 아닠 왜 그래요",
+        "writer": "Ugxc6h2SB4VaeXttO1V4AaABAg.9AfmryBMztw9AisQGJKWXw",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아직 사귀는거죠",
+        "writer": "UgwLm9f4Nm2sQo3sZ2F4AaABAg.9AfVTyA-ocI9Ai9l7XmeQ0",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헤어졌다고 들었어요. 풍문에서 기자가 기사 낼 시기 보고있다고 말했어요",
+        "writer": "UgwLm9f4Nm2sQo3sZ2F4AaABAg.9AfVTyA-ocI9AzKhDB1vSk",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "6월 중순쯤 풍문쇼에서 남자기자가 말했어요. 아이돌커플 각자길 가기로 합의했는데 교제기간이 짧아서 (이름)때문에 기사 낼 시기 보고있다구요 근데 맞춰보면 요기커플얘기라고 다들 그러더라구요 그리고 아형에서 언급된 부분은 저두 의아하긴한데 딱 그 상대가 아닐수도 있고 기사가 아직 나지않아서 웃으면 넘어갔을수도 있겠다 싶기도 하구요 사실 오피셜로 결별기사가 나지않아서 (반사회적용어)이나 망상이 좀 들어갈수는 있지만 가끔 다른방송에서 하시는 말이나 얼굴보면 헤어진거같은 느낌이 싸하게 들더라구용",
+        "writer": "UgwLm9f4Nm2sQo3sZ2F4AaABAg.9AfVTyA-ocI9Byn3nxODiT",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "핑그리 8월초에 (이름)콘서트날도 모모링 희님 슬리퍼 신고 부 산책(반사회적용어)는거 영상 찍힌거 있어요 그리고 님이 말씀하시는 그 아이돌커플은 희철모모커플이 아니에요",
+        "writer": "UgwLm9f4Nm2sQo3sZ2F4AaABAg.9AfVTyA-ocI9D0dHKZNqVB",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "moon light 아 그럼 누구 커플이죵 그리고 슬리퍼 그분꺼라는 확신 이 없는거 같애여,",
+        "writer": "UgwLm9f4Nm2sQo3sZ2F4AaABAg.9AfVTyA-ocI9DIIR0SsohD",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "핑그리 희님 방송에서도 여러번 (반사회적용어)됐던 챔피온 레드 슬리퍼라 해외팬들이 해당방송 캡처본까지 다 찾아놨더라구요 (혐오표현)슬리퍼는 희님의 트레이드마크나 마찬가지라",
+        "writer": "UgwLm9f4Nm2sQo3sZ2F4AaABAg.9AfVTyA-ocI9DIM8gI30F4",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "moon light 희님 (비속어) 아니 (이름) 팬은 모모 언급좀 그만 쳐 해 그 슬리퍼가 전세계에 하나뿐인것도 아니고 똑같은 것 신을수도 있지 그게 (이름)이 신었던거라는 확실한 증거(반사회적용어) 있냐",
+        "writer": "UgwLm9f4Nm2sQo3sZ2F4AaABAg.9AfVTyA-ocI9Lck8v6IWcr",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "단 깨끗한 와이마라너로",
+        "writer": "UgyDCfGhO7zcPVonrsB4AaABAg.9AeDOCx7bLF9JLHBDHfs0w",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 그런거 즐겨보는구나",
+        "writer": "UgwLiZISlsATTaXlssp4AaABAg.9Ad0mktI_t29Ae8C9k_Qwa",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크고 우람하네",
+        "writer": "Ugyh3YpJxXVEOWy7CFl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "눈마주치면 1초만에 눈 내리깔 자신있다 ,",
+        "writer": "UgyjrDO5BIY8c_s7hOV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그레이보다 (이름)이 정신이 없으실거같은데 트와이스가 옆에있는데",
+        "writer": "UgyRYfZM-l16vBXqxpd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바이마라너 그 배우 닮은거 같은데요 셜록 베네딕트 컴버배치",
+        "writer": "UgzffIgzQdthwovvvUN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아따 잘 생겼다",
+        "writer": "Ugxis_1jwpGE1EQl68B4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 질투하긋다 꼭 안고 있네",
+        "writer": "UgyjtumYUzDa8YMSFVl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와 공댕이 얼굴에 허스키눈 도베르만 몸매넹",
+        "writer": "UgwoJnX3Vyg12CUzDyd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개 잘키워서 트와이스랑 말도 나누고 잘키워요",
+        "writer": "UgzFcnjtivQ5b1NkWwl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저런 큰 개들이 뛰는거 슬로우모션하면 다흘러내리고 귀 팔랑팔랑 빙구미 낭낭",
+        "writer": "UgykzHte17G7G0cLk_l4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜케 귀엽냐",
+        "writer": "UgyC2cB4LWn8Rnq_mj94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댕댕이녀석 미사일장전했네",
+        "writer": "Ugyh3YpJxXVEOWy7CFl4AaABAg.9AcQaTaFd7n9AdmbJGicPN",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비아그라너라고 한줄 앙 음란마귀",
+        "writer": "UgzffIgzQdthwovvvUN4AaABAg.9AbyB3p0w9r9AdeuOXSOpr",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 진짜,",
+        "writer": "UgzffIgzQdthwovvvUN4AaABAg.9AbyB3p0w9r9AdzNYrgCP9",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=x5ncSTyFTWs",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,844 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001672105",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001672105"
+    },
+    "text": [
+      {
+        "content": "고구마 싫어욥.",
+        "writer": "Ugy-ohrfl1HRVT3U2894AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "띵못 영화 추천 잘하네",
+        "writer": "Ugx0L2rHVzxCqipKbzZ4AaABAg",
+        "write_date": "2021-11-13",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "계란은 빌려주지 않는다, 메모,",
+        "writer": "UgyQGMnRpdGGkL7fAZJ4AaABAg",
+        "write_date": "2021-11-12",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나만 고구마 먹을수는 없다요",
+        "writer": "Ugz88TuQUprplYD4c0l4AaABAg",
+        "write_date": "2021-10-27",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 저 (비속어)(비속어)은 어디서 나타난거야",
+        "writer": "UgzyDjzFshNJopagmE94AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와우 까지 보는데 진짜 저런 (비속어)(비속어)이 어디서 튀어나와 저(비속어) 인지 열받아서 심장이 벌렁거리네요",
+        "writer": "UgxdQXJSnsho2QxzTlF4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게 명작이라고 하는 인간들은 정신이 제대로 박혀 있는 인간이냐 감독이 개(비속어)구만 고구마 100개 이상 먹었다 제목에 절대 낚이지 마라 난 제목에 낚였다",
+        "writer": "UgyE7kUZq5EccZ__Px94AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 (비속어)같은 줄거리네",
+        "writer": "Ugy21eNDcVxM6HWqawB4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 (비속어) 콜라 사이다 웬 첨부터 드립인거했더니, 참다 참다, 초에 댓글 쓰게 만듦. 콜라 사이다 뽈빠볼..........",
+        "writer": "UgxTg_vfxgMqYhLucMJ4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "작정하고 잘생긴 (비속어)을 골랐어",
+        "writer": "UgywkWHCVtHTa_tFEkp4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "불필요한 말이 너무 많다",
+        "writer": "UgzXWutlnXg1L5xrZ2B4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "줄거리는 잘편집하지만 제목은 항상 자극적으로 달아서 제목만으로 영화의 장르나 내용을 추측할수없음 특히 이런영화는 애를 키우는 부모입장을 좀 이해한다면 주의표기정도는 해줘야할듯 총각이겠지만 댓글을보고 좀더발전하시길 구독 취소하고 갑니다",
+        "writer": "Ugx11DH87m5yeFgSipt4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 진짜 나도 모르게 탄산수 벌컥벌컥, 있을 법한 일이어서 너무 불쾌해요 내용이엉엉",
+        "writer": "Ugxz-sINJGmA0glyHs14AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런영화는 좀 당신 (비속어)야 미쳤군. 왜들 미쳐가는(혐오표현)",
+        "writer": "UgwFUfXyhudisDGEnE54AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "럭키가 행운이라는 뜻이였구나",
+        "writer": "Ugy8lSpYAudQw6y5gzt4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐 이런 (혐오표현)같은 영화를 소개합니까 (비속어) 아니 너무 무서웠어요",
+        "writer": "Ugx8iJAuazb_JNX1SCN4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "닉 값",
+        "writer": "Ugy-ohrfl1HRVT3U2894AaABAg.9PScq5ZDOes9PSj4LpuYGh",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 등을 보이지 ,",
+        "writer": "Ugz0bsRZGCKsqF9gq_V4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이시국에도 여행다니는 겁없는 인간들이 봐야하는 영화",
+        "writer": "UgxkKZzKHgW9u4RXxJl4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저런것들 눈(비속어) 뽑아야지",
+        "writer": "Ugx4C_qHNDsf6G7qHRZ4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 진짜 (비속어)영화, 재밌다고 표현하긴 (비속어)한 영화임",
+        "writer": "Ugzch0yWoXKNY7S9owJ4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영화가 정말 더럽다.",
+        "writer": "Ugy104iRSOBWpKZNDo94AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사이다 마셔도 고구마 안내려가서 밀키스 마시고 진정했음",
+        "writer": "UgzudC_8bf4u9C8wkBN4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐 이런 (비속어)신 같은 영화가 있냐",
+        "writer": "UgxluqO7U_ykiC5mwq14AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 졸지 거슬려",
+        "writer": "UgwgrhpHeMu2roR5h4l4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "약올리냐 구독같은 소리하네 결말 안올리려면 아예 질마라",
+        "writer": "Ugy7p3KRmF29taZnvqN4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "x같은영화네요 진짜 이것만봐도 보기가싫어지는 (혐오표현)영화 감독 (혐오표현)있나 라는 의심마저 생기는영화 안그래도 삭막하고 힘든세상 영화에서까지 불편한거 보기싫은데 (혐오표현)을치네 저 감독 (비속어)일 가능성 90퍼일듯 그리고 가장 중요한건 창의성도없고 많은 사람들이 한번쯤 생각은 해봤지만 상상도하기싫은 내용 어휴 만약 저상황에서 이렇(비속어)렇게 됬으면 어떨까 어휴 상상도하기싫다 이런생각을 굳이 영화로 만든 것 그냥 관객을 조롱하는수준 현실은 영화보다 더 충분히 답답하고 힘들다 (비속어)같은감독같으니 재미(반사회적용어)있으면 몰라",
+        "writer": "Ugw_5jZWn5p5xk3PClt4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 심장멈춤",
+        "writer": "UgyqQxiNU7MJNI0tNUp4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꼭 졸지라 읽어야 했나요",
+        "writer": "UgyWv1YDLa31d2STyvZ4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혹시 이런 영화 영상 또 올리실거면 채널을 하나 더 만드시거나 제목에 표시 해주세요 다시는 보고 싶지 않네요",
+        "writer": "UgzC086VmzBh01hVNY54AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 항상 결과를 감추나요.",
+        "writer": "UgzK9cDXVdZhUvcBXYp4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "총일 필요하다, 1818",
+        "writer": "UgwYVKR-t2CeqZTTGn54AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아주 답답한 영화네",
+        "writer": "UgxzFxPkiJxlSpCp2GV4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감독 주겨버리고싶네",
+        "writer": "UgwhF3oH4ZMx2eg9-yV4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어느 나라든 시골은 워험하다.",
+        "writer": "Ugziecs8lzxo7dh5Yml4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미국에 총이 필수인 이유.",
+        "writer": "UgyiWYXAAqMNi7-TEOd4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "더러븐 영화. 이게 사이다냐 소개하는 것도 그렇고, 마음대로 현실을 해석하는 땅잘,실망스럽네",
+        "writer": "UgzjiLy_GXCAGLZqfoZ4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 영화 ,",
+        "writer": "UgwD5bZzQq5JmawRnXl4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)같은 영화네. 너도 이렇게 없어져라 제발 이더위에 (비속어) (비속어)",
+        "writer": "UgwtZsIBkQ7XdhGTUyZ4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넷플릭스에 있나요",
+        "writer": "Ugw7v_KQ4XuNtwrCKDB4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "평가할 가치를 못느끼게하는 영화",
+        "writer": "UgzYEV8wDh0WPBDuim94AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공포영화는 이렇게만들어야지",
+        "writer": "UgyF0H4hJl_LtE4Z_AN4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댓글보고 안봄",
+        "writer": "UgwAwUM1HzLPh2lxR1J4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "막판 평가에 이작품을 수작이라 하셨는데 참 영화 잘 포장하시네요",
+        "writer": "UgxIWaDD6LcGSqOrzjF4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댓글보니 안보는게 나을듯, 땡잘.",
+        "writer": "UgyjonYX_G6SIVXMiXp4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이건좀 아닌듯 해요",
+        "writer": "Ugzv2sNE7FOWYy8CjaZ4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 것들이 판치는 세상",
+        "writer": "UgywVNG0FTZmB-qhIT54AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘부터(반사회적용어) 지인들 빼곤 모든 사람들을 경계해야 할 것 같아요, 아 찝찝한 (비속어) 영화,",
+        "writer": "Ugy5-yrnWk4Whl2qsU94AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사이다필참 이라고 안써있었으면 안봤을텐데, 낚인건가",
+        "writer": "UgzVOIL5Id5lNCEIFZN4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)이 뭔지 몰라서 인터넷에서 검색하고 왔네,",
+        "writer": "UgzlLCsrWxJup7Kxsh54AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소재가 떨어지니 별 (비속어) (비속어)들 주인공 영화가 난무, (혐오표현)(비속어)들 부끄럽지도 않냐 만든 (비속어)이나 리뷰하는 것들이나",
+        "writer": "UgzQRXBg8CGF60yR5WV4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저거 연기한사람누구임 (비속어)",
+        "writer": "Ugw1zWVBCsXl4N_y0uh4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 인생의 현실. 좋은 날이 있겠지 하며 살지만 좋은 날은 오는 듯 하다가도 결국은 오지 않는다.",
+        "writer": "UgwV_v6RpOtzi-ZBghh4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 (혐오표현)라서 그래요. (혐오표현) 띵잘,",
+        "writer": "UgxIWaDD6LcGSqOrzjF4AaABAg.9QBXdPN9ekq9QFmALcIe5m",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 리모콘을 갖고도 지다니",
+        "writer": "Ugzvh8MClPBPG4ShWWB4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "갑자기 구독취소하고 싶어지는군요 몰랐으면 좋았을것을 구독 취소합니다",
+        "writer": "UgypBbfaXLdfaNAWVuN4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조지가 변종 헐크로 변하길 기대했네,",
+        "writer": "Ugx1v_kpzxvLoPGTV1Z4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 큰 집에 외부랑 연락 가능 한 수단이 고작 핸드폰 한대 뿐이라는게 말이 되는 수단인가",
+        "writer": "UgxGtkV5pI3dJLf51mN4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런(혐오표현)는제발리뷰하지마라 난띵잘이좋은영화찾아서리뷰하는줄알았는데 감독의의도이건 작가의의도이건 이런발암유발(혐오표현)말고리뷰할영화는세상에많다 (이름)가보는내내불편함을감수하고봐야할정도의수작인가",
+        "writer": "UgwewxUpQEYfeX3Z_CV4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 싫은 스타일 영화, 괜히 봤다",
+        "writer": "Ugwdg5rDv2_cTmGOn7F4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "최초로 뜅잘을 할퀴고 싶을 정도로 화났음",
+        "writer": "Ugz6GSQUyzaqrW3Lrrx4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이와중에 나오미 왓츠 이쁘네요",
+        "writer": "UgweBapLZTDCAtJ_JC94AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐 이런 개 같은 영화가 다 있어",
+        "writer": "UgwYXBn_wi-Okxf7Mel4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)는 진짜 사이다 콜라 스프라이트 다 필수...",
+        "writer": "UgyAZi3yyfVdShcl_xF4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예전에 보다 포기했는데 지금도 끝까지 보기 힘드네요. 영화가 참 감정 이입이 너무 잘되니 잘 만든 영화일진 모르지만 이런 영화 개인적으로 ... 사이다는 바라지도 않아 물. 물이(반사회적용어) 달라구...",
+        "writer": "UgwSMTdaEyXafb7N2i14AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아, 고구마 영화일 줄 알았으면 안봤을텐데요, 하 안그래도 머릿속이 어지러웠는데 개 답답.",
+        "writer": "UgztiQueeSa4tNHQ7I94AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이래서 미국집에 총이 필요하구나",
+        "writer": "UgwCnQH8weX3MYOCuz14AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 (비속어).",
+        "writer": "UgwSW6PwB9vq39agOw54AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 두놈 나한테 잡히면 죽는다, ,",
+        "writer": "UgydZ-vRr4F5wdaI4mh4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어후 정신 혼란스러워.",
+        "writer": "UgwlBGQVczRozM_abCN4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없던 암도 생기게한다는 그 영화,",
+        "writer": "Ugxg3jcRGh9ZCeasVid4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오우, 고구마 영화로 어디선가 거론된 걸 본 적이 있어서 언제 한 번 찾아봐야겠다 싶었는데, 긴장하면서 보겠습니다,",
+        "writer": "Ugx9l_VzC3PWEwYwB4J4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "열 받아서 몇번이나 나가버릴까, 했네요. 막판에 우리 편이 이기려니, 했는데 끝까지 보고나서 후회했슴요.",
+        "writer": "Ugy1yQOO5k5JRvQrz9B4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막에 엄마 아무렇지않게 뒤로밀어버리는게 정말 너무 싫다 불편하고 진짜,",
+        "writer": "UgwABUbcwjjAGGdbDVp4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아빠 조홀쥐와 아들 조홀쥐가 조금만더 강했더라면",
+        "writer": "Ugy7YqGAQbYnxDcfeBp4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "97년이기에 비수같은 영화이지 07년에 퍼니겜은 길바닥 나뒹구는 낙엽일뿐. 쥐어짜도 암것도 없는 마른 행주같네.",
+        "writer": "Ugyk0GACIctrDQX_wdd4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 영화는 원작 퍼니게임을 보는 걸 추천합니다 진짜 띵작임.",
+        "writer": "Ugyco5iPByfgPR58lON4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보면서 욕안했으니 선물주세요",
+        "writer": "UgzpWt3quuQc0crlQSF4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아띵잘님가슴이 답답하네요 띵자르",
+        "writer": "Ugy4fsTGxMy3ccnlRs94AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "욕한번도 안했슴다. 선물 부탁드립니다. 저 싸패들이 우리나라 정치인 세습제벌 양의탈을 쓴 교육집단 교사등이 생각나서 너무흔한걸 비유한듯해 욕 한글자 안썼넉요. 너무 흔하게 일어나는 일이라서요. 선물 주삼",
+        "writer": "UgxS7tKh5Kd9aVSyzJV4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "답답해서 숨이 막히는 기분이네요",
+        "writer": "UgwSwvmNiWvojNg11uJ4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 첫장면 보자마자 소름돋음 저거 알아, 시(비속어)",
+        "writer": "UgzNtsOmL1D0iVhPffB4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 욕 안할수가없네",
+        "writer": "UgxAs4M-600byxcEy6N4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현실이 고구마먹은거처럼 답답하니 영화로(반사회적용어) 사이다를 찾는건데요 이런 암유발 영화는 안봐야게뜸 미리 걸러줘서 감사해용",
+        "writer": "UgxHFwSgAOnHNL1F2NJ4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 열받아 속이 울렁거리네자식들 영화인줄알지만,",
+        "writer": "UgzXp38WQlbHjdTfNp94AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 진심 욕 나오네,",
+        "writer": "UgxAMKUL-fcX7UqMD0R4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 첫장면 보자마자 화나서 나와버림,",
+        "writer": "UgzNnO8PV_v21i13fQZ4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "냄새가 좋다고 여친이 코를 박습니다 (이름)널 페로몬향수 존아자르 추천해요",
+        "writer": "UgyzitTZKgjN_N5st-54AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헉 고구마 1만개",
+        "writer": "UgxDF42zZMbBfInaDMx4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 리모콘으로 돌리는거 미쳤네",
+        "writer": "UgwmgIp8SB9C0EKa_yR4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선물줘 기다릴게 거짓말은 아니라고 믿을게요.",
+        "writer": "UgzXQcJDgalpLFUsx5F4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 봤다 유툽 영상 다안보고 애기 하는데 c발 개 (비속어)나온다 해피엔딩으로 끌고 갈듯 한 전개가 계속 되는데 개 Cqkf 반전에 (비속어) 쳐나온다",
+        "writer": "UgxABlK565ViBP27wSx4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대(이름)과 (반사회적용어)도를 (이름)에 대비하면 모든게 딱 맞아떨어진다",
+        "writer": "UgzNnO8PV_v21i13fQZ4AaABAg.9PA9O9esgZn9Q3tH9pxWX6",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댓글 보고 갑자기 빵 터짐",
+        "writer": "UgzNnO8PV_v21i13fQZ4AaABAg.9PA9O9esgZn9QIPyGWj6-t",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선물로 뽀뽀정도는 줘야겠는걸",
+        "writer": "UgzsyU1A5mEPEvdPDYF4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 때문에 하기스 정기구독을 해야겠다",
+        "writer": "Ugync50Jx8RTT3DmStd4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "불편하게 잘봤습니다 띵자을 현실도 글타공 사이다 잘 팔리겠네요",
+        "writer": "UgzhspRMyi-nazf9TFJ4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 미쳤네, 드디어 복수인가 했는데 아니 저게뭐야",
+        "writer": "UgwT6MIwNQUHLUT8q7h4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 졸지 어떻게 생각하면서 봤어",
+        "writer": "Ugy28WkYrEFEIyKAp6p4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에, 1 등.",
+        "writer": "Ugy87Oa837U_v9Z70-94AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고구마 100개 먹이는 오늘의 영화, 사이다 필수 하기스 필수, 띵잘 멤버쉽 가입하기 34TUeqV",
+        "writer": "UgzemZqaHs891Ooo6Id4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)(비속어)들 화 못참겠다 골프채로 뒤통수를 어후",
+        "writer": "UgzsyU1A5mEPEvdPDYF4AaABAg.9PA4GuqaA_t9PA4xi2qUs5",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아씨 뭔소린가했네",
+        "writer": "Ugync50Jx8RTT3DmStd4AaABAg.9PA3M2Zx2tI9PA7S7flNvD",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 이미 정기 배송 받는 중, 하기스 매직 특대 사이즈로,",
+        "writer": "Ugync50Jx8RTT3DmStd4AaABAg.9PA3M2Zx2tI9PAvDopAsKt",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=rqtLT2vR8ik",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

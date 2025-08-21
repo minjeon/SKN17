@@ -1,0 +1,996 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001636917",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001636917"
+    },
+    "text": [
+      {
+        "content": "고민 왜 해 겁나 웃김",
+        "writer": "Ugw7Bb27y8HgJmwlHH54AaABAg",
+        "write_date": "2021-08-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우는 그러지않을거예요 믿고싶지않은데 웃는게 예쁜남자",
+        "writer": "Ugyzkq4ZUHwj_At1wQR4AaABAg",
+        "write_date": "2021-03-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (이름) (비속어) 사랑해,",
+        "writer": "UgxU8ytQL22r7spXOrJ4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그치 그치 알지 알지 나한테도 니 얼굴이 최고야",
+        "writer": "UgzpDcuKS4M-tVw93JV4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헤메코들 정신좀 차렸으면 좋겠다실력이 없으면 때려쳐 제발 , 타돌팬들도 비웃는 코디랑 머리스타일 어쩜 좋냐, 또또또때 스타일 너무 좋아서 뭔일이래 했더니 머리끝부터 발끝까지 다 진우가 선택한 스타일이였다고 ,",
+        "writer": "UgwFuId2qbD2FDxNqzx4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "투닥거리는거좀봨 넘귀엽다",
+        "writer": "UgwhkfWtQNUKP2Jhx1Z4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 (이름) 왜 이렇게 웃김, 마지막에 저, 그른, 거 아니에요. 하는것도 (비속어)",
+        "writer": "Ugz3KPU1ZnvxoD5mHed4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저분도 참 힘들게 사네요, 많이 공감됩니다.",
+        "writer": "UgzM_Je495a6QKLc43N4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "승윤이가 말은 저렇게해도 우리 형, 형, 하는게 느껴짐 진우 미모 칭찬도 젤 많이 하는거",
+        "writer": "UgxVJ9XlsVxXIlBTVUF4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 내 이상형 생긴것도 목소리도 거기서 인성도 좋아서 더 좋아짐 너무 착하고 배려심많고 겸손해양현석이 9년동안 한결같이 착하고 겸손한 멤버 1등이라고 했던거 기억남",
+        "writer": "Ugx1etSq05R3gVf9PZl4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 위너 코디 하 할많하않",
+        "writer": "Ugw-g1zbaEpT0PZpQtp4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 개웃겨",
+        "writer": "Ugx0iFPCRxhsKzsLarZ4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 (이름)같다, .",
+        "writer": "UgzCGWhMu7OAWDQuao94AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둘이 진짜 싸우는데",
+        "writer": "UgxLernm839nxBfwl654AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지누 긴장안하고 예능 잘하는것봐세상 순둥이가 이런 토크예능에까지 나가서 잘 해내고",
+        "writer": "Ugzkof6K_pFi2zcZQm94AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우 남자네 이젠 소년 빠이 빠이",
+        "writer": "UgxCLquVAlZ94xMgBHh4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)은 뭔가 성형으로 만들 수 없는 매력이 얼굴에 보인다, 옛날 시아준수랑 비슷한거 같기도 하고, 스타일도 넘 좋음",
+        "writer": "UgyouPxGE3v892clVX54AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "결론 둘 다 잘생겼다",
+        "writer": "Ugx35ZkLJzl1ZL2y2Hx4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요새 김구워더 엄청 나옴",
+        "writer": "UgztqsBafDnbhRdES2Z4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우는 예민해도 귀여워",
+        "writer": "UgwPV0MJ0TyZn7tVX4p4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앜 너무 웃겨",
+        "writer": "Ugxw01FAHyPRbgJomjh4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남자다잉승윤 좋아",
+        "writer": "Ugxm6ZNbegwvF7sKfw94AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오옹 드디어 진짜 유라헬이 되는것인가,",
+        "writer": "Ugx93nu2ZDuJZQEKW8J4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래서 뒤에서 말한거 보면 지누 넘 착해",
+        "writer": "Ugx6TESZI37vXQ3eOHV4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찌누 반전 매력 넘 좋다 승유니는 겁나 잘생겼고오",
+        "writer": "UgzvPbQEwwGDAOwHVbZ4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 눈 부릅 뜨면서 이 형이 착한 살람이 아니예여....",
+        "writer": "UgwQWkqD9aaP3_x1swF4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "승윤이 (비속어) 이쁘네",
+        "writer": "UgxuyWDXV3Fu1tE-E514AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이코닉인데요, 아이콘 빙의글과 상황문답을 다봐서 위너 빙의글을 요즘 보는데 거기서 (이름)은 지능형 천재고 (이름)은 천사예민보스로 나오는데 그거보고 터졌다죠",
+        "writer": "UgwM7K0E70f-J3hxHqR4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둘다 너무 잘생겼닼",
+        "writer": "Ugy38n8vp_H2x3XoQqR4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "위너 컴백하나요",
+        "writer": "Ugyr1wag8PSsXOuBJSB4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요즘 (반사회적용어) 출두하는 연예인들 보니까 이렇게 썰 푸는걸 우습게 볼 수가 없네,",
+        "writer": "UgzqX7yBNubr08-m-tN4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)숙소가서 둘이 싸울거 같넼",
+        "writer": "Ugy2kFTRVZ0B-K5BwyB4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얘도 했어요 (비속어)(비속어)웃기네 (비속어)",
+        "writer": "UgwuYWWPJgh3JC8aq9l4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 틴트 뭐써",
+        "writer": "UgyMdtarot-kJoG4N0p4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "결론그게 매력인겁니다",
+        "writer": "Ugxs6Xho0Nqa22rOSPx4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래도 내 눈엔 너무 귀여워.",
+        "writer": "Ugy8IO_AR_N026CD5Ph4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래도 진우가 위너사이에서 다툼중재잔뎅",
+        "writer": "UgwS3ot5W6OdW6Iu9Ml4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "섬네일보고 하희라인줄",
+        "writer": "Ugyw7BHM5DqrK3OdWzh4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아진짜 귀여어",
+        "writer": "UgwIYWJWfch99kHQFUd4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 진우가 마냥 착하지만않았으면 좋겠어 그래서 저런 성격이 더 좋아 _ 너무 착한게 (이름) 착한 걸 악용해먹을라는 붙수니들도있었고 그랬었으니",
+        "writer": "Ugw1p2QJUq45Q4tCfZN4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지누 김구워더 (이름)형",
+        "writer": "UgzVHwbBVZbIZ786bXZ4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무도에서도 뭔가 뺏어먹지않았나",
+        "writer": "UgxUru186JCWSTOfR1F4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "짜증나서 (비속어)겠습니다..",
+        "writer": "UgwkVDF9hdLnmQplWuN4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)니 토크 빵빵터진다",
+        "writer": "UgwbDYj714oISnNYPal4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 인성논란",
+        "writer": "UgyK0EstFv7Tglbnpdx4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래도 잘생기면 괜찮아",
+        "writer": "Ugwg1_TdgMNx45VTrPZ4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 순하게생겨서 단호박인게 진짜 (비속어)내 웃음지뢰 (이름),",
+        "writer": "UgxH0MaT-fc5kZc9wB94AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엑소도 인생술집 나오자",
+        "writer": "UgyQDK6eJ5bSTvuMLdB4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 예능잘하네",
+        "writer": "Ugx5Zx01-xAr56UFZTh4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 (이름) 예쁘게 생겼다",
+        "writer": "UgwruBgrxGuL5m68Txt4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "위너 승(이름)진우너무둘다귀엽다 진짜 둘이케미봐 너무좋아",
+        "writer": "Ugy74nvZ9B6f_gr_q9B4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "승윤이 불쌍해",
+        "writer": "Ugyh3F0vmeW3SIFsGfl4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 김구워더",
+        "writer": "UgzIB80CqWHPZVzHNxp4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 왤케잘생긴턱형같지",
+        "writer": "Ugwxf9izOyp0MdmH8Y94AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흐히헤헿 김구워더 파이팅",
+        "writer": "UgxH0MaT-fc5kZc9wB94AaABAg.8tfYvJ-1L3K92y7zVrXYh4",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가만보면 케미가 은근해",
+        "writer": "UgwtfHer1pM(반사회적용어)p3OwnN4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 (이름) 개잘생겼다",
+        "writer": "UgxyqEKUZOwcG7RYQBN4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "티 안나요",
+        "writer": "UgzNjj7Jl2YAUcDv0W54AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지누 귀엽",
+        "writer": "UgzpkfLYUGZMK15CUVt4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "승윤이 억울해쩌",
+        "writer": "UgwkKWwfiiUdbueE4Gt4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 개조아",
+        "writer": "Ugw6XO_dcGN-GaCfYud4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 울라고 하넼",
+        "writer": "Ugz27Ap_XrJlk3AQ9qd4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "착한얼굴에 그렇지 못한 태도",
+        "writer": "UgwgvELK2vFcz4k3X9B4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아잇, 깜짝놀랐어요, 진우 이래서 맏내라죠 진짜 너무 귀엽고 잘생기고 짱인거같아요",
+        "writer": "UgywzKCQmgD_3OgDIDp4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이래서 사람이 아무리 잘생겨도 인성이 중요하다는 얘기",
+        "writer": "UgyslSxU_OCe9scLxf54AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앜 진우 오빠 귀여웡",
+        "writer": "UgxK1XQbbtWW1WxyL-Z4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "겁나 재밌엌",
+        "writer": "UgzA2SRCKA1ZjKvvVUV4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 언제하나여",
+        "writer": "UgybF-k4_J4QWQoS5rR4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 (이름) 너무 잘생겼다",
+        "writer": "UgxrUaahO0q7h_Yrs2l4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가끔 위너 코디 보면, 나였으면 진작에 화냈다 진우 불쌍말도못하고 스타일리(이름) 진우 예쁜 옷 좀 입혀주세여",
+        "writer": "Ugw1QhxFzkOZI4b2vLV4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 상남자 (이름)",
+        "writer": "UgwSw3HCN9G3ducJyWN4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "승윤이 미모 (이름)니다 잘생겼어",
+        "writer": "UgwlkQWy0DPTO7rhTzx4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 김구워더 진짜개귀여웤",
+        "writer": "Ugwamy-ncIerR3KQxyF4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "훗 저는 이거 본방 했다죠",
+        "writer": "Ugx8vb6HX_6n_divUhh4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 잘생겼다아",
+        "writer": "Ugw7YimMI0ghcwEP9854AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 성격까지 치와와같네",
+        "writer": "Ugwyx5w14pm0JvdoboF4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 보솤",
+        "writer": "UgzjvOerxH-cpJw8g0R4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 용맹한 포메리안 최고야 지누",
+        "writer": "UgwhJ8ZoOY79SP52ZFF4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "순둥순둥 막냉이 승윤 귀여워",
+        "writer": "UgyjDBdWm2TJjLquZTV4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 잘생겼다.",
+        "writer": "UgxfpxHxFdNCnF3d2ZF4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우는 얼굴부터가 넘 천사같다 엄청 하얗고 예뻥 (비속어)",
+        "writer": "UgzEYsHV2Y1014gKZv94AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우는 맘에 안드는거 있으면 이제(반사회적용어) 말을 좀 해야함 라디오에서도 멤버들이 말했지만 진우 그동안 너무 참았어 착한 예쁜이 넘 착하니깐 이용해먹을라는 사람이 넘 많자너",
+        "writer": "UgxNyUl22WfBb3-oiOd4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 김구워더란 말이지",
+        "writer": "Ugz5jK4sJxVoiVwxnZF4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 진짜 잘생겼다",
+        "writer": "Ugxuqr0CVqnEVynuPS14AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남잔데 (이름) 진짜 너무 잘생기셨어요,",
+        "writer": "UgxJvOZUyNLC9q3YGg54AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "튜기여워 .",
+        "writer": "UgzuC_AGmqYURYFQmQx4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 너무 귀엽다고 진우는 상남자",
+        "writer": "Ugwg8M9KNyCS9bNsRBp4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀염둥이 위너 스타일리스트들 만큼 일 잘하는 애들이 어딨다고",
+        "writer": "Ugw1QhxFzkOZI4b2vLV4AaABAg.8tYewueEz0c8wMM1TiBysH",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Kkkoo 예쁜것도 좋지만 불편할수도 있잖아여",
+        "writer": "Ugw1QhxFzkOZI4b2vLV4AaABAg.8tYewueEz0c9AFtmDYlDxX",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헤헿 예쁜 지누 헤헤헿헿헤헿",
+        "writer": "UgzEYsHV2Y1014gKZv94AaABAg.8tVGXS8h-gl92y7s8aQAZU",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞아요 착해가지구",
+        "writer": "UgxNyUl22WfBb3-oiOd4AaABAg.8tVF_OrDy2r8tYVkw0Svht",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우 이렇게 말할때 넘 단호해서 귀여우면서도 설렌다구,",
+        "writer": "UgxiSYudaRuJapfJkFl4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이때 좋았는데 애들 티비 많이 나오고, 언제 나오냐아아아아악",
+        "writer": "UgzQWIPiRp5MZAsOmpt4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금까지 천사진우썰만 보다가 예민보스썰 들으니까 (이름)고 웃기닼 커여워",
+        "writer": "Ugz40wqo9PdMazLt0vR4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우 반전매력( )머시썽",
+        "writer": "UgwGyf-tBEFg9P09Uzp4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀여운 위너칭구들",
+        "writer": "UgzIz4Cc1JYwwE3Q7rx4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 넘 귀여워 편집하지말래",
+        "writer": "UgwFM0HpJ3n4TWAoyhJ4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "최근에 뮤직비디오 컴백 아 위너, 컴백 한다......오예에에에에에에에.........",
+        "writer": "UgzkzjpKZLVkrDre1t14AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 너란 사람, , 잠시동안 한국에 내려온 엘프",
+        "writer": "Ugz1AcVou53qlhTw7wB4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "속으로만 생각하래",
+        "writer": "UgxY8fp5Xz3B_146fzp4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미쳤어 미모 어쩔거야 진짜,",
+        "writer": "Ugz2RBOha9s58fKSN5d4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 미모 대박적,",
+        "writer": "UgxOqUFsXRf2ztG55x14AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 밀리언즈 전에 찍어서 이 뮤비는 아마 밀리언즈 뮤비일 거에요",
+        "writer": "UgzkzjpKZLVkrDre1t14AaABAg.8tRgMIlhld98tSXevm7pAy",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 아, 그렇군요, 괜한기대를 .하아,",
+        "writer": "UgzkzjpKZLVkrDre1t14AaABAg.8tRgMIlhld98tShUY3ZZi4",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 하하 한달 뒤군요, 네 한달쯤이야 네달을 기다린 인서에겐 아무것도 아니죠 컴백 드디어 하네요,",
+        "writer": "UgzkzjpKZLVkrDre1t14AaABAg.8tRgMIlhld98tTEHML9B-r",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 피셜인가요",
+        "writer": "UgzkzjpKZLVkrDre1t14AaABAg.8tRgMIlhld98tT_sOtJptt",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 오피셜 아니에요 만우절 거짓말입니다",
+        "writer": "UgzkzjpKZLVkrDre1t14AaABAg.8tRgMIlhld98tax2eqNAac",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이즈미히데코 nahhh.",
+        "writer": "UgyhDeYlnyqQOVHOWDp4AaABAg.8tQnhurOwfD8tV_012RtkX",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이즈미히데코 hahaha okayyy bu Its hard for me to learn bcuz Im a Filipino",
+        "writer": "UgyhDeYlnyqQOVHOWDp4AaABAg.8tQnhurOwfD8tV_7wUpw3X",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기서 보네요. 영상 잘 보고 있습니다",
+        "writer": "UgxY8fp5Xz3B_146fzp4AaABAg.8tPpREqFhvj8tgO5BlSqSu",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어쩌라구용 니 일기장에나 적으세요 왜굳이 예쁘다는 팬한테 지 의견 말하고 (비속어),안궁금한데요..",
+        "writer": "UgxOqUFsXRf2ztG55x14AaABAg.8tOUDLl8ysO8tdK9Bh-pvr",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "는 너",
+        "writer": "UgxOqUFsXRf2ztG55x14AaABAg.8tOUDLl8ysO8tjibcrw1Bp",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "함부로 말하지 마요",
+        "writer": "UgxOqUFsXRf2ztG55x14AaABAg.8tOUDLl8ysO8tmZ9RSUEf-",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어쩌라고 (비속어)",
+        "writer": "UgxOqUFsXRf2ztG55x14AaABAg.8tOUDLl8ysO8tqts5goRGL",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자소하지마세요 안궁이니까",
+        "writer": "UgxOqUFsXRf2ztG55x14AaABAg.8tOUDLl8ysO8uLFUAIiwJn",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "거울좀 보세요",
+        "writer": "UgxOqUFsXRf2ztG55x14AaABAg.8tOUDLl8ysO8ufVOcaydfy",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 미모는 언제나 대박적",
+        "writer": "UgxOqUFsXRf2ztG55x14AaABAg.8tOUDLl8ysO90HqIfMkYUw",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그런 말 때문에 승윤오(비속어) 상처받는다고요 님아 거울은 보심",
+        "writer": "UgxOqUFsXRf2ztG55x14AaABAg.8tOUDLl8ysO91nT6y_vmi1",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "님 거울보시길",
+        "writer": "UgxOqUFsXRf2ztG55x14AaABAg.8tOUDLl8ysO94gXTAjpj4M",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "wyu u 인뎡인뎡..",
+        "writer": "UgxOqUFsXRf2ztG55x14AaABAg.8tOUDLl8ysO94if37iYapj",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐래 거울봐 일반인이 위너 강(이름)한테 저(비속어)하넼",
+        "writer": "UgxOqUFsXRf2ztG55x14AaABAg.8tOUDLl8ysO96Qwf9ogbH4",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "거울봤누 (비속어)기",
+        "writer": "UgxOqUFsXRf2ztG55x14AaABAg.8tOUDLl8ysO97bgfK4XdZG",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 아침에 일어나면 악플 먼저 읽어요, 힘든 사람한테 왜그래요 진짜",
+        "writer": "UgxOqUFsXRf2ztG55x14AaABAg.8tOUDLl8ysO97pgBEkXCAH",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=3gDipuDZrW0",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

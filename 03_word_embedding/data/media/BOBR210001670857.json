@@ -1,0 +1,484 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001670857",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001670857"
+    },
+    "text": [
+      {
+        "content": "이분은 휠체어에서 일어나는 씬만 생각남.",
+        "writer": "UgzlZCptQ3OcP_gYiXZ4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 진심 최고로 웃었습니다",
+        "writer": "Ugxv1tOUao8ZBXPlG0J4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 분 방송은 인생짤 공장 막 찍어내내",
+        "writer": "UgypXAMKZHCAaZzVrQl4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 웃다가 죽는줄 와 질 생기고 멋지고 근데도 웃겨 어떻게",
+        "writer": "UgxFmEOLIaV2GFVQGgZ4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 멋지지나",
+        "writer": "Ugxraaexu2mnyiYWQ914AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "코리안 올랜도 블룸이네",
+        "writer": "UgzyrLOVk0wimaKERol4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "약간, (반사회적용어)에 수감된 분 인줄,",
+        "writer": "UgzHiqjT0r7pgxES-ER4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 대표작 크라임씬, 왜 난 드라마에서 본 기억이 없지,",
+        "writer": "Ugwa2xLZ0LTC8_hp5VV4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일이 들어올 수 밖에 없는 샷이였어요,",
+        "writer": "Ugy7uWmUGbxZk20GWgB4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 진짜 왜케 웃기지",
+        "writer": "Ugy9dfZz9t9ZLlUsCN54AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나이든 차은우",
+        "writer": "UgyPrctgrT9HObhDZ7t4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "씨 크라임씬 이후 몇년이 지났는데 똑같애,",
+        "writer": "UgzXHsr2WDqSrmyPjK14AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스트레칭은 고통입니다.",
+        "writer": "Ugw0yQDnPA-bW5VYszF4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 멋있어요 워너비",
+        "writer": "UgxAPG-nAbA1E3g54AR4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "폼롤러 스트레칭 처음엔 진짜 아픈데 이제 안하면 찌뿌둥 _ 하다보면 시원해요",
+        "writer": "Ugw8n8-jE1S_X9kuojN4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저렇게 잘생긴 사람이 연기도 잘(이름)",
+        "writer": "Ugze52bi2rv-C7pTMod4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요새 필라테스 할때 제일 힘든 시간인데, 너무너무 아픔 ,",
+        "writer": "Ugxvnu4Zlyk-acgF6Dt4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왔다 (이름) 잘봤어요.",
+        "writer": "UgxdYV7oN15iIXwQLwp4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이편 친구랑보다가 침나오도록웃엇어여, 귀여우신데 표정이 넘 웃겨",
+        "writer": "UgxHIAluIvZcprcPLMR4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "눈쪽은 (이름) 느낌이 많이 난다",
+        "writer": "UgxCRwPEi2a_0m-8SiR4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자 드라마 (이름)들 (이름) 주연 발레리노 남자무용수 소재로 하나 맨들어주세요. 역사에 남을 비주얼 예상해봅니다.",
+        "writer": "UgxyuOd6ziBu5wW_iVt4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "열심히 자기관리하는 모습이 대단하고 멋져보임",
+        "writer": "Ugz4sCHuKOOXhx6tYiB4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나이든 차은우 느낌",
+        "writer": "UgyHmnpSBc13n7xPe7t4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 누구닮았나 했더니 그분 닮았구만, . 그사람은 바로 안알랴준다 (비속어)들아.",
+        "writer": "Ugzw2UmNX5y0rsM5y4N4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아직도 이거 하네. 안본지 오래됨",
+        "writer": "UgzbUaXP9R9Hu-YN_zJ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넘웃겨 넘잘생겼어",
+        "writer": "Ugy2VJ6Hv1RgE_OJTbZ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 머리묵고 안경 써도 멋져 , 머리 기른거 신의 한 수",
+        "writer": "UgwtiXsTrasKpayRrKl4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘생김 내스탈인데, 못만나것지 연예으인 이니까, 흑",
+        "writer": "UgzH00XFnrRuM0I86pd4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 잘생김",
+        "writer": "UgxePIgCAJydFjVZ5fl4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 아파보여,",
+        "writer": "UgwhNAqcUBRKygiEpy94AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 (비속어)패스가 아닌가 생각하게 만든 영상, 남의 고통에 왜 난 웃고있냐고",
+        "writer": "Ugwf6iOxuyrySjQf5pN4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)편 평생소장각우울할때 볼려구요 배꼽 빠질뻔",
+        "writer": "UgypIDpeyPTyOPE_yP94AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헤어라인까지 잘생겼네",
+        "writer": "Ugxk0XZEzK6aXMbMJM54AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 화면으로 봐도 얼굴이 개작다 그와중에 잘생기고 키도 큰게 대박적",
+        "writer": "UgzfFcEzIc1vUk6dl9N4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 보기만 해도 아품",
+        "writer": "UgxhyYse0tzRGKwmTdJ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아, 난 가만히있어도 못생겼는데 이분은 어떻게하든 잘생겼네",
+        "writer": "UgzuF3tvUEaNdRyqSOl4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한국을 대표하는 개(비속어) 중 한명인데, 원빈 고수 이런 애들에 비해 저평가 받음. 뭐 대표적인 커리어 작품이 없어서겠지만,",
+        "writer": "UgzMJ6GQqSSw7ujondJ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저두요 혼자서 소리내며 웃으면서 봤네요.",
+        "writer": "UgypIDpeyPTyOPE_yP94AaABAg.9G2Kxopu-hn9GHMa9JzaCt",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "원빈 고수를 이런 애들이라는 (비속어)신이 뭘 평가질을 쳐하는지",
+        "writer": "UgzMJ6GQqSSw7ujondJ4AaABAg.9G0tPJH95Vd9G4A5Ea6WJB",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아운 지칭하는건데 뭐 어때서 그러지 (비속어)(이름) 하는 당신보다야 백배 천배 나은데",
+        "writer": "UgzMJ6GQqSSw7ujondJ4AaABAg.9G0tPJH95Vd9G92ep0WUwr",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "따흐흑 인정함니다",
+        "writer": "UgzMJ6GQqSSw7ujondJ4AaABAg.9G0tPJH95Vd9GQs6nngnHp",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "트레이닝 선생님도 엄청 잘생겼네요",
+        "writer": "UgxweKC7aN-FJHXqB2x4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어케 리얼 표정 지어도 잘생겼을까, 조각상이다 진짜루",
+        "writer": "UgwNBmjhgWYlZB5QuTV4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크라임씬에 나왔을때 진짜 매력적으로 봤었는데 여기서도 더 매력적이네용",
+        "writer": "UgyUGUAq2BYR5HF2eJl4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "간만에 진짜 재밌게 봤네요. 매주 (이름) 친목회 하는것만 보다가, (이름) 매력부자인줄 이제 알았네요. 우리가족 다 팬됨, 좋은작품에서 자주 봤으면 해요",
+        "writer": "UgwFz9sa4Ewe3almcAV4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "과하게 한다고 좋은거 아닌데 트레이너 답답",
+        "writer": "UgwLzEumQPPXn6xoHY54AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다리 떨리는거봐 얼마나 아플까",
+        "writer": "UgyLcUMSgsNhkkHhGKt4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 잘생겼다",
+        "writer": "UgxofG-vZWaqYySVESd4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "간만에 나혼자산다 보면서 숨넘어가게 웃어봤네",
+        "writer": "UgwcA0boPQSOv9NUR7t4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 아픈 동작만 악",
+        "writer": "UgwyrPxCNRWSvXSBtcJ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "철학적 의미를 가진 말입니다, 역시나.",
+        "writer": "UgxxdoZICXm5q-uFfnt4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 백희성같아,",
+        "writer": "UgzOGVxRFrgQrJ7qCiB4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 잘생김,",
+        "writer": "Ugz_tQ-1xk9m9mUbVvx4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얼마나 아픈지 너무나 잘 알겠어요 퓨",
+        "writer": "UgyWmmLj69-HOoZE7FF4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 형 개잘생겻네",
+        "writer": "UgxY4XEfkN8u6sccpdN4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 매력은 크라임씬보면 더 볼수 있어요...",
+        "writer": "UgwFz9sa4Ewe3almcAV4AaABAg.9Fz6kcrdxGA9G-gouYOukC",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "백희성이 도라았다",
+        "writer": "Ugzex-MVtE4T9mmCW2F4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사랑 해요",
+        "writer": "UgzBhY4Jngi4UPxTE4B4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앜, 백희성 돌아왔구나",
+        "writer": "UgwpHAAEd2w0ETGbD5d4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Kkaq_YvhiN8",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

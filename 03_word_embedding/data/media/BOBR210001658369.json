@@ -1,0 +1,556 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001658369",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001658369"
+    },
+    "text": [
+      {
+        "content": "이제 막 예능에 적응한거 같았는데 (이름) 하차 복귀는 없다고하네요",
+        "writer": "Ugwa7S2qaaZCOjvviYV4AaABAg",
+        "write_date": "2021-11-11",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)(이름) 보고싶어요",
+        "writer": "Ugx4H0iajiSzoVQziMd4AaABAg",
+        "write_date": "2021-11-07",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 너무 좋아",
+        "writer": "Ugx3WpIpyx34EocOPbF4AaABAg",
+        "write_date": "2021-11-07",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일박 시즌4 맴버들을 다같이 다(혐오표현)수있을까요 일박안에서는 볼수없을지 모르지만 6분 모두 건강하시고 행복하셨으면 좋겠네요. 선호(이름) 힘내세요.",
+        "writer": "UgxlRbY4fqKbKy6uR0t4AaABAg",
+        "write_date": "2021-11-07",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 너무 귀여워용",
+        "writer": "UgwkfOahlCpYk9oU2v94AaABAg",
+        "write_date": "2021-11-06",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1박을첨부터안봐서 딘딘 좀 건방진건가했는데 .",
+        "writer": "Ugz71ENy9ZwjfsnhW4B4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "WE STAND BY YOU 김(이름)과 함께 합니다",
+        "writer": "Ugxb3BhA9YkHGtwUHnt4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예뽀가 찐 예능인되어서 본(반사회적용어) 좋아한거 같았는데. 다시는 이런거 못보려나.",
+        "writer": "Ugx0HFn4i-8_DfcaxZt4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일박이일 시즌4 정훈 세윤 종민 라비 딘딘 선호 진짜 짱짱짱 다들 넘 착해. 보는내내 웃기면서 훈훈함.",
+        "writer": "Ugzlgma-v7Vj6js5IQ14AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선호는 물에 젖어도 멋있구나 안멋있는 순간이 언제니",
+        "writer": "UgxTeMkcnCYGSIfej9N4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그 와중에 딘딘 챙겨주는거 봐, .",
+        "writer": "UgzDHZtbaYbW74PiFzJ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아닠(이름) 첫 촬영날부터 문세윤 형아한테도 얘 약간 (비속어)같애 라고 (이름) 들었는뎈",
+        "writer": "Ugy1xrFIwaMyj8bes-d4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "또 보러왔다방토피아 또 해줘 멤버들의 해맑음 귀여워",
+        "writer": "UgwFVb3gJVFhyghaISt4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딘딘이 머리 털어주는거 왤케 좋냐자상함의 표본이네역시 내 남자야",
+        "writer": "UgzPmnQnvftew0IEbzB4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "살짝이지만 가슴근육,",
+        "writer": "UgxceXS9VePaH4p8WOZ4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "막내 토끼와 형 토끼 (성장하는 예뽀)",
+        "writer": "Ugw8rbup65opzY-hHqV4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "젖은 선호, 조쿠나,",
+        "writer": "UgzSbDKX8YRp2HmRKFh4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어 내가 찾았어 목소리랑 웃음 목소맄 차이봨큐귀야어 난 김서노 웃는 소리 너무 조아",
+        "writer": "UgyqDz5iorpy3WM6diF4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "순수한 개구쟁이 선호",
+        "writer": "UgzutmI0q20PDcS2ovR4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 너무 귀엽잖아옄 (이름) 하는 거 보면 말랑말랑 뽀시래긴데 피지컬 너무 반전매력 ,",
+        "writer": "UgwIxrbPwTZFyuYN57V4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 왜이렇게 연인 사이 같냐, 김서노, 다정함 그 자체",
+        "writer": "UgzuDsJFmnbHLtziy9J4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀여워, . 울 예뽀가, 저렇게 성장( )했습니다, 여러분,",
+        "writer": "UgxPTkwzs2oID54a1fd4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김서노는 보면 볼 수록 남자버젼 (이름) 이야",
+        "writer": "Ugyxa(반사회적용어)w2EbgCdYjgKd4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 너모 귀엽다 같이 놀고싶대",
+        "writer": "UgzQczRhQKmpfmt4WtB4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀여워 (이름)",
+        "writer": "Ugxb5Rrmh4vfyeIkWp14AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둘 케미 너무 좋아 이 부분 (이름) 표정 너무 귀엽다 김(이름) 예능 고수가 다 됐어 아주 귀여워",
+        "writer": "UgzYPN-WIL0fxeLw_R14AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 이번 시즌 이번에 알게 되었는데 짱잼임 이걸 1년간 놓치고 있었다니 흑흑",
+        "writer": "UgxizWo8ncExfkmI5Dt4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 진짜 딘딘 너무너무너무너무귀엽다 특히 (이름)랑 있을때 친해보이고 뭔가 리트리버랑 치와와같애 너무 딘딘 귀엽다 귀여워",
+        "writer": "UgyhbQCJii2KBZbMeAV4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딘딘 개기여워",
+        "writer": "UgzAeZJNhOATYHBGhjZ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 때문에 1박2일봐야되나",
+        "writer": "UgwHTkLWmXmsdX2Lz9d4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름), 사람 설레게 그럴꺼야,",
+        "writer": "UgyRnfi1CzVQ0e9SM1R4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기 설레 뒤짐 아 (이름)",
+        "writer": "UgzASG7ntPMXwbFQr9t4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딘딘분 머리 말려주는 김서노는 스윗하고 딘딘분은 너무 귀엽 큐",
+        "writer": "UgzU6jLQNH3k3gjB_hV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1박2일 이번시즌 왱캐 재미있나 생각해보니 매시즌마다 한명씩 있던 멤버들이 눈치보는 (비속어)도 없고 무기력하고 정안가는 (이름)의 멤버도 없음 열정많은 순둥이 형제들 노는거 보기 찐편안 찐행복",
+        "writer": "UgyLT7v4mHOFQYTUr6B4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이때 딘딘이 오 (비속어) 추워 이러지 않았음,",
+        "writer": "Ugw1jZAIoP2-LqSLCMN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 진짜 짜증났엌",
+        "writer": "UgxUGDmJEm4BMULdxmN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "칫칫, 치와와래 너무적합",
+        "writer": "UgyhbQCJii2KBZbMeAV4AaABAg.9GMsEiYQVhb9TB3tXk77HT",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)는 누구,",
+        "writer": "UgyLT7v4mHOFQYTUr6B4AaABAg.9G0IWJkQ6979G8aSap_-T0",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 씨 나 진짜 계속 찾았어 같은데여",
+        "writer": "Ugw1jZAIoP2-LqSLCMN4AaABAg.9FvGChYX4VH9G6Kh1Dt8rd",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "같이 놀고 싶어서 짱귘",
+        "writer": "UgxxAd7WaPZZshf5_sJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오마이갓, 둘다 왜케 귀여어 미쳤다, 1박2일 앞으로 챙겨본다,",
+        "writer": "Ugzk_OFWefQuR1Zd_E54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다음 작품엔 깐머 소취",
+        "writer": "UgzUfxyFH8GerCDH3Ax4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 어깨는 혼모노다",
+        "writer": "UgxgOEuqUx5FQ76DiSh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 넘 멋있어요",
+        "writer": "Ugwcn4u7qT1jYEKBVl54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머리 털어주는거 미쳤나 근데 내 심장은 왜 털어가요",
+        "writer": "Ugy_7KmNbZXyHayaazp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형이랑 동생가타,",
+        "writer": "UgxYSUM1clLPcgRzP6d4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1박2일 시즌4 정주행 2주걸쳐서 다완료했다, 진짜 재미써",
+        "writer": "UgwUJsIDtTRq1zbiX1l4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 머리 세팅한 것도 아닌데 도랐다, 이러고 한번만 스타트업 나와줘 순딩이 지평아",
+        "writer": "UgzlBN0kOdMf_Ni5HnZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수건으로 털어주는거 쏘스윗 딘딘이고 싶다 저순간 만큼은",
+        "writer": "UgyJXOKPyCWDqWn2pop4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)가 딘딘 머리 털어줄 때 태어나서 처음으로 내가 딘딘이길 바랬다",
+        "writer": "UgyXmHS8W1IG5N4m4Vd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스타트업보다가 계속 1박2일까지 다 보게되는 마성의 남자,",
+        "writer": "UgwfEWlstArsB0YiERJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)야 하는 딘디니의 말투가 너무 귀여워서 자꾸 보게 됨, 난 처음부터 선딘딘선 엮일줄 알았짘둘이 너무 귀여움",
+        "writer": "UgxUBJZ0dLcNpyXPCWl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 (비속어)어웃는거 너무 예뻐자다가도 생각나서 내가 벌떡 벌떡 일어나......",
+        "writer": "UgyhVrJ4owhW0LAXKyl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하진짜 멤버들 구성 너무 좋다",
+        "writer": "Ugx5TC3mdOvIMafPY314AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 선호 너무하다(그래도 귀엽다,) 계곡 엄청 추운데, 딘딘은 진짜 찾으려고 하는 끈기가 짱이다..",
+        "writer": "UgzNGspEjd-H6PLebjl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일박멤버들 예능인 될때 너무 뿌듯함 (이름) 저번주 너무나 예능인 예뽀도 적응완료 딘딘예능하면서 점점 더 갠찮은사람 라비 더 재밋는사람인거 알아가는게 재밋음 (이름) 웃음많고 웃음각도 만들어주는배려도 많고 (이름)똑똑하고 부심부리는거 없고 진쟈 멤버 잘꾸린거같아 귀여워퓨",
+        "writer": "UgwVw7PLvGMlXPzF8954AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김서노딘딘한테 돌i 소리 듣다닠 구예뽀",
+        "writer": "Ugyq3oct2dldlZMf39l4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 즐거운거봨 찐웃음 나옴",
+        "writer": "UgxxAd7WaPZZshf5_sJ4AaABAg.9FtO42uK8o99GaZXnkF-ty",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목적이 너무 해맑고 단순해쿠쿠규",
+        "writer": "UgxxAd7WaPZZshf5_sJ4AaABAg.9FtO42uK8o99J__VOLaa0n",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "태어나서 처음으로 가 포인트",
+        "writer": "UgyXmHS8W1IG5N4m4Vd4AaABAg.9FYMzqJLk9R9GMr4Kk2dS0",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 저 지금 그 생각하고 댓글 보고있다가 소(이름)",
+        "writer": "UgyXmHS8W1IG5N4m4Vd4AaABAg.9FYMzqJLk9R9UZzIx3ylXY",
+        "write_date": "2021-11-11",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선호랑 딘딘 둘 다 너무 귀여워",
+        "writer": "Ugz6lYIwOpqlBiLV5WR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둘이 케미 너무 귀여움",
+        "writer": "UgwaThKSKwEyDo4icl54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "움직이는 카메라 신기해 하는거 보면 예뽀가 맞는데 (이름) 찐광기 모습들은 예능인 그 자체임",
+        "writer": "UgzMCSq29vRtebUfXlp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 딘딘 머리 수건으로 털어줄때 너무 멋있엉",
+        "writer": "UgxAGSJv2VLnZbB6Mct4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 많이 컸다 많이 컸어",
+        "writer": "Ugys0V4J99FyWcBB1jl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "키큰 남자가 해주면 설레는거 하나 더 추가요,",
+        "writer": "UgxbBXQzwoaT-ES6EAl4AaABAg.9F1NdFibeRx9G4eInDoJoy",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하, 다정해,",
+        "writer": "UgxbBXQzwoaT-ES6EAl4AaABAg.9F1NdFibeRx9GaZU7PARJN",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OCuNCEm5EdU",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

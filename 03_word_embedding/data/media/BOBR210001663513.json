@@ -1,0 +1,492 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001663513",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001663513"
+    },
+    "text": [
+      {
+        "content": "아니 나 유부남 좋아하네",
+        "writer": "Ugzo3y-r5VnUSGVUp7x4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와우, 그러고보니 비슷해 진씨 결혼하면 류(이름)처럼 사랑쟁이될께 뻔하잖아",
+        "writer": "UgxxQNc--5kYdz2kOgB4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하선씨가 가정적인 남자를 좋아하시는구나, 언니 저두요, 언니가 (이름) 가졋으니까 제가 석진이를,",
+        "writer": "Ugz_YLjVT4HV7uMWgqt4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애휴 생각해보면 할 수록 우리나라는 남자 기준이 너무 낮은 것 같다. 뭐 좀 멀쩡하면 전생에 나라를 구했네. 흔치 않다. 전생에 나라를 구해야할 정도로 흔치 않는 이 낮은 기준이 안타깝다. 전생에 뭐 할 필요 없이 모두 서로에게 따뜻한 것이 흔하다 할 기준이 되기를 빈다.",
+        "writer": "UgyVOSlCjvVrC6okuq94AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "석진이랑 류(이름)이랑 (이름) 비슷하다 하선언니 진짜 참각막,",
+        "writer": "UgwrpNT7f0b2_b9rDih4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "월드와이드핸섬가이들만 좋아하는 하선씨",
+        "writer": "UgxnVAtiqArho7TaGQZ4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭔가 (이름) 취향이 보여요 현실에 있을 법하지만 몇 없는 초훈남에 반듯하고 긍정적인 성격, (이름) 안목 최고에요",
+        "writer": "UgwZ4X1MzyuQ6RiugvZ4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 류(이름) 같은 남자랑 결혼하고싶다.",
+        "writer": "Ugz3cdDpc4sGKHbCd7B4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사람볼 줄 아시네 박(이름) 성(이름) 최애도 석지니인데 미녀들이 좋아하시네",
+        "writer": "UgwUhSH_iEeEDxc52tV4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보는눈이 있네용",
+        "writer": "Ugxr08bw2dP_lo9xbjR4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나의 최애 진 너무 좋아요",
+        "writer": "Ugymp_KWb3pnvOASXNN4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 석진이 좋아하는데",
+        "writer": "UgynsRDNvTahamwYyjl4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남자 보는눈이 있으시네요..",
+        "writer": "Ugwgu-rGlLrYSzZi9ft4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "취향 비슷한듯 (이름) 최애에 찐팬인데 류수영 진짜사나이때부터 약간 결혼할 남자취향이라고 생각했음 깔끔한 (이름) 그사람 인상 중요하게 생각하는데 둘다 인상에서 주는 좋은느낌이 있다해야하나",
+        "writer": "UgyRwgu9TnEU5Xg7BsN4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꽃이 꽃을 좋아하시네,",
+        "writer": "UgwrIl_mdUhtvYVxC1R4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 뭔가 하선 수영 석진 셋이 생(이름) (이름) 비슷해",
+        "writer": "UgxseD0rF24g1c6M1Ut4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진솔하고 좋은남자랑 결혼 잘하셨네",
+        "writer": "UgwjAkXeO4w0MN4cuvh4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진과 유(이름) (이름)비슷하네 훤칠하고 미남에 선하게생겻고 인성좋고",
+        "writer": "UgxC5TFc4JZeFxmtbOp4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하선언니 역시 남자볼줄아시네요 우리 석진이가 좀 잘생기긴했죠 월드와일드핸썸 찌니",
+        "writer": "UgwUWkg3MRciwvRlaYZ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 미남을 좋아하시는듯 걍 부러워요 너무 예쁘시고 매력도 넘치시고오",
+        "writer": "UgxttxEDnzuFJSN4Azt4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남자들은 다 저런건가, 우리 아빠도 저러시는데,",
+        "writer": "Ugxqo7ZdjE8b3-Mfg6B4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나두 진 오빠 팬인데,",
+        "writer": "Ugwf37fb1FkbKoq71dZ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Park Hasun has a good taste in choice for her bias ) 진이 방탄멤버 중 최고의 남편감에 가장 근접하지. 하선씨 최애 선택 쥐향이 좋으시네",
+        "writer": "Ugykgpo3-Zh-w4LNsuh4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 진이가 좋아용 찌지뽕",
+        "writer": "UgxZJfkWuXgEPtaYEmR4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니도 아미였어 7",
+        "writer": "Ugyn_tv5drrCYFpEn5J4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자막도 안달린 영상에 글로벌 (이름)들 여기까지 찾아온거 봐 역쉬 월와이드방탄.",
+        "writer": "UgzovV4YTzzbJavSAhZ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모야 (이름) 눈 완전 정확하고 높으셔요, 평생 행복하며 사세요",
+        "writer": "UgwP_dCX6QJqnMpb_bF4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아미들 다모여 박(이름) 남편분도 그렇고 안목이 탁월하시네요",
+        "writer": "Ugy3kPsQkc_Hf05HS2p4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하선언니가 좋은 사람이니까 좋은남자가 와준거 아닐까요.",
+        "writer": "UgwtD8PANlXJr4GE8Tx4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예능 아예 안보는데 썸넬 보자마자 누를 수밖에 없엇네요 석진",
+        "writer": "UgwYpd1IYe-lEPaUBbd4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이랑 (이름) 둘다 제가 좋게보던 연예인이었는데 두 분 결혼하셔서 넘 좋았어요 (이름)이 울 진이 팬이라서 더 좋네요. 두분 항상 행복하세요",
+        "writer": "UgwK4XqT0_EP6fcP4LN4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 이쁜분들이 이쁜사람 알아봐주시는거 같아요 두분 너무 이뻐요 응원합니다",
+        "writer": "Ugxmlz-UWIbySVKr4vd4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자기한테 지친데",
+        "writer": "UgwQpVMuxJz5eHfikXl4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하선 언니 취향이 나랑 똑같다니",
+        "writer": "Ugy10gThlmanR4xskRh4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 항상 말마다 초치는 (이름) (이름)가 왤케 좋지",
+        "writer": "UgyiQQiYSdgIN3d18jl4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 좋아",
+        "writer": "Ugx7ZnOFXzRtcBLaLWd4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하선이언니는 방탄소년단김(이름)좋아하신가봐요 남편분상처받겠다",
+        "writer": "UgyU8g_XR3HFnIqD67d4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하선씨 남자볼줄아시네 진 멋지지",
+        "writer": "UgyBKXBAjJw35hvG1S14AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 눈 엄청 높으시네요.....",
+        "writer": "UgzuObE7mp7bQH0lEdV4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저두 박(이름)이랑 비슷한부분이 있는것같아요 방탄을 좋아한다는점 그리고 처음에 꽃선물 의미없다 생각했는데 결기나 생일때 꽃다발선물주는 남편덕분에 꽃 좋아하게 된점 항상 딸것두 같이사와서 딸도 꽃 엄청 좋아하네용",
+        "writer": "UgyHY75g4b8kSUn7AO14AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모이래서 모입니다 사랑해요 (이름)",
+        "writer": "Ugy3kPsQkc_Hf05HS2p4AaABAg.9GdHo9B-_ms9Gi7Vl3G0IP",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "석진옵 보고 클릭 하선언니 참안목이시네요",
+        "writer": "UgygZZJneCv5nVIMc7V4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내 이름 하선인데 최애 진이여서 제목만 보고 깜짝 놀랐네 후",
+        "writer": "UgyJGaVXFw6g0TqyC1h4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 난 왜 개안하기 전(진님의 성품 인물 포함) 남편을 만나버려서, 류(이름) 박(이름) 넘 잘 어울려요 우리 (이름) 최고",
+        "writer": "UgyhGDQsksuNlU4DSHh4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 어떤 타입이 취향인지 보인다 나랑 취향 똑같다",
+        "writer": "UgzLWtVFFplAHf7_L0N4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이쁜사람들은 이쁜사람을 좋아하네요 ( 인물 성품 포함) 저도 울석진 정말 이뻐하는데 흐뭇하네요",
+        "writer": "UgzgWUr9SfsjDsLTLGB4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하선씨 눈높다 석지니를 알아보는 참각막 그래서 류(이름)같은 멋진분이랑 결혼하셨구나 왕왕.",
+        "writer": "UgxEhkn9bINtkvoUtv14AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "펭펭펭펭 감사합니다",
+        "writer": "UgyJGaVXFw6g0TqyC1h4AaABAg.9GLfk9UFoIN9GatJQ1xu51",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남편분 울어요",
+        "writer": "UgyhGDQsksuNlU4DSHh4AaABAg.9GJU5hgKRXE9H17MFD52C8",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무지(비속어) thankyou baeee",
+        "writer": "UgyC9bF08yKv3AhwyYV4AaABAg.9GJK_p6yPCN9I6k8pYt1pk",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 석진이 좋아합니다 류(이름) 이해해 주세요 (이름) 남편이 류(이름) 최애가 석진이 남자 보는 눈이 있으심 두분 연기 너무 굿이여요",
+        "writer": "UgwXFrxfwF9GsRbEZhd4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하선언니 남자 볼 줄 아시네요 석진이랑 남편분까지 류(이름) 역시 석진수니들이 남자 보는 눈 정확",
+        "writer": "UgxEXHSGRwyB4Bt9Cb54AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 찌 찌 찌 찌니, .",
+        "writer": "UgwCHCpEN2tn7KFj3NJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 님 멘트 너무 적절하게 잘 쳐주시니 분위기가 오히려 잘 사는 듯",
+        "writer": "Ugz_ZOjHWB-hJwnNC6p4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방탄 진을 좋아하면 그럴수 있죠 월드 와이드 핸섬님인신데",
+        "writer": "Ugw2k_riGM-WZjj4dJl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아, 진(이름)짜,레알착하고순수해보임",
+        "writer": "UgxEXHSGRwyB4Bt9Cb54AaABAg.9GB8GuMXrb-9HrK0GiuayP",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)가 진하고 비슷한점이 많아요 음식잘하고 비주얼에 착(이름) 가끔씩 튀어나오는 아재개그까지",
+        "writer": "UgxEXHSGRwyB4Bt9Cb54AaABAg.9GB8GuMXrb-9Kux2M9n5_5",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Apple vsace yeah his wife told him you just look like a middle aged man (아재)",
+        "writer": "UgxYYKKZ3gwTLBepj4l4AaABAg.9G9dsOWfoWw9IRbDnVHi1V",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그렇게 꽃미남 남편이 옆에 계시는데 진까지, 진짜 꽃미남이 취향이시구나",
+        "writer": "UgxZM2mdXXEZFjkyoXR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연예인이라서 눈이 굉장히 높으셔,",
+        "writer": "UgxZM2mdXXEZFjkyoXR4AaABAg.9G00yT9gHHP9LtsPgVkwsa",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cR9Wq_IiUIY",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,676 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001636864",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001636864"
+    },
+    "text": [
+      {
+        "content": "희철이 저거는 여자만 보면",
+        "writer": "UgxaBfjBJJS-zswXtih4AaABAg",
+        "write_date": "2021-09-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 이쁘긴하지",
+        "writer": "Ugwqk8YtIA-ULLkkI9F4AaABAg",
+        "write_date": "2021-01-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "처음보는 여자만 나오면 (비속어)뒤집히네",
+        "writer": "UgxWdZG5JS1qNDTuCf54AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 더 조으다",
+        "writer": "Ugy8jA3C5TBgNaYLG-V4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저거 찐 반응 아닌데 모모보고 심박수 오르는 영상보고 오셈",
+        "writer": "UgzmHDM7JfRL7ffNsLR4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오빠는 (혐오표현)입니깤",
+        "writer": "UgyP523cgeJ0DjVHxiZ4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "솔직히 너무 이쁘다",
+        "writer": "Ugy1JTovyScVGn2s_Ap4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "당신은 (혐오표현)입니까 얼유 (혐오표현) (비속어)큐큐",
+        "writer": "UgzJNbpuYrojtIiL_WF4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)을놔두고 바람폇다고 (비속어)거 아냐",
+        "writer": "Ugzgn8bvO7EjABjvu794AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어 모모는",
+        "writer": "Ugz-S5KDjCTizxLc_Wp4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쑤레기 패널 나온 찔리는(반사회적용어) 음식이 넘어가냐",
+        "writer": "UgwfNmTieTBq7rQPVHF4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자세히 들어보면 사연듣고 사연속 남자 (혐오표현)네 라고 함",
+        "writer": "UgxcuArFL4SvxrY4AgF4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오빠는 (혐오표현)입니까",
+        "writer": "Ugwxg9EBEko5cnfEXcV4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "본인의 그런끼도 있겠지만 지금와서 느끼는데 (이름)은 그냥 저런 역할인것같다 여자 게스트나오면 완전 까거나 완전 호감표시하고 이래서 출연자들의 재미거리를 더 뽑아 내는 그런 역할",
+        "writer": "UgxdOC4eae3H480GwTN4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 싸(반사회적용어)받고 사진도 같이 찍었는데 정말 너무 예쁘던데. 사진이 없어져서 속 상하지만.",
+        "writer": "UgzIM5st3qP9cYb7hIx4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여덕들이 최고인거 같지 돈 많은 아재들이 최고다 다 바쳐도 경제적으로 여유가 남아돌거든",
+        "writer": "Ugw5MXjrmBwJXzp6uvV4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여자가 남자 데리러 가는건 값없어 보인다 내가 다 해주고싶어도 참고 남자가 해주길 기다려야한다. 내가 느낀 남자들은 사랑을 주고 싶어하고 작은거에 기뻐하는 여자를 보며 사랑을 느끼는것같다",
+        "writer": "Ugx_wJRpFgSE6nyMWgZ4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "노란옷 정말 싫어 짜증",
+        "writer": "UgwfikxfW5ESWA4m0Q54AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사심없는게 (이름)거",
+        "writer": "Ugyv2mAggD6bacjQWoV4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "간통하다 (반사회적용어) 간 인간이라 외도 바람 이야기 불편하겠지,",
+        "writer": "UgzT8nLt1vR036UpARd4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나같아도 선긋겟다",
+        "writer": "UgzNIisn38HwR79ppP94AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "호피누님 오셨네",
+        "writer": "UgwRrUfXSjC04u-Ks3V4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "눈빛에 사심 일도 없구만. 먹으면서 여유떨면서 여자를 본다 놀구있네.적어도 듣기좋은 칭찬이긴하겠네",
+        "writer": "UgzVtQCzMmKiYvuUAyN4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 좋으면 장난이(반사회적용어) 말 못꺼냄. 은근 쳐다보고 관찰하지. 그냥 예쁜데 무관심한 여자한텐 예쁘다 어떠다 평가됨. 즉 사심없이 뱉는거야.걍 칭찬으로",
+        "writer": "UgxA_uekt30DKkVgMEJ4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 앞머리 왜이리 (비속어) 같냐",
+        "writer": "UgywRQmPaDmqufof0XF4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) (비속어) (비속어)",
+        "writer": "UgxhuYH-LKtEKb8I56J4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얘는 줄기차게 발정기네개도 아닌데어떻게 저렇게 일관되게 아무대서나 씩씩거리고침을 질질 흘릴 수 있을까",
+        "writer": "UgwxR18xyGTYLT8JR8d4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 성격도 좋네 보통 저정도로 남발하면 기분나쁠수도있을꺼같은데",
+        "writer": "UgzLCIpNVqaWgnOEFx14AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "섹시하다고 너무 남발하는거 아니냐",
+        "writer": "UgwC-MQoMCribXlvjCN4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그렇게 가부장적인 부분은 남자한테 다해달라하면서 (반사회적용어)은 여자로써 해야될부분 1도안하죠",
+        "writer": "Ugx_wJRpFgSE6nyMWgZ4AaABAg.8ylMKa5Z1ah8znvqRq0zCW",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)없는게 ,",
+        "writer": "UgwxR18xyGTYLT8JR8d4AaABAg.8vLv5nis7IF8w_iSfClq6M",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그게 누구냐에 따라 다른(혐오표현) 예전 (이름)때 조(이름) 희철이 스타일 좋다고 했는데",
+        "writer": "UgzLCIpNVqaWgnOEFx14AaABAg.8vLbVW3CH5S92X1iwXzBkx",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 몇년 전 방송 아닌가요 머리가 몇년전인데",
+        "writer": "Ugwvr1VjIBAEIsmN9z94AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미스트롯 나왓엇나",
+        "writer": "UgzNnHIW97IoAqVX0FJ4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "돼지 같은데",
+        "writer": "UgypLWC2uvcURxeXVh94AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도대체 어떤 아이돌이 방송에서 저럴까 이제는 정말 놀랍지도 않아",
+        "writer": "UgxN5u0fOhSVUqfPgMh4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이쁜여자 남친도 바람피는구나쩝",
+        "writer": "UgwNLh42sYB0Rb4_Dg94AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "희철이는 좀이쁜 모든여자에게 작업하네",
+        "writer": "UgxiVe6j95j9yOoROfZ4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 본인이 예전에 말했던 거 같은데 본인 생각보다 쑥맥이라고",
+        "writer": "UgzsdoLfg4kjoThOrdJ4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오빠는 (혐오표현)입니까 말투가 증인 (이름) 말투같다",
+        "writer": "Ugz2FIDPvWICYBd3c694AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어지간한 미인들보다 김(이름)가 더 이쁜건 뭐죠",
+        "writer": "UgzldRW-8pnUjyTZ4vZ4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 훨씬 이쁘다",
+        "writer": "UgxrsocJjO9lE0gzE7h4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "강남 2왕재수.allp(비속어) 정민(이름)는이쁘다이뻐",
+        "writer": "UgxmoND2mbQrrh2MwRZ4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "강남 쪼바리 데스 니네나라로 끄저대스네 독도우리탕데스",
+        "writer": "UgzWXQOwzJbnhI4eKBF4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "희철이 머리 이상해",
+        "writer": "UgwqnxXxDMQ97av8nA14AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 아닌거 확실하네",
+        "writer": "UgyosGtO5rmAf6GTwG94AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "글쎄 예쁘다고하다기엔 너무일반인느낌인데 훨씬더 예쁜여자연예인들나올때가 더많았는데",
+        "writer": "UgxV-DkEJ0hrEikquah4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가수임 처음보네",
+        "writer": "UgxbhfDKg5wvCf9EFHJ4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예전 기억이 떠오르는 태진아, 미국으로 쫓겨났었죠",
+        "writer": "UgyaR8RYBDzw-_PaCfl4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이쁜여자 만나늠 남자는 대부분 상상초월 재력(반사회적용어)를 가지니까욥",
+        "writer": "UgwNLh42sYB0Rb4_Dg94AaABAg.8vHEa9JkFB98vIot51GqCj",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이쁜여자만나는애들은 능력 외모 다가진애들이라 더예쁜애들도 사귀니까요",
+        "writer": "UgwNLh42sYB0Rb4_Dg94AaABAg.8vHEa9JkFB98zsj-Zgs8bF",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "lovehumming love 저는 뭐죠",
+        "writer": "UgwNLh42sYB0Rb4_Dg94AaABAg.8vHEa9JkFB99D1Qi_3WvW4",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제임스 작업이작업이 아닌게 함정",
+        "writer": "UgxiVe6j95j9yOoROfZ4AaABAg.8vHCsiJG6Da8yGLhxizTrk",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그건 진짜 개(비속어)이구여",
+        "writer": "UgzsdoLfg4kjoThOrdJ4AaABAg.8vHAM9WfL7v8zKNBWeHTuk",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "태진아는 더 왕재수없지요.",
+        "writer": "UgwqhfMw6VafLrjHvUB4AaABAg.8vH5xy7j9Uk8y1u8Mb_5FQ",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "HHSS J 나 자진데",
+        "writer": "UgxrsocJjO9lE0gzE7h4AaABAg.8vGvQSFNkHB8vJu2mcjmpf",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "HHSS J (반사회적용어)갓구나 한글 못읽냐",
+        "writer": "UgxrsocJjO9lE0gzE7h4AaABAg.8vGvQSFNkHB8vLKZbhcR5U",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너 여자구나",
+        "writer": "UgxrsocJjO9lE0gzE7h4AaABAg.8vGvQSFNkHB9Irqfue39T4",
+        "write_date": "2021-02-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아닌척 할려면 주기적으로 저런 컨셉 필요함",
+        "writer": "UgyosGtO5rmAf6GTwG94AaABAg.8vFaP5quzS78vIthmx7IyT",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "힛트화 이게 더 웃기네",
+        "writer": "UgyosGtO5rmAf6GTwG94AaABAg.8vFaP5quzS78vfDwk8_XPd",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "힛트화 지당하신 말씀",
+        "writer": "UgyosGtO5rmAf6GTwG94AaABAg.8vFaP5quzS78vrQy4QnmBa",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "힛트화 , (비속어) 아닌척 하려고 공개연애를 한다고",
+        "writer": "UgyosGtO5rmAf6GTwG94AaABAg.8vFaP5quzS79ALbEGU1xWb",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몸매가 엄청나심 저분",
+        "writer": "UgxV-DkEJ0hrEikquah4AaABAg.8vEkaHEKyaV8vFXSHZnSvT",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "OMEGA ALPHA 봤는데 인공슴가던데 몸매좋긴한데 보형물은별로 안끌림",
+        "writer": "UgxV-DkEJ0hrEikquah4AaABAg.8vEkaHEKyaV8vG2iNgTltM",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)을 하고있네 십(비속어) 가서 (혐오표현)보고 딸이나잡아라 인터넷에서 (비속어)말고 어우 쪽팔려",
+        "writer": "UgxV-DkEJ0hrEikquah4AaABAg.8vEkaHEKyaV8vGJlpXnHVo",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리올리 응 니(비속어)랑할께 (비속어)(비속어)야 그(비속어)(비속어)니까",
+        "writer": "UgxV-DkEJ0hrEikquah4AaABAg.8vEkaHEKyaV8vGeQXZhBQ2",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쟤가남자였으면 남신으로 찬양받았을듯여자가그만큼 상향평준화되있어서그럼",
+        "writer": "UgxV-DkEJ0hrEikquah4AaABAg.8vEkaHEKyaV8vGxr7m5oD8",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일반인느낌, 댁 거울보면 일반인같죠 뚱뚱하거나 피부도 쓔레기 아니죠",
+        "writer": "UgxV-DkEJ0hrEikquah4AaABAg.8vEkaHEKyaV94HMmyoyVIf",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조방현군 시절",
+        "writer": "UgyaR8RYBDzw-_PaCfl4AaABAg.8vEXB7XKlVW8vG4lwKFf1w",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 예쁘게 나왔네요 태진아의 과거를 아는 사람은 귀가 왜 빨개진 건지 알죠,",
+        "writer": "UgzcoUlrJwbEWTAgV6J4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "팬으로서 이젠 놀랍지도 않다",
+        "writer": "Ugxzp3jI_qug2wKuqrd4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 저 여자분 딱히 히트곡 없고 스타는 아닌데 유명하심 섹시하시긴 하네요 매력 있으시긴 한데 무슨노래 불렀는진 몰라서,",
+        "writer": "UgxFNqledzyw_HVOnxh4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "희철좌 안달났노 근데 까임",
+        "writer": "Ugy13cEIfz14EIdAQUB4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아궁 귀여우셔",
+        "writer": "UgwTZTGca0bgPQkwCId4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜요 혼자만알지마오",
+        "writer": "UgzcoUlrJwbEWTAgV6J4AaABAg.8vEQKvOMcqF8vHFh8r75bD",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "VT jh 21살에 대기업(이름)한테 80에서 100만원돈받고 간통하다 걸려서 (반사회적용어)갔다왔대여 그래서 남편은 사장직사임하고 딸은 (반사회적용어)하고 그당시부사장이였던 (이름)이 사장이 됐대여",
+        "writer": "UgzcoUlrJwbEWTAgV6J4AaABAg.8vEQKvOMcqF8vHiMgKvtKf",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 한가족판토낸 (혐오표현)임, 그리고 태진아 소속사 거기에 에일리가 있었다는게참,",
+        "writer": "UgzcoUlrJwbEWTAgV6J4AaABAg.8vEQKvOMcqF8yXXoTHDTcZ",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대기업 회장 마누라와 바람 피다 걸려서 죽기 싫어서 미국 뉴욕에서 살다 왔어요. 송대관도 뉴욕에 있었지요.",
+        "writer": "UgzcoUlrJwbEWTAgV6J4AaABAg.8vEQKvOMcqF93MIIiTvUip",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "국한어 해말야지",
+        "writer": "Ugx_0N-H4josAfO0pM14AaABAg.8vEPZQUzOzs95hIjtQ6X5v",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Maxim 찍으심,",
+        "writer": "UgxFNqledzyw_HVOnxh4AaABAg.8vDq5v1ELWS8vEQEerVUq1",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "트로트라서 어차피 잘 모르는게 당연함",
+        "writer": "UgxFNqledzyw_HVOnxh4AaABAg.8vDq5v1ELWS8vFf6rOK3LK",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 트로트 가수임 스포츠 아나운서 느낌이었는데",
+        "writer": "UgxFNqledzyw_HVOnxh4AaABAg.8vDq5v1ELWS8w4OXjEH_Z2",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 아형에서 조(이름) 희철이팬이라고 했었는데 폭스였네",
+        "writer": "Ugy13cEIfz14EIdAQUB4AaABAg.8vDWqmNf9pk8xOHmJPNEti",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=Y2n0lVmKNZc",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

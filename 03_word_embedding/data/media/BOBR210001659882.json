@@ -1,0 +1,828 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001659882",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001659882"
+    },
+    "text": [
+      {
+        "content": "도경완 (비속어)",
+        "writer": "Ugz36e8fOICjV2vgAPx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이편은 못보겠음 눈물나서 하 박거누 보고싶다",
+        "writer": "UgySWK4kCaIPYZjobW94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건나블리, 빨리와줘,",
+        "writer": "UgzkY_V0r1QtlEvyDgF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은아 잘지내 영어니 기역 할게",
+        "writer": "Ugy8i22H5AdBtUr1p6d4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누 나 와 동 생 사 이 에 울 건 후 얼 굴 이 왜 이리 못 하 네",
+        "writer": "UgzqMGP3ZYBDqVb8RjZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이때가 1월이였는데 벌써 5월이 됬네 건나블리 우리나중에 꼭만나",
+        "writer": "UgyVSfH3p7mRUKIauYJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은아 무사해야되 빨리 돌아와 코로나 조심하구",
+        "writer": "Ugx3b7W1U5bWdZQKGZx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "살아있어서 고마워.",
+        "writer": "UgxgeiXuUcYcoEE22nJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은이 건후 언제 볼수있니 우리 나은이 건후 넘 보고싶다",
+        "writer": "UgzBBktw5y27jdMcKZ14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "올해 꼭 만났으면 좋겠다, 빨리 티비에서 예쁜 모습 보고 싶어",
+        "writer": "UgzY09RiHvNZJvtipR94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은아 건후야 코로나 조심해, 안나 아이들 잘 지켜주세요.",
+        "writer": "UgxeYE41Bgsa7l4K5OB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이쁜 건후. 나은이 보고싶네. 건강하게 잘 지내다 와 넘 보고 싶어도 참고 기다리마",
+        "writer": "UgzIZGPsmpGOGnS9OkB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 다 슬프네 아가들 아프지 말구 더 이뻐진 모습으로 다시 보자 이거 보고 얼마나 울었는지",
+        "writer": "Ugzmrma4L-l4EJXsLSR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후가 넘 보고싶네매일 너의모습을 그리면서 똑같은 동영상만 몇번째보고있는지, 건강하게 돌아와, (이름)애들소식좀 부탁해요",
+        "writer": "UgwwNALhUr-drdyMaw94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "슈돌에 나은 건후 언제 나오나요 빨리 보고싶어요",
+        "writer": "UgxlYRY_-bEQWOmYvlN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후 나은이의 모습을 보며 부럽기도하고 살아온 인생을 되돌아 보게되네요 티비에서 다시 봤음해요 건후",
+        "writer": "UgwJHKFlEZ7vs-cbQd94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은아 건후야 새로운동생과 함께 만나자",
+        "writer": "UgycGBRHqQsA7Tvk6J94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아, 지금은 못 돌아올 수도, 코로나 확산이 심해져서",
+        "writer": "UgzRnwXOLxHWyOZLSft4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은이 독어 끝내줘요",
+        "writer": "UgxHTFQerqRJhOVcKpV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누나 보고 싶을 거 고향 잘 갔다 와",
+        "writer": "UgxLKgCZg7V_EJQbbLx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얘들아 사랑해",
+        "writer": "Ugw-FKx_mz0fqqot_Gd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "코로나 (반사회적용어) 조심해요 슈퍼맨이 돌아왔다 많이 해주세요 사랑해요",
+        "writer": "UgyXtkXxHk30-N4XlqZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보고싶다, 건나블리 건강하렴",
+        "writer": "UgxrnyEy8U_nD9bfkPh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)페렴이돌고잇는대 (이름) 애들하고",
+        "writer": "UgzcjclZSD_hcEZu_kZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사랑이란 숲에서 길을잃다",
+        "writer": "UgwlFlg7hT0eRMeRTg94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이야 외국인들이 더 많네",
+        "writer": "Ugw5eLfAIfFUCuxoniB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후 나은이 빨리 다시 보고 싶어",
+        "writer": "UgyjPJBg-QRedrjMNvJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "3달 더 넘어서 보게되면 건후 많이 컸겠네. 저번 아플때 잠깐 안나왔을때도 엄청 컸던데, 한창 이쁠때 모습 못본다니 넘 아쉽다",
+        "writer": "UgxC5o-K73wCYKGuiKt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후다시오는지 와야 슈돌보지",
+        "writer": "UgyJUyZyZiCoBaucRYB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너희들땜 하루하루 행복 힐링 건강하게 지내다 돌아와 사랑해",
+        "writer": "Ugx_M7xty4xeXo9y4hN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후앓이중이요언제부터 나(이름), . 건후만 생각하다보니 동생이 너무 빨리 생기는게 조금 속상하긴 해요.세상에서 가장 사랑스런 울건후행복해야해.......",
+        "writer": "UgyiqY-PLdCZ50dhSL54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "원래 4 5월 쯤 나온다고들었었는데 코로나때문에 늦어질것같네요",
+        "writer": "UgxlYRY_-bEQWOmYvlN4AaABAg.96VvmUvyX7B97GotW4H9wn",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저기 죄송해요 제가 궁금한게 있는데요 그럼 코로나때문에 한국귀국이 늦어지면 슈돌은 이제 (이름)요",
+        "writer": "UgzRnwXOLxHWyOZLSft4AaABAg.96F4AkcOD7597PgdrFD8x2",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 하겠죠. 다른 아이들이 있는데",
+        "writer": "UgzRnwXOLxHWyOZLSft4AaABAg.96F4AkcOD7597PkfqkY6BE",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스위스 어디얌 가서(반사회적용어) 봐야게쪄 앙 일년을 어케 기다리요 거느님",
+        "writer": "UgxyG9KV-2Al7UP19zh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은이 건후 다음에 꼭 와야해 건강하게지내, .. 나중에 또 슈돌에 나오면 보자..",
+        "writer": "UgwgJPNqWSPpET2_ZFl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둘째가 제일 불쌍하던데 사이에 껴서 첫째는 첫째라서 챙기고 막내는 막내라서 챙기구 건후는 내가 챙겨줄께( )( )",
+        "writer": "UgzYjj7XEm4WfIvQbuB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은아나은아사랑하는 예쁜 나은아제발꼭.. 다시봐야한다, 기다릴께 에휴유일하게 이아이들보고 웃을수 있었는데,흑",
+        "writer": "Ugy3_Gj2LpcNAUqQt7B4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후야 많이 보고 싶다",
+        "writer": "UgyiNWR7DNBihhuWlFt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꼭 가족끼리 다 만나 행복하기를",
+        "writer": "Ugyi0YJLLU0_NmhuPsF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 갔다와 나은 건후야. 언니 누나가 기다릴게",
+        "writer": "Ugyw3qo4_h9opDQY3Z54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "당분간 엄마 고향에 머무르는게 낫겠다.",
+        "writer": "Ugzl_RguuKUrRnGFWJN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하, 아쉽다, 우리 건나블리 계속 볼수있었으면 좋았을텐데,",
+        "writer": "Ugy-euycmINOzWFdCt14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건강한모습으로 다시 돌아오길 바랄게",
+        "writer": "UgxDq6nW4LeMho8Du0F4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "최소 6개월이상 기다려야될것같네요",
+        "writer": "Ugz7qBDph-3enjjO9vd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얼굴도 예쁜 나은이가 맘도 예쁘네.. 동생이 새로운 동생생겨서 잘 봐주겠네 야무지고 예쁜 나은이",
+        "writer": "UgxVzZvxzD4mFmKEGol4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 엄마 안나 목소리가 좀 다른뒝, 기분탓인가",
+        "writer": "Ugy3M-ObnPPaAoByhM54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은아 건후야 스위스 더 있다와라 코로나땜에 안된다,",
+        "writer": "UgwGxs53IwWz30V8EAt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하 우리도이렇게 건나블리보고싶은데 (이름)는 얼마나 그리울까, 얼른 건나블리랑 동생이랑 같이 함께만나고싶다",
+        "writer": "Ugxjq232IeRQEqxvzaB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 시간이 얼마 지나지 않았는데 나은이 정말 왜이렇게 보고싶지 나은이의 행동 몸짓 말투 착(이름)씨 그런 귀여운 요 모습들이 자꾸만 생각이나서 더욱 그리워 집니다. 요즘 (반사회적용어)가 심각한 수준인데 우리나은이 그리고 건후 또 새로보게될 나은이 둘째동생 아가도 모두 많이 걱정이 됩니다. 이 상황이 빨리 진정이 되어서 나은이와 건후 그리고 막내아가 모두 안전하게 빨리 돌아왔으면 좋겠습니다.",
+        "writer": "UgwgE6LO192_3YmxvfR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은이 건후 막내동생 건강하고 쑥쑥자란 모습으로 다시 만나기를",
+        "writer": "Ugy2wygQgiQFFNbBfdF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건나 잘다녀오고 동생이랑곳만나자 보고싶어",
+        "writer": "UgzaQ5hx2lACV5PHCwN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "적어도 못볼때까지 3달은되겠네. 서로 못봐서 슬프겠누,",
+        "writer": "Ugx-VrTYAkl21qRnxE14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "봐도 봐도 이가족너무 화목하다 진심 부러움",
+        "writer": "UgxFCYhzb4lo7KRvmKF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내아이들처럼 언제올껀지 기다려지네",
+        "writer": "UgxSTnBphr0ZfdFRwzx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스티커 뭐냐 완전 다정",
+        "writer": "UgwrcqUpzMKTdNXuM6Z4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안나친구도 예뻐졌다어려지고한국물이좋은거야",
+        "writer": "UgzleoBOsudtUNNmoFt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후야 동생하고 잘돌아오렴 건후올때까지 슈퍼맨이늦게해도봤는대 이제다른프로보다쉬어야겠다 건후잘갖다오렴",
+        "writer": "UgyqiVYLMdXgcshvPhR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "천사들아꼭 다시와야해약속.",
+        "writer": "UgwAQ_6_iq2UREX0mx94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건나블리 동생이랑 함께 좋은 시간 보내고 빨리 다시 만나자 너희들이 안 나오니 슈스돌 재미가 없어.",
+        "writer": "UgzWH5XQTQ5phuq3qrp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은이 건후 안뇽 꼭 다시 보자",
+        "writer": "UgxSyj45EbqIJ4U2xe14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후야 나은아 고마워, 진짜 고마워 너희 덕분에 견딜수있었어 힘들때 우울할때 모든걸 포기하고 싶을때 나은이하고 건후하고 볼때마다 웃음이나고 행복해 너무 고마워 또봐, 건나블리,고마워 사랑해",
+        "writer": "UgxsmvheRR5Ix7PdSBR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후 보고싶어서 어쩌지 건후랑 나은이랑 건강하게 잘있다가 막내동생이랑 빨리 돌아오길 항상 행복하길 바랄게",
+        "writer": "UgyMgUxqGzlBezhLa9Z4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건나 스위스에서 재밌게 지내다 와 ..",
+        "writer": "UgyOs8KYwCHT9Tiv8A94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사랑스런 건나블리벌써 보고시프다 꼭다시 빨리 만나자일요일은 너희들보는낙이 컸눈데,",
+        "writer": "UgxJAN9fGTJUnLcJ0SB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 나은이는 천사가 재림한거같다 우째저리 귀여울꼬 완벽한 귀여움이다",
+        "writer": "UgxZxnIpncIYWsn7mpx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벌써 보고파",
+        "writer": "UgwKmaeDxGl0D9eVp8l4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄마 모국 스위스로 셋째출산하러요 출산때문에 슈돌도 잠시 중단하고 가는거에요 모든 상황이 정리되고 안정되면 돌아오신다고 박(이름)께서 직접 말씀하셨어요",
+        "writer": "Ugxcrgrf1girh0_2rud4AaABAg.94alyedikua97PiFZ7R9RO",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쫄깃쫄깃 건후 볼살 못봐서 슬프다",
+        "writer": "Ugw7QFrUN9VoHsDI0514AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후나은(이름)오면 슈돌 볼 의미가없는데 잠시끊고 너희오면 그때다시시청할께 건강히 잘지내다 와",
+        "writer": "Ugx8GkpeKTo9sfL10094AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후 안나오니까 Tv프로가 재미가 없네요",
+        "writer": "UgwJJKx6K7yLP5E7Rkl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 지금 폐렴때문에 다시 보는거 늦어질 수도 있겠네, 거기서 건강하게 지내다 잠잠해지면 꼭 또 와야해.",
+        "writer": "UgwEjvzubHya9UehZOF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "힝 100일 씩이나... 아쉽지만 건강히 잘 다녀와 누나 형 돼서 보겠구나 동영상 보면서, 맘 달래고 있을게",
+        "writer": "Ugybiv9sz53Qfo55IhN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후 나은이 보고 싶다 100일 언제 기다리죠",
+        "writer": "UgxsRbJ0aFIC0dllcLp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "추호 아빠랑 통화하는거 보고 진짜 눈물났다, 아옹 예능보다 울다니,",
+        "writer": "UgztRVqVxRhdamTgEV14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "거마워 건나블리",
+        "writer": "Ugw_hfEQGETVWWtoVqF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 언제 보냐 하루 하루가 허전해",
+        "writer": "UgwAo6UkZ7xtBMeZbCd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후야 나은아 건강한 모습으로 예쁜 동생이랑같이 돌아와서 만나자 아(비속어) 나은이랑 건후랑 셋째 만나기만 기다리는것처럼 이모도 나은 건후 아기 를 기다릴께",
+        "writer": "UgwuOUIDRv56r80wor94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은아 아프지 마아프면 안 돼 이 언니가 너무 아파",
+        "writer": "UgzAAsr5jH6X-wRFe7R4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도플갱어 진짜 재미없지요",
+        "writer": "UgwJJKx6K7yLP5E7Rkl4AaABAg.94UjocWWlC597abHFwKjq4",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막은 아닌걸로 알고있어요 지금 셋째 출산집중과 개인적인 본업의 집중 하기위해 잠시 휴식을 갖고 잠정하차일뿐 다시 촬영하신다고 박(이름)이 인터뷰 마지막 말에 알려주셨어요 셋째 출산 때문에 슈퍼맨도 잠깐 휴식시간을 갖는다고 하셨으니 꼭 돌아오실거에요",
+        "writer": "Ugw2l6JHczAiR5zyJeZ4AaABAg.94UfcuysaMm97Phaxcm8uB",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은이랑 건후랑 어디간건가요",
+        "writer": "UgwEjvzubHya9UehZOF4AaABAg.94Uf9oy-e1r94kkpBulSSp",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내이름도연 스위스요.",
+        "writer": "UgwEjvzubHya9UehZOF4AaABAg.94Uf9oy-e1r94kyHVCLULO",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 이때당시 나은이 건후 동생 태어나니까 엄마랑 같이 간거죠. 지금은 이미 태어나있는 나은이 건후 동생 .",
+        "writer": "UgwEjvzubHya9UehZOF4AaABAg.94Uf9oy-e1r95ApKBZk40f",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Rose Dawson 왜 스위스에요 안나 벨기에 사람아니에요 바젤 출신같은데",
+        "writer": "UgwEjvzubHya9UehZOF4AaABAg.94Uf9oy-e1r95eX1c_8vjS",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비행마려워센스형 바젤이 스위스에있는곳아닌가요",
+        "writer": "UgwEjvzubHya9UehZOF4AaABAg.94Uf9oy-e1r97dZnrwswRa",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재희 마자여",
+        "writer": "UgwEjvzubHya9UehZOF4AaABAg.94Uf9oy-e1r98DhBloUHTL",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금은 돌아왔는데 안전하게 돌아 와서 다행이네요.",
+        "writer": "UgwEjvzubHya9UehZOF4AaABAg.94Uf9oy-e1r9DGS8hKyCMe",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꿈멍 돌아왔어여",
+        "writer": "UgwEjvzubHya9UehZOF4AaABAg.94Uf9oy-e1r9EF5xmrfaTM",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 더 기다리세여",
+        "writer": "UgxsRbJ0aFIC0dllcLp4AaABAg.94UTLcUwLzX994ci7j9euw",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이건 예능이 아닌데",
+        "writer": "UgztRVqVxRhdamTgEV14AaABAg.94UR_pWneA894bXHTcMsQp",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도책바가지 어떡하늬",
+        "writer": "UgwJlwXc1AClSLoF7Sh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이따봐 gonhooah and neunah.",
+        "writer": "Ugx7z4(반사회적용어)TiVLDzIQEht4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은이 건후 건강하게 잘다녀와 다음엔 삼형제로 돌아와TV에서 또만나자,",
+        "writer": "Ugy5gV4nFwdf5d0SYcp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안나씨 나은이 건후 사진을 자주 올려 주시면 너무너무 감사하겠습니다 나은이 건후 이모가 정말 많이 보고싶을꺼야 백일동안 건강하게 잘 지내고 돌아와",
+        "writer": "Ugwg4x3gvRz_DrUmO494AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "눈물나려하네, 스티커 붙이고 우리다시 만나자 건강히 잘다녀와",
+        "writer": "UgxsGX1cv04K-ri9kv54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흠 100일 동안 유튜브에 안나오는구나. 와 100일 길다. 건후 아빠만 나오면 안되나 아이들 없는 아빠모습 아이들이랑 영상으로 다독이며 나누는 사랑 등등",
+        "writer": "UgxyucBzbF6Yw2KX4vl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벌써부터 보구싶네",
+        "writer": "UgwlLyWlhQSDqkOw0Q94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해로리 they left after Joohos game (ulsan vs jeonbuk 23th nov).",
+        "writer": "Ugwx1X_xZ2OEVfzCGcV4AaABAg.94GCGpQiFDX94oI63Xfw61",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해로리 definetelly not on october.",
+        "writer": "Ugwx1X_xZ2OEVfzCGcV4AaABAg.94GCGpQiFDX94oIGYrNKMX",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해로리 i think the 100 days sticker thing means they will back to korea after 100 days.",
+        "writer": "Ugwx1X_xZ2OEVfzCGcV4AaABAg.94GCGpQiFDX94oLJR718D0",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보고싶어 나은 건우빨리보면좋겟어요",
+        "writer": "UgxvXJduOsCdGpOGyMV4AaABAg.94G8-1hEIDO959wEZbuzBR",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=P09JH4D3P2I",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

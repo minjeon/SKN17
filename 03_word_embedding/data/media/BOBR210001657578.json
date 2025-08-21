@@ -1,0 +1,716 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001657578",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001657578"
+    },
+    "text": [
+      {
+        "content": "컴백홈 잘 신청했습니다.",
+        "writer": "UgxE_59W-kEwbZ4v8Md4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "할머니가 귀걸이를 달고 있어. (트렌디한 할머니시다",
+        "writer": "UgwMimCBY1fY515zFWJ4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 영지언니한테 악플다는 (비속어) 다 죽여버릴거야 흥.",
+        "writer": "UgxskMAOG0L2yZDU3hZ4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 귀여웡",
+        "writer": "UgzI5BkuU5HzcpaUmp94AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크게 될 친구구만,",
+        "writer": "UgwsHJ483XH655PUcGF4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리가 디스해야 할 건 서로 가 아닌 혐오",
+        "writer": "Ugx-fHGuBRfW7rn5nn94AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (이름)하는 법 나는 몰라",
+        "writer": "UgwpHpm22mZ1h6PAnnh4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머야 영지언니가 광고로 나와서 건너뛰지도 못하구",
+        "writer": "UgxfehUHmRutCaIULT94AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막화부터 역주행해서 보는중, 영지 말 너무 예쁘게하냉",
+        "writer": "Ugw7dlnmnWdBl7I6-FN4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니 앞머리 염색 다시 햐야겟어",
+        "writer": "Ugxl3wRj_Do7v821sX54AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이영상 떡상했으면 좋겠다",
+        "writer": "Ugzo_YsCBAv5LLZaEX54AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어릴때는 좋은 어른이란 건 그냥 되는 줄 알았는데 지금은 나이는 먹었는데 좋은 어른이 아니라 그냥 평범하게 나쁘지 않은 어른이 되는 것도 엄청 노력해야 하고 힘든 일이라는 걸 알게 됐다, 영지는 타인에게 선한 영향력을 주는 그 힘든 일을 하고 있는 거니까 정말 대단하다고 생각해 정말 응원하고 사랑해, . 앞으로도 더 현명하고 멋진 사람이 되길 바랄게",
+        "writer": "UgxzqRac8if1QhWAwup4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니야 민초 혐오하자나",
+        "writer": "UgxdGyNqYkQXbamA67J4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요즘 광고 다 영지네",
+        "writer": "UgwnXWpV8YV98lkwDzp4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니 고잉 세븐틴 복습해 주세요",
+        "writer": "UgxscAW4I4Ct7wHKf494AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "응 구취 오졋조",
+        "writer": "UgzjZg-n43VlcJxyr_94AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 멋져 영지, .",
+        "writer": "Ugw0xV8l7o-gVDhNNGJ4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연기(반사회적용어) 어떻게 해요 쟤네는 평생 기억한단말이에요.",
+        "writer": "UgyEHAnxf88vlt36TPZ4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 클래스에 볼까봐 두렵네,",
+        "writer": "UgxnaLiBbpneX3p-(반사회적용어)t4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영지야 제발 연기해주세요...",
+        "writer": "UgwKC5sW7hUKECe-uUN4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연기도 잘하고 (이름) 진짜 너무 멋있어",
+        "writer": "UgyW_5mIa7lUw4SPmiB4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 랩 풀버전 음원 있었으면, 너무 좋다",
+        "writer": "UgwRQBwzoULyqLWP9nx4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울 영지는 진짜 멋져,",
+        "writer": "UgwRTXYie4w2Q6xWSOh4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영지 생각이 진짜 좋다 건강하고,",
+        "writer": "UgyNsE2R3MEGLb3TDTJ4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "문체부 이런 프로그램 너무 좋은 것 같아요 단순히 형식적인 홍보가 아닌 정말 어린 연령층들도 흥미롭게 보고 또 이를 일상생활 속에서 실천할 수 있을 것 같네요..",
+        "writer": "Ugwkt0mORwOXViYaIPl4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인류 절반이 혐오받는 여성혐오에 대해선 일언반구도 없네, 의도적으로 뺀 거 다 티나는 데 깬시민인 척하는 KBS 물론 별개로 영지는 킹왕짱임.",
+        "writer": "UgzTmdn8tUxhYngJKnd4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앞머리에는 무지개를 붙인건가여, 틱톡에서 봤는데 계속 있더라고요, 뭐지, 캠페인을 해주신 이(이름) 너무 존경스럽네요 감사합니다... 제 친구도 안내견 훈련해주게 집에서 머무는 훈련 같으거 해주고 있어서 조금 더 공감이 되는거 같아요",
+        "writer": "Ugy7z3vLmOzT4jOGyFt4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영지의 선한 영향력 응원합니다",
+        "writer": "Ugw3yRA8jfq7Ves6w1F4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 취지도 좋고 영지도 말 참 잘하지만 장애 인종 문제는 다루면서 끝까지 젠더 이슈는 언급도 안 하네 KBS 알만하다",
+        "writer": "UgxakwoW2KLBroiGWdB4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 멋있다,",
+        "writer": "Ugw_Tv0oELWGQXpQ2sV4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)가 연기를 너뮤 잘하네",
+        "writer": "UgyxPSTc-x0_jyOX9Dx4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연예인의 비애지 인기없으면 좋은말 나쁜말 불문하고 관심을 갈구하고 이름을 알리고싶 어하다가도 인기가 많아지면 좋은 말만 듣고싶어하는",
+        "writer": "UgybU9ZeVPxh7UkFyjB4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초중고 학교 다닐때 아 장애인같애 니 장애인임 이러고 다니는 애들 있었는데 진짜 너무 싫음",
+        "writer": "UgxKaid4MAn6bGmZi-p4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 지적장애 남동생을 둔 누나로서 영지같은 애들보면 진짜 평생살아가며 받을 위로를 한번에 다 받는거 같다",
+        "writer": "Ugy_bAkL4bEoGdKjPPR4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영리우스님은 안오셨나봐요",
+        "writer": "UgyOL9AXmAHkItzxalB4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공감, 영상 초반에 혐오에 대해서 이야기 한다고 했을때 혹시, 했는데 역시나 안 나오더군요 , 하지만 영지는 최고입니다 너무 멋쪄",
+        "writer": "UgzTmdn8tUxhYngJKnd4AaABAg.9HUtETa8Pvk9HYg6umt4fy",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "옞니 아, 대박",
+        "writer": "Ugy7z3vLmOzT4jOGyFt4AaABAg.9HUUsQO4rYN9I2FTU0P73c",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 여성혐오는 왜 안다루는지",
+        "writer": "UgxakwoW2KLBroiGWdB4AaABAg.9HUK6Mc_vBC9HUsiY3m8Y5",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "kbs말고 문체부를 지적해야지, 문체부에서 오더내린건디",
+        "writer": "UgxakwoW2KLBroiGWdB4AaABAg.9HUK6Mc_vBC9HYMGQsk_Zf",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "농담곰 젠더 이슈 다룰지 말지는 kbs가 구성했겠지",
+        "writer": "UgxakwoW2KLBroiGWdB4AaABAg.9HUK6Mc_vBC9HYcyt_DVrk",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 진짜 상처되는 말이네요",
+        "writer": "UgxKaid4MAn6bGmZi-p4AaABAg.9HN-VXgvZ4y9I5QCieMn3C",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 친구가 몸을 덜덜 떨길래 뭐하냐고 했더니 장애인이라고,",
+        "writer": "UgxKaid4MAn6bGmZi-p4AaABAg.9HN-VXgvZ4y9L9Likv_-wG",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뜬금없는 말이긴한데 (이름) 무지개앞머리 왜이렇게 잘어울림, 앞머리 이쁘다",
+        "writer": "UgxjoeE1U1jVnm5GtsR4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 막힌 속이 뻥 뚫리네요",
+        "writer": "Ugzd9lVs2d75plp-_WF4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 좋은 캠페인이네요 게다가 마지막에 영지 본업 진짜 존멋,",
+        "writer": "UgylDaY-zOA84SMmhkp4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 영지 언니를 이러니 좋아할 수 밖에 없자나,",
+        "writer": "UgyAJNxhMgA42sy7ErJ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영지야 내가 요즘 너때문에 웃는다 고마워 내가수 너의 생각이 멋지다.",
+        "writer": "UgwHLgDHWuENepjx5KZ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이래서 내가 영지 좋아하지",
+        "writer": "Ugyg2cTIF40W8G2V2254AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영지, 정말 사랑해, 소신 있는 행보 너무 멋있고 응원해",
+        "writer": "UgybQZ8QrrCVeywCxt14AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한가지 더, 안내견이 저 복장을 하고있을때 주변인들이 절대 하지 말아야 할 행동수칙 도 설명해주면 더 좋았겠다 싶네요 (안내견 터치 금지 인사 금지 거리 유지 등)",
+        "writer": "Ugyvo0u6CpFJnuz7sY54AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영지야 너무 고마워 솔직히 사람한테 어떠한 영향을 (비속어)다는 거 자체가 엄청난 일인데 사람들한테 선하기까지한 영향을 주는 넌 진짜 멋있는 사람인 것 같아 나도 혐오를 지양하자고 하면서 온갖 핑계나 방패들로 혐오를 낳고 있었던 것 같아 다시 한 번 돌아볼 수 있게끔 의미있는 영상 만들어준 영지한테 너무 고맙고 솔직히 혐오라는 게 너무 넓고 깊어서 어디서부터 뜯어고쳐야하는 건지 항상 고민하지만 너무 어렵고, 그래서 포기하고 싶어질 때도 많지만 이 영상도 그렇고 댓글들 보면서 혐오에 대해 고민하고 있고 같이 맞서 싸울 사람들이 분명히 있음에 든든함도 느끼고 가 완벽하진 않더(반사회적용어) 하나하나 고쳐나가면 꼭 사람들이 덜 아파할 날이 올 거라고 믿어 2020 수고 많았고 2021 (이름)도 화이팅.",
+        "writer": "UgwG5ZTJ-YC_Xpj5RCN4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어제의 혐오는 내일의 도모를 전혀 의미없게 해 가사에 깊이 동감하구 갑니당",
+        "writer": "UgwWKJaFH2_uEJPn_Ux4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "키도 크고 눈도 크고 개그우먼 (이름)과 비슷한 (이름)인듯",
+        "writer": "UgwJdKgiYNAPQrt7rgV4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (이름)하는법 나는 몰라",
+        "writer": "Ugzsiws4dtyMD4eN_2R4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 안내견 털 날리는 거 만큼 사람들 머리카락도 날릴듯,",
+        "writer": "Ugz2LYAldvlXDNE-ZXh4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니 진짜 예쁜말만해 (이름)할수가 없어",
+        "writer": "UgyHQW79SxRtSJ6b4PZ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니, 본업할 때 너무 멋져 마지막에 혐오해야할 건 서로가 아니라 혐오란 문구 너무 좋아요",
+        "writer": "Ugz2obSOuCNnWFSm7xp4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "생각하는것도 넘 바람직하그 영지이머디떠",
+        "writer": "UgyNQNkBOHd5wYTjfxp4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "멋진 영지, 이런 콘텐츠도 하는구나 혐오 라는 말은 우리가 생각하는 hate 싫어함의 혐오가 아니라 차별 의미의 혐(비속어)니다. 모르시는 분들께 오해의 소지가 있어보여서 댓글 남겨요",
+        "writer": "UgwbFD9lxODIPW2de8x4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울 영지 못하는게 없네 영지는 만능 엔터테이너야 좋은 메시지 담긴 영상 잘 봤어요. 요즘 사회에 꼭 필요한 메시지라고 생각해요.",
+        "writer": "UgxpZPH1MK83kit3Xth4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 보다가잇몸말랐다",
+        "writer": "UgxIvppKrwKqIB6bGyV4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영지 언니 한 마디 한 마디가 너무 멋져,",
+        "writer": "Ugwe9qf7Rba4u5IfNbh4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)한테 소리 못지르는거 넘 귀엽",
+        "writer": "Ugw3wvj255Zm_QtaBzN4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인어공주 캐스팅이 문제가 되는 이유는 개인적으로 인어공주가 (반사회적용어) 이어서가 아니고 할리 베일리 본인에 있다고 생각합니다 그녀의 평소 연기 실력을 보면 다른 캐스팅 후보 배우들에 비해 떨어집니다. 그럴 수도 있어요 그렇죠 캐스팅 된 다른(이름) 있겠죠 그 (이름) 노래 잘 불러서 라는데, 아리아나 그란데가 있는데 굳이 노래 잘한다는 (이름) 할리 베일리를 뽑는다 이건 아무리봐도 pc요소가 개입했다는걸 부정할 수 없습니다. 굳이 (반사회적용어) 캐릭터인 아리엘을 (반사회적용어)으로 채용해 가면서 까지 얻을 메리트가 없다고 보거든요. (반사회적용어)을 채용하고 싶었으면 원래 (반사회적용어)인 캐릭터로 해야 합니다. 그게 세계적인 동화를 원작으로 둔 또다른 세계적인 작품을 기반으로 만드는 것이라면. 3줄요약 1.(반사회적용어)이 불편한게 아니라 배우 본인이 불편한거다 2.이유를 납득할수 없다 3.원작을 존중해라",
+        "writer": "UgxvIbivcNKujt7_JhF4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이름(이름) 나이78세 본업래퍼 부업예능인 부부업( )연기자",
+        "writer": "UgxOkhNT3_S9sHB0BEF4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영지 아직 고등학생인데 왜 고등학생으로 변장하는건데 방송국(비속어)아 영지 기 좀 그만 죽여라",
+        "writer": "UgxcReHRlIYxnmKq2MV4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "문체부에서 요새 열일하네 관광공사에서 이날치같은 밴드 발굴하고 영(반사회적용어) 통해서 공익 메시지도 쿨하게 전달할 줄도 알고 좋다 좋아",
+        "writer": "UgymhI-YlJm2bsmCdGx4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 목소리 (비속어)",
+        "writer": "UgyY9ijfjVj50hRrq1h4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 영지한테 치이고 갑니다, 말도 똑부러지게 잘하고 1인 4역 메소드 연기에 랩은 말해모해 (이름) 당신 날 미치게해",
+        "writer": "Ugze1t_ExQkfNS_x-AN4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대(이름)에 영지가 있음에 희망이 보인다",
+        "writer": "UgzVs65Xx04838c2QJJ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세상 사람들이 다 이 영상 보고 영지가 얼마나 생각을 깊고 올바른 사람인지 알아주셨으면 좋겠다",
+        "writer": "UgzHFX3O-BkAytvFQO54AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시각장애인 안내견 내가 영(반사회적용어) 좋아하는 이유 인어공주 악플 캠페인 영상 촬영 캠페인 영상 캠페인 랩",
+        "writer": "UgzWyAX3ugGyXFTsQbN4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나가지 말라면 나가지마 밥먹지마 모이지마 배달만시켜 떡볶이만먹어",
+        "writer": "UgyrB6fZXAtZq5MU5xF4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영지 노래도 연기도 잘해",
+        "writer": "UgzIO_bl_G-TvCdCXYd4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번꺼는 연출이 쪼까 까리하네요",
+        "writer": "UgxO9UW7s8bU6uQeSXh4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영지 진짜 인생nnn회차임, 생각이 진짜 깊고 인성이 훌륭하다 웬만한 성인보다 훨씬낫다. 너무 존경스러움",
+        "writer": "Ugwp22rUBYfV2z3EgZN4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뱉은 것들은 총구가 되기에 오답이 없음을 알게 됐을 때 더 넓어지는 세계",
+        "writer": "Ugwu7mrt3wxctx1HpLR4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영지도 언급했지만 인어공주 캐스팅 싱크로율에 대해서 비난할 수는 있어도 외모 비하 (반사회적용어) 비하까지 퍼지는 혐오발언 에 대한 걸 지적한 것 같아요",
+        "writer": "UgxvIbivcNKujt7_JhF4AaABAg.9HD0tWhzyLU9HD1Q4glVOb",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "더불어 디즈니 마블 작품에서 원작에서는 진저(빨강머리)인 캐릭터들을 계속 (반사회적용어)으로 바꾸면서 진저 역차별에 대한 문제점이 제기되어왔죠",
+        "writer": "UgxvIbivcNKujt7_JhF4AaABAg.9HD0tWhzyLU9HJcJHnJV9K",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1번은 그나마 이해가 가는데 그놈의 역차별, 원작 주인공들 자체가 (반사회적용어)이고(인간의 디폴트를 (반사회적용어)으로 둠) 원작 존중이라는 말은 (반사회적용어) 채용을 의미하는데 차별이 없다는 게 말이 되나요 그렇게 하면 (반사회적용어) 배우들은 주연 기회가 거의 없죠. (이름)은 뭐 없는 인종이고요. 그런 식으로 대놓고 차별하지 않고 존재를 부정하는 방식으로 디폴트 인종이 아닌 제2 제3의 인종으로 차별하며 없는 취급하는 게 오랜 인종차별의 방식인데 그걸 (이름)이 옹호하며 역차별이라고 (반사회적용어) 걱(이름)는 게 정말 재밌네요.",
+        "writer": "UgxvIbivcNKujt7_JhF4AaABAg.9HD0tWhzyLU9HQlUIwanrb",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 영지의 선한 영향력 가슴이 웅(이름)다 이런 좋은 컨텐츠 기획해주신 문체부 영지전능쇼에도 감사해요. 영지 인스타에서 자주 보이는 장난으로 포장된 예의 없는 댓글들에도 마음이 아팠는데 연예(반사회적용어) 사람이고 똑같은 감정을 느낀다는 걸 이 영상을 보시는 분들이(반사회적용어) 꼭 기억해주셨음 하는 쟈근 더쿠의 바람 남기고 갑니다 영지 최고",
+        "writer": "Ugxc8sw3dchsqJr7jdF4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요즘 이거보는 재미에 산다",
+        "writer": "UgxkG6oM_n-RxYcb0HV4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무지개앞머리 최첨단이네용",
+        "writer": "UgwZadFEJdolQ_2_8BN4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누가 영지 혐오하든 싫어든 나 하나(반사회적용어) 영지 좋아하고 사랑해줄꺼니깐 걱정하덜말어",
+        "writer": "UgxLS0T2rGWGSTLr-aV4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "0.5초 찐 할머니 맘 약해서 (비속어)한테 화 못내는 거 봐 너무 착해",
+        "writer": "UgyCc3gZZmRmrAgFpZt4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 너무 좋다 벌써 설레",
+        "writer": "Ugxdi1Pecf5TBGKhb-94AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몇시까지 하나요",
+        "writer": "Ugw8KT8Y8yVaIxHMANR4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일부터 재밌네 영쥐",
+        "writer": "Ugyx_8dJmHH10qv_tLx4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=KGGkOKgrptk",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

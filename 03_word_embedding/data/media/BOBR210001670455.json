@@ -1,0 +1,812 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001670455",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001670455"
+    },
+    "text": [
+      {
+        "content": "검태 인생작 (이름) 연기짱",
+        "writer": "UgzLiuTNw5pUXm-1XSR4AaABAg",
+        "write_date": "2021-11-07",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공약한 20 시청률은 달성 못했지만 검은태양 (이름)을 200 멋지게 표현한 (이름) 배우에겐 수많은 찐팬들이 생김. 저도 그중에 한 명. 남궁네이터 넘나 멋짐",
+        "writer": "UgwQRCaB7lZDtEwKx-F4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "20프로 많은건가 (이름)은 드라마 찍으면 항상 50(이름)던데.",
+        "writer": "Ugz2rPhT5fOCkoC4Fkp4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 나혼자 사는거랑 무슨 상관이지",
+        "writer": "UgwCo2x4aFud44raEqF4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 연기력을 낭비한 드라마, 20부작짜리를 12부에 쭈그려 넣었으니, .으휴,",
+        "writer": "UgyP6vrIuN_EREnLfi54AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스카(이름)빙 가즈아",
+        "writer": "Ugy-feXZv59JbpwxD1J4AaABAg",
+        "write_date": "2021-10-27",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "거북이의 기운을받아서 20 넘으시길 기원합니다 연기 핵소름 돋게 잘해주셔서 잘보고 있습니다 늘 건강하세요응윈합니다 코로나로 무기력한데 금 토 만기다리고 있습니다",
+        "writer": "UgxgR2p6Ld-dEDwK8qp4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사람이 왜 이렇게 귀엽냐,",
+        "writer": "Ugz-Cd6KWPvPVAQo7Z14AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 느릿느릿한 성격 좋아. 성격 급한 나와달라서",
+        "writer": "UgzBGFofhB-H3flHoQJ4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스캇조던신고 물가를",
+        "writer": "Ugz9bjO2zKzFK8RuwmV4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "20프로 넘을 거 같은데어떡해 스카(이름)빙 하시는 거죠",
+        "writer": "UgzJLEK7xWvk2QDeEUF4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 말투가 좋더라,",
+        "writer": "UgzI2v3ixWrzJJjZNaN4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 이 쓰던 마스크 어디껀가요",
+        "writer": "Ugw0SklDeXGedY8Tig14AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요즘은 옛날같이 공중파 뿐만아니라 tvn같은 지상파 채널도 생기고 넥플릭스와 같은OTT같은 플랫폼 통해서 컨텐츠들을 많이 볼 수 있어서 시청률이 전만큼 뽑아내기 힘든 구조예요.",
+        "writer": "Ugz2rPhT5fOCkoC4Fkp4AaABAg.9U3yrvbYuW_9U6q-zz6mkQ",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "검은태양 클래오파트라 욕 개먹어서 하차한데욬n4SJocuYp0M",
+        "writer": "UgxM5Il7pmpO7XA3OYh4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "거북이들 답답하겠다",
+        "writer": "UgwKRZ7D9CBfPqidoFd4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "불편한 사람 아직도 나오네 에휴 안볼란다",
+        "writer": "UgxGiCdVfcBxll4jVGt4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나래 참멘탈좋아",
+        "writer": "Ugw2ZHPYreS6BkMpsCl4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "30프로 가보즈아",
+        "writer": "UgyRH7dXQaY6aPSBb0d4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 검은 태양 너무 잘 보고 있어요. 간만에 공중파에서 남자들도 볼 수 있는 드라마가 나왔구나 하고 기대하고 있었는데 실제로 보곤 너무 멋있어서 완전 뒤집어짐. 형님 오지십니다.",
+        "writer": "UgxuKapOr6l_kukwAsZ4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그나저나 레전드 신발 신고있으시네,",
+        "writer": "UgxZEkBntUKNo0pJAIp4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스카이 다이빙하라네 (비속어)막말하네",
+        "writer": "UgyGiqORA0RAnpwm82t4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좀 하차를 하던 안봤으면 좋겠다 정말 당(이름) 좀 좀 잘지켜라 ,",
+        "writer": "UgxF1LDWEnWsRJMZLJV4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "44살 거북이 기운받으러 갔다가 무서워 하는 귀여운 형",
+        "writer": "Ugz4MMQkghQgU6WzXRV4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "믿고보는 (이름)씨 검은태양잘보고 있습니다",
+        "writer": "UgwZuQkrQJP0ttwaROR4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "검은태양 보러갑니다",
+        "writer": "UgxUHQJIjaNnR_goZkh4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "거북이 (비속어)양",
+        "writer": "UgzT29IS8tKu4OcND8V4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너나 좀 지켜라. 아직도 방송하고 있네, 남 약속한건 잘 기억하네",
+        "writer": "UgyG2nYrmYeC8a3MmHJ4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스캇하이 너무 이쁘당",
+        "writer": "UgwyVoOQT21WUYeN0gF4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "검태 존잼",
+        "writer": "UgwEmayfx0a7orQXVYB4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공약 때문에 볼거에요 스카(이름)빙 기대 하겠습니다",
+        "writer": "UgzKRDamvPoK1mM9sW94AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애완용 미(비속어)북이만 보다가 쟤네 보니까 굉장히 웅장하네",
+        "writer": "UgxR99Vp6-bmzqcMOtZ4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "검은태양 꿀잼 근데 (이름)이 나쁜 편인게 좀 그렇네",
+        "writer": "UgwbVUd6YxMe5Ey_aMt4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "20프로도 할거같은데",
+        "writer": "UgxbqD9c6oV-pWIrSNh4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오메 신발봐라",
+        "writer": "UgyxD97qZj7KEhczPN94AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혹시 자켓 메이커 어디껀지 아신분요 알려주세요",
+        "writer": "UgyjnTBCGkPzs50EXoh4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나같음 사진찍어달라했게따연기너무잘하고멋있다.",
+        "writer": "UgyLvk3LtlwbptiOaMp4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘하면 스카(이름)빙 갈거같은데",
+        "writer": "UgxAAkpXozG1E0x7r0R4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기안은 말이 없내, (이름) 저 년은 아직 하내",
+        "writer": "UgzVvkj5Oi4ubadEYf54AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 기운 받아가야지",
+        "writer": "UgyPOeixTn8wObAcaqt4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이야 아쿠아리움에서 거북이 담당하시는 사육사분들은 운빨 직이겠네",
+        "writer": "UgyEPmIA24UuDuc_rR94AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 스카(이름)빙 보고싶다",
+        "writer": "Ugz4wenQO-XiaooBpOR4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공약을 떠나서 진짜 검은태양 너무 재밌습니다 공약때문에 보는거말고 진지하게 봐주세요 명작입니다.",
+        "writer": "UgxsH1PGY0EilS0ww0x4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꼭 시청해볼게요",
+        "writer": "UgwLv7oa6ZBAQLzY6YF4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "신발에 눈이 가네, 흐흐",
+        "writer": "UgzwvBiwnbA5S_8kG4p4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 (반사회적용어)일수도있는데 지들하는거 아니라고 스카(이름)빙을 (반사회적용어)네 나혼산 (이름)땜에 짤로봤는데 (비속어) 꼴보기싫냐 진짜,",
+        "writer": "Ugw5ib4RlAX4O7edM5d4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "거북이 수족관 너무 좁다",
+        "writer": "Ugx94fH4Wi3VSr_WcM94AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "거북이 행운에 마스코트 처럼 여기시는것같은데 스쿠버 다이빙 교육받으시지 거북이 볼수있는데 제가 (이름) 무료교육가능합니다 (혐오표현)에 다이빙강사임",
+        "writer": "UgxMEjUC7W8uIBlZ6SV4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "번(반사회적용어) 하든 스카이를 하든 좀 끼지마",
+        "writer": "Ugz6nWfaPIS1mrWnkmJ4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 도대체 (이름) 키는 왜 나오지",
+        "writer": "UgxQvl8N_RD2Xlivojx4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "봐야겠다 스카(이름)빙 볼려면",
+        "writer": "Ugyoy8txejnlKe0hGKh4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넘겠는데 20",
+        "writer": "Ugx5vBUYM9axOdME-TF4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넓은데 살아야하는데 협소하구먼",
+        "writer": "UgyImt1Bimn9BzbWaXt4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 아쿠아리움 입장할때 나오던 노래 무슨노래인지 아시나요 가사가 멈춰버린시간이런가사였고 남자 조용한 목소리노래였는데, 여기 영상에는 노래가안나오구요 바로 직전 장면에 배경노래가 그거였어요",
+        "writer": "Ugwt0PDPzHjLvEbpaV54AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스캇을 신으셨네",
+        "writer": "UgwvZ52O1geKpW1W6ft4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "거북이 공간이 너무작다",
+        "writer": "UgwkhGEnnlX2BNpZ4eN4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시청률20넘을듯 영화같은 드라마",
+        "writer": "Ugx_WL2JRDo9kBO9PJB4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "키, 나래, 시청 시선에 엄청 걸그적거리네, 짜증나네,",
+        "writer": "Ugw4kYrMVCrjVrKjw8J4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 배우 드라마도 잘 됐으면 좋겠네요",
+        "writer": "UgwJGKGlUjTVRsHepz94AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사회적 물의를 일으킨 (이름)를 자숙기간도 없이 끝까지 지키면서 나혼자산다 구해줘홈즈 비디오스타에 고정출연(반사회적용어)는 MBC가 인권과 성평등 인식개선에 노력하겠다는 것은 전혀 말이 안됩니다. MBC가 상식적으로 이해가 되는 공영방송이 되기를 기원합니다.",
+        "writer": "UgzFpOXrWIY71y7uI4F4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "거북이가 아니더(반사회적용어) 시청률 잘 나올수 밖에 없겠던데,",
+        "writer": "Ugx_N0xF4Y8hQhjZjYF4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘생겼다 오빠",
+        "writer": "UgzNpwODQq5BW2o_x-J4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리사랑하지만 인거같아요 어느멋진날ost",
+        "writer": "Ugwt0PDPzHjLvEbpaV54AaABAg.9ScQq_QINn_9SiF1RqnbNl",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네마리가 살기엔 너무 협소하더라",
+        "writer": "UgwkhGEnnlX2BNpZ4eN4AaABAg.9S_u6y0Hv6o9SccaNwS6hW",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "19금이라 20프로만 넘어도 초대박친(혐오표현)",
+        "writer": "Ugx_WL2JRDo9kBO9PJB4AaABAg.9S_dG7QUMe79SgAqVOzJ7U",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잼있긴한데 잔인함 목따는건 좀 자제했으면",
+        "writer": "Ugx_WL2JRDo9kBO9PJB4AaABAg.9S_dG7QUMe79Sh2fqAfVZ5",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "20프로는 힘들듯. 원더우먼이 쎔",
+        "writer": "Ugx_WL2JRDo9kBO9PJB4AaABAg.9S_dG7QUMe79ShBBgxDXAH",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정달양 밥심 cookEat 원더우먼없어도 그정도는 힘들어보임",
+        "writer": "Ugx_WL2JRDo9kBO9PJB4AaABAg.9S_dG7QUMe79ShBbXnZvny",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "응현실 6 7퍼",
+        "writer": "Ugx_WL2JRDo9kBO9PJB4AaABAg.9S_dG7QUMe79SlCGo8I-kz",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "락맨광신도 4회 최고시청률 11.5입니다",
+        "writer": "Ugx_WL2JRDo9kBO9PJB4AaABAg.9S_dG7QUMe79SmpRMtPUCY",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공중파 19금 드라마가 이정도 화제면 이미 성공적이긴 함 높은 기대치때문에 더 엄격한 느낌",
+        "writer": "Ugx_WL2JRDo9kBO9PJB4AaABAg.9S_dG7QUMe79SonC1nq7AP",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1화 12.4",
+        "writer": "Ugx_WL2JRDo9kBO9PJB4AaABAg.9S_dG7QUMe79SwYcwKqI70",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막까지 잘되길...",
+        "writer": "Ugx_WL2JRDo9kBO9PJB4AaABAg.9S_dG7QUMe79TGMjiT3vIf",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭔 범죄자얘기하는줄 이경영나오는드라마영화는 재밌게보면서 참 이중적(이름)까",
+        "writer": "UgzFpOXrWIY71y7uI4F4AaABAg.9SYDT3YYWmu9SZLjrSfuSe",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누가보면 범죄자인줄",
+        "writer": "UgzFpOXrWIY71y7uI4F4AaABAg.9SYDT3YYWmu9SchUIkBy3p",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우웅치킨 이경영도 욕은 먹어요",
+        "writer": "UgzFpOXrWIY71y7uI4F4AaABAg.9SYDT3YYWmu9SfjCjTMQgi",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그들식 성평등 개선이면 (이름) 출연(반사회적용어)는게 맞지",
+        "writer": "UgzFpOXrWIY71y7uI4F4AaABAg.9SYDT3YYWmu9Sh4SP9XVZ2",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐 음주운전을 했냐",
+        "writer": "UgzFpOXrWIY71y7uI4F4AaABAg.9SYDT3YYWmu9ShZVHn0Y3O",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하차까지는 아닌듯 비호감도는 높음, .타연예인이였면 자숙기간 갖고나왓을텐데 그것도없는건좀 그렇긴함",
+        "writer": "UgzFpOXrWIY71y7uI4F4AaABAg.9SYDT3YYWmu9SlJgT6c8YJ",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우웅치킨 (혐오표현) 사건 모르시나 아 그쪽 성별들은 무식해서 금방 까먹었을려나 아니면 그쪽 성별 (비속어)인 이중잣대를 펼치시는건가 수준하고는",
+        "writer": "UgzFpOXrWIY71y7uI4F4AaABAg.9SYDT3YYWmu9SmBbz77O2U",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Yura (혐오표현) 사건 모르시나 아 그쪽 성별들은 무식해서 금방 까먹었을려나 아니면 그쪽 성별 (비속어)인 이중잣대를 펼치시는건가 수준하고는",
+        "writer": "UgzFpOXrWIY71y7uI4F4AaABAg.9SYDT3YYWmu9SmBdIZt9nL",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "성이름 그런프사달고 그쪽성별(반사회적용어)하는거 추해",
+        "writer": "UgzFpOXrWIY71y7uI4F4AaABAg.9SYDT3YYWmu9Smgc9VrHNq",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 그생각했어요",
+        "writer": "Ugx_N0xF4Y8hQhjZjYF4AaABAg.9SWekIPxnox9Scob1SDiv0",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보니까 19세 (이름)던데 그래서 시청률 20은 안될듯",
+        "writer": "Ugx_N0xF4Y8hQhjZjYF4AaABAg.9SWekIPxnox9Sd7lvzXNMP",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "ILS 그, 그르게요 생각보다 시청률이 낮게 시작했네요",
+        "writer": "Ugx_N0xF4Y8hQhjZjYF4AaABAg.9SWekIPxnox9SdwFi1LEwX",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1 2화만 잔혹성 때문에 19금 걸렸고 3화부턴 15세니까 많은 시청 부탁드립니다",
+        "writer": "Ugx_N0xF4Y8hQhjZjYF4AaABAg.9SWekIPxnox9SeTkt2AB06",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "ILS 근데 이번에 대박났어요 액션이 많아서 19금이고 이제 곧 15 세로 변해서 시청률 쭉쭉 올라갈듯",
+        "writer": "Ugx_N0xF4Y8hQhjZjYF4AaABAg.9SWekIPxnox9SmMnnoPSAM",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주연여배우들이, 솔직히 (이름) 액션만으로 시청률20찍기에는 무리가 멜로나 힐링 재미가 들어가야 많이 볼텐데",
+        "writer": "Ugx_N0xF4Y8hQhjZjYF4AaABAg.9SWekIPxnox9SrvWcwpPFF",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "용동 그래서 내리지 않을까요 암튼 저두 반한 드라마이긴 합니다.",
+        "writer": "Ugx_N0xF4Y8hQhjZjYF4AaABAg.9SWekIPxnox9SxnlfXBWOO",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "용동 그래서 내리지 않을까요 암튼 저두 반한 드라마이긴 합니다.",
+        "writer": "Ugx_N0xF4Y8hQhjZjYF4AaABAg.9SWekIPxnox9SxnlnVVt9M",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "ch n 오늘부터는 거의 15세인걸로 알고있어요 앞부분은 뭔가 보여줄게 많아서 19세로 했다고 하는데 뭔가 펜트하우스처럼 19세 15세 바꿔가면서 하지않을까싶네요",
+        "writer": "Ugx_N0xF4Y8hQhjZjYF4AaABAg.9SWekIPxnox9SxoSuCoWcI",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고마워 하연찡",
+        "writer": "UgzNpwODQq5BW2o_x-J4AaABAg.9SOwr789fkV9SYo_6A7vM-",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고마워 하연앙",
+        "writer": "UgzNpwODQq5BW2o_x-J4AaABAg.9SOwr789fkV9SgH720xSzl",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "위에 (비속어)싸개들 검거",
+        "writer": "UgzNpwODQq5BW2o_x-J4AaABAg.9SOwr789fkV9SkT4K1UAKU",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "judgment 아",
+        "writer": "UgzNpwODQq5BW2o_x-J4AaABAg.9SOwr789fkV9SmBDa08vS6",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "깐따삐야 가",
+        "writer": "UgzNpwODQq5BW2o_x-J4AaABAg.9SOwr789fkV9SmBDxNna3D",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "곰돌스 리",
+        "writer": "UgzNpwODQq5BW2o_x-J4AaABAg.9SOwr789fkV9SmBEaiQ-7a",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "judgment 닫",
+        "writer": "UgzNpwODQq5BW2o_x-J4AaABAg.9SOwr789fkV9SmBFjLOk4i",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "깐따삐야 아",
+        "writer": "UgzNpwODQq5BW2o_x-J4AaABAg.9SOwr789fkV9SmBG3R8kvl",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "곰돌스 라",
+        "writer": "UgzNpwODQq5BW2o_x-J4AaABAg.9SOwr789fkV9SmBGbNou1y",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=YMqLhIowfi0",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

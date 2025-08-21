@@ -1,0 +1,604 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001636940",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001636940"
+    },
+    "text": [
+      {
+        "content": "남주니 개 (비속어) 진심 넘사벽임",
+        "writer": "UgxVSzZzWQNYkfiusap4AaABAg",
+        "write_date": "2021-03-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남준아, 넌 평생 랩만 하자",
+        "writer": "UgxdSXEtERjIdjj56Xx4AaABAg",
+        "write_date": "2021-01-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "랩몬스터가 방탄 리더와 비슷하게 생긴것 같아서 검색해봄. 다들 칭찬 일색이네.",
+        "writer": "UgwHfPIehFkmLs6scxp4AaABAg",
+        "write_date": "2021-01-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "글로벌로 유명해질려면 B로 시작해야 된다더니 여기도 B.Gen",
+        "writer": "UgzEZfoQbs6OYhse0rt4AaABAg",
+        "write_date": "2021-01-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "2(비속어) 이거 들으려 맨날 온다, 수호는 참된 보컬이다, 빨리전역해,",
+        "writer": "UgxKXQxXu6cc4TvWzyF4AaABAg",
+        "write_date": "2020-12-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "은근 노래에 욕심많이내",
+        "writer": "UgxdSXEtERjIdjj56Xx4AaABAg.9INOxSGhAH09INPafjn0mB",
+        "write_date": "2021-01-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 웃껴요",
+        "writer": "UgxY1uKMfTr7JCYQmYN4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 진짜 방송국 어이 없다 방탄 인기 없을때는 관심도 없었으면서, 방탄 뜨니까 방탄 이름으로 죄회수 올리네,",
+        "writer": "UgxgwOKSapHVoi0gntd4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수호 자화상 좋더라. 딱 내 취향",
+        "writer": "UgzXtD81ItWQSgptdIl4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수호 노래 진짜 잘한다 미쳤어",
+        "writer": "UgxFEFnYykluBOmKAep4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "2(비속어) 하(비속어)사랑해",
+        "writer": "Ugx7sUIsgh_cdvWuptV4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는 혹시나 남준이가 노래부를까봐 그거들을라고 들어왔다",
+        "writer": "UgyDhht5Gj2ve0L2KZ54AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준면이 2번째로 시올릴때 내 고막이 은혜로웠음",
+        "writer": "UgyWx2IOmh7GdlYG1Uh4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수호, 노래 진짜 잘부른다,",
+        "writer": "UgyMeSjzYyT-Tqd85Gt4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기서 끊어버리면 우째요 남준이 노래하거나 랩하는 것 없어요 아님 자기피알하는 부분은요 남준이 보려고 본 영상인데 갑자기 뚝 끝나서 응가하고 응꼬 안닦은 이 느낌.... 어쨋든 현무씨 돌고래창법 웃겼어요 아. 울다웃으면 안되는뎅....",
+        "writer": "UgxpBRirsMksPuqfjg14AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 수호",
+        "writer": "Ugz119B5iwoaiK1oPkB4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금 이야기하는(혐오표현)만 저때 준면이에게 고음할때 인상쓰는거에대한 악플이 많이 달렸을때라 어딜가던 고음을 (반사회적용어)때 고개를 완전히 돌리고 고음을 올릴때가 많았는데 이때도 그러니까 되게 마음 아프다 그냥 제 생각입니다. (문남에서 고개를 돌리는것에대한) 준면이가 문남에서 고개를 돌리는것에 대한건 다른 이유여서 일지도 모르지만 그냥 생각나서 적어봤어요",
+        "writer": "Ugz6mw7QL2pE5MW8wyJ4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 , 진짜 늦덕이라서 예전 영상 이제야 다시 막 보는데 수호 저때부터 고음 (반사회적용어)때 입 모양 웃기다는 악플 보고 옆으로 돌려서 고음 지르네 진짜 마음이 아프다 ,",
+        "writer": "Ugz-YrRsO7CeiU4VhYF4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어떤 (비속어)가 악플을 달아, 내가 조져버려야겠어",
+        "writer": "Ugz-YrRsO7CeiU4VhYF4AaABAg.93HwTYbSVgS95yTsOmfFQU",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "악플단분은 집에 거울이 없는건가요",
+        "writer": "Ugz-YrRsO7CeiU4VhYF4AaABAg.93HwTYbSVgS9B0CzleU7R9",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준면 (비속어) 준면아 너무 예뻐",
+        "writer": "Ugz7nUCAmhaRQIH-Ua14AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영원한 리더 갓준멘 사랑해",
+        "writer": "Ugw7a1aCb0eblPGo8U94AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 엑소야 잘생겼오 , 수호짱",
+        "writer": "UgxPppm_oHp0pKLL8Xp4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김준면 진짜 잘생겼다 저게 사람인가",
+        "writer": "UgzlXrvZwLlgwEHq_Ap4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제목 BTS 말고 방탄소년단이었으면, 방탄소년단 들어본지가 언제야",
+        "writer": "Ugz2rWtCmq1AlAahnnN4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수호 진짜 잘생겼다",
+        "writer": "UgwaIi8OAD9cW9HCjCx4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "글로벌 아이돌 리더 딱 아렘얘기",
+        "writer": "UgzVA3GM9_kwgCQW66l4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "sshhbbkk 진짜 완전 똭 똭 그 작은 얼굴에 있을거 다있어요 심지어 (비속어)",
+        "writer": "UgwaIi8OAD9cW9HCjCx4AaABAg.8xFexik1x0C98EvSOnTaKq",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)저때도 아름다운 주니의 코디 동글동글 얼굴에 말랑코 손꾸락 끼운 티셔츠에 반팔체크남방(이름) 귀여워 거꾸로 쓴 스냅백이게 무슨 완전 말썽꾸러기꼬마잖아, 으악 웃는것좀봐",
+        "writer": "Ugzc02p4i5gjeLrYDZN4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 도 웃기넼",
+        "writer": "UgyNvHoDNzIhshaCbPd4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수호 진짜 잘생겼다, 얼굴에서 빛이 나네",
+        "writer": "UgwU-UIQd1q5RaIkMVd4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울 낮누 글로벌 리더지딱 너를 위한거네",
+        "writer": "UgxWp8TGFC_NvWXDrFp4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "최고의 리더 남준 건국하길 기다린다 건실섹시 프레지던뜨",
+        "writer": "UgwxbpmVt8pSxZqNxEN4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "알엠 예뻐",
+        "writer": "UgzkIiRMkmOsUlQztiN4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)면 오 뭔가 이름 비슷해",
+        "writer": "UgyI2Ilpg_NHYNiPaWB4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아아 (이름)은 진짜 글로벌 아이돌이 되었다",
+        "writer": "UgwUaanRl4PNV8nxMYB4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 2번쨰 시 부르는거 한 (비속어)번은 돌려봄, 그냥 준며니가 짱먹어,",
+        "writer": "UgyCrMmLn4gyyzQUrml4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘생겼다 미모 어디 안가 김준면 사랑행",
+        "writer": "UgxDGkBfz1cjK7y3haN4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 최고의 리더",
+        "writer": "UgwARqIHTL3lLDb_2u54AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 너무 잘생겼다 든든한 우리 리더 사랑해",
+        "writer": "UgzS5pkrCHQ-DeFm6Zh4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준면 고음대결 완전 잘해",
+        "writer": "UgzosjwXtKNxDjtuEq54AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "문제가 완전 남준오빠 꺼",
+        "writer": "UgwzZk7cAk5VY7MbVXV4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미쳤다 너무 귀엽다 남준이 인(혐오표현)더다",
+        "writer": "UgxMyyPGE4-qBgZ2Xh54AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왤케 토끼 처럼 웃어 김준면 인간토끼야 아주 젊어지는 샘물만 먹고 사나봐 나만 늙어 아주 준면 날 가져,",
+        "writer": "UgzuIsg6r5bU0EjO2HB4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 몇화예요",
+        "writer": "UgxGRz2k9WrwIAPjSa14AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래서 면접내용은 어딨는데욬",
+        "writer": "UgwcBKAC4EvLcyzH8w54AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준면이 개좋당큐",
+        "writer": "UgwEGhXRPBI3rinTttN4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "똑똑이 남준아 사랑해 몇년(이름) 그런가 너무 애기네",
+        "writer": "UgylcHRgkE2LobsiSMN4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김준면 개 잘생김 역시",
+        "writer": "Ugz_UrXG5kSsMRcjOfR4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김준면 귀여웡",
+        "writer": "Ugyk3HEje4pTuUTui7N4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누가 뭐래도 김준면 최고야 사랑해",
+        "writer": "Ugwjr-iQFxrGFtVSqAh4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남준아 우리의 리더가 되어주어서 항상 고마워",
+        "writer": "UgzHH_WRgt9jlgN1bQx4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이때 남준이 완전 어리네에 우리 인터내셔널션샤인프레지던트 리더 어딨냐구 귀여웤",
+        "writer": "Ugzw08UzXFFCHzNyqrt4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김준멘 잘생겼다,",
+        "writer": "UgzidjscJIrGCeV2icJ4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김준면 나이 안 먹는다, 어떻게 지금이랑 똑같이 잘생겼어,",
+        "writer": "UgxMhtZhtLUM-ZZOtD54AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 사랑햌",
+        "writer": "UgzjZ1eWZIPOa38Gl_54AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "콩비지 아나 팬덤이름 된장이냐곸",
+        "writer": "UgzdXjjlr2gCqN6s0DN4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 방탄소년단은 BTS라고 하는지, 한국 이름이 없는것도 아니고, 요즘 시상식 같은곳에서도 BTS라고 부르는데 한국에서 만큼은 방탄소년단이라고 불러줬음 좋겠다",
+        "writer": "Ugz3JcZ58WHmjVjz_lx4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 김준면 나이를 안먹네 진짜 그대로다",
+        "writer": "UgxsUDawR1czsA6AJEx4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김준면 당신 나이 안 먹어 나이는 나만 먹어",
+        "writer": "UgyoExkGRY4V153VSC54AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김준면 최고 최고의 (이름)이야 우리 준면이",
+        "writer": "Ugw-Ni4eKbfEz6qL_zd4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 이게 벌써 몇 년 전이야 김준면 냉동인간이야 어떻게 얼굴이 하나도 안 변해, 잘생겼다 준면,",
+        "writer": "Ugy26rLfKjPKwIGn95Z4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 진짜 사랑해",
+        "writer": "Ugz9H9eN7hXgLgUCNuN4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞아요 BTS도좋지만 방탄소년단 이라는 멋진이름이있는데 한국에서는 그렇게불러줬으면",
+        "writer": "Ugz3JcZ58WHmjVjz_lx4AaABAg.8uUrSrIDJuc8uVbmruTtMK",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김준면이 누군가요",
+        "writer": "Ugy26rLfKjPKwIGn95Z4AaABAg.8uUk1rTeb6R92pZrFQ1W0z",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Tokki Red 엑소 수호요.",
+        "writer": "Ugy26rLfKjPKwIGn95Z4AaABAg.8uUk1rTeb6R92yvw1Bl3n1",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서찌(비속어)꼬(비속어)꼬(비속어) 아 감사합니다. 타아이돌은 활동명도 잘모르는데 본명은 더 몰라서요, 죄송해요.",
+        "writer": "Ugy26rLfKjPKwIGn95Z4AaABAg.8uUk1rTeb6R93R3xIomCEN",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준면이 노래도 잘해 완벽 리더야",
+        "writer": "UgxPXp05QnPDruBm6VV4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "문제의 논점에서 벗어난 영상인뎈 그래서 리더가 되야하는 (이름) 뭔뎈",
+        "writer": "UgyMFxomrJvNHu7mf7F4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방탄소년단 보라해",
+        "writer": "UgyKvr7YfxlUPvNH7v94AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방탄소년단 최고 리더 Rm 최고",
+        "writer": "Ugy1EAmB-CtLG-yIA5B4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 사랑해",
+        "writer": "UgyPXY3l11WXu3mj2oR4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준면아 너무 귀야워",
+        "writer": "UgyFTaZsxxzQNCcAZbh4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그러니까욬메보 정하다 끝났엌",
+        "writer": "UgyMFxomrJvNHu7mf7F4AaABAg.8uU4yj9B7tz8uZCcaUKMfJ",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=IZrniXzNzVA",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

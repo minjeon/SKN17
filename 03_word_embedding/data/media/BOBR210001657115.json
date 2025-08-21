@@ -1,0 +1,708 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001657115",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001657115"
+    },
+    "text": [
+      {
+        "content": "(이름)은 노래는 어떻게 나와도 상관없는거같음, 걍 빨리하고 끝내고싶은듯",
+        "writer": "UgzvB9UjL5Eto1Mv5VV4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이건 (이름)을 쓰는 피디 잘못이지",
+        "writer": "UgwFSJhJkbqZIRNdL4h4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 그거네 자의식과잉",
+        "writer": "UgypJ36PVZFlDQHKBa94AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "음이좋다니, 잠오는 비트구만 재료가좋으면 뭐해 요리사가 졸고있는데",
+        "writer": "UgwlUGna7Ln1NRBBfLt4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제시 무섭다 진짴",
+        "writer": "UgwAfGJpg0VDoyK0GlR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내같으면 그냥 랩이면 몰(반사회적용어) 알앤비 힙합이면 퓨처베이스 하나만들지",
+        "writer": "UgzdvbOrqpjicQNo2FV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "후배 작곡가 쪼아다가 비트 만드니간 그냥 듣고 하다보니 귀가 익숙해져서 비트가 좋아져서 그런(혐오표현) 트랩에 알앤비 힙합",
+        "writer": "UgylMAN8Ob3Qr4jzEOB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다 된 가수들에게 (이름) 뿌리기, 최악이군요 음악이최악으로바뀌는 마법",
+        "writer": "UgypWLv87b4vdLnHX4d4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제시가 불렀을 때 음이건 분위기건 너무 안 맞고 이질적이고 억지스러운 게 느껴졌는데 그게 괜찮다고, 제시가 판단 잘했다. (이름)데도 끝까지 억지로 녹음하는 건 무리지",
+        "writer": "UgyNBPJ64pKFMpFRkrh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인생은 즐거워 이 노래 나 어린이집 다닐 때 엄청 듣고 지금도 자주 듣고 있는 노래인데 뭐임 왜 저렇게 바꾸는 거야, 음악에 대해서 모르는 내가 들어도 별로임",
+        "writer": "UgzitAmDXtzg02ZFWIt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 귀찮아서 대충하고 싶은데 제시가 자꾸 태클거니까 짜증난다는 표정이네 말투랑",
+        "writer": "UgxPb3bdo4oUhJQJU_14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제시 찐짜증표정째려봄",
+        "writer": "UgxpdT7GvbwuH9HdNNN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딱보니 (이름)은 대충대충. 어차피 한곡 대강 만들고 예능한편찍으면 돈버니까",
+        "writer": "Ugwbz0W7J1iGHI8rVOV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 왜 신임 나 진짜 이해가 안되네",
+        "writer": "UgwiydTihKPSV1KFUKJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전문가가 아닌 내가 듣기에도 영 비트가, . 요즘느낌으로 힙하단 소리 듣고 싶어서 억지로 바꿔놓은 느낌. 영 신나지도 않고",
+        "writer": "UgwI9CIw1eajgDwhluZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비트가 전혀 엉뚱한데 너무 파트가 과도하게 많고 중구난방임",
+        "writer": "UgxuExNa_c7c-t77tcV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기처럼 다른 영상에는 이 곡 욕이랑 제시에 대한 측은지심 가득한데 뮤비엔 어르신들이 찬양하는 것 밖에 없으니, 흠",
+        "writer": "UgyUi5koIU_bpvwk6_Z4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "죄송해요 (이름) 나올 때마다 너무 불편하고 거북해요",
+        "writer": "UgwPvIBaLWX7pHAxw4N4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "음알못인 내가 들어도 뭔가 음이 안맞는데, 제시 말이 맞고만 (이름)은 뭐가 맞다는건지 모르겟음",
+        "writer": "UgxWfdQXZ5j6lFp03Dx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 원곡자의견 (비속어)하고 지뜻대로 안된다고 한숨 쳐 쉬면서 하늘보고있네",
+        "writer": "Ugz5LJ8cK7pJ8nrQXAZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "트렌드 잘 읽고 감 좋은 작곡가 붙여주는게 어렵냐 (이름) 감성이 아직도 샤크라때에 머물러 있음. 음악 관련 일 좀 주지 말았으면. (이름) 음악 작업 너무 구리고 별로임. 작곡가도 윤종신 유희열처럼 공부를 해야 트렌드 맞는 음악 프로듀싱할 수 있는건데 아직도 지가 음악의 신인 줄 아나봐. 아직도 라떼 전성기 수준에 머물러 있네.",
+        "writer": "UgyYcKH-kJ-xqdK9Gjh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 너무 (비속어)같아,",
+        "writer": "Ugw1MJeR6P7w2Xdya3J4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래서 악인이 (이름)이라는거죠,",
+        "writer": "Ugyyr2LowW9b6k2Z9Cp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "차라리 힛맨뱅을 쓰지",
+        "writer": "Ugxgj_eAPd7PpUYh0QB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 미우새에 힘들게 사는거 나와서 일부러 방송국에서 더 써주려는듯,",
+        "writer": "Ugyom9rIJFH7kn4UZVJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비트뭐냐, 와, 진짜 리듬스타에나 나올법한 느낌",
+        "writer": "Ugz-xh2HwHKpmX0wW7F4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진심 진짜 개 구리다 차라리 지코가 (반사회적용어) 나무에 올라가 부르는 게 이거보다 더 트렌디 할듯",
+        "writer": "UgxcDefpcCaCLV_G2054AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인생은 즐거워가 즐거워야 되는데 노래가 쳐져서 인생은 즐거워가 아니라 억울해가 되버리네",
+        "writer": "UgxaFGrltISiyZx8oil4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비트 거북선 베낀듯 우린 거북선 다른 배들 통통 그냥통통 떨어져라 똥통",
+        "writer": "UgwXpp08xanY1RVCLa54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 대려와라",
+        "writer": "UgzaXYQRX4KKnmnh-FN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 왜 하필 (이름)이냐, 더 잘해줄사람 많잖아",
+        "writer": "UgyXrj95qLj_5cqYpwl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제시 (이름) 둘다 감정싸움으로 번질수 있는 상황인데 둘다 차분하게 대화하려고 노력한거같다",
+        "writer": "Ugx1eKi-2h0I9jK7WD54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제시가 고생이 많네",
+        "writer": "Ugw8dZBSgBEuLE0Rv-R4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 제시는 더 잘 만들고 싶어서 그냥 고민하는건데 무슨 싸늘해진 녹음실 이러면서 악편을 해버리냐 그냥 저정도 텐션은 흔한 일인데",
+        "writer": "UgyjldejZ_LRq_4QzI94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐가자꾸 좋대, . 안맞잖아요, 따로놀아요,",
+        "writer": "Ugw6Gnjfkyuv3EeWeO94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딱봐도 별로구만 상민이는 뭐가 좋다는거야 싫었는데 더 싫어지네",
+        "writer": "UgyvU0BGNnQwq1f47O94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "막귀인 내가 들어도 완전 별론데,",
+        "writer": "UgyIL91dvthPOqBm_4Z4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개(비속어) 어우",
+        "writer": "UgxY3PLCaN1ljwqj2Yd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 (이름)이 이걸 편곡햇지",
+        "writer": "Ugwea2BTlcBQ09mrY_54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "약간 비트가 빨라져서 약간 랩이 밀린다는 느낌도 있는데 아닌가",
+        "writer": "Ugx5mdvu5I2oNbgmBSJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 비트가 너무 별로 좀 조율해서 바꿨으면 좋겠다",
+        "writer": "UgyLohOxEUfiDNynOYt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다시 들어봐도 음이 안 맞는 거 같은데 왜 맞다고 하는(혐오표현),",
+        "writer": "Ugw9ntL-KzMu8MWv_xF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 자기객관화랑 (비속어).옛날감성추구기질이랑 쓸때없는자존심 다 버리고 다같이 의논해서 했으면,",
+        "writer": "UgxamK1o7B-d4KEJWwZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 노래 왜케 개(반사회적용어) 같이 만들었어 짜증나 진짜",
+        "writer": "UgwG8ePJ68nOLZ-XJoF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 어우",
+        "writer": "UgwlKClokJqF-78zRQl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김숙 어디감",
+        "writer": "UgwP8-K3mYhVUhQAPHh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 진짜로 원곡자가 음이 안맞네",
+        "writer": "UgwynlsP5q9Fd3Blw_Z4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 진짜 하, . 제발 자기 객관화 좀, .",
+        "writer": "UgwRm6i8PMnG-nYe9hh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제시 정말 멋있다",
+        "writer": "Ugxwu9jndBofFPuf9MN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제시가 진짜 노력 많이 하고 있는건데 비트가 게속 안맞는다는건 (이름)이 랩을 (이름)게 짜놨다는거임",
+        "writer": "UgwHXaONRfuGkWvhfup4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 제시면 이판 엎었다. 자기 노래 (혐오표현)로 만드는데 얼마나 화가 날까",
+        "writer": "UgzJ5qOCbMm2ajc96uN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다시 들어봐도 음이랑 비트랑 안맞는거 같은데,",
+        "writer": "UgwPeLdfHWv-AVZ100J4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 빠지면 딱일듯",
+        "writer": "Ugw8WuoY776g8YbqkgZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 감이 너무 없어, 지금 트렌드가 뭔지 모르는듯",
+        "writer": "UgwWcxb8wloOKmQp8zR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제시말이 맞는것 같다,",
+        "writer": "Ugwg6TMa8hA9PNjWJFF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 진짜 지가 음악의 (이름)고 된 마냥 그러는거 개꼴보기싫음 미안한데 비트 쌉 구림 (비속어) 개올드해 지 음악이 좋다는 듯이 지 음악에 심취해있음 고집 오짐",
+        "writer": "Ugy3krEwlc6-HofGPIx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제발 (이름), 좀, 제발,제발, 제시 개고생하네",
+        "writer": "UgyI_xu_FpVHz0B43fl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래도 제시가 조심스럽고 조리있게 말하려고 하는게 느껴지네 옛날의 제시라면 더세게 의견말할수도 있는데 자기가 다시새로짠다고 시간달라고 하는것도 그렇고 제시도 갈수록 성장하는것같음",
+        "writer": "UgxdNTwXxRe0lfVW3mZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비트진짜, 원곡이 그립게 느껴지는 비트네",
+        "writer": "Ugwn9C0HG4hSI8XKcDJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)보다 제시 감각으로 편곡했으면 더 좋았을지도",
+        "writer": "Ugw8fE7ZWryZGucZQkB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": ", (이름)이 보증한 재능러가 비트를 못잡겠음,",
+        "writer": "UgwHXaONRfuGkWvhfup4AaABAg.9CXim8Ahaj_9CoK8vXPXCi",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맘에 안든다고 말하는거 진짜 속시원하고 얼마나 답답할까 안타까움",
+        "writer": "UgzJ5qOCbMm2ajc96uN4AaABAg.9CGYXTTtW499DZSJGst5ZJ",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "트랩비트 가져다쓴다고 다 트렌드는 아닌데",
+        "writer": "UgwWcxb8wloOKmQp8zR4AaABAg.9ByLKPZIKit9E1VjJkcs0p",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그렇다고 자기 감정을 너무 안들어내는것도 아니라 보면 속도 깊고 정말 호감인듯",
+        "writer": "UgxdNTwXxRe0lfVW3mZ4AaABAg.9BIaCQm3L5V9E9FwdcDX3j",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "본인왈 트랜디하게 짰다카는데 1도 모르겠음 올드함",
+        "writer": "Ugwn9C0HG4hSI8XKcDJ4AaABAg.9BI_pbXlk4z9EC5Ap1pIu4",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 홧팅 넘멋져요 악익전화팅 (이름) 가인 제시 요한 감사합니다",
+        "writer": "UgxiO8qIAeHAST7wq3R4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 슬로우로 해야 맛이 살듯 노래처럼 빨리만 할려니까 전혀 맛이 나지않음",
+        "writer": "Ugxc9RefgQ6ATzVPcbd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)은 이 프로에서 (이름) 가치를 소모하는것 같아서 속상함",
+        "writer": "Ugw6PUOKvhZmJVSFLYN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 제시 포스 너무 쎄서 김요(이름) (이름) 순둥순둥해 보이는 거 왤케 귀여워 정말 토끼 둘 옆에 서있는 사자 느낌",
+        "writer": "UgwHq4GyKWtKbMALKol4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "힙합을 좋아하거나 자주 듣는것도 아니고 막귀 수준이지만 지금 제시가 부른거 다시 틀어 주는데 따로 논다는 느낌이 드네요 막귀인 제 귀에 이렇게 들리는거면, 제시 기분이 어떤지 이해가 가네요",
+        "writer": "UgxBMwHPdEbTaXv5mHF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "음이 어디가맞다는겈",
+        "writer": "UgxFq_vD030SbpjRgJp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제시 귀여웡",
+        "writer": "UgwYO1bxguWVFd4KUlB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비트가 완전 별로,",
+        "writer": "UgwNsvUu_EBorLml3k54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가인 이 프로 안 했으면 좋겠구먼. 사람이 모든걸 다 할 수는. 없지 와신톤 73 반",
+        "writer": "UgwqGCU-yAtE_ZHh88l4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제시 말이 맞는듯",
+        "writer": "UgyDlNHc46INzlOyXst4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "랩이나 힙합 이런거 전혀 모르는 사람이지만 (이름)이 너무 제시한테 배려없이 짜놨다는건 알겠음, 제시 랩하는데 인생은 즐거워에서 나왔던 비트랑 플로우 전혀 안느껴지니까 아예 새로 하겠다고 나온듯,",
+        "writer": "UgynXPFCPrVfdyBPTY14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진심 (이름)이 비트를 (이름)게 짜긴했음. 구성이 너무 지저분해보임. 굳이 다 드러나야하는 이유는 뭔지도 모르겠고,",
+        "writer": "UgyJJ6ppjVTuAhU0dHp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 악인전최고",
+        "writer": "UgyJ_1uaEm-iaA_uk6N4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "트랩 비트 쌉구리네",
+        "writer": "UgwXEdN5IlORxpViJi54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무명 시절 생각하면 마음 다 잡을 듯 (와 (비속어) 코너 잘 못 잡았다, )",
+        "writer": "Ugw6PUOKvhZmJVSFLYN4AaABAg.9ARlyRIMEhQ9Drwr5sEBSo",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 90s 2000s 초반 힙합",
+        "writer": "UgyJJ6ppjVTuAhU0dHp4AaABAg.9A4aMXMFLX19FS-UYFGpD3",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제시 요한 (이름)콜라보 대(이름)",
+        "writer": "Ugw4SSi-aHKtbECl2hd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "노력파 가이님 대단해요 곧 최고의 랩 실력자가 탄생 될것 같네요",
+        "writer": "Ugx3PgyopZD_J7tYeIB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "악인전 너무기다려지네",
+        "writer": "Ugzu-LGDZ8sAdBJXjDB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)은 모든 장르를 아우르는 국보급가수입니다. KPOP스타로도 뜰수있읍니다. (이름) 화이팅.",
+        "writer": "UgwtSEW7IbC9wxgQnRB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제시도잘하네요 국민슈퍼스타 (이름) 최고이어라",
+        "writer": "UgyFwgTeh54O-8ccV3R4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제시 고생만아요, 그냥혼자만에스타일(이름)요 제시 good Luck",
+        "writer": "Ugyt9qfRkOXwhucRkiJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=fYMWVkTWjRc",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

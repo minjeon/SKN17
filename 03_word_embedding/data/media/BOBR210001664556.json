@@ -1,0 +1,492 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001664556",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001664556"
+    },
+    "text": [
+      {
+        "content": "하, 달달해 간미연은 사랑받을 자격있음",
+        "writer": "UgwYuInsnxF9PJ2tPjl4AaABAg",
+        "write_date": "2021-11-13",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "간미연 너........ 무이쁘다 이쁜부부다 딸꽁딸꽁럽흐럽흐",
+        "writer": "UgwG97dU2U8QHjsmCTF4AaABAg",
+        "write_date": "2021-11-10",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 부인이 간미연이야,",
+        "writer": "Ugyd1yY5cGn8oD15DFd4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "악플다는 애들 닉넴 (반사회적용어)가 다 본명인데 나이든 아줌마 이름 아줌마들이 어우 추하게 왜 질투를 하세요 남편이 안 해준지 좀 됐지",
+        "writer": "UgxB3Qy2o8-AdY6kfK14AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니가 행복해보여서 제가 다 행복해요 행복한 결혼생활하시길바랄게요...",
+        "writer": "UgzZJbWVu-zwpAuy9uV4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "결혼안한 (이름)가아니라 풀메이크업에 보톡스 오지게쳐맞고 성형 의학의 힘을 엄청나게 받았으니 40살이여도 젊어보이지 어휴 보톡스맞아서 볼 빵빵한것봐라 솔직히 한국에서 (이름) (이름) 소녀시대윤아 태연 서연 (이름) (이름) 이렇게 7명이 7대여신이다 얘네들은 진짜 (반사회적용어)지 키도 몸매도 얼굴도 손도 심지어 발까지 모든게완벽 성형의힘도 그렇게 많이 빌리지도않았음 그냥 어릴때사진보면 똑같음 근데 간미연도 이쁘긴하지만 보톡스 너무맞았고 풀메이크업을 너무 부담스럽게했다 그리고 한국 7대여신들에 비하면 뭐 ,",
+        "writer": "UgzBERrIQYaQCge4HvV4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 내가 중학생때부터 계속 연하남 연하남 연하남 사귄다고 그랬는데 진짜 이런 달달한 연하 남편이 어딨냐 진짜, 난 언제 결혼하냐 하",
+        "writer": "UgzwaIi7gmT6ETZfAvJ4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남자가 너무 빠져있는게 뭔가 불안함, 제발 평생가길",
+        "writer": "Ugzy3hfE11MtRo7PGPp4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "간미연 살림꾼에 알뜰하고 다시보이더라 행복해보여서 좋았음",
+        "writer": "UgzRPXpfFolPrCP1f2x4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남자자기이름말할때 말끝(비속어)흐려서 황(비속어)이라는줄",
+        "writer": "UgwWEUd_AqGdnzf62Pl4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "돈 많은줄 알았는데",
+        "writer": "UgyeRfjuwX7-MleRyvF4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "음식 프로에서 애정행각을 하니까 채널을 돌리게 되고 욕하게됨",
+        "writer": "UgwKo1vLN0oB2hqpIW14AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둘이 굉장히 잘어울린다 간미연 진짜 오랜만에 보네 (이름)래 행복하세요",
+        "writer": "UgwBfpjezsbOeXOfd3x4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보니다 ......",
+        "writer": "Ugx3kE58d0e5Vm_CUTh4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)씨 너무 자상하고 귀요미네요 잘되었으면 좋겠어요",
+        "writer": "UgyjXLT1EBHemNZUrkB4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요리프로에서 뭐하는건지 채널 돌아감",
+        "writer": "UgynxnE9NSdcfbE8rwx4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딱 연하남 티가 나네요 요리프로 알면서 저러고있네요 남자가 영 밥맛없, 알반찬 간미연만 좋아하는것같은데",
+        "writer": "UgxgZK6_UyhaJ0k2ob54AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에휴 너 왜 사니",
+        "writer": "UgzBERrIQYaQCge4HvV4AaABAg.9NY1YEybnq19Q-rcdc8Xt0",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 (비속어)이세요 보톡스 맞는거 봤어요 그리고 간미연 리즈 시절에 얼마나 예뻤는데요",
+        "writer": "UgzBERrIQYaQCge4HvV4AaABAg.9NY1YEybnq19UeFDiP9qh-",
+        "write_date": "2021-11-13",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거웃긴데 댓글없노",
+        "writer": "UgwWEUd_AqGdnzf62Pl4AaABAg.9Lo5sYWxhMx9QgsxelkkAI",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이응 역시알아주노 사귀자",
+        "writer": "UgwWEUd_AqGdnzf62Pl4AaABAg.9Lo5sYWxhMx9QhCx_YlXR2",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 니 인성을 욕하게 됨",
+        "writer": "UgwKo1vLN0oB2hqpIW14AaABAg.9LQ91o4hlA19Q02XGkduls",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그만우세요 인신공격하는 사람이나 악플다는사람이나",
+        "writer": "UgwKo1vLN0oB2hqpIW14AaABAg.9LQ91o4hlA19Q09xGpRmce",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "니깟것 안 봐도 됨",
+        "writer": "UgynxnE9NSdcfbE8rwx4AaABAg.9LIL8-xxxEd9Q02b0rTzMI",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요리프로그램인데 보기불편함",
+        "writer": "UgzcyeO6NJvhNtNuIO14AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 다 필요없고 뽀뽀를 하건 키스를 하건 다 괜찮음 제발 몇년뒤에 결별설 이혼설만 뜨지마라 구혜선도 그렇고 (이름)도 그렇고 충격 그 자체다 이렇게 알콩달콩 해놓고, 나중에 헤어지는게 더 시청자든 어린이든 충격이고 안좋은거임 저렇게 변함없으면 아무 관계 없음 불편하지도 않음. 이게 팩트",
+        "writer": "UgyRry0GQtWu_KsNxYV4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래 간미연은 좀 저런 달콤한 사랑 받았으면 해. 다른 베이비복스 멤버들도 그러면 좋겠고. 워낙 악성루머에 맘고생을 많이 해서 그런지 좀 보상받았으면 하는 심정이 있음.",
+        "writer": "UgwvYu9yHMg2MARvRFB4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예전에 베이비복스 노래부를때 모가수팬들이 중간중간에 욕하고 난리였지 에효 그애들 싹다 철이없을때라 어쩔수없지만 암튼 어릴때 고생많았어요 정말 힘들었겠어요 이젠 좋은일들만 많으시길 바래요",
+        "writer": "UgzsiUOnkBYgBDyUZ6t4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시간이 지나도 넘 귀엽",
+        "writer": "Ugx84D3rBFt4_cly2np4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니, 소리 몇번을 지르게 만드는거냠, .행쇼하셈",
+        "writer": "UgyVzeRCK5prCEo893l4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "솔로는 고통받고 솔로인데 배고픈 사람은 더 고통 받고",
+        "writer": "Ugz55Ea401y86QLwndJ4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댓글창 (비속어)보소",
+        "writer": "UgxbpcZbkSys5WngODt4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부부란이름으로 뭐하는짓인지 애들 다 보는프로그램에서",
+        "writer": "UgzphI0ZTN5s-vNAHf94AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜(비속어)서못봐주겠네 요리프로에서머하는짓들인가",
+        "writer": "Ugzt-r8EiU_a6CoCoLV4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남편 어디선가 나레이터 목소리로 나오지않았나요 낯익은목소리인데 아니면 그런 나레이터 목소리 해도 되겠다 목소리가 좋으네요 동상이몽이나 아내의맛 캐스팅안되나",
+        "writer": "UgxtBsoG3CuzG5DENCR4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둘이(비속어)거 아니에요 몬든사람들이 보는데 어떻게 그런 행동을 하나요 방송안 할때 둘이서 많이해요. 아이들도 많이보는데 19금 방송인가요 .",
+        "writer": "UgzUNWoAWkGdfoUK-7p4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무애정표현이심해서 못보고다른체널돌렸다",
+        "writer": "UgwMXWGGTU8rofKzl2p4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "팩트)(비속어)는 일제시대에 악랄한 일제 순사들이 심심하다고 (반사회적용어)들한테 칼뽑는 시늉을 할때 불쌍한 (반사회적용어)들이 놀라서 허어어어 한거를 웃겨서 조롱할때 쓰던 말이다 이말을 쓰는 사람들은 (반사회적용어)(비속어) 후손들이다",
+        "writer": "UgyGxR1dkYTUfSfXcAN4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "니 인생이 불편해",
+        "writer": "UgzcyeO6NJvhNtNuIO14AaABAg.9LHnMGXuIOc9Q02_hxZxoE",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 그러려니 해야죠 각자의 사정이 잇을테니 (이름)나 송중기도 악성루머 많은데 당사자가 더 힘들듯",
+        "writer": "UgyRry0GQtWu_KsNxYV4AaABAg.9LGnoSS_B5q9LZvYCKflR4",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "심은진 남경읍 서용인 (이름)",
+        "writer": "UgyRry0GQtWu_KsNxYV4AaABAg.9LGnoSS_B5q9N9gzaMa8FW",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이혼이 죄임 뭘 충격이고 안 좋아",
+        "writer": "UgyRry0GQtWu_KsNxYV4AaABAg.9LGnoSS_B5q9Q-s2y63u0d",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그 가수가 문희준임",
+        "writer": "UgzsiUOnkBYgBDyUZ6t4AaABAg.9LAsLuMR9JZ9LNIs2rDUzB",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저두 (이름)감. 방송분량을 저딴식으로 뽑네.",
+        "writer": "UgzphI0ZTN5s-vNAHf94AaABAg.9L5qo2BwoJS9LAsU9NsE8x",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부부나까 뽀뽀하지 모르는 남남인데 뽀뽀하니",
+        "writer": "UgzphI0ZTN5s-vNAHf94AaABAg.9L5qo2BwoJS9Q02UCfoW4W",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아줌마 남은 인생 어찌 살지 구상이나 해 (비속어) 니 인생",
+        "writer": "Ugzt-r8EiU_a6CoCoLV4AaABAg.9L5jFyTwDZU9Q02ObLLuWa",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "평생 뽀뽀도 못해보고 살았나",
+        "writer": "UgzUNWoAWkGdfoUK-7p4AaABAg.9L5fV60sVsI9L643JCKwlF",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김나박이 해봤을꺼 같음",
+        "writer": "UgzUNWoAWkGdfoUK-7p4AaABAg.9L5fV60sVsI9L6cO34rsQb",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예쁘고 좋은데요 울남친이 연애초기에는 뽀뽀해도 반항같은거 안하고 딱 저랬는데 거의십년정도사귀고 나니까 요즘은 지 입술보호한다고 피하고그래서 쫌 짜증나요. 맨날 입술에 립글로즈인가 뭔가 잔뜩 쳐바르고서 뽀뽀하려고하면 지는 뭐 발랐다고 뾰루뚱한 표정으로 보란듯이 입술 쳐 내미는데 진짜 (이름)니고. 뽀뽀거부할때마다 립글로즈스틱붙어있는거 그자리에 다 (비속어)어먹고 싶더라니깐요 자기는 입술이 연약해서 안된대요 글쎄. 제 입술에 가시가 붙어있는것같다나어쩐대나 암튼 뽀뽀하면 지는 아푸대요. 키스는 거부한지 좀 오래됐고 뽀뽀는 제발하자고 간청하면 어쩌다 지 기분좋을때 마침 선심쓰듯해주는데 표정보면 무슨 뽀뽀적선하는것도 아니고 그냥 입술에 뭐발랐는데 보호제가 닦이거나 침 묻는게 싫은것같더라고요. 씻고 다(비속어)라서 잘 건조시켜야하니까 매번 그러기에는 지가 귀찮아서 그런게 아닌가하고 이해하려고 나름 노력하고 있어요. 알콩달콩하게 사귀는거 좋아라해서 솔직히 영상보면서 많이 부럽네요",
+        "writer": "UgzUNWoAWkGdfoUK-7p4AaABAg.9L5fV60sVsI9L7dPAeq7ld",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어제 버스안에서 젊은커플같았는데 둘이 제 앞자리에 앉았거든요. 보려고 본거는 아니고 보여서요 쫌 귀엽더라고요 딱 저랬어요 울남친이 저걸 보고서 배워야할텐데요 왜 우리남친은 꼭 돈이 아니(반사회적용어) 삶의 질을 향상시킬 수도 있다는거를 깨닫지 못하는 걸까요. 예쁜남자랑 뽀뽀하면 좋죠 삶의 질도 올라가고요 물론 몬생긴남이 뽀뽀하려들면 성범죄(비속어)만요. 즉 잘생긴 훈남이 뽀뽀하면 사랑이공 못생기고 (이름) 남자가 뽀뽀하려들면 (혐오표현)라능",
+        "writer": "UgzUNWoAWkGdfoUK-7p4AaABAg.9L5fV60sVsI9L7exulDV_y",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그런거보면 남자외모가 되게 중요한것같지 않아요 예쁜남자가 지 여자한테 잘하고 저러는거는 넘넘 보기좋고 짱 행복하죠",
+        "writer": "UgzUNWoAWkGdfoUK-7p4AaABAg.9L5fV60sVsI9L7fHhX5-q3",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미치다뇨, 표현이 좀 쎄시네요 아이들도 못볼 수준이었음 제작자들이 어련히 편집하거나 안보냈겠죠. 막말로 (비속어)를 한것도 아니고 부부가 애정표현하는건데 프로그램의 주제와 많이 (반사회적용어)게 나왔다하더(반사회적용어) 일면식도 없는 사람이 둘이 미쳤다니 좀 심하시네요. 얼굴 (이름)다고 막 지껄여도 되는거에요 초등학교는 나오셨죠 아 다르고 어 다릅니다. 같은 말이(반사회적용어) 곱게 쓰세요. 다 돌아갑니다. 댓글창은 나 얼만큼 무식한지 광고하는곳이 아닙니다.",
+        "writer": "UgzUNWoAWkGdfoUK-7p4AaABAg.9L5fV60sVsI9LBnjiYN0Gk",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "느닷없이 여기에다 개인적인 고백을 좀 하자면요. 예전에 교회오(비속어) 있었는데 오(비속어) 되게 훈남이었거든요. 그 당시에 잘생긴오빠랑 잘 되어보려고 호시탐탐 기회를 엿보며 작업중이었거든요. 근데 그 옆에는 제가 좋아한적있던 교회오빠랑 같은 동갑나(이름) (혐오표현)도 있었어요. 둘이서 친구였는데 그 (혐오표현)는 원래 자신의 나이보다 훨씬 거의삼십년정도 폭삭 늙어보이는 거의 할아버지였어요. 글구 그 (혐오표현)가 사랑고백하려는 낌새가 보여였기에 제가 공사쳤어요 물론 방식은 (비속어)범으로 몰았죠. 그래서 그 할아버지( )가 되게 억울해했어요. 억울한게 당연하죠 사실은 (혐오표현)가 아니라 단지 얼굴이 심하게 매우 많이 많이 몬생기고 눈마주치면 토나오게 호감이 없는 사람이었을뿐이거든요. 교회에서 나름 착실한 신도라는 자신의 입지도 있었는데 어떤여자한테 자신은 좋은감정으로 호감 좀 표현했기로서니 어느날 느닷없이 자신이 (비속어)범으로 몰린거를 되게 억울해하고 범행사실( )을 스스로 못 받아들이는 눈치였어요. 제 눈에 안경이라고 잘생겼다 혹은 예쁘다 또는 훈남이라는건 상대적인 관념이 아닌가해요. 사람마다 이상형이 다 다르잖아요 좋아하는 스타일이나 선호도가 다르고요. 이제와서 이런 얘기를 하는 이유는 그 당시에 할아버지가 많이 억울했기때문이고 (비속어)범으로 몰린 (이름) 진짜 (비속어)이 아닌 못 생긴 외모때문이었다는거를 깨닫지 못하는듯했거든요 행위라는건 다양한 요소에 따라 해석이 많이 달라질 수 있다고 생각해요. 잘생긴남자가 지 여자한테 뽀뽀하면 얼마나 이쁘고 보기좋아요 티비보고있으면 속으로 부럽고 어느정도 보상심리되고 호르몬도 뿜뿜이죵. 글구 혹시나 비하인드스토리가 궁금하실텐데요 결국 제가 작업중이었던 그 교회오빠는 또래언니에게로 갔어요. 언니가 자신의 동네에서 뷰티사업하면서 굉장히 능력녀였거든요. 저는 (비속어)에 무능력자라 훈남오빠랑 잘 될 수가 없었어요 근데 그 당시 바로 옆교회에 더 잘생긴 오(비속어) 다닌다기에 그 훈남오빠일은 금방 잊어버렸네요 농담이고요 그냥 다시 지금의 남친에게도 돌아왔어요. 울남친이랑 거의 십년됐다고는하지만 그건 모든기간을 다 합산해서 그런거고 오래사겨서 중간중간에 헤어진 적이 많았거든요. 오래된 연인들이 전형적으로 겪는 갱년기같은걸 수도 있고 그때마다 항상 정말로 그 순간이 끝이라고 생각했고 새출발을 해야한다고 여겼었는데 늘 그게 끝이 아니었더군요. 매번 다시 시작했어요. 참고로 울남친은 예쁘게 생겼어요 맨날 입술에 뭐 바르고 이제는 애정의 유효기간이 지나 저랑 뽀뽀도 거부하고 마치 저를 돌멩이 쳐다보듯 눈빛에 담겨있는것도 없지만 그래도 저는 남친이 예쁘게생겨서 좋더라고요 결국엔 또 남자외모의 중요성으로 결론짓네요",
+        "writer": "UgzUNWoAWkGdfoUK-7p4AaABAg.9L5fV60sVsI9LCyHP8dwH9",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사랑하고 안하고를 떠나 일단 예쁜남자를 보고 있으면 기분이 좋아요. 근데 그 예쁘게 생긴 남자가 어쩌다 뽀뽀까지하잖아요 어떨것같아요 남자는 예뻐야해요. 예쁘면 나를 사랑 안해도 괜찮아요. 근데 예쁘기는해야되요.",
+        "writer": "UgzUNWoAWkGdfoUK-7p4AaABAg.9L5fV60sVsI9LD-PM7TPhk",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모쏠 안티x의 (비속어)",
+        "writer": "UgzUNWoAWkGdfoUK-7p4AaABAg.9L5fV60sVsI9Q02KgCX3UX",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "표현이 너무 지나치니 재미없어짐.",
+        "writer": "UgwMXWGGTU8rofKzl2p4AaABAg.9L5fSU0dm6F9LAs_Po3GUt",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울면서 돌렸나보네,",
+        "writer": "UgwMXWGGTU8rofKzl2p4AaABAg.9L5fSU0dm6F9NEdZM2C2Ya",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요즘은 결혼을 했는지 안했는지 표시가 안나요. 간미연 씨가 살이찐것 같네요",
+        "writer": "Ugw5kaiYXKXZwyvwUOh4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둘이 넘 잘어울린다 기엽",
+        "writer": "UgwUEd0Pf0gg-unVep94AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "결혼해서 행복살이 살짝 하지만 더 이뻐욥",
+        "writer": "Ugw5kaiYXKXZwyvwUOh4AaABAg.9L3ELiW021m9L417CgXma0",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Aj_4HTT-RZw",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

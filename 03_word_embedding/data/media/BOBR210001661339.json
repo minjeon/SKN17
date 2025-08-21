@@ -1,0 +1,428 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001661339",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001661339"
+    },
+    "text": [
+      {
+        "content": "문세윤 안움직여 이제야 선호땜에 보게 됐는데 다시 못보다니",
+        "writer": "UgwrqbkfVkBWQ6-vQ754AaABAg",
+        "write_date": "2021-11-05",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "본방땐 웃다가 놓친듯한데 다시보니 문세윤 물통들고 나오면서도 딘딘 손잡고 데리고 나옴",
+        "writer": "Ugyg95LS-u5ufuq2-6h4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어쩜 이렇게 맨날 팽팽할까 으로 이기는 날이 거읰 한치 앞을 알수가 앖어",
+        "writer": "UgwsYdijCcNNSsq1jJx4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딘딘 너드미",
+        "writer": "UgyqlE1D0koDqeZcotJ4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "힘들어 보여",
+        "writer": "UgxyLlx-wuDkh6BYjfF4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이와중에 (이름) 딘딘 놀리면서 웃는거봐",
+        "writer": "UgwvTfNxGa1nLrOL8bl4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아진짴 귀여워서 미쳐버리겠닼",
+        "writer": "Ugx-N17hztck2W8h21J4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 연정훈지금이야 공격이야 하는데 진짜 희망주는척하면서 놀리는거같앜",
+        "writer": "Ugyo831JvXDLfjQ98hx4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "카페에서 이 장면으로 찐 움짤 보고 일박이일 보기시작함 진짜 너무 귀엽고 웃겨",
+        "writer": "UgzEq6KcKUh5UlyPtpl4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딘딘 작아서 뛰면 엄청 높이올라감 아 귀여워",
+        "writer": "UgxgnFiMh_HZ13G8p7N4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐가 오케이야",
+        "writer": "UgyGGDwo1F849g17SZN4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "라비 뭐함 개웃겨",
+        "writer": "UgzgtrpaswQQ2rpodV14AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래도 문세윤이 딘딘 손잡고 나옴 시즌4는 멤버들끼리 참 잘챙기고 훈훈해서 보는 내내 마음이 편안함",
+        "writer": "UgwR6cfTB7yTTua44TR4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딘딘 귀여웤",
+        "writer": "UgyUgC8AAUk2Gh_waJh4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예뽀 미소 왤케 예뻐,",
+        "writer": "Ugx3Wd1bBSJV-zrKs-V4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딘딘 공격때 옆에서 응원하는 연정훈 겁나 웃김 지금이야는무슨",
+        "writer": "UgwW5CMWbozQSXM-Qp54AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "cg 미쳤냐곸",
+        "writer": "UgyAGWTzRVgNUAHMxfh4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아들 위한 놀아주는 아빠 같아",
+        "writer": "Ugyn4oPBk7tW6-TRMhp4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지진은 지구 내부에서 작용하는 힘을 말해요.",
+        "writer": "Ugyur8FpQb-Fp4l6UYN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "멤버들 케미 역대급인듯",
+        "writer": "Ugx9V7C3khfEOLEgl1p4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "라비는 말로는 불쌍해하는데 표정은 전혀 그렇지 않음",
+        "writer": "Ugz1lAhUZOKgTqJ19zN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이건 레전드야 레전드 너무 웃겨 진짜",
+        "writer": "Ugw48-p8GgBwsNagjF54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저기서 자빠졌는데 누가 옆에서 계속 뛰면 진짜 답없음",
+        "writer": "UgwIpkkW61mLZ2RwFZN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "라비가 웃다가 흘린게 제일웃김",
+        "writer": "UgygaVadW4dCGrf4-5J4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이날 딘딘 귀염 초과했다, 죽는줄 알았네 귀여워서",
+        "writer": "Ugx4tm2K_TLpAox3iI14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무귀여워서 죽을것같아, (비속어)큐",
+        "writer": "UgzyBmPTUBJBw6QOpfV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딘딘이 하늘은 날아요......",
+        "writer": "UgwYapIudqAh0AyKiQp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아닠진짜 딘딘이랑 문세윤 덩치가 차(이름)가지곸 조카와 삼촌같앜",
+        "writer": "UgxkU5TObupFftWn8Dt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "피지컬 차이가 이렇게 큽니다,",
+        "writer": "UgwklkSx6HM17pzQuQ14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딘딘너무 기엽닼",
+        "writer": "UgyD-_qgKlJ1Wtl1p-N4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "봐도봐도 딘딘 귀여워 죽겄네 진짜 어쩌면 좋아 하, 너무 사랑해 딘딘, 미치겠다 귀요미,",
+        "writer": "UgzAJswKPR6JO-TlsXV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딘딘 말티즈같앜",
+        "writer": "UgyG_THZw3Y6iQNC0At4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흑흑 딘딘 너무너무 귀엽고 하찮아, .",
+        "writer": "UgxU6bOWQIjuYp7_3Hl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1박 이번시즌은 이 둘이 원투펀치네",
+        "writer": "Ugw_JKZXf1QR7D-wkV94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딘딘 팔랑이는가 너무 웃겨",
+        "writer": "UgxEY9EyEF3IpBcENxh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딘딘 넘 좋아",
+        "writer": "UgzTFyto6d5dBT3TgSl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딘딘씨 그 팔랑개비 같은 몸 좀 어떻게 해보세요",
+        "writer": "UgyIabjX34jX-JBubzJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 흐흑허약한 말티즈",
+        "writer": "Ugx4tm2K_TLpAox3iI14AaABAg.9EQh4irVuxU9Gb1JpFMR4l",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아진짴 딘딘 기엽고 웃기다 진짜 너무 기여워",
+        "writer": "UgyymFXifDimnxtieIF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딘딘 귀여워요",
+        "writer": "Ugw8RENbXVi6Nrip8OJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "상대 정할 때 딘딘 성격 좋다고 느낀 게 문세윤은 누가 상대해도 힘드니까 (이름)이 딘딘 버리는 카드로 문세(이름) 붙으라고 했는데 딘딘 언짢거나 기분 나쁜 기색 하나도 없이 오케오케 함 1박2일 보기 전엔 딘딘 잘 몰라서 (이름) 별로였는데 이젠 완전 호감 됨",
+        "writer": "UgxUqzV7YJkrw3OPjGd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어) 조카 놀아주기는 하는데 절대 안 져주는 삼촌같다",
+        "writer": "UgyxCZt9p5tm6Ruc3dR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딘딘 귀여워요",
+        "writer": "Ugy_kNn4MwEw14FWdkR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도욤 지금은 너무 호감이요",
+        "writer": "UgxUqzV7YJkrw3OPjGd4AaABAg.98Oz6_iGsme98Rqjrl2-e_",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이요딘딘 짱",
+        "writer": "UgxUqzV7YJkrw3OPjGd4AaABAg.98Oz6_iGsme98VLDGVEW-2",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딘딘이 철 없어서 욕 많이 먹던데 성격 좋은거 많이들 알아주셨으면 합니당",
+        "writer": "UgxUqzV7YJkrw3OPjGd4AaABAg.98Oz6_iGsme98WxbyGpbr2",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딘딘 방언니에서도 너무 멋있음 멘탈이 건강한게 느껴짐",
+        "writer": "UgxUqzV7YJkrw3OPjGd4AaABAg.98Oz6_iGsme9BqMG4jGBHb",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마저여 딘딘오빠 좋은 사람이에용",
+        "writer": "UgxUqzV7YJkrw3OPjGd4AaABAg.98Oz6_iGsme9DINx1qrgWj",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딘딘 귀여움",
+        "writer": "UgxUqzV7YJkrw3OPjGd4AaABAg.98Oz6_iGsme9Gb-vFFXnsR",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딘딘 짱 너무 조아",
+        "writer": "UgxUqzV7YJkrw3OPjGd4AaABAg.98Oz6_iGsme9Gb1O1gwnHu",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비유 정확하다",
+        "writer": "UgyxCZt9p5tm6Ruc3dR4AaABAg.98J4hlUwdXl9ALuQp1jwQN",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비유 무엇",
+        "writer": "UgyxCZt9p5tm6Ruc3dR4AaABAg.98J4hlUwdXl9N_ChinPsMB",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7uQ6mTn8Ftk",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

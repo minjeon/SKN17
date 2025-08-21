@@ -1,0 +1,628 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001681077",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001681077"
+    },
+    "text": [
+      {
+        "content": "3시간 짜리 영화라 끝까지 다 볼수 있으려나 했지만 3번 이상 보게되는영화지",
+        "writer": "UgzVU6XuwIAkFnMaX5l4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마고로비꼴포를 잘아는배우임",
+        "writer": "UgznuW1tsDzUBgr8B_h4AaABAg",
+        "write_date": "2021-10-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌 스트리트는 뭐여",
+        "writer": "UgxbMc21Ibb2ysEYqXF4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "더 울프 오브 윌 스트리트 빵터졌네요 리뷰어가 이건 아니잖아",
+        "writer": "UgwkUgLg8qRt4LI_rBh4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마고로비 예쁘다",
+        "writer": "Ugz2A41gdsHbk73rV0F4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌스트리트 X 월스트리트 O",
+        "writer": "UgzcgPDkrrVbm8P9cE54AaABAg",
+        "write_date": "2021-08-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울프오브 월스트릿 아니에여 윌스트릿",
+        "writer": "Ugy6997RFw7SvhJPXSB4AaABAg",
+        "write_date": "2021-08-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하, 시험 5일남았는데 이거보고있다라아아",
+        "writer": "Ugw39JOgrolOrDSHD8B4AaABAg",
+        "write_date": "2021-07-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "the wolf of wall street 윌 스트리트요",
+        "writer": "UgzuaD5iBGvJGMqul_J4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "금융(반사회적용어)무기징역 사형",
+        "writer": "UgwtsEPNkphSLWXVFHB4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "깜빡이좀 켜고 들어와라 진짜,",
+        "writer": "Ugx1oNOPjdSvjhBXLk54AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 다시 한번 봐야겠다. 비트코인 사고싶게 만드는 영화네요.",
+        "writer": "UgzswoUWr-VfeEJjfIN4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오토바이 배달 뛰는데 주식 전문가라고 (반사회적용어) 쳐서 떼돈 법니다 이런 사람 본받지 마세요",
+        "writer": "Ugz96uX8Lh06NU0r-Rh4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기 (이름)쌤도 나오던데",
+        "writer": "UgyTRDj35sQl2O6NJPJ4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울프오브 월 스트리트,",
+        "writer": "Ugzvpk3bb4_W2skp2NJ4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)집 배달원이 주식전문가라고 하는것과 같음",
+        "writer": "UgzYw2fP9iFtqaYB0rB4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "두번봤는데 두번 다 기억못해서 볼때마다 재밌는 영화,",
+        "writer": "UgzxfkUL8sC3CAr0UBl4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 음부 (반사회적용어)도 많음 심지어 마고도 음부 (반사회적용어)됨",
+        "writer": "UgwxBk7qT72xYR_hP3p4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마고가 누구더라",
+        "writer": "UgwxBk7qT72xYR_hP3p4AaABAg.9N6e7RjO8xs9NoMmXS4Hoa",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "K 할리퀸이요 마고 로비",
+        "writer": "UgwxBk7qT72xYR_hP3p4AaABAg.9N6e7RjO8xs9Npm-mAX9-n",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 레전드 디카프리오 그자체",
+        "writer": "UgzcORqTLwmwcWy_6eJ4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어떻게 이렇게 억양을 바꿨지",
+        "writer": "Ugzijx3S7TLLtpXHj-d4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 이 영화 진짜 중요한 반전을 이야기 안하네",
+        "writer": "UgyEQaytH5X0OVuEOpV4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌스트리트가 뭐야 월스트릿이 뭔지 모르나 영화제목이기 이전에 상식이에요 제발, 에효",
+        "writer": "UgyqpMxK4Ee4M2YzzWZ4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌스트리트가 아니라 월스트리트(wall street) 이에요,",
+        "writer": "UgzPapBMH6U9S_L-7lJ4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "월스트릿도 몰라서 윌스트릿이라고 하네 미국 wall street 모름",
+        "writer": "UgxfqXDxWoyqfQxCdBJ4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예오토바이 배달원이 주식 전문가라고 하는것과 같음 그냥 (반사회적용어)꾼 그이상 그이하도 아니다",
+        "writer": "Ugz-7iRoEhxxDPi0seJ4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "디카프리오가 내 판타(반사회적용어) 잠시나마 충족시켜줬다. 남자가 누릴수있는 쾌락 끝판영화.",
+        "writer": "UgzQhBd_u1UrkvCPl794AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남자는 돈이 있으면 눈이 돌아가게 되어있음 그래서 돈있을때 봐야 진짜 모습을 볼수가 있지",
+        "writer": "UgyLyu7czQ9gBJ_I0Cl4AaABAg",
+        "write_date": "2021-04-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금보니까 지금유행하는 룩이랑 (비속어)같네",
+        "writer": "UgwEd5CAG7UluI3kfSJ4AaABAg",
+        "write_date": "2021-04-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 장면",
+        "writer": "UgwL4fthQeS0KLVTGxZ4AaABAg",
+        "write_date": "2021-04-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)에 (비속어)에 불과함 (이름)과 비슷함",
+        "writer": "UgzfVPZ_9f0N-XFmphZ4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "타짜처럼 매번봐도 재밌는 레전드중 레전드",
+        "writer": "UgxNMXmFihCwMRv8eNF4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제목이 윌 이아니고 월 아닌감",
+        "writer": "UgzUA7VaXXP5_flEcX14AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개미입장에서 정말 욕나오는작품 작(이름)는 작품도 와 하고 다들 이렇게 한강가는구나 하며 봤었던 기억이",
+        "writer": "Ugym7oKMN_ELEpUVoEh4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 이 영화를 보고 따라한(혐오표현)",
+        "writer": "Ugw1BhFSn40yghaXYBd4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "알아요, 오타내서 대본읽다보니",
+        "writer": "UgxfqXDxWoyqfQxCdBJ4AaABAg.9Mhd1bVYbA49MhocLpy3aR",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영반 오타내서 대본 읽었다는건 핑계일수가 없죠. 월스트릿 그 자체가 미국 증권가를 대변하는겁니다. 실리콘밸리를 레미콘밸리라고 하는걸 실수라고 하면 누가 믿음",
+        "writer": "UgxfqXDxWoyqfQxCdBJ4AaABAg.9Mhd1bVYbA49Mpa9FC-v9W",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "돈이 있을때가 진짜모습아닌가엽",
+        "writer": "UgyLyu7czQ9gBJ_I0Cl4AaABAg.9M39v7sJNvs9PD2fSGURWI",
+        "write_date": "2021-07-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그 사람의 본 모습을 알고싶거든 권력을 쥐어주란 말처럼 돈 많을 때 알 수 있음",
+        "writer": "UgyLyu7czQ9gBJ_I0Cl4AaABAg.9M39v7sJNvs9PHv7bkOAXX",
+        "write_date": "2021-07-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Dnfkdis Qqojsh 오타",
+        "writer": "UgyLyu7czQ9gBJ_I0Cl4AaABAg.9M39v7sJNvs9PI93AwPUzr",
+        "write_date": "2021-07-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "많은 사람들이 (비속어)와 (비속어)를 욕하면서 자신이 그들보다 못하다는 걸 인지하지 못한다",
+        "writer": "UgzfVPZ_9f0N-XFmphZ4AaABAg.9KojrZZM93V9Kp_hOK_V10",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그런 (비속어)에게 이용당하는게 현실",
+        "writer": "UgzfVPZ_9f0N-XFmphZ4AaABAg.9KojrZZM93V9P-Sw1-EhoN",
+        "write_date": "2021-07-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)집 배달원이 주식전문가다라고 (반사회적용어) 치고 떼돈번다 이게 무슨",
+        "writer": "UgxNMXmFihCwMRv8eNF4AaABAg.9K6S9EZiKmN9NMSEqATOX3",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "월이 맞음 오타인듯 월가에서 있었던일인데",
+        "writer": "UgzUA7VaXXP5_flEcX14AaABAg.9Jxpq_Y-n659K-GrDvEg4a",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 영화화",
+        "writer": "Ugx1VD4NmnaAGSinhgN4AaABAg",
+        "write_date": "2021-02-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "월스트리트인디 왜 자꾸 월스트리트라고,",
+        "writer": "UgwRGUxjNlw-Vsl8-Ut4AaABAg",
+        "write_date": "2021-02-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 조던벨포트 아닌가",
+        "writer": "UgyiS3LYjrzB1BkWw7V4AaABAg",
+        "write_date": "2021-02-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참고로 마지막 부분에 디카프리오를 조던벨포드라고 소개한 그 진행자가 조던벨포드 이에용",
+        "writer": "Ugzn1XdibGtcFSx777B4AaABAg",
+        "write_date": "2020-12-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "더 울프 오브 월 스트릿 입니당 윌 스트릿이 아니라",
+        "writer": "UgyM24HxrsQZDQt6Mn14AaABAg",
+        "write_date": "2020-12-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와우 좋은영화 리뷰감사합니다",
+        "writer": "UgzdiOz8mVmOIWpWdr14AaABAg",
+        "write_date": "2020-12-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "디까프리오 정말연기짱이네요 약에취해 운전하는모습",
+        "writer": "UgyMeKWhB4Ld2guDQvZ4AaABAg",
+        "write_date": "2020-12-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자극적이지만 괜찮았던영화.. 디카프리오는 중년이 되어도 연기하나는 역시 굿입니다 디카프리(이름)는 안빼놓고 다본듯해요",
+        "writer": "UgyNeYO_xEtw-HKXMOl4AaABAg",
+        "write_date": "2020-12-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꼭꼭꼭 풀로 보세요",
+        "writer": "Ugzo7bIkSbUi3h5b(반사회적용어)94AaABAg",
+        "write_date": "2020-12-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 돈 많이 벌어서 흥청망청 쓰고 싶습니다, 후우 영반 행님 잘 지내고 계시지용 점점 추워지고 있네요 늘 감기 조심하시고 코로나 조심하세요.",
+        "writer": "UgxY-bHyE9HdtB-5uKx4AaABAg",
+        "write_date": "2020-12-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 요즘에도 이런거 있겠죠",
+        "writer": "UgwVnnDWiWVmDZVPmHx4AaABAg",
+        "write_date": "2020-12-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넷플에 없다니",
+        "writer": "UgzsnpWE7V9AnW98cfx4AaABAg",
+        "write_date": "2020-12-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 펜으로 말하자면 맨인블랙이 사용하던 펜으로 이렇게",
+        "writer": "UgxvAYpwkUz8CBbFrQx4AaABAg",
+        "write_date": "2020-12-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "레오나르도 디카프리오는 살이 찌고 나이가 먹어도 잘생겼고 매력 넘친다 연기는 말할거도 없고",
+        "writer": "UgyAU7ay0ojbRRG0hXt4AaABAg",
+        "write_date": "2020-12-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밥먹으면서 보기 좋은영상",
+        "writer": "UgwqOhn9KZw3RJJDjb54AaABAg",
+        "write_date": "2020-12-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이분도 (반사회적용어)셧네 월스트리트가 아니라 월스트리트임",
+        "writer": "UgwRGUxjNlw-Vsl8-Ut4AaABAg.9JX4nUfhLRw9Mf_O0RIH2S",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대박 그건 몰랐네요",
+        "writer": "Ugzn1XdibGtcFSx777B4AaABAg.9GhxeEBeHc29Ghz0sH8N0V",
+        "write_date": "2020-12-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 벨포트전성기때보다 디카프리오가 돈 더많은게 더재밌음",
+        "writer": "Ugzn1XdibGtcFSx777B4AaABAg.9GhxeEBeHc29MpnNCNL22N",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 실수했네요 설명 감사합니다.",
+        "writer": "UgyM24HxrsQZDQt6Mn14AaABAg.9Ghjx30Xscr9Ghz4x1p1sB",
+        "write_date": "2020-12-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시청해주셔서 진심으로 감사드립니다",
+        "writer": "UgzdiOz8mVmOIWpWdr14AaABAg.9GfCE5mxOIi9GggtLijOoI",
+        "write_date": "2020-12-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 혹시 (이름) 추천해주실만한 디카프리오 영화 있을까요 오늘도 와주셔서 너무 감사합니다.",
+        "writer": "UgyNeYO_xEtw-HKXMOl4AaABAg.9Gdic_p8DQh9GeIGRxiBvS",
+        "write_date": "2020-12-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영반 너무너무 많죠 우선 워낙 유명하기도 한데 길버트그레이프. 타이타닉.아이언마스크 블러드다이아몬드. 위대한개츠비등등 모두 단연최고였던거같아요..",
+        "writer": "UgyNeYO_xEtw-HKXMOl4AaABAg.9Gdic_p8DQh9GfoWjK5Iwx",
+        "write_date": "2020-12-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "합니다 꼭꼭",
+        "writer": "Ugzo7bIkSbUi3h5b(반사회적용어)94AaABAg.9GdWsYHya3K9GeIIDtCmx1",
+        "write_date": "2020-12-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "블랑 조아님 언젠가 시청해주셔서 진심으로 감사합니다.",
+        "writer": "UgxY-bHyE9HdtB-5uKx4AaABAg.9GdJcPpGWAN9GeIOOVm-kY",
+        "write_date": "2020-12-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요즘엔 저런 식으로 제안 안 하죠. 게다가 이 영화 주인공은 결국 체포됨",
+        "writer": "UgwVnnDWiWVmDZVPmHx4AaABAg.9Gcqyx4t9Dv9Gctq-6AZ68",
+        "write_date": "2020-12-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐야 이 형이 왜 여기서나(이름) 팬이에웈",
+        "writer": "UgwVnnDWiWVmDZVPmHx4AaABAg.9Gcqyx4t9Dv9Ge2rMV1Us3",
+        "write_date": "2020-12-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 형님 인기 유튜버 오늘도 와줘서 사랑해요",
+        "writer": "UgwVnnDWiWVmDZVPmHx4AaABAg.9Gcqyx4t9Dv9GeIT7hA7CX",
+        "write_date": "2020-12-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)과 비슷함",
+        "writer": "UgwVnnDWiWVmDZVPmHx4AaABAg.9Gcqyx4t9Dv9Kojw4AoHUI",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 오늘도 와주셔서 진심으로 감사합니다.",
+        "writer": "UgzsnpWE7V9AnW98cfx4AaABAg.9Gcju38mQKH9GeIVOloUdY",
+        "write_date": "2020-12-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영케어님 잘지내시고 계시죠",
+        "writer": "UgxvAYpwkUz8CBbFrQx4AaABAg.9GcjOnA-f5j9GeIXYjbtuv",
+        "write_date": "2020-12-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쓰레빠님 오늘도 와주셔서 너무 감사합니다.",
+        "writer": "UgyAU7ay0ojbRRG0hXt4AaABAg.9Gchf-ucGIQ9GeI_Jf6X7H",
+        "write_date": "2020-12-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무난무난하게 영상을 제작했습니다.",
+        "writer": "UgwqOhn9KZw3RJJDjb54AaABAg.9GcfN_bkmHR9GeIdtfx4Is",
+        "write_date": "2020-12-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=nOEummWCsq4",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

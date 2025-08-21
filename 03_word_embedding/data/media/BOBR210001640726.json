@@ -1,0 +1,2284 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001640726",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001640726"
+    },
+    "text": [
+      {
+        "content": "눌러주셔서 제게 원기옥의 힘을 조금씩 나눠주세요. 유튜브를 하면서 정말 많은 문제에 봉착하게 되는 상황인데 좋아요와 구독이면 힘을 낼 수 있어욧..",
+        "writer": "UgxXirVDjoTRWQGnqXt4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "물어보신총은 mac 10 입니다.",
+        "writer": "UgxculgnctmHQTatE714AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "펄프 픽션 첨봤을땐 뭔내용이냐 이해못했다가 20여년만에 다시보는데 온통 명장면 투성이 내게 제일 절정의. 장면은 저 횡단보도상에서 마르셀로스와 부딪힌 후 공구상에서 오토바이 타고 탈출하기까지. 잘 도망친줄 알았는데 하필 마르셀로스 2. 마르셀로스 밀어버리고 튈줄 알았는데 버치도 바로 추돌당함 3. 마르셀로스 살아나 쫓아옴 4. 마르셀로스 때려잡았는데 가게주인한테 붙잡힘 5. (반사회적용어)이 아니라 (비속어)들이었음 6. 혼자만 탈출하려다가 마르셀로스 구해줄 무기 픽 장면 장도리 야구방망이 전기톱 사이에서 선택장애 난 그종에 야구방망이를 응원했음 7. 그러다 선반위의 물건을 발견한 부치의 환희에 찬 ((비속어)같이 입 헤 벌린) 표정 사무라이검이었음 8. 마르셀로스 구출작전 공구상 일빠로 썰어버림 직접 폭행하던 (반사회적용어)은 당사자가 제압해버림 부치 이제 어떡할건데 두목 부하들 오면 사정없이 혼내줄거야 부치 쟤 말고 나말이야. 이 대화 넘 웃겼음.. 펄프픽션 모든.에피들중에 여기부분이 젤 계속 허를 찔리고 뒤통수때림의 연속이다가 웃기기도 젤 웃겼던 아 펄프픽션",
+        "writer": "UgzCVW9Pr6FmZvUO56d4AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "덩치와 복서는 친해지게 되었음",
+        "writer": "UgwBWGct6wmmggWMA_Z4AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제 최애 감독이 만든 제 인생 영화. 저수지의 개들도 한 번 해주세요",
+        "writer": "UgwBD91YdUR_P4Wgm5N4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기 나오는 시계 무슨 브랜드 시계인지 아시는 분",
+        "writer": "UgyJfjhUKLM5kYdunZ94AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "19금 뜨는데",
+        "writer": "UgwPbGMT9uprDl7tEPF4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 중간에 소리가 안나옴,",
+        "writer": "Ugy8iHJW8Cxj0_IWiX94AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공구점이 아니라 전당포라고,",
+        "writer": "UgwMmqdawuzEXOZxE7R4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연령 제한",
+        "writer": "Ugwon3CUBNW6FFWZat54AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "햐 (이름)는 (비속어)꼬속의 시계보다도 더 의미있는 영화죠 다시보고 또보는중",
+        "writer": "UgzMMfFzT0MwdNUSAmN4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Q아 영화가 왜이렇게 시시해 .. A인생은 원래 시시해... Q언제부턴가 내 삶에 문제점을 찾기위해 영화를 본다, 근디 이 영화 뭐야... 시간이 너무 아까웟어... A누가 언제부터 영화가 교훈과 의미부여를 준다고햇는가 .. 개인적으로 할아버지가 옆에서 이런저런 이야기를 해주는거같은 느낌, 뭔가 의미없는 대화지만 그저 그게 인생의 소소한 재미인거같은",
+        "writer": "UgzOI_8zACmfxEOR1uV4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "황당고기로 민족종교 코스프레 하는 (비속어)교주를 조심하자 요즘은 인맥이용해서 온갖불법적 영향력을 행사(이름).",
+        "writer": "UgyymoAuPwNyQaP6eu54AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쿠엔틴 타란티노의 장편 데뷔작 저수지의 개들에 이어 나온 또 하나의 수작, 될 성 싶은 나무는 떡잎 때부터 확실했습니다.",
+        "writer": "Ugz9CWzQetpoqtUiUy54AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "매라면 나도 하나 가지고 있지 (스윽)",
+        "writer": "UgxyfKqHaeMoZOR3_md4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형님 다음에는 한국영화 7데이즈 해주세요",
+        "writer": "UgxXirVDjoTRWQGnqXt4AaABAg.8cTlHXy2egJ8cUr1M4NbRI",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃지 UTZI 꾸르잼",
+        "writer": "UgxXirVDjoTRWQGnqXt4AaABAg.8cTlHXy2egJ8cWLQN_SM7y",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "mac 30입니다 소음기는 군용 ARS이머",
+        "writer": "UgxXirVDjoTRWQGnqXt4AaABAg.8cTlHXy2egJ8caWZGg3BJr",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜로 매를 맞았던건가요",
+        "writer": "UgxXirVDjoTRWQGnqXt4AaABAg.8cTlHXy2egJ8cbA8dyD-3z",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋아요는 눌렀는데 구독은 누르면 돈 나가는 건가요",
+        "writer": "UgxXirVDjoTRWQGnqXt4AaABAg.8cTlHXy2egJ8cgFTD6K_4H",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "갱스터 베가스 이걸로 본따서 만든게임였나 완전똑같내",
+        "writer": "UgxXirVDjoTRWQGnqXt4AaABAg.8cTlHXy2egJ8dBEUHtdYEq",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "UTZI웃지 못 하고 있습니다",
+        "writer": "UgxXirVDjoTRWQGnqXt4AaABAg.8cTlHXy2egJ8dw9SpzxgyB",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어) 혐오자 99999999999999 99999999.",
+        "writer": "UgxXirVDjoTRWQGnqXt4AaABAg.8cTlHXy2egJ8tWNYzDCE3T",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 이거 19금 걸려있죠 19금 뚫는방법을 써서 봅니다",
+        "writer": "UgxPi9lC93pjZ5GvGn94AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보고싶은데, 19세야",
+        "writer": "Ugy8nCHdTjzW-tCnwcF4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맥거핀의 아이디어를 굉장히 잘 사용한 영화의 예시",
+        "writer": "Ugy4qwj8cafsHjtxc4d4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "3분 40초 춤이 트와이스 뮤비넹",
+        "writer": "UgzrxeVvHHRe1WJJZFN4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 19",
+        "writer": "Ugyb-3iGB5FjiW7THRl4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윽, 남자한테 그짓을,드러",
+        "writer": "Ugxd6e6DLOUExRPxr4l4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "봐야지 댓글 달지인마야 .",
+        "writer": "Ugybqb1zBoML-MoswzZ4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기 댄스장면 트와이스 왓이즈럽 뮤비에 패러디로 나왔더라구오 어쩐지 뮤비보면서 낮익다그랬는데 껄껄",
+        "writer": "Ugz9PIBnKXtxiJ2YA-J4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이총은 우지가 아니라 MAC10입니라 MAC10은 Military Armament Corporation Model 10 의 약자이며 이 총은 미국에서 1960년에서 1980년정도까지 개발된 SMG(기술적으로기관 권총)입니다. 주로 (반사회적용어)들을 위하여 만들었는데 월남전(베트남 전쟁)에서도 이용되었다고도 하네요. 영화속 MAC10은 소음기 버전",
+        "writer": "UgzH1C0SEU2hW6A7pCl4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제목보고 스카페이스인줄 알았네,",
+        "writer": "UgwkFAwc8zZXJwHRoJV4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저거 춤추는장면 트와이스 신곡 뮤비에있는데",
+        "writer": "UgydPVOydTz-D2xgsuF4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그총 제생각엔 우지UZI에다가 소음기를 단 것 같아요.",
+        "writer": "UgxY67zYdWaMFZa6pVJ4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "님이 우지라 하신총이 mac 10인데 제가 아는 게임중에선 카스 글옵과 레포데 에 나옴여",
+        "writer": "UgwWisyXXhDmslCQuh94AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니시계를 항문에 어떻게넣어.",
+        "writer": "UgyJBY8uRpxVz_or_Xl4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기 나오는 댄스 장면 what is love 댄스 장면이랑 똑같음",
+        "writer": "UgwXdRYCe19THoeWYJR4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잉그램 mac10",
+        "writer": "UgyPYDjOc7S2vzN1yc14AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저총은 우지가 아닌 mac 10이라는 기관단총입니다",
+        "writer": "UgxGdTZZ7RcXbqc69PJ4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흥미로운 내용 잘봤습니다tkdgkehddud221155836684",
+        "writer": "UgzaP8CreV8AAsY_DtR4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저총 잉그램인것같씁니다 m11인가 mac 10인듯",
+        "writer": "UgyZigkkSXQrGoWyp_x4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이걸 보고 빅카후나 버거 브랜드가 진짜 현존하는 줄 알았었죠. 앞서 맥도날드와 버거킹 스프라이트 같이 현존하는 브랜드가 사무엘 잭슨의 대사로 언급되었으니,",
+        "writer": "UgwQSrUmAsOefAGao314AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비선형 플롯의 구조가 획기적으로 쓰인 대표적인 영화죠. 우리나라에서 상영할 때 한 영(반사회적용어)사님이 누군가가 영화 순서를 망가뜨린 줄 알고 시간대가 이어지도록 재편집해서 상영했다는 이야기도 얼핏 들었습니다. 진짜인지는 알 수 없지만요.",
+        "writer": "UgyrqqipYrG4oAwlonV4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제가 이걸 2013년 쯤에 DVD 사서 봤는데 빈센트 죽을 때 완전 신선한 충격이 느껴져서 놀랐던 기억이 납니다. 결말까지 보면 감탄을 하지 않을 수 없습니다.",
+        "writer": "UgzPc3qsB0pCJpkongR4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "펄프픽션 좋지",
+        "writer": "UgxThyzJW4750anweTp4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "후반부에 잠시 깜빡이좀",
+        "writer": "Ugxn9UHoneDmZczf2od4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잉그람 뭐시기같은데, 촌은 잘몰라서리,",
+        "writer": "UgzyeE3kjHqdB45NjH94AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "분명히 봤던 영화인데 거의 20년전에 봤던지라 결말이 전혀 기억이 안나네요.",
+        "writer": "UgyGcH3CMHs6gZxQWKF4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜래요 타란티노가. 그걸 구하고 싶아했다더군요",
+        "writer": "UgyrqqipYrG4oAwlonV4AaABAg.8dwQs-cyZ059A5HvEmsEQF",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "SINderelah 저도 그렇게 이야기한 것을 알고 있습니다.",
+        "writer": "UgyrqqipYrG4oAwlonV4AaABAg.8dwQs-cyZ059A5I9eWxyTn",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "레디액션맨(이름) 대해 다시",
+        "writer": "UgzPc3qsB0pCJpkongR4AaABAg.8dvQZDLAOP28dw9MZWtJnH",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "7(비속어) 잉그람 m11기관단총 잘 모르겠지만 범죄자들이 썼던 총이라고 합니다.",
+        "writer": "Ugw2vnbC8W0ntTIZxXR4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윈스턴 춤 (혐오표현)이네",
+        "writer": "UgyVBoUK8e4ODTIpUzx4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저거 춤 왜케 윈스턴 춤 같지, .",
+        "writer": "Ugy9irNgXBv9rg4nKnN4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "총 아마 smg11같아요",
+        "writer": "UgwOSjcjYiBOTtEnErl4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "총은 mac 10",
+        "writer": "Ugy8I_J7Va2s1RMpYgl4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 일본도 들기까지 과정 되게웃겨요. 야구방망이잡다가 전기톱들고 마지막은 일본도",
+        "writer": "Ugw_BdlHs0Sv7SW1lql4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영화 이름이 뭐야 도대체",
+        "writer": "UgydKXiIJ0ZTpvyX0aJ4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Mac10 입니다",
+        "writer": "UgzAPhKnsA5o3ZRU3pd4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 그짤이 (이름)에서 나온거엿어",
+        "writer": "UgwFVVvqP_7MoehCWVd4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여러분들이원하는 장면",
+        "writer": "Ugw8H3Dkg35Is9R4LyB4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "8분15초 니가저거 덴거아님",
+        "writer": "UgxhhHKLsjauudIb6ct4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항문 무엇",
+        "writer": "Ugx0Inlc_UfMwH0wvw14AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 춤추는거보고 알았다 . , .그거구나",
+        "writer": "UgyUa04Ak5v6jf61PPZ4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "총이 MAC10 같은데",
+        "writer": "UgwvwZWgQgahxHgJGAV4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머큐리447 MAC10",
+        "writer": "Ugw2vnbC8W0ntTIZxXR4AaABAg.8dgRUh1DiX28dh8DAOWmaS",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머큐리447 FPS에서도 단골로",
+        "writer": "Ugw2vnbC8W0ntTIZxXR4AaABAg.8dgRUh1DiX28dh8O9klL_0",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머큐리447 근데 M10이랑 M11 거의 차이가 없는것 같은데 어떻게 구별하는건가요",
+        "writer": "Ugw2vnbC8W0ntTIZxXR4AaABAg.8dgRUh1DiX28dh8ptAil4p",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니면 mac10일거예요",
+        "writer": "UgwOSjcjYiBOTtEnErl4AaABAg.8dbre_TvPR18dbrgwRwvTb",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잉그램 M10 같아서요",
+        "writer": "UgwvwZWgQgahxHgJGAV4AaABAg.8dBf6WjD3Z78dHfB5qlk5m",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "T.K Kwon 검색해보니 m10이 mac10을 줄여서 말한거 같아요",
+        "writer": "UgwvwZWgQgahxHgJGAV4AaABAg.8dBf6WjD3Z78dHlMmGilf-",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "깊고 어둔운 것을경험했군",
+        "writer": "Ugxcu-gg7UdDsfRDqcJ4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래도 그렇지 엄마라는사람이 찾아오질않다니 (비속어)엄마네",
+        "writer": "UgyjmXIzbnJd71ktuUJ4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아내가 미아 그럼 자식을 낳으면 미아를 맘마미아라고 부르겠네",
+        "writer": "UgzzfsL8J-EruDbndlh4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "3분 32초에 윈스턴 춤추는거 아닌가",
+        "writer": "Ugy-iw8RJ5H5dBJz-p14AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "10년 후, 조폭의 아내는 배신과 함께 극적으로 병원에서 탈출한 뒤 복수를 해 나가고 잔인한 피를 (비속어)는 (혐오표현)이 펼쳐진다",
+        "writer": "Ugx1SzOUEPMEvcSuLuN4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "티나는 걍 거기서 집돌아가고끝남",
+        "writer": "UgzdeK7JKfUrdNlJrJV4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하도옛날에 봐서 기억이 않나, 타란티노 출세작인데, 저춤만 기억나네 펄프는 흐물흐물한 혹은 저급한잡지 란 뜻이 있어, 한영어 했었는데,",
+        "writer": "UgwO_bxOdXQeHHibjyx4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저총 이름은 MAC인거 같아요",
+        "writer": "Ugyar6cVeley18buXot4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 총은 MAC 10 소음기 장착버전입니다",
+        "writer": "UgykOPhmxTGDzt0MUpF4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이여자 존예다,",
+        "writer": "UgwK9vILbg9Ylay82_V4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "루거 권총이고 연사도 빠르죠",
+        "writer": "Ugw2ZMlwDO62704YkGh4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "매가 아닐텐데",
+        "writer": "UgxdfpXRnmnhGEfVUXd4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "총 이름 mac11 우지랑 비슷한데 개머리판이 위로 접힘",
+        "writer": "UgxAa9Ctj2bWnZr79Dp4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어) 셔면,",
+        "writer": "Ugw0TNMdSHqZmuF4ayd4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쿠엔틴 타란티노 (이름)의 귀여운 특별출연도 볼 수 있죠",
+        "writer": "Ugx2-8lnGSvaF606Oct4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "총 맥텐아님",
+        "writer": "Ugznywg3E_UaWDd-haR4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 이게 그거구나 남자의 로망",
+        "writer": "Ugyiv1Hwe-2KjPDku2B4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "호랑이tv (비속어)인데",
+        "writer": "UgwK9vILbg9Ylay82_V4AaABAg.8d57oUnQjqB8dFJVeO3_vZ",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 저 춤이 윈스턴 춤이 되었,",
+        "writer": "UgwUBfMIFk35jPMMeZV4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무슨영화인지 전혀모르겠다",
+        "writer": "UgxcC1H12kr6AQdrOWp4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해산물덕후 버치",
+        "writer": "UgwYd36NMWR3Yj4mMD14AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자기가 지는쪽에 걸었으면 돈 더벌었을텐데,",
+        "writer": "UgwNLTVlwjUsQdO-CpZ4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "총 잉그램m11입니다",
+        "writer": "UgyEu4nVoD5IKMs1dv14AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "총이름은 잉그람 입니다",
+        "writer": "Ugz5F_AatwGxQliehP14AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "펄프 픽션에 등장하는 사람이 등(이름) 댓글을 달려고 내리는 순간 설명에서 펄프 픽션이라고 써있다 저거 MAC10에다가 전용 소음기를 부착한 모델입니당",
+        "writer": "Ugy7HhMRuoI0oA-39fR4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "브룩클린 브라더스 리뷰해주세요",
+        "writer": "Ugwap4UNd4Ykvw_5hoB4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)샠기야 그래서 제목이뭐냐고",
+        "writer": "UgyD5H2HrBF6AmXXEPd4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "빈센트가춘춤 옵치감사제 윈스턴 춤인데",
+        "writer": "UgwzX0mD-1PbUYolj1l4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "갑자기 sm 플레이 ,",
+        "writer": "Ugzv7I4jZ6fgHobjGsl4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제목이랑내용이다르잖아 이(반사회적용어)꾼아",
+        "writer": "Ugzl2fY2uZV1jK_nqkR4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "버찌역 배우 이름이 생각이 안나네 (비속어), 여튼 저분이 출연한 작품은 믿고 볼수있지.",
+        "writer": "UgwZ5Z1xpuvWE1D4O3V4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아마도 매를 맞는것으로 보임",
+        "writer": "UgwHJDrHi0vqx2AZzfZ4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우지 소음기 생각났다 손",
+        "writer": "UgzpkATRs4zojg17lvp4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잉그램 아님",
+        "writer": "UgzQaw1MLlmGqKiPcyN4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 영화가 이런 내용이었구레알 혼돈의 카오스닼",
+        "writer": "Ugz6GvAowSkKMKcbD694AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우마서먼 c컵쯤 되는데 누우니깐 아무것도 없네. 참(반사회적용어)는 누우면 옆으로 퍼지는구나",
+        "writer": "UgxFMyzLTzoSqM6E4EV4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그총 우지 맞아요",
+        "writer": "UgxvaJbjK34kj_NssMB4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가죽멘 (비속어)",
+        "writer": "Ugwjj6zs1NTGhN2LqKh4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "총 스콜피온인듯 싶네요",
+        "writer": "Ugxh7oe9HCctZ0OhqNR4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소음기가 장찬됙 SMG는 MAC10입니다.",
+        "writer": "UgynPGQh2YAegd0FZ6Z4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잉그람 기관단총 같아요",
+        "writer": "Ugy_DS9qv4dQdv0q6od4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우지가 아니라 m11입니다",
+        "writer": "UgziYME-ztNndfl7q8J4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "총이름 mac 11 입니다",
+        "writer": "UgwyafMuye0INqHMGY94AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "7분10초에 나오는총은 잉그람m11같습니다",
+        "writer": "Ugw8xaU_JzE3O3v51VN4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "총이름은 USPS입니다",
+        "writer": "Ugxhzy9N8TTD2vr4tCl4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가죽맨이 뭐햇을지 (이름)상상을해버린나는 타락해",
+        "writer": "UgyF0Ug038JWQIgY1NB4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 총 아마 MAC9 아님 MAC10 일듯요",
+        "writer": "UgypHeTxTYD43O1mIft4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저총 MAC10",
+        "writer": "UgyLfejPREuA0Ly6-xN4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "총 이름은 잉그렘 mac10 기관단총입니다. 아님 mac11이거나요, 어떻게 구분하더라,",
+        "writer": "Ugzqemf5bf2OHNBsuVN4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "매, 를, 맞는 거, 겠, 지",
+        "writer": "UgzfTYhm4yva5PN5hil4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쿠엔틴 영화네, 개 명작임 쿠엔틴 영화는 다 명작임",
+        "writer": "UgzDlSMNv0iwhxlAB4V4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그총이 우지가아니고 아마도, 저도잘모르겠습니다",
+        "writer": "UgysMSaYPxcC_Ch6nnF4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 갱스터 베가스 스토리랑 비슷하당",
+        "writer": "Ugxpsu_w6y4kUXCHFUx4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "매를 (비속어)로 쳐맞냐 맞는게 아니라 몽둥이로 찌르는듯",
+        "writer": "Ugxtb2cRWzYjeaRnNxh4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헌이 가만있으면 반은감.",
+        "writer": "UgxvaJbjK34kj_NssMB4AaABAg.8cv-w8tde408d2MkdKyuXo",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "배그충 (비속어) (비속어)",
+        "writer": "UgxvaJbjK34kj_NssMB4AaABAg.8cv-w8tde408fmN15N6VUn",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "장고 강추입니다 장고 꼭보세요 django",
+        "writer": "UgzDlSMNv0iwhxlAB4V4AaABAg.8cqbnAIEx2e8cqbt1Thuc8",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Butch는 버치가 아니라 붓치입니다,",
+        "writer": "UgxZCERE_oc6E93HPNx4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "춤은 드릅게 못추네",
+        "writer": "Ugy3PyJPkaxpqv4mZ-54AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "중간에 나왔던 총은 잉그램 m11 입니다.",
+        "writer": "UgwJSSggoiI(반사회적용어)PHv9it4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "총이름 MAC12",
+        "writer": "UgzfkSJY2CP-GigZxDd4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "빈센트 페이스오프 주인공 아님",
+        "writer": "UgzpxagYwTutyox9v-Z4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "매를 맞는게 아는것 같다",
+        "writer": "Ugz-uvaR-RI2x9Y6eFZ4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "타란티노 감독 작품인데 봐야겠네요",
+        "writer": "Ugx0B_qzannR2LabW-x4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부르스윌리스 든 총은 잉그램이라는 9mm소형기관총입니다",
+        "writer": "UgwG7-5bz2d6-uQ0Mwt4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 멍게 해삼 불효자..",
+        "writer": "UgyjdIIXe8c9RT-W3TB4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "매가 매가아닐꺼같은건,",
+        "writer": "UgxDkLRx7r-KLcyUq594AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "설명 장하셨소",
+        "writer": "UgzZ4lwIyc-taHFfDb54AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "두목이 매를 맞는 다니 ,",
+        "writer": "Ugx90QdmVpZRC3AbjTp4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "총 mac 11 아니면 mac10",
+        "writer": "Ugzjp5h-jvloGamXRlR4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 봤는데 저장면은 (비속어)짓하는 장면",
+        "writer": "Ugxk7RNa80V6KVNsh4F4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잉그램 이라는 총입니다",
+        "writer": "UgzO-zX6VEiMda9KnPh4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우지는 아니고 mac10이라는 기관단총입니다",
+        "writer": "UgxTVOjCPx4nE0cyrTF4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "10개의 영화를 소장한다면 반드시 들어가야할 걸작.",
+        "writer": "UgzmI-ro8rJf_BxtMvd4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쿠엔틴 타란티노의 출세작. 칸에서 황금종려상받고 아카데미 7부문 노미네이트 각본상 수상.미국 역대최고영화 28위.imdb 평점 역대 7위.",
+        "writer": "UgztqMVONOoi2B285x94AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제목에 대한 결론을 기다리기 위해 겁나 오래 쓸데없는 소리 듣고 있어야,",
+        "writer": "UgxXTYGVPGs9SLG8Eph4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Tomoko Kobayashi 여기서 뵙네요",
+        "writer": "UgztqMVONOoi2B285x94AaABAg.8cjgrtVq9fJ8cq-kO6B02q",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형아 그러고 보니 그전에도 가끔 본적이 있는것 같습니다. 같은시대를 청춘으로 보낸 형아님을 보니 반갑습니다.",
+        "writer": "UgztqMVONOoi2B285x94AaABAg.8cjgrtVq9fJ8cqBSE_Iz55",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부터 나오는 장면, 어디서 많이 봤다했는데 대도서관의 radiator2 플레이에서 본장면임",
+        "writer": "UgxcacYHjF3BYnqGPzx4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 치마 뒤 (혐오표현)에 코대고 킁킁하고싶은거 나뿐이냐",
+        "writer": "UgyiRVXWxmg-WkvJlGZ4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "심슨에 나왓던장면이 이거구나 패러디한거엿네",
+        "writer": "UgzDekX6PQNWPwXi3B54AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저총은 우지는 아니고 잉그람 M11 입니다 매우빠른 연사속도를 자랑하죠",
+        "writer": "Ugzup5YIjoCdAQoEycl4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "급 절친이됨",
+        "writer": "UgxaLG1joVwZ6gJNLNh4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밀덕충의 설명 나온 소음기달린 총 이름 스콜피온",
+        "writer": "Ugyn-0xPPT1em931_9d4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "입에 물고 있는 것 부터 수상하다 했어,",
+        "writer": "Ugxh1M794MiP4ovEHAh4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "골 때리네",
+        "writer": "UgxS0ijBVzB2i1ISiFR4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영화예고편보는데 보고싶어서 다운로드중,",
+        "writer": "Ugy40XPAgqCqLw9D3bt4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 snl이 패러디한거 아닌가",
+        "writer": "UgwNe5VQyxLK8mJ9SLp4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 영화가 깐느영화제 작품상 받은 영화죠",
+        "writer": "UgwNUKCi7N4OLIBUjpx4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 오래 전에 본 영화라 기억도 안 난다. 허나 재미는 있었어.",
+        "writer": "Ugy7CfqI5E34TTxRYtx4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)이 게1이",
+        "writer": "UgwOYuzC5pp7pWnw50N4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우지가아닌 잉그램",
+        "writer": "UgwYjvmI87Y9DRskTR94AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "매맞는 장면 설렌다",
+        "writer": "Ugw1fOFbuLh17i4ugsZ4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 어릴때 봤던 펄프픽션이 이런 내용 이었다니, 새로운 영화를 다시 보는 기분",
+        "writer": "Ugwkin96sPoNaJ85kvJ4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에이 설마, 아니겠죠",
+        "writer": "UgxCYFwGy1xm2RKCfXR4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 영화에서 가장 웃긴 일은 두목과 버치에게 일어나는 사건이지,",
+        "writer": "Ugzg2M3zEI3Z7R7-_2F4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)웃기네 당장 보러감",
+        "writer": "UgzJqfceDHkvpwHDHfl4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "발마사지에 반신불구 실화냐",
+        "writer": "UgyAdoaVkzEBO-JbRVh4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 펄프픽션을 리뷰하는데 사무엘 잭슨이 한 장면도 (이름)다고 (이름)의 백미는 say what again 이지",
+        "writer": "UgyIcZ0ECzgCWVqzwcx4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "smg소음기 이네욘 스콜피온 이거나",
+        "writer": "UgwCQhCpVdgwUq56fRZ4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대학에서 대중문화쪽 전공이라면 한번쯤 마주치게 되는 바로 그 영화 쿠엔틴 타란티노의 갓띵작 오브 갓띵작, 이지만 보기엔 약간 버거움",
+        "writer": "UgwDcPtQ-cdp3xsoEut4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 남자처럼 춤추는 롤 캐릭터 있지 않나요",
+        "writer": "UgwpusuTMjqhb7c3lNV4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "물론 . 매를 맞고 잇겠죠 xD",
+        "writer": "UgxgIoIT_pfERQP-7SJ4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윈스턴 춤이 왜 거기서 나와. (드립입니다 이게 원본인 거 알아요)",
+        "writer": "UgwuOkqZ2TvEFnWDCzR4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "버치 여친 배우 이름뭐지,",
+        "writer": "UgzInyAoiUb7ykFQBy14AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항문에 숨겼다니",
+        "writer": "Ugx1asD-2D5WMkMiZMd4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이제 (이름) 자리 이어 받으셔도 되겠다. 오디션 한 번 보세요. 유튜브에만 있으시기엔 너무나 아까움,",
+        "writer": "UgzLBpptgDE4x_2PCaN4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미아 이쁘다",
+        "writer": "UgymbE29UjbiSoJTEhR4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어릴 때 심슨 가족은 내게 이름도 알지 못하는 수 많은 명작을 많이 보여준 것 같아 예를 들자면 마차 페인트질 하는 황야의 무법자나 어린아이 못 지키는 골초 더티 헤리나 소드 오프 샷건 들고 있는 애꾸 손에게 (반사회적용어) 두목과 잡힌 심슨이나",
+        "writer": "Ugy4BzLV7rCTOczzrnZ4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "특 A급으로 만든 B급영화 명작중 명작 B급 영화의 레전드",
+        "writer": "Ugyg-gA7AO0rIR4mlfV4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비밀의 방으로 이거 마동석 거 아닌가",
+        "writer": "Ugxyls6C6nhzDvdpkY54AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "펄프픽션의 우만서먼은 언제봐도 매혹적임,",
+        "writer": "UgzW1rFZdiToStsQ4QZ4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제목을 참, 영화랑 하나도 관련없어보이는데",
+        "writer": "Ugwb4DP7apwJj9s-aNR4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일본도면 칼이 잘 들었을려나,",
+        "writer": "UgyXqN5UYgvDvMtO07R4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "결말좀 말해주실분",
+        "writer": "UgzbUftLWBCTYZ9Nfq14AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "프로필사진 유소나임",
+        "writer": "Ugy575nUjnZ3m2MxPTt4AaABAg.8cdUV0EHuXo8d9naCG4x4e",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 소음기 달려있는 연발총은 잉글램m10인거 같습니다",
+        "writer": "UgzxVJfZinpi7PjUlBl4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잉글리쉬 엄마뻑국.",
+        "writer": "UgwSC9y9Sl-zeO4hzEd4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 왜 형이거기서 나와 그리고 왜맞아 그분은 좋은 뻑규맨이었습니다 흙흙",
+        "writer": "UgxvxSdjCm6chVFx04R4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "과연 저 두목이 맞고있던 것일까, Ang .",
+        "writer": "UgyOSg2TYFqVLNcMjVR4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 마더 뻐커라는 대사가 여기서 나온거둔",
+        "writer": "UgzxRsSzQG65CURSiad4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우지같이 생긴총 mac10 이거 맞남,",
+        "writer": "Ugy1b-Hn-X7fnORUjA94AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저런 빌리(비속어)",
+        "writer": "Ugw__MrN7xS-5BBgdlR4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에총은 잉그람입니다",
+        "writer": "Ugy_jB1Mdf6KzzV61aR4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윈스턴 춤이 여기서 유래했네",
+        "writer": "UgyGrR33IM2icl1eBXN4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그거 우지 맞는거 같음 개머리판없는 우지",
+        "writer": "UgyG-f3TwtWHIAeF0Ch4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃지님이 올리는 영상은 다 재밋어보임",
+        "writer": "UgxPENDYIrS4SP4kxcB4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초 명장면 편집 필수요소 그게 이거구나",
+        "writer": "UgwVbRxLarcO_DEmH0R4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "펄프픽션 총이름은 소음기장착 인그렘 입니다.",
+        "writer": "Ugy6R50RyP4exBk7X8N4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": ", 제가 대체 뭘본거죠 (비속어)",
+        "writer": "Ugw0crdQIM1GUGJtglJ4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "춤추는장면에서 윙스턴춤나옴",
+        "writer": "Ugz8dxAhFX0DMJsn8hJ4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (비속어) (비속어)이던데 좋아",
+        "writer": "UgwQI4xWhSYpG4bVvOp4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "총이요 잉그람입니다",
+        "writer": "UgxBN2qMSqmi-CkIjyd4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "표적이랑 같이 공중전화 박스에 들어가야 맞힐수있다는 그 총 잉그람 Mac10",
+        "writer": "Ugy_jB1Mdf6KzzV61aR4AaABAg.8cbVDXPIpFt9KKWhGVbyRf",
+        "write_date": "2021-03-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다양한 소재와 재밌는 시도가 많았던 90년대 영화들 소개해 주셔서 감사합니다. 얼마전 유투브측과 관련해서 힘드셨던걸로 아는데 다시 영상 올리시니 다행이네요 항상 잘 보고 있습니다.",
+        "writer": "Ugz33sZdgDDostWAZiZ4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 페북에 또 (이름) 말안하고 올렷네요 또 영화정보 특공대네요",
+        "writer": "UgzbTdpFPKbyJCUeiNx4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "매를 맞는데 남자들만 가지고 있는 몽둥이로 맞는 것 같군요",
+        "writer": "Ugz0I9xK4ngzSMpqe0d4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몽둥이로 당하는 거니 매맞는거라고 표현할수도 있겠죠, 어흠, 네 네,",
+        "writer": "UgxLs4K3TxdVNRY2ENF4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그놈의 발마사지",
+        "writer": "Ugw0fXULVGKppaadQK94AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윈스턴 춤",
+        "writer": "UgyT7lXLl-v-pW2muyh4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헤에이 와 하픈",
+        "writer": "Ugxzar5gjyEAlLQFY6p4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 강력한 매 같네요",
+        "writer": "Ugz6OiOA6NbzMgrEP5N4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "과연 매를 맞고 있었던 것 일 까,",
+        "writer": "Ugz75YV-hBjXGMlXaRJ4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "존 트라볼타랑 사무엘 잭슨이 나(이름) 그리스에서 트라볼타 댄스 패러디한거 나오네요",
+        "writer": "UgzqGJzXjyDb6wkGtwZ4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영화도 영화지만 ost가 멋진 영화 중 하나",
+        "writer": "Ugwzkso3H8IW4X7IZPh4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내용은 버치와 조폭두목이었지만 제목은 조폭두목 아내와 그 부하,",
+        "writer": "UgzgmV1FeZSc4NqvjcJ4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그총 이름 우지는 아니고 웃지니닼",
+        "writer": "Ugyk408iVQE_Vx-d_Ht4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윈스턴을 보았습니다,",
+        "writer": "UgxoxzljVPT71G-aVOh4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잉그램 같습니다. MAC10 이라고도 부릅니다.",
+        "writer": "UgwunHcehBZV3O0lqtl4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "펄프픽션 자체가 (혐오표현)이라는 뜻을 내포하고 있으므로 왜 이렇게 (혐오표현)이냐고 할 것이라면 안보는게 나음. 하지만 감독 특유의 b급 감성을 좋아하시는 분이라면 진짜 명작임.",
+        "writer": "UgxVaLNhPwu4T_Dap3J4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)샐러드 저도 그 생각했는데",
+        "writer": "Ugz0I9xK4ngzSMpqe0d4AaABAg.8c_zTtkF6wc8cdPwZ4vMDG",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 (비속어)같이 생긴넘이 (혐오표현)은거",
+        "writer": "Ugz0I9xK4ngzSMpqe0d4AaABAg.8c_zTtkF6wc8cimtVc2viS",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "문뇌충 (비속어)",
+        "writer": "Ugz0I9xK4ngzSMpqe0d4AaABAg.8c_zTtkF6wc8h95Tt7Axst",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 그걸 맞은 것 맞습니다",
+        "writer": "Ugz0I9xK4ngzSMpqe0d4AaABAg.8c_zTtkF6wc8yauv9grJ38",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흥어 나만 본게 아니었구나",
+        "writer": "UgyT7lXLl-v-pW2muyh4AaABAg.8cZj39oBmZC8coHA40eXMv",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일반인 (반사회적용어)이바",
+        "writer": "UgymXMm6RtKxxiUfFW94AaABAg.8cZP9G8XxTf8dt0R51xv99",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 아 맞아요, 지금보니",
+        "writer": "UgzqGJzXjyDb6wkGtwZ4AaABAg.8cXvgACG8aE8cq-YFe-yGV",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애초에 (이름)를 b급 감성이라고 하는거 자체가 b급감성이 뭔지 모르는거임 님부터 이게 대체 b급 감성이랑은 거리가 멈",
+        "writer": "UgxVaLNhPwu4T_Dap3J4AaABAg.8cWuH0STaZN9Tv1o_J23E5",
+        "write_date": "2021-11-01",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 말미잘 멍게 해삼 불효자",
+        "writer": "UgzPG1w6o2AVRVkhZyV4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사무엘잭슨 행님의 모도뽀꼬가 빠진게 아쉽네여",
+        "writer": "Ugzh_efUK6u4BoMGN514AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말아무생각없이 봤다가 웃다가 끝났네요",
+        "writer": "UgzOszzMnwt92WcG9FV4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "총은 MAC10인것 같넹용",
+        "writer": "UgyLo8Yivsv8QbB6hCJ4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "총 이거요.",
+        "writer": "Ugy9Sz4wtxvmRE_9FQl4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "매를 맞고 있었다 으로",
+        "writer": "UgzDc33F0__2rM3X1n54AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쿠엔틴 타란티노, 정말 영화 중에 재미없는 게 없는 감독임 꼭 챙겨보세요",
+        "writer": "UgwpAdah9NcI3SPsTtt4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "님들이 원하는거",
+        "writer": "UgxLnZIc0ZYj7M-3XrN4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋아요는 땡큐.",
+        "writer": "UgxQlR-55K24_DpEF4R4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 진짜 웃지님 목소리도 좋고 소개해주시는것도 좋고 아 그냥 다 조음",
+        "writer": "UgzsZvc-VDgTPksTrBh4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "심슨에서 패러디한 장면이 이거구나",
+        "writer": "UgyqQIeaX1_uJ67xYCV4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "M10인것 같습니다만",
+        "writer": "UgwMDOfO5Eub6wQhioV4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 정말 오래전에 봐서 기억이 가물거리는데, 멋진 영상입니다. 마져 다 보여줬으면 아쉽네요",
+        "writer": "UgwsaM0CdKLUFVSFVkZ4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영화 구조가 되게 독특하던데 깔끔하게 잘 (이름)신듯",
+        "writer": "UgzwJ-ZfvIGHvo4Nurt4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어릴때 우지 짜리몽땅하게 만든 버전이 mac 10 인줄 알고 둘다 우지라고 했었는데",
+        "writer": "Ugyfh-bFJP-kbGajSXN4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 이거 골때리넼",
+        "writer": "UgzQRcejH0iT2bPAyMl4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게 그유명한 치즈붜걸 먹방영환가요",
+        "writer": "UgyQy5EGqI0ZCbrDJVl4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 영화",
+        "writer": "UgxpPQBp1vgNw4o4V1p4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "램지가라사대 이 뭐죠",
+        "writer": "UgzDc33F0__2rM3X1n54AaABAg.8cUvTAfsFTm8cblDyXHxwf",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무미건조 데뷔작부터 남달랐던 천재감독",
+        "writer": "UgwpAdah9NcI3SPsTtt4AaABAg.8cUrr5Fif5R8d1qpVZHNvh",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일충들을 위한 좌표",
+        "writer": "Ugx2RnSweXC6xHoD8h94AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저총의 이름은 우지가아닌 웃지입니다",
+        "writer": "Ugwo1acUh6_ZBARhYuh4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "SM 플레이어 무엇",
+        "writer": "UgwHR5yLciXdVi-fXcN4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크 펄프픽션 명작이죠",
+        "writer": "UgwHmEPPBheM0XMcp5l4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오우, . 마르셀로스에 (이름)에 혼란이,",
+        "writer": "Ugw8Z-yEAa9xb6qRvZZ4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 유튜브 영화채널 개인취향 탑3 채널 너무좋아요",
+        "writer": "UgyTAcWI8SqtKo7BszJ4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 재미있게 봤던",
+        "writer": "UgzBMw-u35tssOd7TRd4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 약간 내용이 게임 갱스터같다",
+        "writer": "Ugwt2rHS747gvCy1TCB4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "MAC M10 잉그램 기관단총, wEC9E89EAB7B8EB9EA820EAB8B0EAB480EB8BA8ECB49D",
+        "writer": "UgwmS1mWy5h4JSn8OfR4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쥴스 이야기가 이 영화의 백미인데 아쉽게도 여긴 없네요 옴니버스식 구성이라 (이름)기 힘드셨을텐데 잘보고갑니다",
+        "writer": "UgzR7UQH0sivdJMGoWh4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "갓엔틴 갓란티노",
+        "writer": "UgwGnZz3abz9QML-MbB4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조폭두목이랑 버치랑 그래 친한데 왜 싸우냐. 차로 치고가고",
+        "writer": "UgwBqTrlnFwy4XW7oEp4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 영화 그 더러운 장면, 나에게 매우 충격을 줬었지,",
+        "writer": "Ugx_FuGh_vD955NVFG94AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 잘보고있어요 웃지님도 인트로 한번 만들어보시는게 어떨까용",
+        "writer": "UgzIhYNb306M6DEgcIV4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Onslayet 오케이.",
+        "writer": "Ugx2RnSweXC6xHoD8h94AaABAg.8cUKfNE4Pnu8ceUFVC5BAh",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크어 땡큐.",
+        "writer": "Ugx2RnSweXC6xHoD8h94AaABAg.8cUKfNE4Pnu8ceVPOfv_bI",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Onslayet 오늘은이거다 땡큐",
+        "writer": "Ugx2RnSweXC6xHoD8h94AaABAg.8cUKfNE4Pnu8cqiekGVq1n",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "솔쿼드 10위권탈출기",
+        "writer": "Ugx2RnSweXC6xHoD8h94AaABAg.8cUKfNE4Pnu8csP3QNoZoR",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1 supermunu 순둥이네",
+        "writer": "Ugx2RnSweXC6xHoD8h94AaABAg.8cUKfNE4Pnu8csRXwSokmJ",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미쳤냐 애들아",
+        "writer": "Ugyz5RHsYG3no8G_VIh4AaABAg.8cU2s-_85Fm8cURU4BL0So",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난이제 11",
+        "writer": "Ugwt2rHS747gvCy1TCB4AaABAg.8cU-SBgzdno8ccZBmtLhJL",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "차주천 난 13임",
+        "writer": "Ugwt2rHS747gvCy1TCB4AaABAg.8cU-SBgzdno8ciwgrPTYxL",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "갱스터 베가스 맞음",
+        "writer": "Ugwt2rHS747gvCy1TCB4AaABAg.8cU-SBgzdno8dBFPiwT-w1",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스토리가 다른(혐오표현)",
+        "writer": "Ugwt2rHS747gvCy1TCB4AaABAg.8cU-SBgzdno8dBFRt2jZma",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꺼무위키 나라",
+        "writer": "UgwmS1mWy5h4JSn8OfR4AaABAg.8cTzoe_vKqL8cdDtspBen3",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무슨 뜻인지 모르겠어요, 링크 삭제할까요",
+        "writer": "UgwmS1mWy5h4JSn8OfR4AaABAg.8cTzoe_vKqL8ceyzzhAtih",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 우진데",
+        "writer": "UgwmS1mWy5h4JSn8OfR4AaABAg.8cTzoe_vKqL8cfQEIUM1ej",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 밀덕",
+        "writer": "UgwmS1mWy5h4JSn8OfR4AaABAg.8cTzoe_vKqL8cg0jLAebhV",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "파괴왕마수리 네 우지 아닙니다 잉그램이라눈 총이구요",
+        "writer": "UgwmS1mWy5h4JSn8OfR4AaABAg.8cTzoe_vKqL8cl2KDEOK0j",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맥텐이라고 흑룡들 랩가사에 많이 나옴. 드라이브바이하면서 스프레이처럼 (반사회적용어) 뿌린다고.",
+        "writer": "UgwmS1mWy5h4JSn8OfR4AaABAg.8cTzoe_vKqL8cmDH63JUf-",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "파괴왕마수리 Mac10",
+        "writer": "UgwmS1mWy5h4JSn8OfR4AaABAg.8cTzoe_vKqL8csasx8pVpp",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "파괴왕마수리 응 아냐",
+        "writer": "UgwmS1mWy5h4JSn8OfR4AaABAg.8cTzoe_vKqL8dNBJAuD0lx",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맛있는물회 아 물회 먹고싶다,",
+        "writer": "UgzIhYNb306M6DEgcIV4AaABAg.8cTqXUkYcKg8iwGHLR5KXL",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아님 Ingram MAC M10 임",
+        "writer": "UgyPTSecIlpwrdmY93J4AaABAg.8cTmJmwM6Qq8d_0fzpd72O",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=tQ8xwAvBspM",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

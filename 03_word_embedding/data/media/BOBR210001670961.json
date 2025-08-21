@@ -1,0 +1,340 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001670961",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001670961"
+    },
+    "text": [
+      {
+        "content": "고양이도 주인 닮아서 아주 귀여워, 애치탬, 그리고 꿍이..",
+        "writer": "UgwHndOvhi-U_vCVY454AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=pi4Ebd4qkRM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 노래 뭔가요 진짜 너무 제가 좋아하는 스타일데",
+        "writer": "UgyMpPUQ-pZb-WbxJ4F4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=pi4Ebd4qkRM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 나는 키 어머님이 태민 요리 해주는 줄",
+        "writer": "UgweC4A_ognngIp5WZ14AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=pi4Ebd4qkRM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "냥이 너무 이쁘다",
+        "writer": "UgyYj7iS771wKCkpTid4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=pi4Ebd4qkRM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜, 누난 너무 예쁘다고 했던게 눈에 선한데,",
+        "writer": "UgxAHlM47i0S3r_RHyx4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=pi4Ebd4qkRM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 근데 꿍이 진짜 이쁘게 생겼다, 완전 인형같은 생김,",
+        "writer": "Ugw3ssO9OcMIFuRbS614AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=pi4Ebd4qkRM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)다 태민이 제대할때가 됐는데,",
+        "writer": "Ugz-e_nFEC1BKqSWJlR4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=pi4Ebd4qkRM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 진짜 인싸고 진짜 귀엽다, 따수워 파워인싸라 하실때 초대해주면 안되냐는게 너무 웃김 (이름)은 키같은 형 바라는데 난 (이름) 같은 이웃 있었음 좋겠다 사람이 너무 좋아",
+        "writer": "UgzZu5eGQf117q9Xorh4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=pi4Ebd4qkRM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "키범이 이번달 31일 하는데 섭섭해하는 엄마 표정",
+        "writer": "UgyVkZBq5j9nZLb7eXF4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=pi4Ebd4qkRM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이말이 왜이렇게 좋지 너 좋아하는 참치",
+        "writer": "UgwJi_L6yo5OCXXFkUB4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=pi4Ebd4qkRM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나, 고양이 눈에 안 들어 오는 편인데 꿍이는, 와 내가 본 고양이 중에 최고다",
+        "writer": "UgzoiRpHn9fXNo7xR5t4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=pi4Ebd4qkRM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나혼산은 왜 이렇게 키를 여자로 만들고 싶어서 안달이냐 이모에 엄마에 아주 그냥 다 갖다 붙여라 구닥다리 (비속어)들아. 키가 재밌어서 보려다가 자막이 개구려서 눈살 찌푸리게 된다.",
+        "writer": "UgyXmahtX7N4l2bdxFJ4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=pi4Ebd4qkRM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 꿍이 화면빨도 꽤나 잘 받네, 실물파일거 같은데 너무 귀여워 죽갓어 태민이 꿍이 두고 어케 가 는 이미 갓지",
+        "writer": "Ugwr8bb76GI5uQptpa54AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=pi4Ebd4qkRM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자다가도 별안간 (이름) 군대 생각에 눈물 흘리는 여성, 아, 태민은 (군대) 갔습니다. 사랑하는 나의 님은 (군대) 갔습니다. 님은 떠났지만 나는 임을 떠나보내지 아니하였습니다,",
+        "writer": "UgxNn0WnvgrZkVtUzUd4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=pi4Ebd4qkRM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "태민군살찐건가 얼굴이달라졋네",
+        "writer": "UgxLGL6sT45sKdwi6o14AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=pi4Ebd4qkRM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울집 (이름)도 특훈이다.",
+        "writer": "UgwyIKSkm8BJCWph14V4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=pi4Ebd4qkRM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "키 show me",
+        "writer": "UgyMpPUQ-pZb-WbxJ4F4AaABAg.9OhvtG8lrUw9RBHDu289w0",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=pi4Ebd4qkRM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "발이 진짜 귀엽다",
+        "writer": "UgzoiRpHn9fXNo7xR5t4AaABAg.9O35rEnjhPh9OMc0g88fzy",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=pi4Ebd4qkRM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동생 군대가기전 신경써서 요리해주는 키랑 만들어준 사람 보람되게 음식 칭찬해주면서 맛있게먹는 태민이랑 너무다정하고 훈훈하다",
+        "writer": "UgxrtfsOac9UiGSzAdF4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=pi4Ebd4qkRM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저때 (이름) 스케줄가있는데 어지저찌해서 (이름) 집에서 인터뷰했다던데",
+        "writer": "Ugws4DOmvX1Sr2meZbp4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=pi4Ebd4qkRM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "말하는 것 이쁜 것 좀 봐여 형이 좋아하는 맛은 조화롭다니, 남자라면 다녀와야지.. 하는 그런 분위기가 아니라 진심으로 걱정하고 챙겨주는 모습이 너무 예쁩니다 두 분 응원할게요",
+        "writer": "UgxPIWFu_7k28-BXbXV4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=pi4Ebd4qkRM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "태민아 넘 잘 봤어 잘 갔다와 항상 너의 옆에 있을께",
+        "writer": "Ugz0sB7Bpox6AlxTuu54AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=pi4Ebd4qkRM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "탬니는 저런 형이 4 명 있어요.",
+        "writer": "Ugzas5XzuP72lMeWt8N4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=pi4Ebd4qkRM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혹시 태민이 키우는 (비속어) 아담이랑 이브는 어디 있나요 . 태민이 엄청 이뻐하던데 방송에 안 나와서요.",
+        "writer": "Ugwr_6Y9nMe8NLt9pzN4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=pi4Ebd4qkRM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아담과 이브는 (이름)이랑 같이 살때 (이름)이 키우시던 (비속어)들이에요. 당연히 지금 (이름)이 계속 키우시고 가끔 (이름)집 가서 보고 하더라구요.",
+        "writer": "Ugwr_6Y9nMe8NLt9pzN4AaABAg.9NvP75wXI1y9NyB4mj66yM",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=pi4Ebd4qkRM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 막내이 혼자 갈거에요 그걸 또 생각하니까 좀 슬퍼요",
+        "writer": "UgwboMVImJ4KUoJCYOB4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=pi4Ebd4qkRM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "태민 집 잠실인가요",
+        "writer": "UgzomOyLHTrZjgi9-Bd4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=pi4Ebd4qkRM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 이상해,",
+        "writer": "UgyE7rmP72FRg8MLGE14AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=pi4Ebd4qkRM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꿍아 꿍아... 기범아 why is so so cute.",
+        "writer": "UgyHCwbqNo3Rk5A06kp4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=pi4Ebd4qkRM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸넬 누가 골랐니 웬 아줌마인가 깜짝놀랐네",
+        "writer": "Ugy5meAxSUgGxi_MNqx4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=pi4Ebd4qkRM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 키의요리 진짜 먹고싶은 거 같습니다",
+        "writer": "UgzRHBWlkjV79MWVnMJ4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=pi4Ebd4qkRM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "태민분량 너무 짧았지만, 그래도 이렇게(반사회적용어) 나혼산에 태민이를 볼수 있어서 너무 행복했어",
+        "writer": "UgzcdXn26M9GP_4R99R4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=pi4Ebd4qkRM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금까지 본 고양이 중 제일 이쁘다 감히 말한다",
+        "writer": "UgyivXTYGA-6N320A2p4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=pi4Ebd4qkRM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꿍이 키우게 된지 오래 안 됐는데 가야되네 흐흑",
+        "writer": "Ugzfz2rNvwEzCOjDnI54AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=pi4Ebd4qkRM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 사랑둥이들",
+        "writer": "Ugwoc2q_Z0aNI06-zf54AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=pi4Ebd4qkRM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 키가 형답게 태민이 요리도 해주고 역시 착해, 귀엽다 너무 둘이",
+        "writer": "UgyfJvxxxRe18-6r-vd4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=pi4Ebd4qkRM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "태민이 맛있는 거 해 먹이는 켱 최고. 샤이니 따사로와",
+        "writer": "UgyhLcxOejA5KSzUGJl4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=pi4Ebd4qkRM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뷰 장난 아니다 아름다운 다운 다운 다운 다운 뷰",
+        "writer": "UgwdOv_jph6mfaM2hOV4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=pi4Ebd4qkRM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "키 요리 너무 잘해",
+        "writer": "UgzqJWlIaWxrWrV7wDd4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=pi4Ebd4qkRM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 광규님이 태민이한테 3년 떼주셨으면, .",
+        "writer": "UgxG3qoTvxYukiC67y94AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=pi4Ebd4qkRM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 젤 좋아하는 참치 타타키를 키범이가 해서 탬니 먹(이름), 오늘 누울 자리는 여기다",
+        "writer": "UgxEgBy0sNBA4j0Khz14AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=pi4Ebd4qkRM",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

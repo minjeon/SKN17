@@ -1,0 +1,508 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001658151",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001658151"
+    },
+    "text": [
+      {
+        "content": "(이름) 잘하신거예요 (이름)응원합니다",
+        "writer": "UgxAqba7-rB5x6d1U554AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울 장 민 호 님 김 돈까스 넘 맛있겠어요",
+        "writer": "Ugzny3Z-ZLZ2ypZT6xN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와 돈까스",
+        "writer": "UgxmGxPA6kom95-3LIp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금 봐도 아쉬워요 우승했으면 지금쯤 편의점 난리 났을테데 (이름) 다시한번 도전",
+        "writer": "Ugyz-OMkYfvT953jYdp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맛나겟네요 (이름) 대단하네요. 장가가서 자녀들 해주면 아빠 최고",
+        "writer": "UgzEkqW9BiWLsbsL-Ah4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요앗못남자에서 요섹남 으로 등극 하셔네요 (이름) 대박 대박",
+        "writer": "UgxXhyoOyqdR2Z0wDqx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민호오빠 담에 꼭 한번 더 나와주세요.. 내원픽 (이름) (이름)",
+        "writer": "UgyV49OAuE1tF-TRbhR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "본방사수 했는데 정말 재미있게 잘 봤습니다 요리를 쉽게 따라 할수있게 조근조근 설명도 잘 하시고 (이름) 다음에 또 나와 주세요",
+        "writer": "UgziVCJNLvnKPrhSKCt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 침 꼴깍 맛있겠다",
+        "writer": "Ugz0y-yBfUGxjKSl8vp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사랑하는(이름) 저녁마다 (이름) 노래 안들으면 잠을 이룰 수가 없습니다 (이름) 넘넘좋아해요 승승장구하세요",
+        "writer": "UgxmvoLQ1xLF-HUUYiV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앞치마 런웨이 감상 잘했 어오 혼자서도 잼나게 잘 노시네요 김돈까스 비쥬얼도 굿 .. (이름) 레시피 따라쟁이 다됐어요 아 마씨따",
+        "writer": "UgxRCFlYNIMwrmm2vz54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요리하는 모습도 cf 찍는거 같아요",
+        "writer": "Ugz5QNpAUu0hKTrS0Tp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 져서 어떻께 아까워요. 우승햇어면.연슴마니해서.당.우승하시길 민호 님.그래도.첨하는것치고는.참잘햇어요 홧팅.....",
+        "writer": "UgzffxzDy-2r5xeJojV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 멋있어요도전정신이트철하시네요 이젠요리까지 도대체 못한게 뭐있어요요리해서먹는 모습도 멋있어요",
+        "writer": "Ugz_j4OJ6ghbFbB2jpd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예능프로에 많이많이 나왔으면 좋겠습니다. 볼때마다 넘 즐겁고 재미 있어요 .",
+        "writer": "UgxZbrer0X6L3p9SiNx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우승하셔서 (이름) 만드신 김 돈까스 꼭 먹어보고 싶어용 1등 기대됩니다",
+        "writer": "UgzLOMSwMHHraFdA-CV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 예능감이 너무 뛰어나서 연말에 대상까지 받을 거 같아요 아 신나게 가자 대상 (이름) 대박 짱이야",
+        "writer": "UgxOYVNVdrO64CuEZtx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모든 걸 다 갖춘 (이름) 김 돈까스도 대박 날 거예요 맛있겠다 민호 씨 닮아서 김 돈까스도 비주얼이 너무 좋아요 빨리 김돈까스먹어 보고 싶네요",
+        "writer": "UgwXi83WtMCA96uzNgl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소스도 만들줄아는 요섹남 애호박 명란란덮밥도 좋고 김돈가스 아주좋았는데 아까웡",
+        "writer": "Ugwl04pdTq7R1Muk_R94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김돈까스 넘 잘 맹그셔서 묵고파서 혼났네요 져서 편의점에 못나와 맛을 느낄수가 없네요 아쉽요",
+        "writer": "UgwPRAuw4Ab2YnPgH7N4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요리도날이갈수롴 느시네요 김쏘스는 특히해서 저도만들어 먹어보고싶네요",
+        "writer": "UgxUG0wXW-hC7IYCPw94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맛있겠다 따라 해봐야지 (이름) 멋져요",
+        "writer": "UgwYix7IK3nIQmmvQ7V4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모든걸 똑소리나게 잘하는걸 보니 (이름)은 굉장히 센스가 넘치고 똑똑한분 같아요",
+        "writer": "Ugxs6MCct6I7YnmwUG14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김돈까스 출시하면 대박 일탠데",
+        "writer": "UgwKwFNLhXa9QeAc8YZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김돈까스 대박 쏘스가 신에한수네요. (이름) 이젠 요리까지 못하는게없어요",
+        "writer": "UgzRBnmbbAFXy89Ixpd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 센스쟁이여서 뭘해도 잘하시구나 앞으로도주욱 승승장구하세요 항상 응원합니다",
+        "writer": "UgxYjh-X6zFbtOtPGbR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)너무수고많으셨구요그도안편스토랑본중에최고역대급으로재미있게잘봤네요 (이름)다시한번도(이름) 우승한번했으면좋겠어요너무아쉬워서영상도너무재밌고많이 웃고또보고싶어용 화이팅",
+        "writer": "Ugwq-TwVVh0WYR286QF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아쉽다 꼭 출시되길 바랬는뎅 요리하는 모습도 너무 멋지다",
+        "writer": "UgzkF_C1VMhRESwxAvN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 님 앞치맛가 너무 이쁘네요 돈까스 (이름) 님만들것 묵고싶어요 항상응원합니다 아자아자아자",
+        "writer": "UgwmSfdKEidR3lpQ5RZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 님 맛있어 보여요 요리 잘 하시네요",
+        "writer": "Ugy9cc03Nc6avioyRFV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맛보고 자체감탄하는모습도 멋지고 잘생김입니다. 나날이 발전하는모습 칭찬합니다. 편스토랑 다시한번 도전할기회를 (이름)에게 주시길 간곡히 부탁드립니다 배테랑(이름)랑 다시한번 맞대결 보고싶으네요.",
+        "writer": "UgwFs_jjufoDEb9Ms2N4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "노래잘해 잘생겨 요리까지접수하는 (이름) 일인방송두잘하셔 못하는게뭐야 보기만해주 이뻐죽것네",
+        "writer": "UgzwDxKK0R5f1QPdxsB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김돈가스 진짜 맛있겠는데 김소스까징 결승전 올라가신 것도 대박입니다 우승 못하신 거 아쉽지만 갠차나요 앞으로 노래 대박나실거니까요",
+        "writer": "UgwZnVMezZhJYDf5gUh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김 돈까스, 굳 아이디어, 먹고 싶어요, (이름)이 만든 돈까스,",
+        "writer": "Ugy-raFquo7d4ZAr7_p4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "편스토랑 (이름) 노래 예능 춤 연기에 요리까지 잘하시면 매력의 끝은 어디",
+        "writer": "UgwDduYovIxX9rpJZ2V4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김돈가스 출시하면 대박예감 (이름) 나오는 프로는 모두 즐거움과 웃음을 줘서 넘 잼있어요",
+        "writer": "UgwIf-nkP_tnB8wYdtl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어설퍼 생각할때 쯤 짠 ........ 완성품은그저 감동 입니다 (이름) 돈까스 기발한 아이디 였어요......",
+        "writer": "UgxLCY3ddp8Hmg7COxd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주변편의점검색해놓고 같이근무하는식구들한테 (이름)돈까스쏜다고큰소리쳤는데 너무아쉬워요 졌다..그러나훌륭했다",
+        "writer": "Ugx-l-VzStpPLyN478J4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "먹는 모습도 멋져요",
+        "writer": "Ugy9cc03Nc6avioyRFV4AaABAg.9Be93d7-jwA9Be98-u4L90",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내용이 화면에 꽉 차네요방송진짜 잘해요",
+        "writer": "UgwGRBBTOZ9EQQojQRF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 귀엽다 김돈까스 롸우 처음보는 돈까스 와사비 김소스 와우성공하셨군요 귀여운 민호 김 돈까스 자꾸 땡기는데요",
+        "writer": "UgzD2Zi8n1NJgr_j-Dt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 이제는 멋진 요리인 레스토랑 (이름)으로( )",
+        "writer": "UgzNv-OfMks6rWCnPGh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김 돈가스 맛나게 보이네 줄서서 사먹을것같은 예감 대박나것어요",
+        "writer": "UgzJDDiaVQ3MRClK1bh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "완전 맛있을둣요.",
+        "writer": "Ugyvf8DFI6-BCEpKS9V4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재치있는 입담과 고급진 개그 잘생긴 외모와 근육질 몸매 뛰어난 노래 실력과 인성을 갖춘 (이름) 님이 이젠 요리까지 척척. 못하는게 없네요",
+        "writer": "Ugz9nnMsNycjaCZ2U2p4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맛있어 보인다요알못이 요섹남이 됐네요",
+        "writer": "UgzzViWUY52KONwdAw54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민호오빠 정말대단해요 최선을 다하는 열정과 아이디어 뿜뿜 요섹남으로 등극하심을 축하드려요 김돈가스 나두 만들어 먹어볼래요",
+        "writer": "UgzHPdic5V_0JzP-YGh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "못하는게 뭐임 (이름)",
+        "writer": "UgyhF_2Dui-2V38QsBx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "편스토랑 (이름) 김돈가스 정말 맛있을것 같아요 소스도 신의 한수 보는 내내 요알못에서 일취월장하신 (이름) 님 보며 기쁘고 뿌듯한 마음이네요 나도 만들어 봐야겠어요 (이름) 깔끔하고 이젠 (이름)까지 눈썰미 있고 지난번 플레이팅 하신것 보니까 미적 감각까지 뛰어난 최고의 요섹남 이시네요 편스토랑 (이름) (이름) 덕분에 3주 동안 행복하게 편스토랑 시청했어요 요리 프로그램을 하셔도 멋지게 잘하실것 같아요 강추합니다",
+        "writer": "UgzVPO0kbc7MvAeh3hh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Wow 정말 놀랍다 소스도 고추냉이 신의 한수 안먹어봐도 100 프로 맛있음 상상이감 아 이래서 님과 일대일 매치 모든게 설명이됨 진짜 1등 신랑감이네요 생각을 곱(비속어)을수록 와 감탄사 연발 정말 수고많았어요 그대는 요섹남",
+        "writer": "UgxVKz24ylsYrjjW1CN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 입에서 군침나와요. 기회가 되면 꼭 사먹고 싶음. 못 기다기고 집에서 나도 만들어 볼테야. 편스토랑 (이름) 뭘해도 멋지다. 재치있는사람은 요리도 잘하나봐요. 일등 신랑감 .",
+        "writer": "Ugz9AY6hvVoi4gvjRP94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 김돈까스 최고 너무 맛있게다 편이점 출시 우승 갑시다",
+        "writer": "UgzNv-OfMks6rWCnPGh4AaABAg.9BWiBB42YsH9Bc00tdVHLD",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 방송은 항상 너무 아쉬워요 시간이 빨리 지나가는거 같아요 요리하면서 날리는멘트도 재미있고 깔끔한성격이 그대로 보여요",
+        "writer": "Ugz9nnMsNycjaCZ2U2p4AaABAg.9BW3CZKkgHB9Bcm4yEaw9L",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 팬이신것 같은데 팬클럽 가입하고 본격적으로 응원 하시면 큰 힘이 될것 같아요",
+        "writer": "UgxVKz24ylsYrjjW1CN4AaABAg.9BVTJcVTT4O9BVVWuR7FzP",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Sohyen Jeon 님 반갑습니다 조언해 주신 부분에 고심해 보겠습니다 감사합니다",
+        "writer": "UgxVKz24ylsYrjjW1CN4AaABAg.9BVTJcVTT4O9BVZ7hLoifs",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Stylish Stylish 댓글 열심히 하시고 응원 하시는데 저도 몰랐었는데 댓글도 카운트 되도록 쓰는 법이 따로 있다고 하네요 그래서 기왕에 다시는 댓글 (이름) 님 께 도움이 됐으면 좋겠어요",
+        "writer": "UgxVKz24ylsYrjjW1CN4AaABAg.9BVTJcVTT4O9BVbwG2l2Ru",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Sohyen Jeon 님 아 그래요 제가 잘 알아보고 님의 염려에 꼭 화답할 수 있도록 학습하겠습니다 여러가지 조언들 다시한번 감사드립니다",
+        "writer": "UgxVKz24ylsYrjjW1CN4AaABAg.9BVTJcVTT4O9BVg-VcKNa0",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Stylish Stylish 열린 마음으로 답해주셔서 감사합니다 배려심 넘치는 (이름) 님 꼭 닮은 팬이십니다",
+        "writer": "UgxVKz24ylsYrjjW1CN4AaABAg.9BVTJcVTT4O9BVhmTVoMAW",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Sohyen Jeon 님 제가 이제것 받은 대댓글 중 으뜸이십니다 그만큼 진정성이 느껴짐이겠죠 다시 한번 감사드립니다 행복하세요",
+        "writer": "UgxVKz24ylsYrjjW1CN4AaABAg.9BVTJcVTT4O9BVjn4sBZbu",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Sohyen Jeon 님 허락하신다면 댓글이 카운트 될수있게 하는 방법을 알려 주시겠습니까 감사합니다",
+        "writer": "UgxVKz24ylsYrjjW1CN4AaABAg.9BVTJcVTT4O9BVz8GH6YwA",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Stylish Stylish 네 먼저 프로그램 이름을 철자 (반사회적용어)지 않게 쓰시고 (이름) 님 이름을 쓰시고 이름하고 님을 띄어 쓰시고 아님 그냥 이름만 쓰셔도 되고요 마침표 쉼표 특수문자 이모티콘 등을 사용하지 말아야 한다고 하네요 특히 티(비속어) K 등 방송국에서 포스트 한것 일수록요 다른분하고 같이 나오(이름) 다른분은 초성으로 이렇게 하시라고 하더라고요 도움이 되셨길 바랍니다",
+        "writer": "UgxVKz24ylsYrjjW1CN4AaABAg.9BVTJcVTT4O9BW1_Ojxjue",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Sohyen Jeon 님 대단히 감사합니다 큰 도움이 됐습니다",
+        "writer": "UgxVKz24ylsYrjjW1CN4AaABAg.9BVTJcVTT4O9BW3G03pytg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=6YDAYw1f06g",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

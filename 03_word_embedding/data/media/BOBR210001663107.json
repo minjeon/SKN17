@@ -1,0 +1,340 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001663107",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001663107"
+    },
+    "text": [
+      {
+        "content": "아빠도 아들도100점짜리나너무선하시고아들은 (이름)다아들인사좀오래하게두시지(반사회적용어)말로인사영어로인사 팝숑도한곡땡기게하지 처음보는분들기절할껀데",
+        "writer": "UgyYXBy8LDs9_hE6qQV4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=jmwQYRD3cY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "발표한 여자. 말도 어눌하고.발음도부정확한 섭외좀잘하지.",
+        "writer": "UgzxyG0cXx0HwaxRZMt4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=jmwQYRD3cY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김재재 이준 편토랑 KBS신인상 축하드려요 응원합니다",
+        "writer": "UgyGB-0Uq4vy7WsTVAl4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=jmwQYRD3cY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "축하 축허 너무 똑같이 잘생겻다",
+        "writer": "UgwHg-bY2cciYPLCH194AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=jmwQYRD3cY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가장 순수하고 아이답게 자라는 행복한 아이 (이름) 동심을 잃지 않고 밝고 건강하게 자라자",
+        "writer": "Ugz2mJ7UurQl4NnyiHt4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=jmwQYRD3cY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 건강하세요할때 (이름) 어머니인줄",
+        "writer": "UgyVkBjMZHcqxF-YeZZ4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=jmwQYRD3cY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)만 몇시간 보고싶어",
+        "writer": "UgydmCclZkf9Rs_Ni4N4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=jmwQYRD3cY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 넘 .귀여워...",
+        "writer": "UgydZ5ViRuyfcJ1IwUd4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=jmwQYRD3cY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 이쁜이 어떻게 저렇게 계속 웃음을 유지할까 너무 이쁘다",
+        "writer": "UgzYZjgyYatLO5aA7bN4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=jmwQYRD3cY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 부인이 부럽땅",
+        "writer": "UgzrKB4lO2ISDUenS6R4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=jmwQYRD3cY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 늙지마, (이름)한테는 아빠지만 우리한테는 배우자너,",
+        "writer": "UgzTCizhgMtYnrvHpCV4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=jmwQYRD3cY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김(이름) 애기랑 넘 귀여워용 멋있어",
+        "writer": "UgzhfuPYqFaB8YBtPF14AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=jmwQYRD3cY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "슈퍼맨이 돌아왔다에서 (이름)좀 보게해주세요 너무 사랑스럽고 정말 똑똑하고 이쁜 아이",
+        "writer": "UgzVxUmzYpfn7qWdgX14AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=jmwQYRD3cY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "할일들 없으면 자라",
+        "writer": "UgxSJE5nFkD-zTRpFOd4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=jmwQYRD3cY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예라 방송가끔씩 나오는 사람한테 무슨상을 주고 그러냐 돌려가면서 주냐 지네방송국 자체적으로 놀고들 있네 마스크들이나 써라",
+        "writer": "UgxdNDxGtRHsE9CaFSB4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=jmwQYRD3cY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "신상토랑 (이름)아들 팬이예요 아들이너무귀여워요",
+        "writer": "UgzxIrc4KWSgK_q8t1R4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=jmwQYRD3cY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아들이 진짜 아빠 판박이야 너무 귀염터진다 와이프가 남편을 많이 사랑하나바",
+        "writer": "UgyQC2QOc7OFSC1ZE1t4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=jmwQYRD3cY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 (이름) 너무 귀여운데 볼 때마다 너무 닮아서 웃김 옷까지 똑같이 입혀놓으니 복붙수준인데, 혹시 김(이름) 혼자 낳으셨나요,",
+        "writer": "UgyWGSsQrbRBl4m3LVF4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=jmwQYRD3cY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (이름) 너무너무 이뽀행복(반사회적용어)",
+        "writer": "Ugyi6xGilWr7UxPFuG54AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=jmwQYRD3cY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "팬이에요 너무 좋으네요 초지일관 화이팅",
+        "writer": "UgxeyG3mz6RVcKPbBcx4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=jmwQYRD3cY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 준이는 중독이야 하루에도 열두번은 더 보고싶어요",
+        "writer": "UgyJ0AhT-h29jQLxIEZ4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=jmwQYRD3cY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)님 추카합니다 (이름) (이름)은 해피(반사회적용어)",
+        "writer": "UgwLiEE4WomwBc10ntd4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=jmwQYRD3cY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 예뻐요. 우리 (이름)도 건강하세요",
+        "writer": "Ugx1yrL8SsXbNmfnrrB4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=jmwQYRD3cY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 넘잘생겼다 아빠꼭달았네요",
+        "writer": "UgxLy2-1HcPK9_83kbN4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=jmwQYRD3cY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준이가 아빠 인물보다 더 준수하네",
+        "writer": "Ugyh6CySOZifwnFhv3h4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=jmwQYRD3cY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)를 방송에서 보게 된 것은 정말 우리 모두의 행운 (이름)와 (이름) 21년도에도 웃음과 행복 많이 나눠주시고 더욱 행복한 가정 이루세욧",
+        "writer": "UgwzltBpgOhalTFd16t4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=jmwQYRD3cY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "똘망똘망 웃음천사 (이름)",
+        "writer": "Ugxi_abN9gsHFQpn1gB4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=jmwQYRD3cY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 너무 귀여워",
+        "writer": "Ugx3Cm2INMbMpQKMhvN4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=jmwQYRD3cY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 (이름)과 닮았는데, (이름) 결혼한줄 알았음",
+        "writer": "UgyoMhoBss6-WcuSLdJ4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=jmwQYRD3cY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)도 건강하고 행복하세요 사랑해요",
+        "writer": "UgzN7fn8fVwrateAM2Z4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=jmwQYRD3cY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방송에(이름)이 좀많이보여주세요 상받을때좀자기절로말좀많이하게두지 아쉬워요 내가본중에 (이름)가재일똑똑해",
+        "writer": "UgwAVnLrbJNfBm_HLnV4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=jmwQYRD3cY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준이 너무 이뿌다 탐난다",
+        "writer": "UgwRnXbY1bDn1KY4IKl4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=jmwQYRD3cY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김(이름)는 사람이 너무 좋다 세상태어나 오래살았지만 저리 좋은사람은 첨보는듯 아이가 이쁠수밖에 없네요",
+        "writer": "UgwtzEstmlWgW-RJfyd4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=jmwQYRD3cY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와..(이름) 이모가 격하게 환영하고 축하한다. 8대2 가르마가 너무 잘어울리네.방송에서 자주 봤으면 좋겠어",
+        "writer": "UgxZQ4F5pqbh5btWI7t4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=jmwQYRD3cY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 이뿌다 (이름) 훌륭한 어른이 되세요",
+        "writer": "UgxDMpCez4-vIN-ih1x4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=jmwQYRD3cY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 영어 발음 너무 좋아",
+        "writer": "UgyIYOgC8LrFAC0ot9N4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=jmwQYRD3cY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제시언니 예쁘다",
+        "writer": "UgwBXnav1fl24jt4B554AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=jmwQYRD3cY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미소천사 김부자 (이름)님도",
+        "writer": "UgwA9dXi1zaoAJ3m_e94AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=jmwQYRD3cY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 너무 귀여워요",
+        "writer": "UgxSvjtDptO5CPQ6AlJ4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=jmwQYRD3cY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 우리 (이름)",
+        "writer": "UgyboeRemX4EF41czVB4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=jmwQYRD3cY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)씨 축하",
+        "writer": "UgwQZmZVTYyil_mdWUB4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=jmwQYRD3cY8",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

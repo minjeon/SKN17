@@ -1,0 +1,668 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001664738",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001664738"
+    },
+    "text": [
+      {
+        "content": "(이름) 보고시퍼",
+        "writer": "UgzgC1ZZWGVz3axJTQh4AaABAg",
+        "write_date": "2021-11-07",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저렇게 호로록 소리내서 먹는거 되게 싫어하는데 (이름)이 하는건 하나도 안 보기싫네,",
+        "writer": "UgzBJ7uw9h9ddKeq0Qx4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와이게 여행이죠.. 시즌4로 1박2일 정주행 시작했는데 이런 미공개분이 있는거 이번에 알았어요. 지난주꺼도 전체 미공개로(반사회적용어) 보여주세요..",
+        "writer": "UgxkbJaLQdMjRNDbIMh4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1박2일에서 선호가 미치는 영향은 엄청 큰거 같습니다. 좋은 사람들이 어울리는 모습을 보고 저도 같이 놀러 가는 느낌이었어요.",
+        "writer": "UgxtHdsmWiaSsuQA4wZ4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이렇게(반사회적용어) 볼수 있어서 좋아요 이 멤버 그대로 모일수 있기를, 선호(이름) 화이팅입니다",
+        "writer": "UgyocNE-bMbrqm79xb94AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저때가 그립다",
+        "writer": "Ugz_ADDrG8p81rBOL6Z4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 애타게 기다릴게용 보고싶네요 가슴이아파요",
+        "writer": "UgxUYCBroA4yA5KFgQ54AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보면서 재미있고 힐링된다 방글이(이름) 멋져.",
+        "writer": "UgxWYf-TknKlqxOj8XR4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 선호찡 내가 오징어회 사주고싶다",
+        "writer": "UgxnsM2G7m(반사회적용어)gdfv9C14AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막 세명 나왔을 때 살짝 감동했음 아 이 의리맨들. 시즌4는 진짜 착한 사람들이구나. 했었음 근데 바로 태세전환 그럼 그렇짘내 감동 물어냌",
+        "writer": "UgwpIRJS_me5Hbd95r94AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선호 (이름) 오징어회 먹방 다시 보러옴 너무 맛있게 먹어",
+        "writer": "UgyVkrHkStWK6HzhGCV4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사진 너무 따숩고 이쁘다 1박 2일 영원하자, 3",
+        "writer": "UgxYZQP52vvvWa35pDR4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요새 1박 mt느낌이라서 너무 귀여움",
+        "writer": "UgwqSbOyxruqiQ2ie_J4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 은근 슬쩍 (이름) (이름)는거 왤케 설렐까요,",
+        "writer": "Ugxzc3vz5WxC0xPl64R4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "멤버들 하고 싶은 거 다하게 해주는 거 좋아요. 근데 그게 강행군인게 웃김 싫어도 피곤해도 무조건 해야 됨.",
+        "writer": "Ugz0--g5yOy4ngPnkpV4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 밤에는 많이 무서워요 저랑 또같네요 1박2일모두다 무서워요 너무 즐거워요",
+        "writer": "UgyBCmnmfnIWqSWabnd4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 오징어회 너무 맛있게 먹어서 회 못먹는데도 홀린듯이 주기적으로 보러오는 영상",
+        "writer": "Ugyb_y_xFTRq-CV09Dl4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맴버들 케미도 좋고 순한맛이고 보면 힐링이고 재밌네요 방글이 (이름)이랑 맴버들이랑 오래가면 좋겠어요",
+        "writer": "UgxCi2uVkUx0nrdxfRh4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울룽도편은 푸른 힐링 그 자체라 자주 돌려보는데 미공개도 좋네",
+        "writer": "UgzuwxJO2DRQXABFTiV4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아놔진짜 (이름) 특별한건없는데 왜케 웃기지 얼굴만봐도 웃김 미치겟엌",
+        "writer": "UgxjKbom3ltnL7i2MHx4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울릉도편 최애편인데 이런 비하인드도 있었네요방송에서 술마시면 안되서 안내보낸건가",
+        "writer": "UgwEDcF05TJOxLc1Yb14AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 콘텐츠가 좋다 (이름)야....",
+        "writer": "Ugzw1d3b2t9uXVDo1_14AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어휴 선호오빠 살빠지면 안되는데",
+        "writer": "UgxLrIFrKObpGvPPBFF4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울릉도 가보고 싶당..",
+        "writer": "UgwwRzjcs5p7bUHY-GR4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연정훈 왜 한잔은 (이름)지 그거 나랑해요",
+        "writer": "UgyctNsAOAFgDtFvopl4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1박2일 완전 힐링프로그램됐어 너무 보기 좋아요 순한 출연자들이랑 순한 제작진 너무 좋다 (이름)래 해줘요...",
+        "writer": "UgyOH-peAeFKgLwG6kR4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 미공개 영상 이렇게 뜨니까 찾기가 너무 힘들어요 1박2일 시즌4 유툽 단독채널 소취요 그리방 (이름)이랑 멤버들 단독채널에서 매일매일 보고싶습니다...",
+        "writer": "Ugxv6qAStDPKPeGIZOp4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "은하수 멤버들 옷 색 조합조차 너무 예쁘다",
+        "writer": "Ugyu6j6G_k98VQRcYuF4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 울릉도 예쁘다",
+        "writer": "UgxfA6EZXRB-5ugqrct4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 근데 사진 진짜 잘찍으셨다 완전 예뻐",
+        "writer": "Ugx2UQYhRgmXbOrTluZ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서노 귀여워",
+        "writer": "UgyKVYsJRWCh7jsAE5d4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울릉도편 진짜 최애편인데 영상 마지막에 사진 넘 예뻐요 오징어회랑 씨껍데기주 진짜 먹고싶다 별도 진짜 쏟아지게 많고 )",
+        "writer": "UgysCP0FofTipmRaHgN4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선호 울릉도편에서 넘 못먹는거같아 안쓰러웠는데그래도 오징어회(반사회적용어) 먹었으니 다행이네뜨끈한 국물이(반사회적용어) 같이 먹게했음 좋았을걸, 안타깝네",
+        "writer": "UgwpvvJpq7kFZJ4fjNB4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하늘 너무 이쁘다",
+        "writer": "UgxD2xi9B2eidNOHcP14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딱 이정도 전에 일반이일은 너무하다싶은것도 있었지요 딱 이정도(반사회적용어)에서만 보여준다면 힐링도도고 장기간 사랑받을거여여",
+        "writer": "UgzdA2v9pKrbKk7kSvN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) ID24시간 맥박이 모자라",
+        "writer": "UgxKPU_Az5EzfN9RqOd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미공개 많이 올려주세요.",
+        "writer": "UgxAuuGwo22pWn07zQ54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "멤버들 비하인드 이거 더 줘 아니 다 갖고와(와장창",
+        "writer": "Ugw8FrCSHvNAi0N8kLJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딘딘 피부 왤케 뽀얰최소 (반사회적용어)에서 서른같네",
+        "writer": "UgxUiLpdv1jJ90pNmgN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선호 오빠는 어케 쌩얼도 잘생겼을까요 진짜",
+        "writer": "UgwWltH4xhF5PUutAoZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 1박2일모두다 너무 잘생겼어요 펜에요",
+        "writer": "UgxrvS4AyxNo2M6mKXF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방송이 이렇게 보기 편하니까 얼마나 좋아,",
+        "writer": "Ugxc-k3G16WbGEPuYnR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아웅 좋다,",
+        "writer": "Ugw2H5J4MRPwrumZEMl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1박 2일 시즌4Two Days and One Night 4.. 아자아자 우리 오래도록 계속해요.",
+        "writer": "Ugy-EfEwJS0O5pN2e494AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 미공개 영상 너무너무 좋아요많이많이 올려주세요,",
+        "writer": "UgwCSfCh1fxnWvvi6Bl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선호 배고파하는거 맴찢, 보는 우리야 재밌지만 저기서 여행하면서 굶어야되는 멤버는 진짜 힘들거같음",
+        "writer": "Ugx91vG0kzWiP83cKCF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그날 저녁에 (이름) 저녁식사 제대로 못먹어서 맴이 아팠는데 야식으로 오징어회 먹는 모습보니 좋네요",
+        "writer": "Ugzyz2mnb_aIBh9yGo94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시즌4는 너무 가혹하게 멤버들 부리지 않아서 보기 편안한것도 있는것같음.",
+        "writer": "Ugzot5jRxhOsmAcMo-14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연정훈이랑 딘딘이 그래서 많이 먹으라고 안먹고 몰아주는거 너무 흐뭇하네요. 착한 사람들.",
+        "writer": "Ugzyz2mnb_aIBh9yGo94AaABAg.9C5v7HafYbA9SzmbmQ2Hn6",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진심 인정이요 다른 시즌에 비해 힐링도 되는 거 같아요",
+        "writer": "Ugzot5jRxhOsmAcMo-14AaABAg.9C01JRDrCvy9G4wAz-iWr5",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마자여, 특히 이시국에 더더욱 위로와 힐링이 됩니다. 그 전에는 너무 심해서 잘 안찾아봤는데 요즘은 매주 챙겨보는 중, . 앞으로도 지금만 같았으면",
+        "writer": "Ugzot5jRxhOsmAcMo-14AaABAg.9C01JRDrCvy9H9lpuiEJ36",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선호쓰 저날 좀 빡친거 아니냐구옄 귀여웡 계속 괴롭히고 싶어어엉",
+        "writer": "Ugzdcr-ODNQlh3aKfU14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 이날 선호쓰 아예 못먹어서 불쌍했는데 감삽니다",
+        "writer": "Ugyt7OvJXlpTCgnkEAB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딘딘 (비속어) 진짜 허우",
+        "writer": "UgwVuB_ZWZDut91J4fN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미공개 영상 더 풀어주세요.. 이번 시즌 멤버들 감성 너무 좋아요",
+        "writer": "UgxMN4wtZqjugpSfg3Z4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댓글 조작단이 떴나 요새 1박2일 누가 보냐 차라리 시즌1 재밌지 조회수 봐라.",
+        "writer": "Ugx7O-PpZWn7aP4TCm94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "점심 저녁 다 못 먹어서 걱정됐는데 다행이다 미공개 영상 많이 풀어주세요",
+        "writer": "UgwZ2iXE6HV3gu8wPm94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딘딘 뭐해 다 회먹고 있는데 저 술병을 계속 보고 있어",
+        "writer": "UgxHn7AFwxvqCrXU8_54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1박2일 요즘 내 최애 예능, 라비가 맏형한테 반말할때까지 오래가자,",
+        "writer": "UgxZAkIlfsUPsnrDJRV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요만큼만 독도엠디상품 쏘는 것도 너무너무 보고싶어여",
+        "writer": "UgySfGW22PMi33STJx14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미공개 영상 넘 좋아요 앞으로도 자주 올려주십쇼",
+        "writer": "UgzCiROW69WRaJGbPXB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자주 올려주세요",
+        "writer": "UgzSTCnX_c8B0_U9Hil4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 너무좋다",
+        "writer": "Ugx6F_NDTQLDRYfvBMt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비공개 자주풀어주세요헝",
+        "writer": "UgyCn4oWt8KYab-ijrh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 하고싶은거 다 하게 해주셨네미공개 넘나 좋구여 제작진분들 사랑합니다",
+        "writer": "UgxFT4S7NUn4mYFx-h54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "2049도 1박2일 많이 보니까 요런 동영상 많이 올려주세요",
+        "writer": "UgzMwu9_aU8C0SZFMOt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "멤버들끼리 꽁냥거리는 거 많이 올려주세요",
+        "writer": "Ugxbi3onCmOjD8uXIhV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쫄쫄 굶었어요",
+        "writer": "Ugyt7OvJXlpTCgnkEAB4AaABAg.9BowOwiMS229GUavEN7PyL",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "점심에 따개비밥 먹었어요",
+        "writer": "Ugyt7OvJXlpTCgnkEAB4AaABAg.9BowOwiMS229IASBqki3E0",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저녁에는 생라면 먹구, .",
+        "writer": "Ugyt7OvJXlpTCgnkEAB4AaABAg.9BowOwiMS229IAaJUclxxY",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진리는나의빛 추하다 추해",
+        "writer": "Ugx7O-PpZWn7aP4TCm94AaABAg.9BYCM89ZVOC9BZg1Ra4Hk0",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시즌1도 다보고 시즌4보고있음",
+        "writer": "Ugx7O-PpZWn7aP4TCm94AaABAg.9BYCM89ZVOC9Bz6D-tCbTq",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댓글기록 더러웤 (반사회적용어)씨 님 인생이나 챙기세요",
+        "writer": "Ugx7O-PpZWn7aP4TCm94AaABAg.9BYCM89ZVOC9FcMrQvw66m",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 밥 쳐 먹고 심심해서 댓글 다는 니 인생보다 더 나아",
+        "writer": "Ugx7O-PpZWn7aP4TCm94AaABAg.9BYCM89ZVOC9FcN6noyiG_",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밥 쳐먹는 거랑 심심해서 댓글 다는 건 일반인의 범주고 악플 싸지르면서 다니는 건 정신상태 문제고",
+        "writer": "Ugx7O-PpZWn7aP4TCm94AaABAg.9BYCM89ZVOC9FcOcb1yDCU",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왤캐 클린하지 못한 사람들을 찾아요",
+        "writer": "Ugx7O-PpZWn7aP4TCm94AaABAg.9BYCM89ZVOC9GdyIU-Iehe",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "본인이 생각하는 것만 사실이라거 믿는 우매한 사람이네이거",
+        "writer": "Ugx7O-PpZWn7aP4TCm94AaABAg.9BYCM89ZVOC9GkX86QP5LM",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "choi tessa 너는 안 그래",
+        "writer": "Ugx7O-PpZWn7aP4TCm94AaABAg.9BYCM89ZVOC9Gk_nHqzgHd",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전성분 보고 있나",
+        "writer": "UgxHn7AFwxvqCrXU8_54AaABAg.9BVb24KFHl19DTjNE7UYp_",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울릉도독도 편 넘 갓벽 다른 것도 미공개 풀어주세요",
+        "writer": "Ugz6on0KgKWe3jSgSZd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미공개 영상(이름) 감사합니다 미공개 영상 좀 풀어줬음 좋겠다싶었는데 정말 올라(이름) 감사합니다감사합니다 1박2일 시즌4 화이팅",
+        "writer": "UgwgnjAVULpyQk12NNB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 이런 떡밥이 1박2일팀 넘 감사합니다 앞으로도 미공개영상 많이 풀어주세요 월토 기다리기 넘 힘들어요",
+        "writer": "UgxjtgCY-bCXLzv-aYh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E9n37FOMQ34",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,380 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001658203",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001658203"
+    },
+    "text": [
+      {
+        "content": "예전 에 진우 가 구석에 혼자 있을때 민호가 안아 줘서 그런가봐",
+        "writer": "Ugx7K8X6elbJaFTCCOV4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민호면 집문서 땅문서 가능",
+        "writer": "UgwVV4dwGONBRjDwvi94AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민호는 추잡은거 안 걸렸음 좋겠다",
+        "writer": "UgwBYvp4pOqZbKIxxJp4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "야 야 진우야",
+        "writer": "UgwTdmw3V9iTh68ruFh4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "과자랑 물 뿐이겠냐, 민호라면 난 집도 줄 수 있어",
+        "writer": "Ugz-wSdRj_xAZ7_5GY94AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "광희삼촌이 최고에요.",
+        "writer": "UgyQ1dlEyKsVQxkBCvh4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우야 너무 기여어 어터케 미치겟어어어",
+        "writer": "UgzFhloUFh0Cp_1PLfd4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민호 눈이 워낙 커니까 애들이 좋아라 하는구나",
+        "writer": "UgyWoHgsGQsjGBCicml4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "광히 머리스타일 저러고 잇으니 훨씬 멋잇네",
+        "writer": "Ugwmk9tMDqz2wSP0G0p4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "광희삼촌도 잘생겼어요",
+        "writer": "UgwEmjVsqjV6Csr8YjR4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민호도 장가갈나이됫지",
+        "writer": "UgxNgFTHNZ9rp3Xc6rB4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "광희 조아",
+        "writer": "Ugw4_3k7Vy09S5fvOep4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헬로베이비 시절에도 그렇게 잘 챙겼었지",
+        "writer": "UgyX9_540KDzXVdbpIt4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민호 빛난다, 근데 광희 외모 요즘 부쩍 더 잘생겨진 것 같은데...아가들도 삼촌들도 다 최애들",
+        "writer": "UgyMy8xT9viJVumDcx94AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "받고 전재산",
+        "writer": "Ugz-wSdRj_xAZ7_5GY94AaABAg.9L_67KacqR59SW4fHjmTDG",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "광희 서운하겠다. 나는 광희가 더 좋은뎅",
+        "writer": "UgzBGHsNX1UhzKG5Bp94AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하아아아암 하면서 먹는거 진짜 너무 기엽다",
+        "writer": "UgzSMg5nuOMU8B0i3Sh4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": ", 여기애들은 왜이리 다 사랑스럽지, 나도 옆에서 돌봐주고싶앙,",
+        "writer": "UgzMg5vuWmGfjAgg_Id4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민호오(비속어) 예전에 애기 돌봐줬던 적이 있어서 능숙하게 잘해",
+        "writer": "UgwZeHTiO5cA48OvzgB4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애들은 거짓말 못해요 (이름) 나은이 그래도 광희삼촌 머리는 멋지다고 해주네.",
+        "writer": "Ugw5Zgs2PkMoUtqoKph4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕사새요 i m from Indonesia 감사합니다 이거 너무 재밌어요",
+        "writer": "UgxEoFgypJMh9wpTwgF4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 보고 순간 나은이 어렸을 때 찍은 영상인줄",
+        "writer": "UgyTgKZmrMsstF6hYHt4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애기들이 너무하내",
+        "writer": "Ugwj4q2BXkGdlzpbAdx4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 민호삼촌한테 저를 드리고 싶어요",
+        "writer": "UgyxNsFEQoSLk2uKhAd4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "광희 광희 삼촌은 어디가 멋있어 나은이 ,",
+        "writer": "Ugznc8FMkriyBgWBrvR4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "광희 진짜 서윗하다, .",
+        "writer": "UgybEDJG2BM32l5e2F14AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우 하아압 하고 입벌리는거 무슨 일이야 너무 귀엽다",
+        "writer": "UgxsFwhJrZzN1gEAPhh4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다정하고 잘생긴 사람들 와서 밥해주고 놀아주는 데 어떻게 안 반해요 역시 체력이 되니까 안지치고 잘 놀아준다 민호 나도 놀아줘",
+        "writer": "UgwlxOqZqxUbBgb1YOB4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "파스타는 광희가 만들어줬는데 전재산은 민호한테",
+        "writer": "UgwhGX4x4UmXfWAZZMt4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우 머리 내리니까 애기건후랑 쌍둥이로 보여",
+        "writer": "UgwC3tRxm8j89pieDyx4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은이가 예능을 아넼 머맄",
+        "writer": "UgySkWeP8Z7HAidLKfR4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 애기들은 낯을 가리는 게 아니라 낯짝을 가리는구나,",
+        "writer": "UgwvngYYiyU9CYMiXYF4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애들은 낯을 가리는게 아니라 낯짝을 가린다는 말 진짜맞는것같아요 첫만남인데 무슨일이야",
+        "writer": "Ugz_5AB-qwtYQIFYaDF4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 제발 유튜브 한국댓글만 모아두기 기능 같은거 만들라고 제발 ,",
+        "writer": "UgzNAEU9wlu-P-q5X5N4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후는 토종 한식인데, 밥이랑 김주세여.",
+        "writer": "UgwfAo9oTxVE6HWC2Cx4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "광희 성격 진짜 좋아. 실컷 잘 챙겨주고 저런 대접 받으면 아무리 아이(반사회적용어) 기분이 썩 좋지 않은데",
+        "writer": "UgwaQTGr9_TyjgGAmXR4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 찌누 진짜 (비속어)",
+        "writer": "Ugx2yfJLShss_cyU_MF4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸넬 나은인줄 진짜닮앗다",
+        "writer": "UgwFOc-Bq1J0b3M7k1x4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 말이 왤케 웃기지",
+        "writer": "UgwvngYYiyU9CYMiXYF4AaABAg.9Js1cJUhpvu9JwB4oQ7WL8",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞아요 몇년전부터 언제부터인지 영어댓글이 갑자기 확 많아져서 한국어댓글 보기가 어려워요,",
+        "writer": "UgzNAEU9wlu-P-q5X5N4AaABAg.9JrsCEzsU3X9Ju6V3SzdbG",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댓글 보는 재미가 쏠쏠한데, 영어댓글 넘기느라 힘드네요",
+        "writer": "UgzNAEU9wlu-P-q5X5N4AaABAg.9JrsCEzsU3X9KzrQWQU7VQ",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은이랑 진우가 사람 보는 눈이 있네 민호 삼촌은 진짜 멋진 사람",
+        "writer": "Ugza-bhyHL1UVjhGDl54AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아유우리 쮸 쮸 , 민호 삼촌이 애기같이 보이나, 아이 귀여워 ,",
+        "writer": "Ugzgi9-L7P9mIfQEcmV4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "료료 a proud uncle right there a thing that would remind gunhoo forever that his uncle is awesome",
+        "writer": "UgyjAig_4z4pM6e2Wx14AaABAg.9JlEhjwoVJP9Jng8_aPG8K",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머리 is head 머리카락 is hair",
+        "writer": "UgzLNZ7OSvNve5V_TE94AaABAg.9Jk7Yc6QkKR9JlTteNyQ1A",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "aqilah amni 머리 can be hair too",
+        "writer": "UgzLNZ7OSvNve5V_TE94AaABAg.9Jk7Yc6QkKR9JlgAHiwreV",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yZinTLbT8do",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

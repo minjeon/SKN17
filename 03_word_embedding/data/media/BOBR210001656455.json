@@ -1,0 +1,812 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001656455",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001656455"
+    },
+    "text": [
+      {
+        "content": "잘 좀 하지 그랬어,",
+        "writer": "UgwbNwUKa-1NRbR0Nup4AaABAg",
+        "write_date": "2021-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이젠 미국갔어,",
+        "writer": "Ugy1nEzHK3wQqORcoPV4AaABAg",
+        "write_date": "2021-11-11",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맷 윌리엄스 감독 쓸쓸히 떠난게 씁쓸하네. 뭐가 그리 안맞은건지,",
+        "writer": "UgzSznu0UH83kmiyANZ4AaABAg",
+        "write_date": "2021-11-10",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맷윌리엄스조차 어찌할수없었던 키아",
+        "writer": "UgxaPIEB4MxkE_PhRSd4AaABAg",
+        "write_date": "2021-11-06",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘가요 기아성적은 화나고 이번시즌은 야구본이래 5월까지보고안본게 첨이지만 하지만 싫어하지않은감독중한명",
+        "writer": "UgzSxnfj9aAzuLpxFU54AaABAg",
+        "write_date": "2021-11-06",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미국에 몇년이나 있었는데 영어도 못하냐쪽팔린다.",
+        "writer": "UgyCtZc7fXdSORaCIax4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사실상 대(이름)에 리더아닙니까",
+        "writer": "UgxD5CM5fuBmHPzGZmJ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 커리어만 따지면 국내구단 감독은 아니더(반사회적용어) 코치나 고교 대학교 감독은 마음만 먹으면 할수있지만 본인이 안한다고 봐도 무방",
+        "writer": "UgyrvslqI2g0kLtWUzt4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "약전드 맷 윌리약스",
+        "writer": "UgzJeGMvAtWHDtZZrtl4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기아, 잘하자 항상 응원한다",
+        "writer": "UgzWBFd4_K13wc7RYOt4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그러나 (비속어)",
+        "writer": "Ugyi83MbiQyKTAj85rp4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 그리고 지가 (반사회적용어)에 빚 졌으면 지가 모든거 할줄 알아야 안됨",
+        "writer": "Ugwju5cU86CvIyXe-mB4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "타이거즈 선수들 힘내라고 햄버거 선물해 줬는데 지금 현재 꼴찌를 향해서 가고 있다는,",
+        "writer": "UgyqDEAt1UoiW885yXR4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "두끼 굶는중 바삤다, 너무 고프고 처량하다 내 삶이,",
+        "writer": "UgwIcymXQMdajmvqczt4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "골든글러브 아니고 골드글러브 인데",
+        "writer": "UgwrCf3k2S8AcPwJkTt4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그렇지 알바한텐 그냥 흔한 동내(혐오표현) 치즈버거충 야구모르면 저럴수밖에",
+        "writer": "UgyPXXWO6FTrveEU-yN4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대(이름) 예능에 나오는 스포츠유명인들은 하락함 보셈",
+        "writer": "UgwrFL7JtYncHpk5U4B4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "워낙에 자유로운 영혼이라",
+        "writer": "UgyrvslqI2g0kLtWUzt4AaABAg.9SdHA4qq-939Sj_tjJJyfq",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "심준석 리그 1위를 향해 가야죠",
+        "writer": "UgyqDEAt1UoiW885yXR4AaABAg.9SYnED_uX5c9SZNTcx7i7u",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "메이저리그는 골드글러브 실버슬러거 로 알고 있습니다.",
+        "writer": "UgwrCf3k2S8AcPwJkTt4AaABAg.9SXW-H1yGS99SxraDR5NCY",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미국에 살던사람이 버거를 만드니깐 미국맛이 날수밖에",
+        "writer": "UgxWMYo1K8rzH1EKh6d4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하지만 약",
+        "writer": "Ugz6KOQ3-HNFl5SXFhh4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "메이저가 골든글러브냐,",
+        "writer": "Ugy7v5k82OZ1NphwXkN4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이러니까 기아가 바닥에서 놀지 (비속어) 니나라가 (비속어)야",
+        "writer": "UgxCDa07iaGL1Oek02V4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그러던사람이 심준석리그 1위를 다투고있다니",
+        "writer": "UgwgPu1Q9hW4_wuwHLB4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대머리가 기아 다 망치고있던데 이거보면 기아팬들 열불나겄다",
+        "writer": "UgxFOD7hql4nti7cCuN4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맷윌리엄스 통역은 (이름) mlb시절 통역이었던 유진 쿠 이네여",
+        "writer": "Ugxw_-xBZHziPMdp-P14AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 사람너무좋아,",
+        "writer": "UgyJ9rHDYuj5LDURPdl4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘먹고 가시게 미국으로,",
+        "writer": "UgzA3qAXzXUHTqc3JLh4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보통 광고다 뭐다 할만하기도 한데 bk 자산 생각하면 저 치즈버거 가게는 그냥 미국에서 선수 시절할 때 치즈버거 먹던 기억나서 그냥 치즈버거 먹으려고 지어버린 거라고 봐도 무방",
+        "writer": "Ugy659yTp59ti2Dut814AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전직 메이저리거인데 어떻게 영어 한마디 못하네.",
+        "writer": "UgxVeHbR3QR_dQNcsb14AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 이제 그만두세요",
+        "writer": "UgwUQ7NGMP0R-NJMVfF4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "햄버거 남기고갔네",
+        "writer": "Ugz9FYIa6LcEh9vXwRJ4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "통역하는 형 고등학교 1년선밴데 계속 연락하고 지낼걸. 전에는 (이름)도 통역하고",
+        "writer": "UgwslsHoXf0aKVdQ_D14AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 맛있는 햄버거 다 먹지도 않고 가면 어떡해요",
+        "writer": "UgweCJCEYi47w7pQDHJ4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "병현씨 , 부탁 좀 드려요, 본인 영상을 한번 보시기 바래요,",
+        "writer": "Ugwzr4-V_RBD2H7UEYR4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내년에 못보겠네",
+        "writer": "Ugzf71vptwF1YAJGVPx4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기아가 일주일동안 1승하는데 한달에 4승하게생겼구만 그러니 저햄버거는 적자여",
+        "writer": "UgyIaIm76CPfGMq0mN94AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "골드글러브가 맞지",
+        "writer": "Ugy7v5k82OZ1NphwXkN4AaABAg.9STZel0XomC9SaHmdyAs-m",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그렇다고 하기엔 조계현 지원이 좋은것도 아님",
+        "writer": "UgxFOD7hql4nti7cCuN4AaABAg.9SQq4cPDjA19SYbvQEFI0y",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘해야될 (이름) 없음",
+        "writer": "UgxVeHbR3QR_dQNcsb14AaABAg.9SNVKe3_-lr9SYv3_-_3H6",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "야구만 잘하면 장땡이지 통역사도 있는데",
+        "writer": "UgxVeHbR3QR_dQNcsb14AaABAg.9SNVKe3_-lr9SaI7tQJQ1g",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감독보다 전력보강을 (이름) 조계현이랑 프런트가 더 문제죠",
+        "writer": "UgwUQ7NGMP0R-NJMVfF4AaABAg.9SMiyTcCPL-9SX_UvwAKho",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "법규님 정말좋아요 절대 (반사회적용어)치거나 거짖말은 절대 못하시는 분일듯, 아마도 그래서 (이름)과 두분이서 서로를 알아볼수밖어 없었던듯",
+        "writer": "UgwtVdTVpZLMiL8NnG54AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "법규형 메이저시절 죄다 (혐오표현)가 수두룩했다",
+        "writer": "UgzDP4zpxhgIn3njJ1x4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이는 미국생할 꽤 했을텐데 영어가 안되나 아니면 편하게 구단 통역이 있는건지,",
+        "writer": "UgwQwQxcnzE7sI0K9IV4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 형 지금 웃으면서 햄버거먹고 햄버거 만들고 축구하는데 윌리엄스 (이름)이랑 애리(비속어)시절 범접할 수 없었다, 넘사벽이다 찬(이름)이랑 병현형남은 카메라앞에서 말 많이해도 합법이다, 진짜 (반사회적용어)인으로써 그 거대한 체구들 있는 서양가서 탑으로 활동했으니, 야신이다 진짜 언더로 150레전드",
+        "writer": "UgyKzm9txyie0Ps4J0d4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 라멘 가게도 같이 하고있는데 어떤 팬이 (이름)한테 라멘 가게가 어디있냐고 어떤 라면이 제일 맛있냐고 하니까 (이름)이 집에서 끓여먹는게 제일 맛있다고 집에가서 먹으라고",
+        "writer": "UgwLdwpW6MRib91HE914AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기아타이거즈 경기장에가면 가끔 BK가 햄버거 직접판매합니다 여기서 뭐하세요 BK 햄버거 팔러왔죠 (이름)은 꾸밈없는 자연인 진짜 좋은사람인듯",
+        "writer": "UgzCfkiz4Gi_1sEVXVB4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "루이스 곤잘레스. 또누구더라 우승에 한맺혀서 시카고컵스 1루수마이크그레이스 스티브핀리. 거의창단후 초호화맴버영입 우승기회다싶어과감하게 베팅 렌디존스 시즌중 트레이드로온 커트실링 사실상 원투펀치로 우승함",
+        "writer": "UgzgYJ46ShHVvOVX-KR4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맷동 (비속어)",
+        "writer": "Ugx5vN8M8R4dgY67LFJ4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기아 선수들아 좀 잘해라 메이져 스타(이름) 모셔와 놓고 뭐하냐 죄송하지도 않냐 조닭은 fa 선수 좀 사주고 제발",
+        "writer": "UgxfK2IPkjStf8OCULl4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막에 햄버거 먹다 다 남기고 가누",
+        "writer": "Ugz8QELjD0odGNqe1ll4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "디백스 시절 (이름)이 지갑을 일어버려서 맷동이 500불 빌려준 적도 있다네요",
+        "writer": "Ugx9OqJGgCMA4coHM8h4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Bgm 제목 아는사람",
+        "writer": "UgydYqluMt-8(반사회적용어)dN_Ft4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맷돌 (이름) 기아 우승시켜주세요 내년에",
+        "writer": "UgzjJOGRhuIR4nggmmB4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "직원 은정이가 또 영상 살려주네 잼나",
+        "writer": "Ugw9Ng0gSrYB5Lb6D2N4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막에 버거 다 남겼는데",
+        "writer": "UgwaXQag6qyBQ1HQrl14AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "갸팬인데 맷동님께서 나오시다니",
+        "writer": "Ugx82tbk37KzNwjhWEp4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 개인적으로 타팀팬이지만 제일 안쓰러운 감독, 선수층도 그렇고 보드진 운영만 봐도 그렇고 진짜 불쌍함. 지금 기아 스쿼드만 봐도 한숨 밖에 안나옴",
+        "writer": "UgzTBXI5_tC29gdFjbt4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 기아 코치하면좋겠다",
+        "writer": "UgxLRuOHGKzw_wKjgjh4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금 뛰어도 기아 선수들보다 잘할듯",
+        "writer": "Ugw9bP9j14YDhKXRFo54AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "허재는 음주운전",
+        "writer": "UgwtVdTVpZLMiL8NnG54AaABAg.9SHTAr85VRH9SVa_G3bO1g",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "류뚱도 아직도 통역 달고 다니지 않음",
+        "writer": "UgwQwQxcnzE7sI0K9IV4AaABAg.9SGLfo222Rj9SH1vJnLbJT",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "알아듣는건 다 알아듣고 말도 어느 정도 할 줄은 아는데 영어로 말주변 자체가 좋지 못한 편 , 거기다 선수생활 할 때 성격도 그렇고 말도 직설적으로 하던 편이라 애리(비속어) 디백스 시절 밥 브랜리 감독이나 콜로(반사회적용어) 로키스 시절 클린트 허들까지 감독들과 대부분 불화가 있었음 이치로하고 비슷한 과인데 이치로도 말하고 듣는거 다 되는데 성격이나 화법이 직설적이라 중요한 자리나 인터뷰 때는 일부러 통역 거쳐서 말했음",
+        "writer": "UgwQwQxcnzE7sI0K9IV4AaABAg.9SGLfo222Rj9STHGdW1Rof",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그것도 약물시대에",
+        "writer": "UgyKzm9txyie0Ps4J0d4AaABAg.9SGJaa5jkeg9SML3Mme_K4",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "산쪼메 라멘",
+        "writer": "UgwLdwpW6MRib91HE914AaABAg.9SG7qmAQF239SIa0NRiVt8",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 개빵터졌다",
+        "writer": "UgwLdwpW6MRib91HE914AaABAg.9SG7qmAQF239SW4OYsMV7e",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 법규 스타일 (반사회적용어)지만 웃기네",
+        "writer": "UgwLdwpW6MRib91HE914AaABAg.9SG7qmAQF239Sha2Jk-BJj",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "빨리가서 버리기전에 잔반처리하세요",
+        "writer": "Ugz8QELjD0odGNqe1ll4AaABAg.9SAKSEJmKRW9SB3gDGqdFT",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 그래도 최소 (이름) 최대 (이름)급 투수 진짜 잘했음",
+        "writer": "Ugx9OqJGgCMA4coHM8h4AaABAg.9S77OGfgWJX9SDn6fTuHGR",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전성기만 놓고보면 찬호형한테도 안밀렸던거같은데",
+        "writer": "Ugx9OqJGgCMA4coHM8h4AaABAg.9S77OGfgWJX9ST1evnwkZi",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나의 에스파 마 직구 100km 무시하나",
+        "writer": "Ugx9OqJGgCMA4coHM8h4AaABAg.9S77OGfgWJX9UhDvSVU2S5",
+        "write_date": "2021-11-15",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "13 (이름) 감사합니다.",
+        "writer": "UgydYqluMt-8(반사회적용어)dN_Ft4AaABAg.9S5xJ-MmQg99S8xBcxvked",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "믈브에서 나름 잘나갔던 사람을 치즈버거 (이름)라니 역쉬 BK 의 직원답네요잉",
+        "writer": "Ugw9Ng0gSrYB5Lb6D2N4AaABAg.9S3X_Fg-4Po9SNOePXzAkf",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이색기 불펜운영하는거보면 그런말 안나옴",
+        "writer": "UgzTBXI5_tC29gdFjbt4AaABAg.9S0Q2nlaLMM9S90OW-zhgG",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 솔직히 운용 못하는것도 맞지만 팀도 많이 문제라서, 막 그렇게 욕하기가,",
+        "writer": "UgzTBXI5_tC29gdFjbt4AaABAg.9S0Q2nlaLMM9SDv-dWohI1",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "확실히 전력보면 9위 하는게 당연하긴 함. 근데 혹사가 심하긴 하더라, 믿을만한 투수가 없어서 그렇겠지만",
+        "writer": "UgzTBXI5_tC29gdFjbt4AaABAg.9S0Q2nlaLMM9SGNyq94vMH",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김민 혹사를 안하고 싶어도 투수가 없어요. 그만큼 전력자체가 약하니까요. 전력보강을 안한 조계현 단장 프런트를 욕할수밖에죠",
+        "writer": "UgzTBXI5_tC29gdFjbt4AaABAg.9S0Q2nlaLMM9SX_GVif8ca",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개(비속어)되서 은퇴한건데 2군 방어율 6줌대아닌가",
+        "writer": "Ugw9bP9j14YDhKXRFo54AaABAg.9Ryv9DCX7yl9S305LT9CYB",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Kyootaek Choi 기아감독말하는거아닌가",
+        "writer": "Ugw9bP9j14YDhKXRFo54AaABAg.9Ryv9DCX7yl9S8H9mZ7_1u",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Kyootaek Choi 그래도 최소 (이름) 최대 (이름)급 대투수다 무시하지마라",
+        "writer": "Ugw9bP9j14YDhKXRFo54AaABAg.9Ryv9DCX7yl9SDnUk1iXZn",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기아감독 약쟁인데",
+        "writer": "Ugw9bP9j14YDhKXRFo54AaABAg.9Ryv9DCX7yl9SETjT1CIbm",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Kyootaek Choi 아이고 상황파악도 못하게 생겼네 감독얘기잖아",
+        "writer": "Ugw9bP9j14YDhKXRFo54AaABAg.9Ryv9DCX7yl9SGzeqXUHKu",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Kyootaek Choi 니가 평생일해도 절대못만질돈을 6개월안에 버는분이다",
+        "writer": "Ugw9bP9j14YDhKXRFo54AaABAg.9Ryv9DCX7yl9SJNRSpmJkk",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Kyootaek Choi 니 다음 생에도 못 벌돈을 번 사람인데",
+        "writer": "Ugw9bP9j14YDhKXRFo54AaABAg.9Ryv9DCX7yl9SY8_ZvHHph",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이영상을 보는 (비속어) 타이거즈 팬들은 치즈버거가 턱턱 막힙니다.",
+        "writer": "Ugy24mDFmqtNs0lmVth4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "야구나 잘해라,",
+        "writer": "UgwsUUvNlqa1fLSJC_F4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "법규형 버거팔아",
+        "writer": "UgzwqR1UfNkJk9TWbK14AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "BK듣기좋네요 푸근하게 다가와서 좋네요",
+        "writer": "Ugz-JYYm9AOLkiPSatR4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 대박이네. 디백스 레전드가 기아감독(이름)",
+        "writer": "UgxRKz6a8cZvm5UtG954AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "브라보 옛 아리(비속어) 동료들 초대하는 거 보고 싶네요 그들은 지금 뭐 할까요",
+        "writer": "Ugy0LtDdzF1iHMa587h4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아주 네",
+        "writer": "Ugy24mDFmqtNs0lmVth4AaABAg.9RyiO6ZwoxR9SGX71MqFKP",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금 기아 선수층 보고 이야기 하시길 기아 팬이지만 타팀에 비하면 선수층 별로임 여기에 2군에서 연이어 확진자 나와 주면서 백신 다 맞은 군전역자들을 먼저 올린거고 ( 참고로 9월 18일까지였나 그때까지 격리임) 가끔 답답할때도 있긴 있지만 원준이 성장시킨것만으로도 만족함",
+        "writer": "UgwsUUvNlqa1fLSJC_F4AaABAg.9Rwl3q7TTYk9S2fdmSsKDr",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "법규형 (반사회적용어)에서는 버거팔고 미국에서는 스시판다고 함",
+        "writer": "UgzwqR1UfNkJk9TWbK14AaABAg.9Rwa-ipE4mY9SQl8ZAkDw6",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "약물이 레전드 소리 듣는 시대가 오는구나",
+        "writer": "UgxRKz6a8cZvm5UtG954AaABAg.9Rvml2d_dgG9SD(반사회적용어)g2euq5",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "묀헨글라트바흐 레알마드리드 이 두 팀에서 전설로 불리우는 전차군단 대표팀에서도 주전 수비수였던 분도 한국 축구 국대감독 맡은 적 있음",
+        "writer": "UgxRKz6a8cZvm5UtG954AaABAg.9Rvml2d_dgG9SH1nRgOGR1",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래도 샌프란시스코시절 배리본즈가 3번 칠때 맷 윌리엄스가 4번 쳤음 물론 그 당시 배리본즈는 홈런보다 발이 빠른 시절이었지",
+        "writer": "UgxRKz6a8cZvm5UtG954AaABAg.9Rvml2d_dgG9SaZ94Il1RI",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "팀의 주축인 루이스곤잘레스 영구결번 에리(비속어)구단과 같이일함 렌디옹이야 명예전당에 입성,",
+        "writer": "Ugy0LtDdzF1iHMa587h4AaABAg.9RljLVsfRQf9SDlSa0Z2-K",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남jsgun 빅유닛은 지금 포토그래퍼로 스포츠 사진기자 일을 한다네요.",
+        "writer": "Ugy0LtDdzF1iHMa587h4AaABAg.9RljLVsfRQf9SxrQ3rb0Zy",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Fkrx-3Fvyws",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

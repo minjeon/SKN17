@@ -1,0 +1,564 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001661533",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001661533"
+    },
+    "text": [
+      {
+        "content": "도경완씨의 토킹은 대(이름)에서 최고. 머리가 굉장히 좋은듯 . 그 잘생긴 얼굴을 모자로 가려서 아쉽네요.",
+        "writer": "UgwCCiqmPYw0f9OhIeB4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하영아 너무귀여워 사랑해",
+        "writer": "UgwWHcDuYwXPAYv6FYF4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 애들대리고 슈돌 방솔나오는 윌벤져스 도플갱어 항상 응원합니다",
+        "writer": "Ugy9qv2v0jr38_veAQh4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "슈돌 하영이 벤(반사회적용어)만 보고싶다",
+        "writer": "UgxSZOXBuRHvDuvh4BJ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도경완씨는 심심하지는 않겠다. 연우랑 쿵짝이 너무 잘맞아 일상이 코메디 하영이는 오빠따라하는게 왜 이리 귀엽니",
+        "writer": "UgzHY9Cp_F34_QxE3gt4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하영이 백만불짜리미소",
+        "writer": "UgwlRQCQnEFYoSiN9-F4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 귀여운 하영이 항상 덕분에 행복해 하영아 _",
+        "writer": "Ugy4VsW3OH8YMJXK-oN4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀여워 하영",
+        "writer": "Ugw0LNaD0FED4Txc5mt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하영아 이모가 진짜 하영이 보느라 하루가 짧다",
+        "writer": "UgwYC6HEz9pqZbOij9l4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도경완 100 점 만점에 100만점",
+        "writer": "UgyI2pLIc-72E9HdQJV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "DTS는 누구지 BTS은 알는데,",
+        "writer": "UgzHnfPD1DT8c_klJiV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하잉이 귀여워라아",
+        "writer": "Ugx0CmIwFbtZPf5pLaF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연우아 하영아 이모가 사랑한단다 하영이가 웃는모습만 봐도 기분이 좋아",
+        "writer": "UgxARtO_siRqPghET7h4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연우는 든든하고 하영이는 이쁘고 귀여워 우짜믄 좋노 이모습만 봐도 힐링이 됩니다 계속 도풀갱이 가족으로 나오세요 지다릴께요",
+        "writer": "UgzWBapFuUkXJ3I--3p4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연우 하영이 어쩜그렇게 순수하구 똑똑하구 이쁠까요응원해요",
+        "writer": "UgzcM4CxYPZVm6qYBSF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엇쩜애들이저렇게박을까 엄마가 밖고 아(비속어)밖으니까 애들(이름)짱이야",
+        "writer": "UgwDUvqeiMyMMytx_M54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 도연우. 도하영 너무 이뻐요.너무잘키웠어요",
+        "writer": "UgzFByqsbShDB4JJYHN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하영이 넘 귀여워요 너 보는재미로 산다 말도 잘하고매력덩어리야용 사랑해 축복해..",
+        "writer": "UgyiZbwdBWA6GtDLAD54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넘 귀여웡그냥 미소가 절로난다니까..",
+        "writer": "UgzBP24p-JkUuMe-hbx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이 낳아쓰면.",
+        "writer": "UgycW43RsUBJtwnAfZV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하영이 너무 기여어",
+        "writer": "UgydQYCRfAQ6J1WIQ_h4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)리 처럼 예쁘고 귀여워요 하영 노란 원피스도 넘 잘어울려요 연우 오빠는 왜그리 잘 생겼는지 하영아빠 연우엄마 복도많아요 이가족 행복이 영원하길 응원할께요",
+        "writer": "UgzseJ640eHoaRo3ScR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하영아 이할미가 하영이보는낙에 산다 우째이리 밝고 이쁜지 웃는얼굴에 침못밷는다고 어디서 요래 잘웃는거 배웠노 아이고 이뻐라",
+        "writer": "Ugw0JQ4njIK_lY4Zupd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 사면 도플갱어 가족들처럼 풍요롭고 아름답게 살것같아 내 아를 낳아도 앙",
+        "writer": "UgzbmmgVNu366QJG53t4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하영아 너무 귀여워 죽겠다",
+        "writer": "UgxRthmktwjQXWKSF_x4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하영이 너무귀여워요 일요일 밤에 하영이 보는 재미로 산답니다 우리 아들도 얼른 결혼해서 하영같은 손녀 딸 봤으면 소원 입니다",
+        "writer": "Ugx_kDPHauSavX8mbwh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 엘리도 오네",
+        "writer": "Ugya_p9Dfr-Yj-V7wWJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하영이 갈수록 예뻐지네",
+        "writer": "Ugxb4o5R4D4PRYOc38Z4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도하영 진짜 세상 다 아는거 같은 저 표정이 너무 귀여워",
+        "writer": "UgwAta1YGUCO67-bPC54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "화영이좀 많이 보게 해주라 주라 주라",
+        "writer": "UgzxrtrRtj7uzFoH7g14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하영이는 나중에 아빠에대한 기억이 참 행복하겠다 지혜롭게 아이 훌륭하게 키우는 아빠 엄마.",
+        "writer": "UgxhiK7bMWc0FbQ8LKx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하영이 때문에 슈퍼맨이 돌아왔다 보는데 하영이 연우 너무 귀여워요 정말 미치겠네 하영이 건우 씩씩하게 잘 자라길 바라요 화이팅",
+        "writer": "UgzLEGEIPpI3uqVs-RF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연우 하영 귀염귀염 이뻐요 뿌잉뿌잉.",
+        "writer": "UgwwJvpyWBdtrkmXpEt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도플갱어 가족은 넘 사랑스럽고 연우는 배려심도있지만 지혜도 있네요 (비속어)들 이쁘게 자라라",
+        "writer": "UgznIRHv-ZgoECV-kIl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어쩜 아이들이 저리이쁠까 (이름) 티브보면 노래잘하고 여리다고 생각했는데 역시 이쁜아이들이 있고 든든한 (이름)이랑 너무 이뻐요 응원합니다",
+        "writer": "UgyH0AQoudMiFR0cnEx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하영아 네아빠 너무잼있는분이야 너희가족은 국민들에게 힐링을주늘사람들이야.",
+        "writer": "Ugw10g1mCUqoB_UbjWZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도경완 딸래미 위풍당당. 내는 도경완 딸이야 그러는 듯 모든 걸 다 가진 아이 하영이. 좋을 때다. 두고두고 아(비속어) 무조건 예뻐해 준게 저 아이가 살아가면서 힘들때 꿋꿋하게 헤쳐나가고 바르게 사는데 많은 힘을 줄 거야.",
+        "writer": "UgwQdWGSI4rsgpsQ-7Z4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이가족 이제 그만 나와라",
+        "writer": "UgyfIdxvXIML4qWKVK94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미쳤나봐 힐링인데 부러우면 지는거 알쥐",
+        "writer": "UgyfIdxvXIML4qWKVK94AaABAg.9BH-Ux6fkjp9BJENLkLDQ8",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상마다 악플달고 다니시네",
+        "writer": "UgyfIdxvXIML4qWKVK94AaABAg.9BH-Ux6fkjp9BNhIKC3h8W",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울 하영이넘 사랑스러워요 똑똑한 연우도 사랑스러워요 너네들땜에 슈돌 보고있단다",
+        "writer": "Ugxo3PXNI17U40HyeJZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하영아 연우야 이뽀이뽀 아빠엄마가 잘 키웠네.. 행복하게 자라길",
+        "writer": "Ugyc84CAyMZ1L-hogAR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아궁 귀여워라",
+        "writer": "UgzCKF35_oJ9RoUVNYJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 예쁜 가족이네요.",
+        "writer": "UgwU9T_eQosNmlofRQJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아침에 눈뜨면 구여운하영이가 아른아른거려요",
+        "writer": "UgzAPDBrwy5TgQ52UZN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "불타 오르네",
+        "writer": "UgyQiqdTjWVQtEomI6p4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요즘 하영이 연우 홀릭 연우야 미안해 이모는 하영이가 쬐매 더 귀엽단다, 편애는 아니니까 하영이 정말 미치겠다 귀욤폭발,똑똑이들",
+        "writer": "UgzvP19-sE9A-f89WM14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하영이 보는 일욜날 넘 쪼아요 어쩜 저렇게 귀요미",
+        "writer": "Ugzn8LQnQ2qNFia5Fm54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연우 하영이 정말 재롱둥이 무엇이든지 척 척 마켓 잘되기을 바람 귀요미",
+        "writer": "UgyhAGzk1j3uNCSJdl94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)도 유명합니다 내조덕분에 장(이름)도 유명한거구요 ,",
+        "writer": "UgxU4rmuYBlmsnZa-Ep4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피(반사회적용어) 도 가문",
+        "writer": "UgyWZRqrLS9FkD6CXr14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연우는 정말 순수하고 착해 하영이는 이쁘고 귀엽고 착해 도플갱어네 가족을 사랑합니다",
+        "writer": "UgzFAChw3zQdF0S5cUx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하영이 유난히 노랑색 어울리네 우짜면 이렇게 귀엽노",
+        "writer": "UgzxLKqQ42KpCgFZpbB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연우 하영 아(비속어) 인성 교육 잘(반사회적용어)네요 아이들이 짜증내거나 남매가 싸우지도 않고 큰소리도 없어요 하영이 나이 땡깡도 부리는데 하영이 연우 밝아요 행복한 가정입니다 울딸이름하고 똑 같은 (이름)도 파이팅",
+        "writer": "Ugx6kmi3fIn_ALPC8tl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하영이만 보면 기분좋아지고 지금처럼만 예쁘고건강하게잘자라주길바란다",
+        "writer": "UgwWrVQmxxD2rYXN0UN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연우 하영이 너무너무 사랑스럽고 예뻐요",
+        "writer": "UgzWM9aDQNuNsN(반사회적용어)Jel4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하영이가 이제 방송을 아네요",
+        "writer": "UgxnfP8usk1-QNovjrl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "드루와 드루와예 저절로 미소가 나오는 영상이네요 보고 있으면 한없이 행복해지는 가족 아 너무 좋아요",
+        "writer": "UgxVoYkMWaJ5gLLIGOt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 역시 남매 인증",
+        "writer": "UgwW6hxNACiXmlTflCB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하영아 나는 니가너무 귀여워 죽겠당 그냥 그대로만 건강하게 예쁘게 잘 자라",
+        "writer": "Ugy8cO1HQ1WFvxLLFDp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아옹 하영이 (비속어)탱",
+        "writer": "UgxS_9lH81sZQGDftxx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도아빠 너무 웃겨 이집 너무 부럽다 연우 하영 너무 잘자라네요",
+        "writer": "UgwzLDpYeHoA6hr2tcV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "생명의거름불로초 책은 코로나19 (반사회적용어)를 예방. 퇴치하는 책이니 전세계인들님. 생명의거름불로초 책을 구입하여 보시면 앞으로 코로나19 보다 더 강한 (반사회적용어)가 와도 이길 수 있습니다. 39.000원을 투자하여 건강한 행복을 만드세요. 글쓴이 (이름) 책가격원 246쪽 농협계좌 3510941482293 (이름)(생명의거름불로초) 053) 9655935",
+        "writer": "Ugxv1wW808Md5GKpUaV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 썸네일 무엇 너무 강력해서 안들어올 수가 없잖아",
+        "writer": "Ugw6vrmFdXwS7klHyWF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일보고 클릭을 안할 수가 없다 진짜",
+        "writer": "Ugx8-bTeIw35DxOUtiV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연우랑 하영이 표정이 너무 다양해저 끼들을 어쩔거야귀요미들",
+        "writer": "UgwAgdBOMrmtV4DjFOV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연우남매 넘 귀엽고 순수한 모습 정말 좋군요",
+        "writer": "UgyCrMuF57y_aFW5C2p4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방탄소년단이 나와야겠다 여기.",
+        "writer": "UgyrWU0qu4qlkSq91WF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Hahaha khikhikhi hayoungnaaaa 예쁜",
+        "writer": "Ugzt0X9qkR8mYx9ttZB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wMkubJLsWV0",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

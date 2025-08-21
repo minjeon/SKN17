@@ -1,0 +1,340 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001659654",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001659654"
+    },
+    "text": [
+      {
+        "content": "아이고 선호야 왜그랫냐",
+        "writer": "Ugwcy5zKT7sNB0uPo2F4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1_vIX2tPtCE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가보려고 만든 (이름) 메롱좌표",
+        "writer": "UgwJbAikUe5-x_pDZKt4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1_vIX2tPtCE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다 좋은데 항상보면서 궁굼했던건 왜항상 제작진에게 사는건 종민이지목하는(혐오표현) 이거 매번보면서 의문",
+        "writer": "Ugyj45c9-2ECKvDagsF4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1_vIX2tPtCE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 썸넬",
+        "writer": "UgySHI2CKsGayumuESx4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1_vIX2tPtCE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 선호형 배우였지개너무햌쿠",
+        "writer": "Ugw0vHHkqpPp7L5Cvwt4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1_vIX2tPtCE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딘딘 똑또기",
+        "writer": "UgxUaQssJJRqJxbE6LV4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1_vIX2tPtCE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나만 여기 웃는거 설레냐, 그냥 (이름) 당신 안설레는 장면이 없,",
+        "writer": "Ugz7_kTth9m9MrflA2t4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1_vIX2tPtCE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에 라비 아 배우였지 라고 한겈 라비 말이 좀 작아서 자막으로 (이름)것도 저거 자막으로 나왔으면 더 웃겼겠닼",
+        "writer": "Ugx-OCr0UHDn2Km-CRt4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1_vIX2tPtCE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 (비속어) 무슨 EBS 교육방송임 그냥 웃음도 안나옴 그냥 시즌1 재방송하는게 나을듯",
+        "writer": "Ugx1XAPOJNsCHdciFKl4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1_vIX2tPtCE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 귀엽네 증말",
+        "writer": "Ugx12ciz9F6G0efE29Z4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1_vIX2tPtCE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 진짜 궁굼한건데 만약에 가다 접촉사고나면 어떻게 될까,",
+        "writer": "UgxOjEFxOFwWa4yHdUh4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1_vIX2tPtCE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개귀야워 진쨔",
+        "writer": "Ugywj8v1O-o3caBGJZJ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1_vIX2tPtCE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 너무 귀여워 다들",
+        "writer": "UgxEgggDCScBY-DuK554AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1_vIX2tPtCE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딘딘 아무렇지 않게 오케이 어차피 종민이형이 쏜대이러고 그냥 지나가는거 나만웃기나",
+        "writer": "Ugx_PCXW-NnZUpl76QZ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1_vIX2tPtCE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대변리대변초등학교 이름 바꾼 학생",
+        "writer": "UgydH2FtmyPh2dI3n3h4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1_vIX2tPtCE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 (비속어)리에 살았는데, 아 (비속어)",
+        "writer": "Ugy-mzl9CAvbvChHc2l4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1_vIX2tPtCE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재미없으면 그냥 안 보면 되잖아요 . 왜 여기까지 와서 악플 달고 난리야(((",
+        "writer": "Ugx1XAPOJNsCHdciFKl4AaABAg.9GnXEBXCiod9GrDz_-aPYp",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1_vIX2tPtCE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보는 내내 웃고 있어서 광대 아픈데 뭐라는거야",
+        "writer": "Ugx1XAPOJNsCHdciFKl4AaABAg.9GnXEBXCiod9GtamzfR1Ns",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1_vIX2tPtCE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유튭에 많잖아 그거보든가",
+        "writer": "Ugx1XAPOJNsCHdciFKl4AaABAg.9GnXEBXCiod9Guc9MqvANV",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1_vIX2tPtCE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재미 없으면 보지 맠 동시간대 재밌는 예능 많이 한다 너 같은 애 안 봐줘도 되니까 (비속어)라",
+        "writer": "Ugx1XAPOJNsCHdciFKl4AaABAg.9GnXEBXCiod9Gy2IcqYHLi",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1_vIX2tPtCE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 존잼인디",
+        "writer": "Ugx1XAPOJNsCHdciFKl4AaABAg.9GnXEBXCiod9HQvv4_ftBm",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1_vIX2tPtCE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 재밌당",
+        "writer": "Ugx1XAPOJNsCHdciFKl4AaABAg.9GnXEBXCiod9HpoKfCLZeO",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1_vIX2tPtCE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맨날 그렇게 당하잖아욬",
+        "writer": "Ugx_PCXW-NnZUpl76QZ4AaABAg.9GJ_T-dEaWu9Ig4YBjo8ao",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1_vIX2tPtCE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연정훈행님 운전 욀케 멋있어요",
+        "writer": "UgzHHab-IHSeVUw8UWx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1_vIX2tPtCE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엥 나 우동리사는데",
+        "writer": "UgwBNkFWXtHlJRW18TN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1_vIX2tPtCE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "5번 돌려봐야함",
+        "writer": "Ugwh53J0HdZN_8ZapfF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1_vIX2tPtCE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머리 쓰다듬기",
+        "writer": "UgwafOSgFHQ3eqdW5Vp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1_vIX2tPtCE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시즌4 제작진들 아직 서툴다 시즌1이었다면 네비(비속어)션도 떼버리고 촬영했다",
+        "writer": "UgxXj_f7LKLeQOBAbuF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1_vIX2tPtCE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유토피아 멤버들이네요.",
+        "writer": "UgzR9prshDqqNf2G4PR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1_vIX2tPtCE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다들 넘 귀여움",
+        "writer": "UgzAmKKfszkyXewsItN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1_vIX2tPtCE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내비에 찍는걸 영상으로 처음 발견했을 때 PD는 무슨 생각을 했을까",
+        "writer": "UgwJlrue49F62URfjJ94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1_vIX2tPtCE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다들 넘 귀여웤",
+        "writer": "Ugyu3JJDY0A_HnONAR94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1_vIX2tPtCE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래서 케미있고 좋은듯 쌍방순둥이라",
+        "writer": "UgxXj_f7LKLeQOBAbuF4AaABAg.9FhtLth4Bag9Fmb4XUcOxX",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1_vIX2tPtCE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시즌 1 초기엔 아마 네비(비속어)션 나오기전이였던것같아욬 지도 보고 찾아가고 그랬었던게 뭔가 생각날듯말듯",
+        "writer": "UgxXj_f7LKLeQOBAbuF4AaABAg.9FhtLth4Bag9FzTWQfZa86",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1_vIX2tPtCE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시즌1진짜 옛날이다 네비도 없었다니 충격",
+        "writer": "UgxXj_f7LKLeQOBAbuF4AaABAg.9FhtLth4Bag9GJ_pKXoWjF",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1_vIX2tPtCE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김Zii 시즌1에도 조금 지나면 네비 다 떼고 그냥 찾아오라고 하는 미션이 많습니다. 휴대폰도 스마트폰으로 바뀌는 시기라 다 압수하고요.",
+        "writer": "UgxXj_f7LKLeQOBAbuF4AaABAg.9FhtLth4Bag9Gh11Nn-ydo",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1_vIX2tPtCE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)트 쌍방순둥잌 말 왤케 귀여움",
+        "writer": "UgxXj_f7LKLeQOBAbuF4AaABAg.9FhtLth4Bag9Gy1tAhkuzx",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1_vIX2tPtCE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네비 아랍어인가로 설정해버려서 못건드리는편 있는데 뭐였지",
+        "writer": "UgxXj_f7LKLeQOBAbuF4AaABAg.9FhtLth4Bag9H51wn29_Tk",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1_vIX2tPtCE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방토피아특집이라 일부러 문제 쉽게 내느라 그런거 같아요 어짜피 제작진 손안",
+        "writer": "UgxXj_f7LKLeQOBAbuF4AaABAg.9FhtLth4Bag9HU4BBJPykc",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1_vIX2tPtCE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "PD 이런 시,",
+        "writer": "UgwJlrue49F62URfjJ94AaABAg.9FZkeMK909J9PRK5q5fwdE",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1_vIX2tPtCE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요한 발",
+        "writer": "UgwJlrue49F62URfjJ94AaABAg.9FZkeMK909J9T8R1vQvaQw",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1_vIX2tPtCE",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

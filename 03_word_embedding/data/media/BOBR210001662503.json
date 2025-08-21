@@ -1,0 +1,836 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001662(반사회적용어)",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001662(반사회적용어)"
+    },
+    "text": [
+      {
+        "content": "공부에 취미를 붙여봐 그 말이 그렇게 지긋지긋 했어요. 그게 가능한 사람이 얼마나 될까 사실 나만 그게 안되는걸까 그게 당연한 듯 여기는 말들 때문에 수없이 자기비하에 빠졌어요. 이제와서 한겹한겹 짐을 내려놓을 수 있게 되는 것 같습니다,",
+        "writer": "UgwSdG3qnxAJqVfj0l14AaABAg",
+        "write_date": "2021-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 영상 보는데 왜 이렇게 위로 받는 기분이죠 항상 고맙습니다",
+        "writer": "UgyVJ6_KcOlEh73eKel4AaABAg",
+        "write_date": "2021-11-17",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 요즘 애들 가르치는데. (이름) (이름) 사랑합니다. 진짜, 꼭 저 마음 가지고 애들 가르치겠습니다",
+        "writer": "UgwNJOyK_18aL4Ln2ZV4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몇 번을 보네요",
+        "writer": "UgwIy5lJnHtTGf0Md5l4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형광펜을 사라 흐름을 타고 가라 공부를 못해도 괜, .",
+        "writer": "UgxZtV94aZGTbcVwrUV4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "접니다 교육부 장관 돼주세요",
+        "writer": "UgzGqkKkXnRb5nrjagV4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "겅부하기시를때 내가 내자신한테 말하니까 속이 좀 풀림",
+        "writer": "UgxqDyCLyRvtsnYH7Gd4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (이름)은 이 시대의 보물이예요. 딱 제 아이들 어릴때 이런 귀한 분의 말씀 듣고 보고 배울수 있음에 정말 감사드립니다 항상 건강하세요",
+        "writer": "Ugz_AKviQvjKEOL5xhB4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 공부하기 싫을 때마다 (이름) 선생님 영상 찾아봐요 볼 때마다 이런 어른이 되고 싶단 생각이 들어서 공부하게 되는 듯.",
+        "writer": "UgwmKI-x9t3HyVUmwK14AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공부가 하기 싫다는 걸 쿨하게 인정하는 건 부모 본인이 공부를 많이 해본 경험이 있을 때 더 쉬움,",
+        "writer": "UgzACnikLnL8J7AwiZ94AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이렇게 한다고 공부 하는건 아님. 관계가 악화되지 않을 뿐임.",
+        "writer": "UgwyxeDxW6dtrCuqasN4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딱 저희부부 입니다",
+        "writer": "Ugz7-F06G99Oejuhf-t4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무나 귀한 말씀 감사합니다 아이 아빠로서 저를 되돌아보게 되네요.",
+        "writer": "Ugzhf2P_ds4SsWAQG-F4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "필기를 정말 열심히하고 공부하는데도 어른들은 과정보다 노력보다 결과만 보고 넌 그렇게 공부해도 점수가 왜 이모양이니 하면서 어른들이 맘대로 저를 공부 못하고 공부 안하고 공부 싫어하는 아이로 만들었어요. 공부하는 습관이 점차 좋아져 높은 점수를 얻었을 때 어른들이 그러더군요. 쟤가 왠일이니 칭찬도 아닌 말 비꼬는 듯이 들렸어요. 어릴 때 정말 칭찬과 관심이 고팠는데 그게 채워지지 않아서 그런가 성인이 되어도 늘 칭찬을 듣고 싶은 거 같아요.",
+        "writer": "UgzHuohbY0KPTFdAhd14AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)쌤 (이름) 빙의해계실때 진짜 저희엄마 100 여서 소름돋았어욬",
+        "writer": "Ugxgy1FZSrj6atjkZsJ4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 말씀듣고 제가 저를 체점하네요 100점짜리는 이니어도 틀렸던것은 같은 실수를 하지 않도록 합니다 감사합니다",
+        "writer": "UgxxUTYYcJW1cll2FWF4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어른들은 웃는데 정작 이거 듣는 학생은 절대 못 웃음 저게 웃긴가 이런 생각 들지솔직히 이거 듣는데 너무 눈물남난 저런 말 엄마아빠한테 한 번도 못 들어봤어서 공부하기 싫다하면 그 동안 남들은 약간이라고 표현하는 내 노력은 싸그리 무시하고 니 상태가 잘못됐다는 인식만 억지로 박으려는 말만 함 저런 말 들었으면 성적이 오르진 않아도 공부가 큰 부담은 덜 되겠다",
+        "writer": "Ugy3JhKWzFZ4uFaLK2t4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)깡통 넘 웃겨요",
+        "writer": "UgwcOuX9mFyW8p0-f5N4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "할만큼 했으니 그 결과는 받아들이라고 말해보고 싶네요 아직 할만큼이 1020분인 아이라 초6인데 학원도 안가고 밖에서 농구하고 운동하는 시간이 대부분이고 하루 학습지 문제집 10분 하는게 다인데도 혼자 엄청 많이 한다고 생각하고 자기는 그럭저럭 잘한다는 마음이 있네요 주변 엄마들은 그렇게두면 안된다지만 자기욕심 자기동기가 있어야 능률도 오른다 생각하고 원하지않는 사교육 돌림을 없애는 대신 학교수업시간에는 꼭 집중해서 들어야한다고 약속을 정해놓긴 했는데 예비중이 되니 살짝살짝 흔들리기도 합니다 그래도 아이한테 젤 자주하는 말이 요즘 어때 행복해 거든요 이런 기조로 계속 키울까 합니다 공부는 본인이 하는것이고 부모는 가끔 키워드를 던져주긴 하지만 선택은 자기몫이니까요",
+        "writer": "UgxaxXfMarshNW-GL4F4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조금만기다리시면 알아서할것같아요 제가 그랬거든요 중학교가서 공부열심히했어요 저희(이름)도 공부강요안하셨구요..",
+        "writer": "UgxaxXfMarshNW-GL4F4AaABAg.9Ox_CYG433B9OzD3sTmyPM",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "only J 저 역시 그렇게 커서 가능한것같아요변하는 교육환경과 많은 정보속에서 중심잡기가 참 힘들지만요",
+        "writer": "UgxaxXfMarshNW-GL4F4AaABAg.9Ox_CYG433B9P-ELnSC11k",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 그 흐름 따라가볼걸,",
+        "writer": "UgyCqb6IpQDSynCYFrt4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 딸로 태어나고 싶네요 많이 배우고 실천해야겠습니다.",
+        "writer": "UgwgSgFTbRtZ7VX8NWV4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어릴때 못들은 말 이쌤한테 들을라고 보는듯 30대 으른인데 이거보면서 동기부여받음",
+        "writer": "UgxRyIvqY0OEq6tewb54AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 진짜 우리 아빠같다,",
+        "writer": "Ugw4TEcrwrDA4nPH05l4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "듯고보니 그렇네",
+        "writer": "UgyyUXU2Fjg7T2sgdDd4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄마가 공부하란애기 안하면 자연스럽게 공부하게 되어있어요",
+        "writer": "UgxFIrh4542UC18_rtV4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "월세랑 생활비 혼자 벌면서 대학원 졸업준비하면서 지내는데 지쳤어요,",
+        "writer": "UgwewXN1XF5BcAcilLx4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모든 부모가 다 그렇다고 일반화하는 걸로 선입견을 심지 말아주세요. 안 그러고 아이 마음 알아주는 부모도 많습니다.",
+        "writer": "UgzF1rZDARtZcaEetpp4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대학까지 졸업했지만 아직도 공부는 싫습니다. 저도 형광펜 사러갑니다,",
+        "writer": "Ugws7BUvmWihhtEIzJB4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는 공부를 잘하는 아이였구나 토닥토닥",
+        "writer": "Ugwv7e37eU42euAOEh94AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "원래 댓글 잘 안다는데 보다가 눈물이 울컥나서, 조금만 더 어렸을때 (이름)이 그런말을 해줬으면 좋았을텐데, 초등학생때부터 동생은 뭐든 잘해오는데 정작 나는 늘 실수하고 백점하나 못맞아오고, 더 잘하고 싶다는 내 마음과 잘했으면 좋겠다는 (이름)의 기대에 부응하고 싶어서 꾸역꾸역 책상 앞에 앉아있었지만 점점 더 공부하기 싫었어요, 그걸 늘 이해 못받았어요 학원비 내주고 간식도 주고 등따숩게 해주고 나는 공부하고 싶었지만 못했는데, 그땐 그런 소리 들으면서 공부하기 싫은게 (이름)건줄 알고 있었어요 그건 당연한거였는데, 점점 커가면서 공부를 하긴하지만 여전히 공부를 싫어하고 애매한 성적만 받아오자 (이름)은 더 이상 성적에 연연하지 않았지만 그건 인정이 아니라 포기였죠, 그런 포기가 아니라 (이름)에게 이해받고 싶었고 인정받고 싶었고 더 나아가 못해도 괜찮다는 말 격려같은 말을 듣고 싶었는데, 그때 그런말을 들었으면 공부에 좀 더 정을 붙일 수 있었을까, 그땐 그냥 타박이 아니라 격려가 받고싶었을 뿐인데,",
+        "writer": "Ugx47iyqaspzklkaCNx4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(혐오표현)깡통 내가 하는말인데 웃으면서 나를 돌아본다",
+        "writer": "UgxDlKyYko9D4hWCq-p4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 공부 하기 싫어 하기 싫어 하다가 한 문장에 생각이 확 바뀌게 되었는데 세상 어느 분야든간에 공부가 필요없는 분야는 없다. 내가 생각하는 공부는 자기가 정말 하고 싶어하는 분야를 찾아주는 것 그러기 위해선 여러 교육 인프라가 잘 갖춰 줘야 하겠지만",
+        "writer": "UgyqxDjXXAfUnIXWbb94AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "교육부 장관에 나도한표 요즘 이시대에 꼬옥 필요한 분이라고 생각해요 본받고 싶네요",
+        "writer": "Ugwe8B4YSuuYf2nD3AV4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "과제하기 싫어서 (이름) 영상만 주구장창 봤는데 결국은 하러 가야겠네요, 위로 받았습니다. 이제 과제하러 가보겠습니다. 감사합니다 (이름).",
+        "writer": "Ugz9RYiYw0Agrvo7ERF4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "중간에 위올라이 브금",
+        "writer": "Ugxlt3eVj__rS0BKAYx4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)께 듣고 싶었던 얘기를 늘 (이름) (이름)께서 해주십니다, 감사해요, .",
+        "writer": "UgyL4vAT8-fWkJ8mrXp4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어쩜, 내가 우리 아들한테 그렇게 했는데, 애 키우면서 매 안때리고 소리 안질렀던 이유는 오직 하나 그게 효과가 없을것 같아서였거든요, 게임하는걸 보고도 게임하지 마라 라거나 못하게하지도 않았어요, 그냥 지켜만 볼 수밖에, 공부도 잘 안하고 게임만 하고 게임에 엄청난 돈을 써서 속썩이더니 어느날부터 이제는 게임 재미없고 시들하다고 하면서 문제집을 사야한다고 그걸 풀겠다고 스스로 하고 엄마는 다른 엄마랑 다른것 같아 0.1 프로의 엄마같아 라는 말도 하고, 엄마는 나한테 공부해라 잔소리한 적도 없고 다른 엄마들처럼 이것도 하나 못해 이런 말 한적도 없다고 하면서, 뭔가 앞으로는 좀 달라질까요, 그러면서도 이렇게 해도 되나, 야단 안쳐도 되는걸까 확신은 없었죠, (이름) (이름) 한 번 더 믿어보겠습니다",
+        "writer": "UgwKbfVOSwmroQsL5Dl4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안 많아요",
+        "writer": "UgzF1rZDARtZcaEetpp4AaABAg.9Ok8VcuvpXu9TbtNApuBl6",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래도 하긴 싫다,",
+        "writer": "UgyqxDjXXAfUnIXWbb94AaABAg.9OfQ-ACbv879TsO9REsA9C",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 지켜보는 것보다는 올바른 방향은 지침을 주셔야할 듯,",
+        "writer": "UgwKbfVOSwmroQsL5Dl4AaABAg.9OaDYAWwzBp9Q1nJayApAq",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공부하는데 티비소리 시끄러워서 좀 줄여달라니까 지가공부를 하면얼마나한다고 유별나네 (이름)해서 공부접었습니다",
+        "writer": "Ugype8dVn7fGTP5VL2t4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "옆에서 부모는 응원해줘야하는데 대부분 그렇지 않죠, 저희 어머니는 남동생이 중학생때 수학 빵점 맞았을때도 혼내지 않고 다음번엔 하나(반사회적용어) 맞추도록 노력하자고 응원해주셨거든요. 그렇게 수학 싫어하고 공부싫어했던 동생이 이과가서 공대입학하고 지금은 전공살려서 직(이름)고있어요 그 당시에 응원보다 혼내고 강압적으로했다면 지금과 같은결과는 없을거라고생각해요 저도 곧 아이를 낳을예정인데 엄마한테 배운 교육방식과 은영쌤 영상보면서 많이 노력할게요..",
+        "writer": "UgyQ7lVbhlXJbLE4fJh4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제 동생이 애가 2명인데 (이름) 쌤 책을 늘 읽으면서 육아를 하고 있는데 정말 감사하다고 해요. 덕분에 애들을 너무 잘 키우고 있데요. (이름)쌤 없었으면 어쩔뻔 했냐고 자기도 부모는 처음해 보는거라 좋은 부모 되는게 엄청 노력해야 되는 거래요. 안그러면 본인의 기질 이런게 막 튀어나오는데 그걸 늘 (이름)쌤 책에서 배운대로 하면서 조심한데요. 그래서 그런지 조카들이 말하길 제동생이 학교에서 다른 애들 사이에서 엄청 부러워하는 엄마래요. 정말 (이름)쌤에게 감사하다고 ,자주 얘길 하더라고요.",
+        "writer": "UgyHQTX6gL0MITvoZ-N4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 맨날 공부 왜 하기 싫냐고 엄마는 공부를 하고싶은데 못하게했다고 그런소리 맨날 들었음. 노동하게 하는 것도 아니고 공부하라는데 감사하면서 살라고",
+        "writer": "UgyKnYXq_-XMka-7U3F4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해서는 안 되는 말은 알겠는데 어떻게 말해야할 지는 모르겠네요 책보고 따라하긴하는데 아이와 갈등이 생기는 오만가지 상황에는 턱도 없지요",
+        "writer": "Ugys9_Fzs-8IrxoGU-B4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어른이 돼서 아이의 마음을 이해하고 대변해주기가 정말 쉽지 않으신데 아이도 어른도 다 보듬어주시네요 정말 늘 위로받고있어요",
+        "writer": "UgxTHPjqzlixNFWyc7h4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 (이름) 선생님은 소중해요.",
+        "writer": "UgzvljVDiBI-dUK7zpx4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "살면서 (이름)한테 들었던 말이 (이름) 입에서 똑같이 나오네",
+        "writer": "UgxzFfhdlZFJi8EJRbl4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)쌤은 아이도 힐링시켜주고 어른도 힐링시켜줌. 괜히 신경정신과의 (이름) 아님.",
+        "writer": "UgyG5Qgqt6BpsjtaTWN4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄마도 하기싫었는데 좀 쉬어.오래 앉아있었네. 누워서도 책보네 장하다.까지는했는데 마무리가 부족했네요. 형광펜 줄 용꼬리용용 흐름 틀려도 괜찮아",
+        "writer": "UgwPf0ZB_ZO-Lo_e87x4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 나라는 진정한 어른이 될 수 있는 과정이 필요하다 이러한 선한영향력으로 사회의 인식이 더 나아졌으면 좋겠다 인식의 (이름) 일어났으면.",
+        "writer": "Ugx1SQtK2WmKDxfWdqd4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 정당성을 인정을 안해,",
+        "writer": "UgwqWdja5Emstc4FIv14AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대박, 위로받는 기분이다",
+        "writer": "UgxXYsN62CxtBQKsfzV4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 감사드립니다",
+        "writer": "UgwhNGe4qzzj4W12a3l4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 저렇게 말해줘야지",
+        "writer": "UgxnhGJqh3TgAp12sXR4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무유익한 프로네요 다만 한쪽으로 오랜시간을 바라보게되는 패널들의 목이 너무힘들것같아요",
+        "writer": "UgyqE3uQAaAh6OBRLyF4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초6 제아이가 다니는 학원 선생님이 하면 안되는 말을 아이들에게 늘 틀린문제마다 속상하게 말 합니다. 너 이러다 중학교 적응 못해 (비속어)된다. 이런것도 못풀면 (비속어)이다. 얘 얘랑 놀지마 같이 (비속어)된다. 너 이런식으로 공부할꺼면 때리쳐, . 너무 속상해서 아이 없을때 선생님께 그런말씀 자제 부탁드렸더니 더 당당하게 말하네요. 전 이런식으로 애들가르칩니다. 너무속상하고 말이 안통해서 대화중 나왔습니다. 아이는 교육상 안좋을꺼같아 학원 (이름)고 있습니다. 너무 속상합니다 그학원에 어쩔수 없이 다니는 아이들도 너무 안타깝습니다.",
+        "writer": "UgyhZ5OfMscSeYWsPHV4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부정적 감정을 인(이름)면 그 감정에서 못 빠져나올까봐 전전긍긍하죠모든 감정은 인(이름)고 공감해줘야 가라앉아요감정이 가라앉아야 이성적인 뇌가 가동합니다감정에서 자유로워야 뭐가 됐든 하게 됩니다 보통은 가던길 가죠",
+        "writer": "UgzImeLredHSJCVzm0F4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 초중고 항상 공부 잘했는데 당연히 하고 싶지 않을 때가 많았어요, 근데 그 때 엄마가 얼굴 딱 만져주면서 어이구 우리 딸 공부하기 싫지 힘들지 얼마나 놀고 싶겠어 우리 딸 이러면 하나도 안 힘들고 오히려 공부할 힘이 막 났었는뎅 오히려 엄마가 성적에 압박감을 안 주시니까 저 혼자만 받는 스트레스만 감당하면 돼서 멘탈이 좀 유지가 됐던 것 같아요",
+        "writer": "Ugz0LTMiZjWExexkIPl4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞아요 저거 저희 (이름)도 말씀하셨어요. 나때는 생계 유지하느라 걱정했어 공부 하는 게 소원이다 이런 거",
+        "writer": "Ugzl4b6e_ynKDMmWH4R4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목스트레칭 필수",
+        "writer": "UgyqE3uQAaAh6OBRLyF4AaABAg.9OKJmen5Uis9OYoniUkjeB",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 그거 완전 학대 아닌가요,",
+        "writer": "UgyhZ5OfMscSeYWsPHV4AaABAg.9OHpBxEEaFM9OMjxzE1xrr",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이가 걱정이 아니라 성적이 나쁜 아이 때문에 자신의 입장이 난처해질 것이 걱정되는 쪼잔한 선생으로밖에 안보이네요. 잘 그만두셨어요. 부모도 아이에게 저렇게 하고나면 얼마나 후회를 하는데, 돈내고 저런말을 듣다니요.",
+        "writer": "UgyhZ5OfMscSeYWsPHV4AaABAg.9OHpBxEEaFM9OO5ZjXkmoJ",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 학원하지만 그렇게 심한말을, 아이들 상처되요. 에휴 속상",
+        "writer": "UgyhZ5OfMscSeYWsPHV4AaABAg.9OHpBxEEaFM9Ofh2Jp40FS",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 수준이하 선생이네요. 저게 옳은줄알고 살아왔을 삶도 불쌍함.",
+        "writer": "UgyhZ5OfMscSeYWsPHV4AaABAg.9OHpBxEEaFM9Oh7H3nlnSi",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현명한 엄마셨네요",
+        "writer": "Ugz0LTMiZjWExexkIPl4AaABAg.9OEXTYrHf8H9OXdSbw-sQP",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저희 엄마도 그러셨어요. 시험기간에 1112시 넘어갈거같으면 불끄고 그만 자라 하시구 시험 결과갖고도 단 한마디도 하신 적 없어서 제 친구들은 (이름)께 성적으로 꾸중 받기도 하던데 여쭤본적 있어요. 엄마는 내 성적에 대해 왜 한마디도 안하시는지 엄마가 시험을 치고 성적을 받았다는 건 이미 끝난 일이야. 종료된 일을 가지고 이러쿵저러쿵 말을 하는건 어리석은 일 같아 열심히 하는 것 같던데 열심히 한 거로 됐지. 이러셨어요 결과보다 과정중심의 칭찬을 , 여튼 저도 학생 때 성적에 대해선 혼자만의 스트레스만 감당하면 돼서 멘탈 유(반사회적용어) 그나마 했었는데. 만약 옆에서 누가 쪼거나 스트레스주면 바사삭 무너졌을 거 같네요",
+        "writer": "Ugz0LTMiZjWExexkIPl4AaABAg.9OEXTYrHf8H9OioRU_LSrp",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어우 너무 부럽네요 다큰 나이를 넘어서 부모나잇대인데도 울컥해요",
+        "writer": "Ugz0LTMiZjWExexkIPl4AaABAg.9OEXTYrHf8H9OrjO7riqgA",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 우리 (이름)도 일찍 자라고는 하셨음. 성적 안좋으면 뭐라 하셔서 그렇지.",
+        "writer": "Ugz0LTMiZjWExexkIPl4AaABAg.9OEXTYrHf8H9PTckEvOYWo",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리액션 담당이 있는건지. 오버좀 안했으면. 이야기의 흐름도 끊기고 부자연스러워서 자증나요.",
+        "writer": "Ugzvnt5fRXiRR7zxQk14AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어쩜 (이름) 내가 어릴적에 듣고싶었던 말씀만 콕콕 짚어서 해주신담 눈물나게",
+        "writer": "UgwFHL5GqhY_mdxlJ_t4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (이름)의 MBTI 궁금하다",
+        "writer": "Ugx6vMs0eYV8ANVf2At4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 눈가가 촉촉해졌어요 왜죠 저 어른인데",
+        "writer": "Ugw1VGpL4OzDwiDkbMd4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "교육부(이름)으로 추천합니다",
+        "writer": "UgxcwjVALwyDdpv-0uJ4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공부 못하는 고등딸에게 시험 못봐도 괜찮아. 근데 너 나름대로 최선만 다해줘 라고 응원합니다. 성적이 바닥인걸 보면 아이가 짠하기도 하지만 밝은 아이 임에 감사합니다.",
+        "writer": "Ugwv7e_QcQGC3JouW8d4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그시절 친구들이 하는것은 어느정도 해본다는게 중요하다라는 말씀같음. 결과가 같을필요는 없지만",
+        "writer": "UgzVNvaleMjoISosTYt4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞다 아이에게 공부하기 싫은 마음은 정당한 마음인데 그걸 인(이름)고 공부하는 태도나 자세먼저 칭찬해주면, 누(비속어)도 칭찬받으려고 책꺼내들지 얘기듣는데 왜 내가 울컥하는지 모르겠다",
+        "writer": "Ugz9T0ciDrDFyff4T9h4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이시대에 (이름) 쌤같은분이 있어서 저같이 모자른부모도 내아이 잘키워보자 할수있어요. 애도 저도 행복하게살께요.",
+        "writer": "UgxZlRDc2cJVvUAFgkh4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유아때만 인(이름)다 중고등 가서 푸쉬하게 자꾸 되는데 반성하게 되네요, 중고등때에도 아이를 인(이름)어야하네요",
+        "writer": "Ugy3PbLCjR885P_vT3V4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 많이배우네요 이제 27갤인데 치카치카 하기싫다하면 이가 양치하기싫구나 그래도 해야해 안하면 어쩌고저쩌고이러고있네욬그러고하면 덜 거부하는느낌 아이입장에서 많이 생각하게되는거같아요 이유없이 짜증내거나 울고불고하는거같아도 (이름) 다있더라구요",
+        "writer": "UgwVum8h0XbjZBn641Z4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 공부좋응데",
+        "writer": "Ugzdc9iQ6IpVfouL-Vt4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애 둘 거진 다 키워놨는데, 10수년전에도 이런 프로 아니 (이름)(이름)을 만났으면 좀 더 잘 키울수 있었을까요",
+        "writer": "UgzpEsmnS-tSl_5Pm6R4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 급궁금하넹",
+        "writer": "Ugx6vMs0eYV8ANVf2At4AaABAg.9O9JiZU4XUh9Ol3ehQdj21",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Sungsss 오",
+        "writer": "Ugx6vMs0eYV8ANVf2At4AaABAg.9O9JiZU4XUh9P-bWusEoIj",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 이런분들이 올라가시면 좋겠습니다",
+        "writer": "UgxcwjVALwyDdpv-0uJ4AaABAg.9O7tWJV-zAj9OZNnTevi2I",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "강력 추천",
+        "writer": "UgxcwjVALwyDdpv-0uJ4AaABAg.9O7tWJV-zAj9Oi8EtOdUqm",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 말이지만 지금처럼 세밀한 컨설팅만 으로도 그역할이 충분하시고 몸이 부족합니다",
+        "writer": "UgxcwjVALwyDdpv-0uJ4AaABAg.9O7tWJV-zAj9OiEa25SaDO",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 찬성",
+        "writer": "UgxcwjVALwyDdpv-0uJ4AaABAg.9O7tWJV-zAj9RkSTcpvZXa",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "교육부장관 하시기에 아까운 인물",
+        "writer": "UgxcwjVALwyDdpv-0uJ4AaABAg.9O7tWJV-zAj9USVqyvdlBd",
+        "write_date": "2021-11-08",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한국 사교육 대충 아시잖아요 어찌보면 당연한거죠. 그런데 전략적으로 공부하면 잘할 수 있습니다. 당장의 공부보다 고시 같은 시험 합격수기를 붙잡고 왜 이사람이 이런 공부방법을 했는지 자녀랑 같이 분석하고 토론해보세요. 공부방법이 제대로 잡혀야 재미가 생기고 그럼 열심히 할 수있고 다시 그 노력만큼 성적이 오르니 선순환입니다.",
+        "writer": "Ugwv7e_QcQGC3JouW8d4AaABAg.9O7XrGW69Tj9O8y4cuI_bj",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "배움과 시험은 별개로 생각해야하는것 같아요. 시험을 위한 공부방법은 사실 다르죠.특히 우리나라같이 단순히 외워서 평가받는평가기준과 그런시험을통한 스펙쌓기가 대부분인 사회에서는,특히. 기출유형 분석하고 거기에 맞게 , 괴롭지만 계속 평가받고 (최종시험을 위해)다시 깨우치고 일정에 맞춰 꾸준히 해야하니까. 시간대비 빠르게 점수올리려면 학원과 과외도 어쩔수없는듯.치열하니까. 모두가 같이 같은 목표를 향해가는 사회라 더 과하게 치열한 것같아요.",
+        "writer": "Ugwv7e_QcQGC3JouW8d4AaABAg.9O7XrGW69Tj9PU81vo5NT8",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "포기하게되면 열등감에 휩싸이고 결국 자존감도 떨어지게되니까 잘하고 못하고를 떠나서 할수있도록 다독여주고 북돋어주는거라고 생각해요",
+        "writer": "UgzVNvaleMjoISosTYt4AaABAg.9O7S7UtyvNT9ORlCEZpCVF",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애착론 발달성장이론 2가지만 본인 과거 대입하며 읽어보시면 육아에 큰 도움될꺼에요. 그리고 공부는 저 박사 말이 본질이 아닙니다. 다른 영역이에요.",
+        "writer": "UgxZlRDc2cJVvUAFgkh4AaABAg.9O4uBMVOYHh9O8waBv5p2T",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인간 발달 공부 했었는데 그때 내가 왜 지금 이런지 다 알게 되더라구요 내 습관과 성격 형성을 다 부모탓 하는 건 아니지만 부모의 영향을 어떤 부분에서 받았는지 알 수 있었고 내가 아이를 가진다면 정말 사소한 부분과 태도도 알고 행동해야겠다고 생각 했어요. 부모가 되는 건 쉽지만 좋은 부모가 되는 건 정말 많은 노력이 필요한 거 같아요",
+        "writer": "UgxZlRDc2cJVvUAFgkh4AaABAg.9O4uBMVOYHh9OX3QLEKJT8",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 진짜 공부하고 노력해요완벽하진 않아도",
+        "writer": "UgxZlRDc2cJVvUAFgkh4AaABAg.9O4uBMVOYHh9OnHtoEslfP",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "YS B 서울대 나오셨어요",
+        "writer": "UgxZlRDc2cJVvUAFgkh4AaABAg.9O4uBMVOYHh9PTcTLVvnTa",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "YS B 어떻게 다른영역이죠",
+        "writer": "UgxZlRDc2cJVvUAFgkh4AaABAg.9O4uBMVOYHh9R68pqc3caZ",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "악플러는(혐오표현)자(비속어)라 (이름) (이름)은 아이의 심리를 이해하고 올바른 정서를 가지고 성장하게끔 하려면 부모입장에서 어떻게 행동해야 하는지 안내했다면 공부영역으로 말할꺼 였으면 어떤 특별한 공부법을 알려준다던가 운동을 하고 공부를 하면 통계적으로 공부효율이 증가한다더라 같은 얘기를 했을 것 입니다.",
+        "writer": "UgxZlRDc2cJVvUAFgkh4AaABAg.9O4uBMVOYHh9T8wLjSc0SL",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)는걸 인정한 것부터 충분히 발전 가능성 있으세요",
+        "writer": "UgxZlRDc2cJVvUAFgkh4AaABAg.9O4uBMVOYHh9U7SgtB-Jum",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "과거에 후회는 들지만 지금에 충실하면 되지않을까요",
+        "writer": "UgzpEsmnS-tSl_5Pm6R4AaABAg.9NsQ3y6Nps49Oqcf4vMnzv",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애들 막 키우다가 손절당했나보네",
+        "writer": "UgzpEsmnS-tSl_5Pm6R4AaABAg.9NsQ3y6Nps49Tbss0BL02t",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=LgXAYOz0DFE",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,580 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001659961",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001659961"
+    },
+    "text": [
+      {
+        "content": "운동을 하는거 보고 따라 할수있어요",
+        "writer": "Ugw6-eUptLIzSHf_24Z4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말로 너무 재밌어요.",
+        "writer": "UgzdYzHbGyDhwtA4b9l4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하겸이 수비굿",
+        "writer": "UgwvS9Lxn1OnDSojCQF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)잘막네 중거리골진(비속어)려버렸다",
+        "writer": "Ugy_zY5r4l5RZMjEfcB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 (이름)인디, 내가 더 못하네 동생볻",
+        "writer": "UgwrPBUNnRheLHvW5N14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래서 골 넣었어요",
+        "writer": "Ugy53LA3YKynjtr6kud4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 귀엽다",
+        "writer": "UgzWBr6kbFznyeMZ(반사회적용어)R4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소혜 개 이쁘다",
+        "writer": "UgyWIfIeN0PIjmJ_Gjt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 파이팅 힘내 fc슛돌이 파이팅",
+        "writer": "Ugw7gNM9JiVBuCqsk4l4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)이형 형이 여기서 왜나와...",
+        "writer": "Ugx3ZCSLIgGzEGgXmPZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 정말 멋저",
+        "writer": "UgyWvlawtL8Bdt8g8f94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐야 자동재생보고 염따 해설하는줄알고 들어옴",
+        "writer": "UgzGZVHVzsIb6-4pkAh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1분48초 크훔, 세리머니 큼",
+        "writer": "UgxmM2TSmUpE1ctwkBh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 세레머니 첨보는 세레머니인데",
+        "writer": "UgzNwNixcxM8jAufL094AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마르셀루랑 호날두 세러머니 인듯",
+        "writer": "UgzNwNixcxM8jAufL094AaABAg.94b--YQsh3z94eFJtws5MH",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 아 오케요",
+        "writer": "UgzNwNixcxM8jAufL094AaABAg.94b--YQsh3z94eTlnc22cL",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)도 골 넣고 세레머니 하는데 (이름) 처럼 이라고 하는거 보니까 골 넣고 세레머니 한다는 뜻 같아요",
+        "writer": "UgzNwNixcxM8jAufL094AaABAg.94b--YQsh3z95Cv0sS8-3L",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 오리에랑 한거임",
+        "writer": "UgzNwNixcxM8jAufL094AaABAg.94b--YQsh3z96fc1A6_xqN",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얘들 보통 몇살이에요",
+        "writer": "Ugw5v9FSJ6m9gBdImS94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어 그래 놀랐지 뭐얌, 빠끄.",
+        "writer": "Ugw0g7V1VrhaZ-1M5Th4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "파추호가 코치인가 혹쉬",
+        "writer": "Ugz6HGLGvDXVLEfl3-x4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애들아 (혐오표현)세리모니마지막에 뭐야",
+        "writer": "UgwDxH7IRtGXXsYPN9x4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한국의 리틀 야신",
+        "writer": "Ugyx-4UTs4EnaejcpiJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아나운서석 왼쪽분 염따형 아닌가요 형 거기서 머해요",
+        "writer": "UgwHXBsIDCIH90WjCSV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1초 염따",
+        "writer": "Ugy_IXCVW1804mu3-s94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "슛돌이 언제언제 하는거에요",
+        "writer": "Ugw6Wb1hd01mw2uPDZh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "야이마지막 뭐야 슛다음시간에, 쩝,",
+        "writer": "UgzeBEyDkvkEYlUPAS54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "염따가 왜,",
+        "writer": "Ugx8nQ2csy8IVcf1qOJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "3기때는 엄청 잘했는데 이번에는 실력으로만 보고 뽑은건 아닌가보네요",
+        "writer": "UgzhXf3vChXspXrqe854AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "태드래곤의 트릭을 전수받아 아이들에게도 사용하는 팤주호,",
+        "writer": "UgxH-xmC5MvH0aU9ux94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제2의 데헤아가 나오는것인가",
+        "writer": "UgyrrXmRf80zHzSAwAB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 방송국(비속어) 진짜 이건 60초도 어니잖아 이라면 안본다이",
+        "writer": "UgwAXr1CX9f4s8f32zJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "6번에는 축구 배웠네",
+        "writer": "UgwWNvigw9ioc8Fy5bh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하겸이 너무 귀여워",
+        "writer": "UgzGJA6NpUNOe72tXrN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 공이 나가지도 않은 걸 잡아서 공 튀겨서 다시 잡는 선수들도 있는데",
+        "writer": "Ugz_qvfselpA4unP1Qp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니네 감독이네",
+        "writer": "Ugz6HGLGvDXVLEfl3-x4AaABAg.94XWFqkw1sy94XWNGlJbHP",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 엥 (이름)가 나오던디",
+        "writer": "Ugz6HGLGvDXVLEfl3-x4AaABAg.94XWFqkw1sy94ZGqEv8xJe",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "할수도 있지 왜",
+        "writer": "UgwDxH7IRtGXXsYPN9x4AaABAg.94XHyAi-YmD94_b-_TOqxi",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "될, 될, 될될될될될, 됄이 뭡니까 진짜, (혐오표현)",
+        "writer": "UgzFZ60MXdjW8nCAFyh4AaABAg.94X4P2sX_vO94YL64efE81",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헷갈리실때는 하 와 해를 넣어서 생각해 보세요 하는 되 해는 돼 할듯은 자연스럽지만 핼듯은 어감이 (이름)죠 그러므로 지금 쓰신 문장에는 될이 맞습니다",
+        "writer": "UgzFZ60MXdjW8nCAFyh4AaABAg.94X4P2sX_vO94ZLpf5Adx9",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나만 그 생각한거 아니구나",
+        "writer": "Ugy_IXCVW1804mu3-s94AaABAg.94X2cWs9yQJ94rLssf9UPA",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내 이름도 재윤 인데",
+        "writer": "Ugy_IXCVW1804mu3-s94AaABAg.94X2cWs9yQJ95N8WcZ8UMc",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 화요일 밤8시55분",
+        "writer": "Ugw6Wb1hd01mw2uPDZh4AaABAg.94WpqP1iyXo95C2freU3IQ",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "매주 화요일 8시 55분 입니다",
+        "writer": "Ugw6Wb1hd01mw2uPDZh4AaABAg.94WpqP1iyXo95CusvmrCnX",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "염따아님드립인거임 모른거임",
+        "writer": "Ugx8nQ2csy8IVcf1qOJ4AaABAg.94WhQyKphq094WprwECJpj",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "만두mandoo 염따 모르는 너는 뭐임,",
+        "writer": "Ugx8nQ2csy8IVcf1qOJ4AaABAg.94WhQyKphq094YIYWmcmZX",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번에는 1기처럼 축구를 배우면서 알아가는 컨셉으로 가는것 같더라구요 슛돌이 홈페이지에 프로그램 소개글도 그렇구요",
+        "writer": "UgzhXf3vChXspXrqe854AaABAg.94Wd5E7KdaV94_29N41YlV",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "6기에 손관희 선수도 잘했는데,",
+        "writer": "UgzhXf3vChXspXrqe854AaABAg.94Wd5E7KdaV97AP_jaX-Zr",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "school gakhwa 1 천관희입니다",
+        "writer": "UgzhXf3vChXspXrqe854AaABAg.94Wd5E7KdaV98mqKkoNYHv",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "갠적으로 6번이랑 7번이 잘하는거 같더라고요",
+        "writer": "UgwWNvigw9ioc8Fy5bh4AaABAg.94Ue8xvZTay94XWZ5toXzb",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (비속어)이노",
+        "writer": "UgzBmGgCzIFibQ8_AUd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "상대팀 아이들은 희생양인가 시합할때는 포커스 좀 같이 맞춰줍시다. 안그래도 시합 아닐땐 슛돌이 아이들이 주인공일텐데",
+        "writer": "Ugy4iG0I0RVmEPg4FtJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애기들보다 귀여우면 어쩌자는거야 (이름)",
+        "writer": "UgzLYXjkOvuSc3S0y2l4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이 매치에서 저 간접 프리킥이 적용되는건 오늘 처음 알았네,",
+        "writer": "Ugzx7zJOQPn124J5FEF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)인가 아직 안배워서일수도있는데 아직은 또래에 비해 탁월한건 힘정도밖에 안보이는거같네, (이름)땜에 눈이넢아졋나 더배워서 좋은선수되길",
+        "writer": "Ugzl_YDzer0EQymaH1d4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는 슛도리 3기 시작보다 지금이 더 잘한다고 생각함",
+        "writer": "UgyMRHbCstKRqZOym2p4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "상대편 아이들도 응원좀 해주자",
+        "writer": "Ugyy-pcn25e5471Qb7N4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재네 부럽 주호보로",
+        "writer": "UgwHlXy7asg_dsoBp6x4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에이스 (이름)랑 드리블만점 지원이 담에 커서 (이름) 같은 선수가 되면 좋겟넹응원할께항상 챙겨보구 잇엉",
+        "writer": "UgxooWLWyXY-2_0BE2t4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "희생양 드립 레전드",
+        "writer": "Ugy4iG0I0RVmEPg4FtJ4AaABAg.94UVoyBFJE494YRUKem8cF",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전혀 그렇게 안보이는데 어느부분에서 희생양으로 느껴지시죠",
+        "writer": "Ugy4iG0I0RVmEPg4FtJ4AaABAg.94UVoyBFJE494Z3emRamnG",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 희생양임",
+        "writer": "Ugy4iG0I0RVmEPg4FtJ4AaABAg.94UVoyBFJE494dFFrKVXtT",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "편파중계말하는거같음 아무리 프로그램이더(반사회적용어) 상대팀에대한얘기는안하고 슛돌이얘기만해서그런듯",
+        "writer": "Ugy4iG0I0RVmEPg4FtJ4AaABAg.94UVoyBFJE494lpcYFNJEU",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고무보틀 Gomu Bottle 응 나도 슛도리가 님보다 훨신 잘한다고 생각함",
+        "writer": "UgyMRHbCstKRqZOym2p4AaABAg.94SaEeCKXk394V3MT5bD_g",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고무보틀 Gomu Bottle 야 나는 어른이거든",
+        "writer": "UgyMRHbCstKRqZOym2p4AaABAg.94SaEeCKXk394V7reLAm1n",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "권율 도배 진짜잼있음",
+        "writer": "UgyMRHbCstKRqZOym2p4AaABAg.94SaEeCKXk394VLaFadhTv",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애들 지금 8살이야 그니까 다르지",
+        "writer": "UgyMRHbCstKRqZOym2p4AaABAg.94SaEeCKXk394VU2jQysWS",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "슛돌이 3기보고 말하는건가 그리고 상대팀 실력도 다르고 경기장 규모도 다른데",
+        "writer": "UgyMRHbCstKRqZOym2p4AaABAg.94SaEeCKXk394WYByCqFip",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그건 자기맘",
+        "writer": "Ugyy-pcn25e5471Qb7N4AaABAg.94R_K981roR94V-vH38a7k",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래 고맙다",
+        "writer": "UgxooWLWyXY-2_0BE2t4AaABAg.94PJGeP610_94T6gtH80AF",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 네",
+        "writer": "UgxooWLWyXY-2_0BE2t4AaABAg.94PJGeP610_94UjX9Pr2T2",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=XHC92kb_UHM",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

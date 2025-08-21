@@ -1,0 +1,492 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001655608",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001655608"
+    },
+    "text": [
+      {
+        "content": "와우 역시 정민(이름) 그대로시네요",
+        "writer": "Ugyosqj2dWwOwM2QIzB4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)빠 초창기땐 마니부끄러워하셨는데 지금은",
+        "writer": "Ugw9l1zX0DLjlZ1H6_N4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 젤 좋아한 (이름)빠 노래 bb",
+        "writer": "UgxRV-ElTphz3tL4LdF4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "복면가왕에서 나온거 봤는데 정말 대단했드래요",
+        "writer": "UgxrVi0t_93EqQ1mOwJ4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "음원보다 라이브가 더 멋진 가수",
+        "writer": "UgwalNaWP7moXv-Mzsl4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "중독성 목소리 자가관리",
+        "writer": "UgwO2ASE8AFzZ43L5Ll4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요렇게 두시간 합니다",
+        "writer": "UgzYBCY9iT7P0sDInOZ4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "반중친미 (이름) 몽골박사남",
+        "writer": "UgwSZJ8Ih_DPM6aJxl94AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 이렇게 멋질수가. 이제는 노래가 들려. 외모를 가린다 해도 최고",
+        "writer": "UgxcBABFjPvNRM3kRBx4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "티키타가 보다가 여기까지 오신분",
+        "writer": "UgxtA4I5AVs_FKxk5Fx4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 가요톱텐에서 골든컵 받지않았나 뜬금 3위는 뭐임",
+        "writer": "UgwJGv_WTBbITVx52p14AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "군시절 참 많이 들었는데 아...",
+        "writer": "UgzzkhW9-edPqB9QdoF4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘한다 진심",
+        "writer": "UgzMvJqRBwEat3HaBE14AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 사람 진짜 너무 좋다",
+        "writer": "UgwgCQ7_s5R3ovqmZ4V4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "심장을 쫄깃쫄깃하게 만들다 결국 터트려버리는 당신은 진장한 레전드.",
+        "writer": "UgwwSWqJeBvymae_HOx4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이렇게 멋졌었나 볼매네. 팬클럽 가입하고파.",
+        "writer": "UgxeUUnbg67kERlhiw54AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리오빠 인성도 너무 좋으셔",
+        "writer": "UgwKEYq7V_3InYUprGh4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아, 오빠는 히트곡 부자라 불후의명곡 주인공으로 나와야하는데,",
+        "writer": "Ugy9RI7brRldZoq6bqF4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가수는 가수다 진짜 괜히 가수가 아니야 아이돌재롱잔치랑은 차원이 다름",
+        "writer": "UgzLlCY-NK1TVWvkB0N4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "골든컵은 슬픈언약식이고 마지막 약속도 1위 했었죠. 3위가 뜬금없긴 합니다.",
+        "writer": "UgwJGv_WTBbITVx52p14AaABAg.9Ou6yPnEqoy9RY-L7TYJdn",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)형도 늙지 않네요",
+        "writer": "Ugwt_TUT-Kr_9q6HXvp4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아련하다 멜로디가",
+        "writer": "UgxjE05dmn9bZIF5sdd4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "레전드는 역시 레전드",
+        "writer": "Ugxa_T95V84-eGmj8ut4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나이가 드셔도 라이브가 그대로네요.",
+        "writer": "UgzTbdeqjzIT1wEgWDl4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "노래 외모 인성 빠지는게 없으시구나",
+        "writer": "UgxYTRIhkFg3f7LA1gt4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "카카오톡 갈색 개 이모티콘 원조신까",
+        "writer": "Ugx6xUtuZQoadhYQcDd4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그 시절 남자의 갬성 그 자체인 곡",
+        "writer": "UgxWbHTPLZzAtlRw1ut4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "노래 진짜 좋다. 옛날 생각나네",
+        "writer": "Ugz6hLQsTSwemj8i2pt4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대단한가수인데 안일권이 성대모사하는거 생각나서 웃기네 쿄",
+        "writer": "UgzoV1mE9dL9R4c2QRx4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "실력이 여전히 최고네요 외모도 너무 잘생기고 멋지십니다",
+        "writer": "Ugydw7DhbgnjK03pMa94AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)형 아직도 쌩쌩하네요",
+        "writer": "Ugx_uIhLC7SkQrr-wF54AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 형 페인팅 청자켓 멋지네 그당시 형님 인기야 뭐 대단했지",
+        "writer": "UgxcGqvnzTwpHyFx6qR4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개멋지다 형님, 진짜 형님이라고 부르고싶음",
+        "writer": "UgzqNj79Uz2hXrZ_IPJ4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내고(비속어)절 넘버원 (이름)님 사랑합니다",
+        "writer": "UgyeR8FPRx9XMC-vwbp4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어찌된게 지금이 노래 더 잘하시는듯",
+        "writer": "Ugz7FHd6WSzNlBnYpeF4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그 시절 상남자의 갬성 그 자체인 분이죠 추억의 명곡 커버하고 있습니다 한번 들러주세요.",
+        "writer": "UgzTbdeqjzIT1wEgWDl4AaABAg.9MMitRVIsKl9Mrr8fQoCm0",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "악기는 세월이 갈수록 길이들죠",
+        "writer": "Ugz7FHd6WSzNlBnYpeF4AaABAg.9HQep4tZzII9OG-JXOqkOb",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "관리를 그말큼 잘하신거같아요",
+        "writer": "Ugz7FHd6WSzNlBnYpeF4AaABAg.9HQep4tZzII9OU-xHJrQEV",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그만큼 잘하시는(혐오표현)",
+        "writer": "Ugz7FHd6WSzNlBnYpeF4AaABAg.9HQep4tZzII9PXA1IC1JZS",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 안죽었다",
+        "writer": "Ugy7DXGN0pyOFRhnnOF4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)형 므쪄요 옛날 같지 않아요",
+        "writer": "UgyM6-3wEnh8wxyYmUF4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 진짜 멋있어요. (이름) 형님 유투브에 오세요. 좋은 노래 엄청 많이 올려주시고 잇어요",
+        "writer": "Ugyv6eu9KCSk1oaedPB4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인성도최고 노래도최고",
+        "writer": "UgyhJJm8V4Fs9ozLnrl4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막약속 저것도1등했던걸로기억하는데",
+        "writer": "UgyN1ke4Z-YPSMGilnR4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가슴이 웅(이름)는군 요즘 것들은 소울이 없어",
+        "writer": "Ugyk7N05galXxdqfpDZ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "추억이다 지금 들어도 넘 좋다",
+        "writer": "Ugz6dvdKrYp-AUSZ2BB4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나의 추억 (이름)님 사랑합니다",
+        "writer": "Ugx0XbtAYFBnh9psFo14AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "최고의 가수",
+        "writer": "UgyDhk0l8AAKVU1weHZ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가요톱10은 손범수지",
+        "writer": "UgzyqFcGh1czZG9FMk14AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조따 머시따",
+        "writer": "UgxVDsqrOK9lp86TJjd4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래도 살아가겠지 이 노래도 명곡 같은데",
+        "writer": "UgwpRm7pUqgCgHtB_dJ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)형 참 좋아 했었는데 나 어릴때 노래방 18번이 마지막 약속 슬픈 언약식 이엿지",
+        "writer": "UgwLmI2Fj2GN5dbls0p4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 감동이에요 근데 살짝 복통령 생각났어요 비교안되겠지만요",
+        "writer": "UgxO_vSj-fsiyMs5cEx4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김(이름)의 무대는 그때나 지금이나 항상 카리스마가 넘치네요. 좌측 배너를 클릭하시면 코로나19 극복을 위한 김(이름)의 파워풀한 라이브공연을 더 보실 수 있습니다.",
+        "writer": "UgzepnYwFqqCsUsj16h4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "레전드 형님 나오셨다",
+        "writer": "Ugz4ekDauqSi95wZJWV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 프로",
+        "writer": "UgxVschBYLCBurtCZFJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "멋져요 시간(이름)도 어찌그리똑같지",
+        "writer": "UgxfexZWxnlVcT-yp6F4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래도 살아야죠",
+        "writer": "UgwpRm7pUqgCgHtB_dJ4AaABAg.9Ggjtf65GKp9I73shsXYGs",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가요탑텐이 찐 방(이름)",
+        "writer": "UgxPPBD96qOAOz_dB1J4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나이들어도 여전히 멋지네요",
+        "writer": "UgxYoJ2DA7wsVI121ah4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNRUP6uPMho",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,732 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001656634",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001656634"
+    },
+    "text": [
+      {
+        "content": "아기였을때도 넘 예쁘네 예뻐. 정말 예쁘게 생겼네요 하연이 똑똑하게 잘컸고 끝까지 잘 바르게 자라서 나중에 훌륭한사람 되거라(이름) 파이팅..",
+        "writer": "UgybYiGG-BP0oLL-6_N4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하얀 피부착한 마음아그쪼그만 몸초롱초롱 눈 쪽쪽이쌍커풀까만 머리카락완벽",
+        "writer": "UgyxkYBeHIoeLwL6Dtd4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 예쁘다 미모 기대뿜뿜.",
+        "writer": "Ugxz6szCmmnSs8TqBB14AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하연아 어쩜그렇케 귀여운 인형같이 생겨서 정신 못 차리게 하나요 꼭한번만 이(반사회적용어) 안아보고 싶은마음 간절 하네요. 하준이도 똑똑하고 미남 얼굴 축복받은 행복한 가정 부럽네요 (이름)가 심성이 착한 분이라 복 많이 받는것 같다 늘 건강하고 화면에서 자주 보고 싶네요",
+        "writer": "UgwxenNOUkQBIlAiz1t4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)하면 아직도 그 해피투게더에서 (반사회적용어)시대같은 소리하던거만 생각나,",
+        "writer": "Ugzwvxt_APGAkhfFawR4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "완전 인형처럼 예쁘네요",
+        "writer": "UgzDPv5oxy3QD2CEyth4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기지개, 샤방, 너무 심장 아파 너무귀여워,",
+        "writer": "UgzFlEWPH8YL8zQSiJB4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아무리 봬도 예뻐 깨물고 싶도록 예쁘네 보기만 해도 힐링 됩니다 동생 하나 더있으면 더 예쁘겠지요",
+        "writer": "Ugy67j67nb-yjK6fq2d4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공주라고 할만하다",
+        "writer": "Ugz0mNLkO5cPd_wffcp4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도경완씨 우리하영이도 예쁩니다.",
+        "writer": "Ugxj9B7DtG9q-Cw2eRd4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이쁘다 하연이",
+        "writer": "UgzI-UubVFrIVEDN2st4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애기가 참예쁘군요 효자인 (이름) 존경합니다 늘응원합니다 힘내세요",
+        "writer": "UgwsNtzx-ldghwGQamd4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하연이 너무 예쁘다",
+        "writer": "UgzjYOjl7U6t7b7TISl4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "살아있는인형이야 넘예뻐서보기만해도 웃숨이나요 건강하게예쁘게자라줘요",
+        "writer": "Ugy9HYuL2mMiR-ksWDx4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "싫어요 누른 사람 뭐야 증말",
+        "writer": "UgyWn1sbiKHVDPF5ldJ4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 말랑 콩떡 어쩌면 좋누",
+        "writer": "UgwLYGoX07M5_M0JUNh4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀업당, ( )",
+        "writer": "UgyBoyh0Ml0Kw9p4kz14AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현빈은 슈돌에서 빠져라 제발. (비속어) 현빈의 (비속어).",
+        "writer": "Ugz-eha09eT8g1at__t4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방송생활을 활발하게 할정도면 구린내가",
+        "writer": "UgxN6ud(반사회적용어)cs6pFQD-wJ4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "군대는 무엇 때문에 못갇나 엄청궁굼합니다",
+        "writer": "Ugxv2eVb9EBpkBHUf3J4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하준이동생 하연(이름)이뻐 라 박(이름) 두남매보면 밥 안먹어도 배부르겟어요 하준아 하연아 화이팅",
+        "writer": "UgxdpY37qhMr-h1YkVx4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하연앓이 하긋네 너무 귀여워",
+        "writer": "UgxNRIxt0L_Cf2Lf3AV4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애기가 왜저래 예쁘냐, 진짜 미모 기대된다",
+        "writer": "UgzBV98VAPJq2p9R3Gx4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하연이 너무 귀여워",
+        "writer": "UgwKnFEQmQWWok3QAPR4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하영이도 예쁘고 귀여운데",
+        "writer": "UgwbjocRhQs2OWJLefh4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하연이 넘 (이름) 같다. 넘 귀여워.",
+        "writer": "Ugy0KacBaB3peL2-FoR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "볼에다뽀오하는상상 한번 해봅니다. 천사둥이 아가 하연이. 얼굴만 봐도 행복합니다. 의젓한 하준이 너무 이뿝니다",
+        "writer": "UgyBCop-V0l6Z_M46O94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하연이 너무 귀여워",
+        "writer": "UgxdfxPRio2icfMEgUh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는 아(비속어) 될수없습니다.",
+        "writer": "UgxLN771tshHFtNWno94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하준이가 말을 너무예쁘게한다",
+        "writer": "UgxIGGF6ofzA54n6Yy54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하연이 진짜 이쁘네요",
+        "writer": "Ugwpd2jg-wliov20cwV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둘다 어쩜 이리 착하고 예쁠까요",
+        "writer": "UgyS0ltOcgP4MD-R1pR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "거의 뭐 한국 요정이에요,",
+        "writer": "UgzBV98VAPJq2p9R3Gx4AaABAg.9Ga3wGDmP_H9RgohICxkl5",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내 이름이 하연인데요,",
+        "writer": "UgyGcjRieDBgMMmQiZF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애들팔아 (이름) 세탁하냐",
+        "writer": "Ugwja86ndssZkQftUSZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "받침 틀렸닼 못자서 인데 못가서랰",
+        "writer": "UgztCatOj7QkAMybn7V4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하연이 넘 귀엽다 3",
+        "writer": "Ugxjccz6Nzf5pmmbfSZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하연이 너무 귀엽고 (이름) 같앙",
+        "writer": "Ugzeq0HrgBfOhCbJP4J4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "11월15일 아가 생 일이라고 나는11월16일 인데 생 일이 1일 (반사회적용어)네",
+        "writer": "Ugxf7NScCatyQi13rHt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어머 너무귀여워",
+        "writer": "Ugxa2MQaAX8OlNMItEB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "짱귀, 짱구 짱아 남매같아",
+        "writer": "UgyTxtCz2UXvmKlg8sN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 다 크면 (이름) 하면 좀 기분나쁨",
+        "writer": "UgzjVdz7nJu--kcgrXx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아가 넘 귀엽당.",
+        "writer": "UgyD0OdaBJESdesd1594AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인형이 움직이네 어멋.",
+        "writer": "UgzeVBHzivNZsaO7kGZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하얗고 깨끗하고 말랑하고 쪼그마한게 꼬물거려. 입도 엄청 작아서 더 귀여워요.",
+        "writer": "UgxWaHpFh55i2nCpGM14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하연이 볼살봨귀여웤",
+        "writer": "UgwwFWne4RLpDJ6eh-d4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 사랑스러운 하영이 자주 보고 싶어요",
+        "writer": "UgxtDBjy4g81AH6oTYB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 분유 냄새 날거 같애 볼 뽀뽀해보고 싶다 ...",
+        "writer": "UgzyseU_acFNFObwy414AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어머 내 이름도 하연인디,",
+        "writer": "UgzDLv-Zk-2YPt8q8kx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하연이 너무 귀여워",
+        "writer": "Ugzi7GFrMf0PXQPRBC94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭔가 슬의생 전미도 (이름) 닮음 기여워 콩떡이",
+        "writer": "UgxVDsg2tvMaqCp-2W54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하 까꿍 예뿌",
+        "writer": "Ugx3Dk6_Ksnfpda_yQ54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세상에 제일 예쁜꽃은.",
+        "writer": "Ugy4Jb1JcMoaRXmzQsR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 아들딹 귀엽고예쁘네요",
+        "writer": "UgyaS_CzOwX9epsSNwZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아유 예뻐라 (이름) 아들 딸 아빠도 예쁘데 너무 예쁘네요 박 (이름) 사랑 합니다 용",
+        "writer": "UgybwOxQDa-6jH599mh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 생일이 , .",
+        "writer": "Ugzw-K6BR0FR13KVbt54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아가가 아빠닮앗군요.",
+        "writer": "UgyEdBOpJuLDGjRcekZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모든아가들은 다예쁘지만 그래도하연이 정도되야 예쁘고 귀엽다고 하지않을까요",
+        "writer": "UgwRo0G4taiIIsciO8t4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 순하고 귀엽네요. 자랑할만 하네요.",
+        "writer": "Ugx9hQfvq8msN9z7APp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하준(이름)이 너무 귀여워 연우하영이 생각난다 하준이 하연이 무럭 자라라",
+        "writer": "UgzBkAnO9-nyGv4CAQR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와내 생일 1일전에 태어났다 나랑 생일1일 차이난다",
+        "writer": "UgwXtQ4aCvidc20w0Al4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하연(이름) 넘귀여워요",
+        "writer": "Ugyv_ZOlg6WwhZHAQZF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아빠 붕어빵 이네 건강하게 잘 자라라",
+        "writer": "UgyG3V0vEL1EsET9COp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아진짜너무귀엽다 인형이다 매일눈뜨면 행복하시겟다",
+        "writer": "UgwvctjsV5xlR33GAtp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)은 예전에 해투 나와서 21세기 사람맞나 싶을정도로 가부장적인 모습 보여줘서 비호감 (이름)이 고(이름) 뭐야 했던게 생각난다",
+        "writer": "UgyPEqfxVX-LyHXsyqZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "박(이름)도 성악에서 트롯으로 간게 (이름)하고 같은데 왜 그 대단한 실력의톄너 (이름)을 그렇게 흑평했어요 실 력도 당신보다 나은거 알먼서 그 고생해서 겨우 올라온사람을 꼭 그렇게 깍아 내리려고 했은까요",
+        "writer": "UgzDJtwbnWmVWTpEZqB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그런 가정에서 성장했나보죠 슈돌보니 가부장적이라고하기엔 넘 육아만점 아빠던데요",
+        "writer": "UgyPEqfxVX-LyHXsyqZ4AaABAg.9BSZUDRDkUl9DGlqcP6bZC",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "S Choi 실제 겪어보니 달랐나봐요 (혐오표현)에서 여자가 말이야 소는 누가 키울거야. 라고 개그치던 개그맨도 정작 본인 결혼할 땐 당신은 가만있어 소는 내가 키울거야.",
+        "writer": "UgyPEqfxVX-LyHXsyqZ4AaABAg.9BSZUDRDkUl9E14CyoePLx",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지는 평생 저런딸은 고사하고 결혼조차 못할얼굴이니까 질투하는거봐",
+        "writer": "UgyPEqfxVX-LyHXsyqZ4AaABAg.9BSZUDRDkUl9EwTwM_nrX5",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사람은 평생을 거쳐 변합니다 지금 가정적인 사람으로 거듭났으면 문제 없는거 아닌가요",
+        "writer": "UgyPEqfxVX-LyHXsyqZ4AaABAg.9BSZUDRDkUl9F0x5pPtHBt",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아가들 다 순한 기질인가봐요착하구 이뻐",
+        "writer": "UgxyiNn17qVpfuklDIp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 (이름) 팬이지만 하준이 하연이 너무너무 귀엽고 사랑스럽고 행복하시겠어요 가족과 함께 건강하시고 행복하셔요",
+        "writer": "UgyBzk_zMewb4QEZdGx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 무슨아기가 울지도 않고 잘노는지 너무 예뻐 사탕줄까 까꿍",
+        "writer": "Ugy2dTNGQ1fVAWD5QQd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하연이 성도 똑같고 이름도 똑같아",
+        "writer": "UgxiN8YHEzsHX_B1oqR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하준이 하연이 너무귀여요",
+        "writer": "Ugxv4LqkylL_BOZvlO54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "샤 방",
+        "writer": "UgxUnaVi5xd0D5lvorl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀엽다 너무",
+        "writer": "Ugzjku7pzVH_2Hp5B2Z4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 아이들 넘 귀엽고 이쁘네요 아내분도 이쁘시고요 복된가정이네요",
+        "writer": "Ugxo4YcBmz2ihz3w3QF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오(비속어) (이름)하면서 예뻐하다가 5년만 지나면 둘이 엄청싸움",
+        "writer": "UgyhrzHf917ndNgzfpV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기가 그 유명한 고(반사회적용어)네 집인가요",
+        "writer": "UgzYAwyz_H-_fX8TX354AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "트롯남매 (이름) (이름)애기들 오빠들은 여동생들 잘챙기고 여동생들은 다 예뻐",
+        "writer": "UgygLR6T5mLHBLMiSw54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딸이너무이쁘네요 저희아이도딸잇지만",
+        "writer": "UgyzHZpmE335Yd96VLt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하준이 하연이 너무 귀여워 하준이 보니까 연우가 하영이 챙겨주는거 생각난다 자주 나왔으면 좋겠다",
+        "writer": "UgzBgEQnpKirCLhemgt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인정이욬 저도임",
+        "writer": "UgyhrzHf917ndNgzfpV4AaABAg.9B-kwMcE43r9BA_HdJiPcC",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 동생이 태어난지 3년만에 싸움이 일어났다는 (이름), 크흠",
+        "writer": "UgyhrzHf917ndNgzfpV4AaABAg.9B-kwMcE43r9CdSa46mdc8",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도남매여서 싸울수도 있어요.",
+        "writer": "UgyhrzHf917ndNgzfpV4AaABAg.9B-kwMcE43r9Dr3Ig8ipED",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이욬 울오빠도 싹바뀜",
+        "writer": "UgyhrzHf917ndNgzfpV4AaABAg.9B-kwMcE43r9F0a_xw_a9O",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인정 저도요",
+        "writer": "UgyhrzHf917ndNgzfpV4AaABAg.9B-kwMcE43r9HR0atLO9OK",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저러다가 나중에 좀 크면",
+        "writer": "UgyhrzHf917ndNgzfpV4AaABAg.9B-kwMcE43r9HR0cqcCMGD",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)네 애들 너무너무 이뻐요 아들 딸 세상에 부러운게 없겠어요",
+        "writer": "UgxVBr8Dt-fv2QMlbaZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=Bc8Almef_3A",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

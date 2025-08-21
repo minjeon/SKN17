@@ -1,0 +1,964 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001664408",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001664408"
+    },
+    "text": [
+      {
+        "content": "의진이 너무똑똑하내요 양(이름) 가족 행복하세요",
+        "writer": "Ugy3Da8ID4OHifRL9hp4AaABAg",
+        "write_date": "2021-11-17",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의진이가 아빠의 DNA를 물려받은 훌륭한 의사가 되길 소망합니다 양지은 천사가족을 응원합니다 늘 건강하세요 행복이 가득한 사랑지은가든이네요",
+        "writer": "UgzvFQEQvHm-nNdx5ad4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "같은장소 입장다른 세사람",
+        "writer": "UgyQ094pFzPvEYApm1p4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 밤에 주방에 우째 간데요 의진이 깨워서 상상이 간다요",
+        "writer": "Ugz-ITUii3cXpHrrMw94AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "슈돌 안봤엇는데 이제보게됐어요 의진 의연 밥주는 사람 보여주세요 화장하는사람도",
+        "writer": "Ugyjr0TLQctwbHn8BzB4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양(이름) 수퍼맨 응원합니다",
+        "writer": "UgyvyWYxXnJdpMUe2Ut4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 애기 똑똑하다",
+        "writer": "UgzaKposMFr43CpROzN4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "계속 보고싶은데 지난번 방송에 안나와서 놀랐어요 일요일 에 멋진가족들 오래도록 보고싶어 요 가족모두 사랑합니다",
+        "writer": "UgxZ8UJ7xtCVNu3aNrZ4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저번 일요일은 슈돌 (이름) 가족안나와요 섭섭",
+        "writer": "UgxTSpPvEYKQtT5QK694AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어머나 의대생이다 추카해요",
+        "writer": "UgyA47pJpiiE7vpbl9J4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의연이 보고프당",
+        "writer": "UgxgqQhMjsxEgklXT0h4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의진이가 어린 나이부터 인체에 호기심이 많네요. 어릴 적부터 명석하고 똑똑하다는 칭찬을 많이 받고 대학교수석입학하고 교육대학원도 단번에 붙었다는 스승 님의 증언을 봐도 엄마와 아빠의 유전자의 영향은 당연한 것 게다가 아이들과 항상 대화하며 설명하고 아이들의 의견을 존중해주는 양육방식이 어림에도 불구하고 자(혐오표현)각을 조리있게 잘 구사하는 똑똑이가 되게 한 것 같아요. 제주딱정(반사회적용어) 메뚜기 한 마리도 사랑의 감성과 부모에게 보내줘야겠다는 의지적 결단을 내릴 수 있는 균형있는 인성을 가졌네요. 씨름장사 상으로받은 초콜렛한조각도 불쌍한 의연이에게 흔쾌히 나눠주는 따뜻한 마음 오빠 고마워 하며 고마움을 알고 전하는 의연이 정말 의좋은 남매인데요. 감동 앞으로도 건강하고 건전한 성품을 지닌 능력있는 다음세대 일꾼들로 잘 자라기를 바랍니다",
+        "writer": "UgzMWE54sU8-J7TcLqx4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 의진이 생일선물이네요 정말아빠입니다 양지은 가족모두 행복하세요",
+        "writer": "UgwQikEClLuha3vo5IJ4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에궁 귀여워",
+        "writer": "Ugyv2Nw1witbW3TDFYt4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 가족 너무 예쁨요 의진이 생일선물 와우. 의진이 너무 똑똑합니다 항상 응원해요",
+        "writer": "UgxHmbTej5c050Pq9sp4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 복귀환영 양지은 사랑합니다",
+        "writer": "Ugx-sj63k9st0b9_c0R4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "별볼일없나 인기가 없나 가족동반 하고 난리네",
+        "writer": "Ugx6bA_S1WbtRplIY5Z4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양(이름) 쨩",
+        "writer": "Ugx2pX3KclklIaqrxjt4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헛소리하는 당신은 팬 부러우면 지는거임",
+        "writer": "Ugx6bA_S1WbtRplIY5Z4AaABAg.9TpE7xGjYXC9TuxlgEN46L",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대체 왜 (이름)팬들이 이리 와서 악플들 달고 댕기는지 참 이해가 안갑니다. 응원하지 않을 거면 오지 마세요. 왜 일부러 찾아와서 악플달고 있나요 한두개도 아니고 모든 영상마다 일부러 찾아와서 악플달고 가니 안타깝고 불쌍합니다.",
+        "writer": "Ugx6bA_S1WbtRplIY5Z4AaABAg.9TpE7xGjYXC9U3xP0HSg__",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 이들이 벌서 의사가 대고싶은가봐요 정말 똑똑하네요 슈돌 잘보고있어요 사랑해",
+        "writer": "UgzYuvUtO-ZKCAK_WWh4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 의진이는 어린이 박사네 어른들도 살짝 거부감 있는 해골을 반기는거 보니 천상 의사가 적성 에 맞을듯 엄마. 아빠유전자를 이어 받아 너무 이쁘고 귀엽다 아이를 기르는 같은또래 부모들에게 귀감이 되는 교육이라 이런프로는 꾸 준히 방영해야 합니다",
+        "writer": "UgxFsQgd7W1AYgEsWbt4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양(이름)네 나오니까 재미있게봤는데 요번주 안나와서 별로",
+        "writer": "Ugzw6YWnsHSSr5NhJ9B4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의진이는 정형외과 흉부외과 의사 후보생 같군요벌써부터 저런 해부도를 좋아하니의진 의연 화이팅",
+        "writer": "UgyhG_0cqrxHg15C_HF4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의진이 입모양 넘 이뻐요",
+        "writer": "UgxHhVFr3UU2Ykni_cB4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "집안에 흉칙하게 저런걸 가져와요",
+        "writer": "Ugzy3jv4lJyHL_AmUrF4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 세상에서 가장 순수한 아기들. (이름) 부부의 영혼을 쏙쏙",
+        "writer": "UgzZUO233Tfd2PexDwl4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저번주에 의진 남매 안보여줘 보고싶었네요 진짜 모범가족 꾸민없이 요즘 어느가정보다 착실합니다 의진 남매 화팅",
+        "writer": "Ugyaev0Mup0tp1DcsBB4AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 아이들 의진 의연 순수하게 잘자라네요 응원합니다",
+        "writer": "Ugw-5qhEzcHHAnavlft4AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "긴급속보 유일한피해자 (이름). 진.은가은.선.(이름).미.축하드립니다 우정.사랑합니다 항상건강조심하세요",
+        "writer": "UgxYiCvNrGva2eK4SYB4AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제주도 (비속어)잇떴다양파 조씨 때문에 진짜 양지은 (혐오표현)원에간다 (비속어)아 싫타 양지은",
+        "writer": "UgzXkjUj2WtFmtZn6pJ4AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "긴급속보 유일한피해자 (이름)가족모두건강을기원 합니다항상행복하세요 사랑합니다",
+        "writer": "UgynwINKSeKxX72SXaN4AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "긴급속보 유일한피해자 가은씨가족모두건강을기원 합니다항상행복하세요 사랑합니다",
+        "writer": "UgxKStqw1Sfw0Su_Y4B4AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "긴급속보 피해자 달래씨가족모두건강을기원 합니다항상행복하세요 사랑합니다",
+        "writer": "UgytoWCNMA3qlqRWPT54AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "똑돌(이름) 건강하게 잘자라서 아빠닮은 훌륭한 의사되세요 애기중에 제주도사투리 넘 귀엽다",
+        "writer": "UgwV2Mt1ppCtiRCjCUJ4AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번주 못 봐서 아쉬워요,",
+        "writer": "Ugxgm6PWwFmgURigpHZ4AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아빠 선물에 좋아하는 의진. 기급하는 엄마 모습이 넘 웃겨요 양지은 엄마 화이팅입니다",
+        "writer": "Ugyu7GV7W21Gmy5Lqj94AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세상을 잘 못 살았구나. (이름) (이름)에게 진을 가져가 주고 싶다는 마음 애잔하다. 그렇다고 8개월을 이렇게 악플만 달고 다니니 평생 안좋은일만 가득하기를 바란다.",
+        "writer": "UgxYiCvNrGva2eK4SYB4AaABAg.9TgWbv_VaSz9TkB9dIrfrX",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여튼 (이름)의 팬들중에 다른가수 욕하러 다니는 애들도 있고. 그렇게 하라고 교육(반사회적용어)는건지",
+        "writer": "UgxYiCvNrGva2eK4SYB4AaABAg.9TgWbv_VaSz9TkBEBOpGXZ",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이봐요 용우할배 지윤 팬이면 팬답게 행동하세요 병원가보셨우 치료하세요 지윤이 할배 이러는거 정말 싫어한다는거 모르세요 세상 잘못 사신분이야 아무리 생각해도 제정신이면 이럴수없죠",
+        "writer": "UgxYiCvNrGva2eK4SYB4AaABAg.9TgWbv_VaSz9Tkt8jFoaiM",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지(이름) 다현이가 이렇게 악플이나 쓰고다니라고 (반사회적용어)던가요",
+        "writer": "UgxYiCvNrGva2eK4SYB4AaABAg.9TgWbv_VaSz9TktI_MDgDS",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세상을 잘 못 살았구나. (이름) (이름)에게 진을 가져가 주고 싶다는 마음 애잔하다. 그렇다고 8개월을 이렇게 악플만 달고 다니니 평생 안좋은일만 가득하기를 바란다.",
+        "writer": "UgzXkjUj2WtFmtZn6pJ4AaABAg.9TgWPgNyqqf9TkBAH6RhLr",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여튼 (이름)의 팬들중에 다른가수 욕하러 다니는 애들도 있고. 그렇게 하라고 교육(반사회적용어)는건지",
+        "writer": "UgzXkjUj2WtFmtZn6pJ4AaABAg.9TgWPgNyqqf9TkBF7-aY81",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세상을 잘 못 살았구나. (이름) (이름)에게 진을 가져가 주고 싶다는 마음 애잔하다. 그렇다고 8개월을 이렇게 악플만 달고 다니니 평생 안좋은일만 가득하기를 바란다.",
+        "writer": "UgynwINKSeKxX72SXaN4AaABAg.9TgWHsgNMx79TkBBSMtiFC",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여튼 (이름)의 팬들중에 다른가수 욕하러 다니는 애들도 있고. 그렇게 하라고 교육(반사회적용어)는건지",
+        "writer": "UgynwINKSeKxX72SXaN4AaABAg.9TgWHsgNMx79TkBFVejD1S",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세상을 잘 못 살았구나. (이름) (이름)에게 진을 가져가 주고 싶다는 마음 애잔하다. 그렇다고 8개월을 이렇게 악플만 달고 다니니 평생 안좋은일만 가득하기를 바란다.",
+        "writer": "UgxKStqw1Sfw0Su_Y4B4AaABAg.9TgWFp1Vhk39TkBBqLj50G",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여튼 (이름)의 팬들중에 다른가수 욕하러 다니는 애들도 있고. 그렇게 하라고 교육(반사회적용어)는건지",
+        "writer": "UgxKStqw1Sfw0Su_Y4B4AaABAg.9TgWFp1Vhk39TkBFwEbmaT",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세상을 잘 못 살았구나. (이름) (이름)에게 진을 가져가 주고 싶다는 마음 애잔하다. 그렇다고 8개월을 이렇게 악플만 달고 다니니 평생 안좋은일만 가득하기를 바란다.",
+        "writer": "UgytoWCNMA3qlqRWPT54AaABAg.9TgWDJ4vOTI9TkBCR2zU4E",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여튼 (이름)의 팬들중에 다른가수 욕하러 다니는 애들도 있고. 그렇게 하라고 교육(반사회적용어)는건지",
+        "writer": "UgytoWCNMA3qlqRWPT54AaABAg.9TgWDJ4vOTI9TkBGNghPPR",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "매주 나왔음 좋겠어요",
+        "writer": "Ugxgm6PWwFmgURigpHZ4AaABAg.9TdeVzEDa5Q9Titv0BNJND",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 님 가족들 너무 행복해 보여서 좋아요 의진이 의연이 너무 순수하고 머리가 명석 하네요 아빠 꼭 닮았네요 지은 님 국민가수로 대성공 하시길 기원합니다",
+        "writer": "Ugz_2j-BjaF1PB66rDB4AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해골을 선물로 주는 아빠 받고서 멋지다 하는 의진이 너무 어울리는 부(비속어)간 멋진 가족",
+        "writer": "UgxvAlKbawBxQF4UEVR4AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아가들이 어쩜이리도 귀여(비속어) 보기만해도 힐링이된다",
+        "writer": "UgyoO1D2gAtbR7LRgqJ4AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 슈퍼맘 의진 감동입니다 응원합니다",
+        "writer": "UgzaZefoebs2nzt2RJl4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아무리봐도 아빠 안닮았는데 아빠 잘생겼는데요",
+        "writer": "UgwhYWbGoazflll7Mth4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의진이는 엄마한테 낳아줘서 고맙다는 말을 하던데 똑똑하고 순수해서 너무 예쁘다.",
+        "writer": "UgzXnbTy3GISaCFwed14AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의진이 똑똑하고 가족들 위하는 마음도 예쁘고 최고다.",
+        "writer": "UgzKZd5s2EfEvMujfF94AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 응원합니다 양지은 가족 응원합니다",
+        "writer": "UgzsgumO_A_2lApOCWx4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제주도 똥돼지떴다 (이름) 때문에 양지은. 덕밭다 (비속어)아 (이름) 을잊지마너라 (비속어)아 양지은 싫타",
+        "writer": "Ugzv5ulnUdqwXHb0SeR4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "긴급속보 피해자 연지씨가족모두건강을기원 합니다항상행복하세요 사랑합니다",
+        "writer": "Ugy2CBPCT2icYIcj39Z4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제주도 똥돼지떴다 조씨 때문에 양지은 (혐오표현)원에간다 (비속어)아 양지은 싫타",
+        "writer": "UgzQKT_VK4RLq6Fjxkl4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "긴급속보 유일한피해자 (이름)가족모두건강을기원 합니다항상행복하세요 사랑합니다",
+        "writer": "Ugww8MEIbD8ROOgOi9p4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제주도 똥돼지떴다 도씨 때문에 양지은 (혐오표현)원에간다 (비속어)아 양지은 싫타",
+        "writer": "Ugz9RzEawu6UB1oROvp4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "긴급속보 피해자 가은씨가족모두건강을기원 합니다항상행복하세요 사랑합니다",
+        "writer": "Ugx7xOXYQMYQuYVbB014AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "긴급속보 피해자 마리아가족모두건강을기원 합니다항상행복하세요 사랑합니다",
+        "writer": "Ugxz3xc2p4xE1yWqkst4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "긴급속보 피해자 우림씨가족모두건강을기원 합니다항상행복하세요 사랑합니다",
+        "writer": "UgyBmLoBP7_K0awis094AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 슈퍼맘 돌아왔다 행복한 가정 모습이 보기 좋아요 가족들 응원합니다",
+        "writer": "UgzK25GDEcsBfmrdwxV4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제주 사투리로 인체설명 하는 의진 너무너무 대견하네요.",
+        "writer": "UgxLx3H-rRz2LC8bIt14AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이구야 해골난 무사운데 의진이 너 정말 똑. 쟁이 구나.",
+        "writer": "UgwRHVnclw6V8eIiYTJ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 요즘 의진이 의연이가 힐링이에요",
+        "writer": "UgyoO1D2gAtbR7LRgqJ4AaABAg.9TcEhRlfTAY9TgTySVn9yS",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아무리 (이름) (이름)이 좋다고 미스트롯2진 자리를 내놓으라고 8개월을 따라다니며 악플다니 정신이 있는게냐",
+        "writer": "Ugzv5ulnUdqwXHb0SeR4AaABAg.9TX3cHovp-A9TamOurTAax",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세상 어지럽히지 말고 조용히 강건너 가길 바란다. 항상 악운과 함께 하길 기원한다.",
+        "writer": "Ugzv5ulnUdqwXHb0SeR4AaABAg.9TX3cHovp-A9TamZ5lQ1Tk",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의진이가 의사되면 용우 (혐오표현) 좀 고쳐줘라.",
+        "writer": "Ugzv5ulnUdqwXHb0SeR4AaABAg.9TX3cHovp-A9Tg3Q_K9PAE",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아무리 (이름) (이름)이 좋다고 미스트롯2진 자리를 내놓으라고 8개월을 따라다니며 악플다니 정신이 있는게냐",
+        "writer": "Ugy2CBPCT2icYIcj39Z4AaABAg.9TX3YmOdDk49TamPDVM-hf",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세상 어지럽히지 말고 조용히 강건너 가길 바란다. 항상 악운과 함께 하길 기원한다.",
+        "writer": "Ugy2CBPCT2icYIcj39Z4AaABAg.9TX3YmOdDk49Tam_FzxDqG",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어떤 삶을 살면 이런 증상이 생기지 양승무나 왕용우는 머리가 모자란것도 같고 (비속어) 같기도 하고 아주 악플러계에 쌍벽을 이루는데 자기들이 응원하는 가수를 제대로 디스를 하네 그런데 악플러라 하기에는 둘 다 너무 모자란것 같아",
+        "writer": "Ugy2CBPCT2icYIcj39Z4AaABAg.9TX3YmOdDk49TasYHuKh0B",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아무리 (이름) (이름)이 좋다고 미스트롯2진 자리를 내놓으라고 8개월을 따라다니며 악플다니 정신이 있는게냐",
+        "writer": "UgzQKT_VK4RLq6Fjxkl4AaABAg.9TX3Tdsa4YR9TamPXpetOF",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세상 어지럽히지 말고 조용히 강건너 가길 바란다. 항상 악운과 함께 하길 기원한다.",
+        "writer": "UgzQKT_VK4RLq6Fjxkl4AaABAg.9TX3Tdsa4YR9Tam_kHLQZD",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아무리 (이름) (이름)이 좋다고 미스트롯2진 자리를 내놓으라고 8개월을 따라다니며 악플다니 정신이 있는게냐",
+        "writer": "Ugww8MEIbD8ROOgOi9p4AaABAg.9TX3QL2nzOg9TamPqd5Cng",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세상 어지럽히지 말고 조용히 강건너 가길 바란다. 항상 악운과 함께 하길 기원한다.",
+        "writer": "Ugww8MEIbD8ROOgOi9p4AaABAg.9TX3QL2nzOg9TamaDYQksy",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정신(비속어)가 아니고서야 원",
+        "writer": "Ugww8MEIbD8ROOgOi9p4AaABAg.9TX3QL2nzOg9TkumDaF216",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아무리 (이름) (이름)이 좋다고 미스트롯2진 자리를 내놓으라고 8개월을 따라다니며 악플다니 정신이 있는게냐",
+        "writer": "Ugz9RzEawu6UB1oROvp4AaABAg.9TX3M83N1__9TamQAlKn4o",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세상 어지럽히지 말고 조용히 강건너 가길 바란다. 항상 악운과 함께 하길 기원한다.",
+        "writer": "Ugz9RzEawu6UB1oROvp4AaABAg.9TX3M83N1__9TamahpDuml",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아무리 (이름) (이름)이 좋다고 미스트롯2진 자리를 내놓으라고 8개월을 따라다니며 악플다니 정신이 있는게냐",
+        "writer": "Ugx7xOXYQMYQuYVbB014AaABAg.9TX3GG8AudA9TamQVIhnqX",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세상 어지럽히지 말고 조용히 강건너 가길 바란다. 항상 악운과 함께 하길 기원한다.",
+        "writer": "Ugx7xOXYQMYQuYVbB014AaABAg.9TX3GG8AudA9Tamb96909w",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아무리 (이름) (이름)이 좋다고 미스트롯2진 자리를 내놓으라고 8개월을 따라다니며 악플다니 정신이 있는게냐",
+        "writer": "Ugxz3xc2p4xE1yWqkst4AaABAg.9TX3D4l1jqS9TamQoIAPFW",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세상 어지럽히지 말고 조용히 강건너 가길 바란다. 항상 악운과 함께 하길 기원한다.",
+        "writer": "Ugxz3xc2p4xE1yWqkst4AaABAg.9TX3D4l1jqS9Tamb_yJfTl",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아무리 (이름) (이름)이 좋다고 미스트롯2진 자리를 내놓으라고 8개월을 따라다니며 악플다니 정신이 있는게냐",
+        "writer": "UgyBmLoBP7_K0awis094AaABAg.9TX3AcFV1jM9TamR7KPRpr",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세상 어지럽히지 말고 조용히 강건너 가길 바란다. 항상 악운과 함께 하길 기원한다.",
+        "writer": "UgyBmLoBP7_K0awis094AaABAg.9TX3AcFV1jM9Tamc3pTNn3",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대장 있수다 소장 있수다 제주방언 귀엽다",
+        "writer": "UgxLx3H-rRz2LC8bIt14AaABAg.9TWPK3ARO0E9U5OtmKdf6t",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의진 의연이 최고최고 짱짱짱 미래 의사선생님 (이름) 응원할께",
+        "writer": "Ugzwot77BIZetkuW1314AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의진이 매 순간 순간마다 책을 읽고 있던것 같은데 똑띡이네요. 의진이의 관심분야에 딱 맞는 선물이네요.",
+        "writer": "UgzzeU6ceWTCyYpfENR4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 님 아들 (이름)군 훌륭한 의사가 되겠어요 대부분 무서워서 울텐데 좋아서 방방 뛰네요 이렇게 좋아하고 즐기는 공부를 해서 훌륭한 의사가 되세요맘씨도 착하지은 의진 의연 와카 귀엽노",
+        "writer": "UgwAN4ab2fdm371wp1N4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의진이는 인체공부 워낙 좋아 한다지만 의연이도 인체 모형보고 놀라고 무섭다고 울지도 않네 평소 오빠 책볼때 옆에서 본 모양 (이름) 특별한 아빠의선물 전무 후무 할것 같은데요 의학 박사 (이름)",
+        "writer": "UgzxOR1n1Bxo1QlpLgB4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 달달 가족 행복한 가정 타의 귀감이 되는 사랑스러운 가족입니다. 보면 볼수록 볼매. 스윗 가이 남편 귀엽고 사랑스러운 의진 의연 계속 보고 싶어 고정출연 기대합니다.",
+        "writer": "UgwMFEPHg7R0WOKevP94AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선물 반응",
+        "writer": "Ugz_zIMxjNcpu_aV4AN4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "천재 의진 (이름) 어서 건강하게 잘커서 세계적인 의학 박사 되어서 우리 대(이름)을 빚낼 멋진 (이름) 되세요 사랑하고 응원하고 의진의연 남매 매일매일이 행복하길 기원 합니다",
+        "writer": "Ugy_rVGx08DX6rJmENR4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 의진 의진 너무 귀엽지은",
+        "writer": "UgxUaGAuU1F0yjZQw5N4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의진이 생일선물 대단하네요 역시 의사아빠라 스캐일이 다르네요 대단한 의진이 미래의 꿈이 뭔지 보이네요 의학박사 (이름)입니다",
+        "writer": "UgzmahJ97-KeU6-FcCJ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 님 슈퍼맘으로서 일상과 육아 응원합니다 본받을점 많은 두 부부의 육아법 응원합니다 미래의 의진이가 긍금해지는 장면입니다 두남매 건강하게 잘 자라길 바랍니다",
+        "writer": "UgwM4Fa8Ppxbo9Mshdp4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 슈퍼맨이 돌아왔다 의진 의연 남매 정말 사랑스럽네요 해골선물 대박이네요 보통 아이들은 놀라 까무러칠텐데 의진이 대단합니다 명의가 탄생하겠군요 앞으로 기대됩니다",
+        "writer": "UgyRQ6vU5gr3ttlRon54AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미래의 의사 (이름) 너의 꿈도 응원해줄께 사랑해...의진 의연아..",
+        "writer": "UgyVpIn-L1sEJzt9J514AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리집은 저선물 사양. 한밤중에 깜짝깜짝 놀랄듯요. 우리 의진인 커서 의학(이름) 되시겠네요. (이름)도 되시구요. 경청하며 질문 던지는 양지은 엄마의 공감능력 짱이네요",
+        "writer": "UgxYnQ3LSr9B7KetyOx4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이들이 너무 귀여워요 행복한 가정 계속 쭉 이루셨음 좋겠습니다 슈돌 고정 가자...",
+        "writer": "Ugz1g0_IxKnC5Y1G_op4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "슈퍼맘 양지은 무한 응원합니다",
+        "writer": "UgzyvDFT3QNiyU_7sA54AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의진이 의연이 모두 이쁘고 사랑 해요",
+        "writer": "UgzPXz1lamXfZX10E4h4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "척척 박사 의진이 너무 똑똑하내요 가족 모두 응원합니다",
+        "writer": "Ugw3m0DGRKBpBZstM7p4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "똑똑이 의진 멋지다 양지은 아이들 넘 사랑스럽네요 양지은 슈퍼맨이 돌아왔다 화이팅..",
+        "writer": "Ugy2i1lzio8gkXa7f6l4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얘들아이렇게(반사회적용어) 너희들을 매일 볼수있겠구나 매일 보고싶당",
+        "writer": "UgwXA_UZXJfmiPP-om54AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아(비속어) 가르쳐주셨구나. 의사아빠라서 그쪽으로 많이",
+        "writer": "Ugw3m0DGRKBpBZstM7p4AaABAg.9TSN-x-4SXn9U5OAddS2_E",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의진이는 커서 의사가 되려나 보다. 엄마 건강 잘 지키는 훌륭한 의사가 되길 응원할께.",
+        "writer": "UgzdsU_oVsnDjUzjiyt4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 아가들 너무 귀엽네요 너무 귀엽고 의좋아서 진짜 최고.",
+        "writer": "Ugxg_zpGmW7-NbRDAIZ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 진짜 똑똑하다",
+        "writer": "UgxWB6UWnK87k7A9hzR4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 슈퍼맘이돌아왔다 착한 마음의 똑똑군 의진이 미래의 주치의님 잘 부탁드립니다 건강하게 잘 자라렴 지은이네 사랑합니다",
+        "writer": "Ugxftp6hZKOXuKKomQt4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 대박 의진이 너무 똑똑하다 응원합니다",
+        "writer": "UgyNMZlPkoOZJ1tUzEZ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오와 의진이 너무 똑똑하구만...",
+        "writer": "Ugw1gGpEvNNfbX8a5m14AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 심을 다해 응원합니다.. 양지은 양지은이에요 Youtube 채널 개설 축하드립니다냥 양지은 미소지은 응원하지은 양지은 슈퍼맘이돌아왔다 응원하지은 양지은 소리꽃 응원하지은 양지은 날개 응원하지은 양지은 나야나 응원하지은 양지은 청춘의덫 응원하지은 양지은 영암아리랑 응원하지은 양지은 7월 하트퀸 응원하지은 양지은 선한 영향력 응원하지은 양지은 빛나는 머리결 응원하지은 양지은 아름다운 미소 응원하지은 양지은 미스트롯 진 응원하지은 양지은 광고퀸 응원하지은 양지은 코어틴 응원하지은 양지은 야상곡 응원하지은 양지은 효녀가수 응원하지은 양지은 내딸하자 응원하지은 양지은 배띄어라 응원하지은 양지은 쑥대머리 응원하지은 양지은 사는 맛 응원하지은 양지은 묻지마세요 응원하지은 양지은 내사랑 그대여 응원하지은 양지은 영 응원하지은 양지은 내장산 응원하지은 양지은 시치미 응원하지은 양지은 꽃바람 여인 응원하지은 양지은 나포리 맘보 응원하지은 양지은 잠깐 응원하지은 양지은 빈손 응원하지은 양지은 카(비속어)의 여인 응원하지은 양지은 해뜰날 응원하지은 양지은 노랫가락 차차차 응원하지은 양지은 감수광 응원하지은 양지은 꽃피는 인생 응원하지은 양지은 좋은 당신 응원하지은 양지은 봄날은 간다 응원하지은 양지은 소나기 응원하지은 양지은 유일한 사람 응원하지은 양지은 오동잎 응원하지은 양지은 그대여 변치마오 응원하지은 양지은 18세 순이 응원하지은 양지은 열아홉 순정 응원하지은 양지은 여여 응원하지은 양지은 님 찾아 가는길 응원하지은 양지은 또 만났네요 응원하지은 양지은 (이름)래 살아주세요 응원하지은 양지은 인생은 물레방아 응원하지은 양지은 붓 응원하지은 양지은 그 강을 건너지마오 응원하지은 양지은 사모곡 응원하지은 양지은 빙빙빙 응원하지은 양지은 저꽃속에찬란한빛이 응원하지은 양지은 청춘의봄 응원하지은 양지은 때 응원하지은 양지은 아버지와 딸 응원합니다.",
+        "writer": "Ugxftp6hZKOXuKKomQt4AaABAg.9TRkfJ9Ie--9TS-KLiNCLB",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "천무혼검 맞지은",
+        "writer": "Ugxftp6hZKOXuKKomQt4AaABAg.9TRkfJ9Ie--9TTbHWHhpFV",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의진(이름)이랑 입이좀툭튀어나왔네",
+        "writer": "UgyNMZlPkoOZJ1tUzEZ4AaABAg.9TRgbtFDJFm9UBzuo6vtA-",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=pUqgElKdHpU",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

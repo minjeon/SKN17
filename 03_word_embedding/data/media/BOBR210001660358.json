@@ -1,0 +1,652 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001660358",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001660358"
+    },
+    "text": [
+      {
+        "content": "고기말고 생선드세요. 혈관막히면 자다 죽습니다.",
+        "writer": "UgxlzPgWk4WaC9K8bJ94AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참치 좋아해도 많이는 안들어가던데 역시 나의쭈엽오빠는 쵝오",
+        "writer": "Ugx-TpPnOUGyRUZqV794AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댓글보면(비속어)들많네 다른 먹방유튜버 비교하면 엄청 못먹는거인데 저정도면 그냥 일반인 잘먹는 수준 수두룩하다",
+        "writer": "UgxBfvtLBPXKPSj030h4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참치는 느끼해서 못먹겠던데",
+        "writer": "Ugxr310EpmUsx11Ars14AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 느끼해서, 딱 몇 점만 그리고 등살이 좋음 머릿살이랑",
+        "writer": "UgyioxAy3VY4GDNAoQ54AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (이름) 먼가 저 세분 맛있는 부위 먹으라고 일부러 빨간 등살 먹는건가 설레네",
+        "writer": "UgwlbPoUCAT6usXhxlp4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주엽신 너무 복스럽게 드신다 와이프한테 잘하세요 소보다 키우기힘든 현주엽이 키우시니",
+        "writer": "UgzMUFDaJksrMKnQToR4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐 참치도 소고맛인데.",
+        "writer": "UgxqZ2bbO6UqfxLvYpl4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저래서 얼굴이 기름지구나, .",
+        "writer": "Ugxi1vzEBWzHOgx6jXd4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누가사든 어쨌든 저렇게 처먹는것들이 제일짜증난다. 어지간히 구겨처넣어라",
+        "writer": "UgzKdGcXlHqAR66HZgl4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "먹방하게 되시면 진짜 op인데",
+        "writer": "UgyKQmMlFtUolfMuIIB4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "농구선수들이 원래 대식가들인데 그중에서도 현주엽은",
+        "writer": "UgyX87NTypRSfB3NA3J4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "광재씨 지금보다 날씬.",
+        "writer": "Ugwzwk3GNpnj-Itl_OZ4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감독 그만두니까 얼굴 좋아지는거봐",
+        "writer": "UgxcE80qlJW-q3btVyB4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제발꼭꼭 (비속어)어서 본연의 맛을 느끼며 음식을 섭취하는 문화가 건강관리에도 도움될듯소처럼 먹고 되새김질을 할수있는면 상관없지만",
+        "writer": "UgxxsSwd1cQ6REin1B54AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현주협 감독은 정육점브렌드 하나 내두 될듯",
+        "writer": "UgzixHA1Xrii2FnnxVh4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 40넘으니 소화가 안되던디 나의 우상 주협이 형은 아직 20대인가",
+        "writer": "Ugyc95M3ehiv9BxkU5F4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현주엽이 24시간 동안 참치 100kg 먹고 안 쓰러지면 내가 (반사회적용어)한다",
+        "writer": "UgykalnX51z-KCNVjMl4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참치가 맛있나요. 처음먹었봐는데 별로던데",
+        "writer": "Ugx40w3rBmAEGNzNkZl4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저당히 처먹어라 이젠 딱 지겹다굶는 아이들 생각해야지",
+        "writer": "Ugy8cDCx_EnGFxPcvBh4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "먹을줄아는분들은 도로보단 아까미드십니당",
+        "writer": "UgwlbPoUCAT6usXhxlp4AaABAg.9PTvUWyfDXS9RNIspoUU6U",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 그래서 도로가 비싼건가요",
+        "writer": "UgwlbPoUCAT6usXhxlp4AaABAg.9PTvUWyfDXS9RNzzU3XMFA",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 비싼건 삼겹살이 안심등심보다비싼거랑 같은맥락이라볼수있겠네요",
+        "writer": "UgwlbPoUCAT6usXhxlp4AaABAg.9PTvUWyfDXS9RO4nZhGd9R",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이호랑이 큰차이가 있다고하긴 좀 뭐한 그런 맥락에서 말씀하신 건가요 이해가 돼고 있는건지 몰라서,",
+        "writer": "UgwlbPoUCAT6usXhxlp4AaABAg.9PTvUWyfDXS9RO5xuJ3D_C",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 아니요도로가비싸고 가마가비싼게당연한게 그마만큼 수율이작아서그런것도있고 기름지고맛있는것도있지만 결국엔 메카나 적신으로돌아오더라구요 개인취향입니다 별뜸없습니다",
+        "writer": "UgwlbPoUCAT6usXhxlp4AaABAg.9PTvUWyfDXS9RO6f7gRgR-",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선진국 처럼 주택상가 를 사용안하고 공실로 두면 공실세금을 거두면 해결 된잔아, . 그러면 어파트 부동산영세업자 임대료 문제도 해결 되잔아, 선진국은 옛날부터 시행했어, 가진자들 찍소리마,",
+        "writer": "UgzYKpWDbljcE0nWSht4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게 얼마냐 소고기보다 훨씬 비싸다",
+        "writer": "UgzdRlsuWzyUkRU7ywB4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쯔양이랑 대결 한번 보고 싶구나.",
+        "writer": "UgyM1igCc3J6zWLvYk94AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "돈들 벌어라 저리 먹고 싶으면,",
+        "writer": "UgxBFGKSrXZCqwnrZRZ4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참치뱃살 느끼해질때까지 먹어보고싶다9",
+        "writer": "UgxhqYMQleq0JF19lMl4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저런거만 먹으니 집에 쌀은 있니",
+        "writer": "UgyrDyExu_5qu79p1x54AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 전남친",
+        "writer": "UgyNr7SJdKyDOa0ZjxF4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고기도 처음에 기름 많은거 먹다가 나중엔 안심살 먹게되지, 참치는 아까미가 맛있는거야. 기름많은 가마 오도로는 몇점먹으면 느끼해",
+        "writer": "UgxnaPj7_XK3tq0k3rp4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "먹은만큼 똥이 나오것지 많이도 먹는다",
+        "writer": "UgxFu8otcmDOOYjce3J4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "야채 과일 안먹고 소고기 참치 ( 특히 기름기 많은 부위) 넘 많이 먹으면 질병 걸릴텐데",
+        "writer": "UgwyZRyrI19HM9NYuk94AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주엽이 먹방유투하믄 내가 가장 맛난참치연어 대광어. 대방어 신세계맛보여준다",
+        "writer": "Ugy3RQZjJBgfBi5Rl6V4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 혼자 천대받는 붉은살 먹는거 봐라",
+        "writer": "UgznynpgnjeYvDeEky94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현주엽(이름) 정말 맛나게 잘 드십니당 너무 (비속어)염스타일이심",
+        "writer": "UgzgyV4ZNAl5J-9rKjN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "화장실도 많이 가겠지",
+        "writer": "UgyiScc9gFKvoesA2iN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이젠 너무 많이 먹는것도 자랑이냐",
+        "writer": "UgxdQax8ROWtc4XZId14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저거 생참다랑어 (반사회적용어) 느끼한데 난 눈다랑어가 더좋더라 너무 느끼해",
+        "writer": "Ugw93eBdCPRB4Wh4Zpd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요즘 무슨 현주엽유튜브 광고프로임 보기 싫어서 프로 못보겠음 에초에 사장도 아닌 사람이 계속 나와서 유튜브시작 할꺼라면서 계속 먹기밖에 안하고 유튜브 시작도 전에 채널 홍보 엄청하네 일반 사람들 유튜브 하면서 정말 어렵게 살아 남는게 도가 지나치게 유튜브 얘기만 주구(이름)더라",
+        "writer": "UgwsRSgoHil07aAkaD14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "손님들한테 팔고있는건데 당연하죠 님은 님이 식당하는데 손님들이 먹는거 다먹을거임",
+        "writer": "UgznynpgnjeYvDeEky94AaABAg.9FRxmyhQvit9JXbGuD8Q0Z",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는양말고양이 친구없지",
+        "writer": "UgznynpgnjeYvDeEky94AaABAg.9FRxmyhQvit9K13jXM9AmR",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐가 아니야, 저건누구야",
+        "writer": "Ugw_Dzb0LpfQR27SOHp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "허재형 좀귀여운신듯",
+        "writer": "Ugz_qTmF3qLVd1HWvp54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "경젠 바닥인 시국에 쳐먹기위해나온거임",
+        "writer": "UgxQ3kBvD3o0lGcuFih4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무슨 프로가 쳐먹는거냥 보슨 프로일열심하는프로 열정 적인 보스 이런프로죠 쳑먹는만 나옴",
+        "writer": "Ugxg6oA4_dR8TPpMohJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "먹자프로니 왜나온거냥 현주협",
+        "writer": "UgyRzo7ZjPg77hZh6CJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쳐먹을꺼 나옴 보스는 안나옴 프로 본질은 어디감 늠심함 가난한 이시국에 쳐먹을 일인감",
+        "writer": "UgzOFqDtg_uzkjVYLUB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "당나귀귀 현주엽보고나서 입만 고급으로 바껴서 월급타면 남는게없네",
+        "writer": "UgxbxhUJSGH80ot2SnB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "실제로어떻게 먹는지 모르겠다만 현주엽의 혈색이 그리 좋아보이지 않는다 사람들 재밌다고 먹방이라고 하겠지만 중년의 나이에 저런식의 폭풍흡입식을 하는건 결국 건강에 과중한 부담을 줄게 뻔하다 과거에 운동선수할때야 많이 먹어도 문제 없었겠지만",
+        "writer": "UgzNB0a_4His6XHlYh54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제프하디가 나와서 스완턴밤 쓸거같아",
+        "writer": "Ugx6pxxpxLW002nouQJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "KBS도 맛이 가나봐",
+        "writer": "UgyDARh2G3DOqc7RJ-h4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제프하디 테마곡이 나올줄이야",
+        "writer": "Ugynb744_xmSKnKMxTR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "구성에 적신은 자리채우기 (이름)이 다먹음",
+        "writer": "UgzNUM29HbIZOqGyOKR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 참치(반사회적용어)인데 저정도 먹성은 진짜 대박이다 아으 아침부터 쏘주가 땡기네",
+        "writer": "UgyCXcwzmFpapMU17KR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참지 열 점 못먹는데 느끼해서 니글니글",
+        "writer": "Ugw0EoziRaRjt-jWbTJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "박광재님 약간 (이름) 닮았네요",
+        "writer": "UgyFtitBBNvz4kxYs314AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주엽이형이 20대에 유튜브 있었다면 보통 40대 넘어가면서 먹는양 반토막 나는데 20대 땐 얼마나 잘 잡쉈을까",
+        "writer": "UgyL1Q416zYi9fyaUGp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현주엽은 아무리 먹어도 밉상은 아닌데 달고다니는애들이 많이먹으면 밉상임",
+        "writer": "Ugw5sEripiHFj7vgw3l4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "단백질엄청드시네 장어에 소괴기에 참치에 미챳다",
+        "writer": "UgzuqUL2yO-c3MIO9ht4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왠지, 젓가락이 낯서네요",
+        "writer": "Ugy7efWE0-l_TSWZKH14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너나 가난하지 살만하다 금빛아 빗쟁이냥",
+        "writer": "UgxQ3kBvD3o0lGcuFih4AaABAg.9E687VUA41N9Ks1yY_ZhGQ",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)아 보기싫으면 쳐보디마",
+        "writer": "Ugxg6oA4_dR8TPpMohJ4AaABAg.9E681epmwGj9IznprlG4Xm",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너만 보지마라 똥빛아",
+        "writer": "Ugxg6oA4_dR8TPpMohJ4AaABAg.9E681epmwGj9L2Y6DRqYbw",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄청 잼나네 넌 뭔밍",
+        "writer": "UgyRzo7ZjPg77hZh6CJ4AaABAg.9E67uZGL3vP9Ks23eqMjTU",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "국가가 경제 순환 (반사회적용어)려고 이런 방송하는건데 제대로 딱 걸렸네",
+        "writer": "UgxbxhUJSGH80ot2SnB4AaABAg.9E3ZPEH9Z7r9I0BGYBlq46",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동감 마트가면 정육코너 부터 가요",
+        "writer": "UgxbxhUJSGH80ot2SnB4AaABAg.9E3ZPEH9Z7r9K36AIS0x7n",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크 소주에 참치 죽이네요",
+        "writer": "UgyCXcwzmFpapMU17KR4AaABAg.9DnyVI0L5i89Q5QB8V-UZJ",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전 살찐 (이름) 생각했는데",
+        "writer": "UgyFtitBBNvz4kxYs314AaABAg.9Dms6il8EyJ9KE-HN8dV98",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "농구 한창할때 우지원이 소주10병에 삼겹살 6인분 먹는다고하니까 입짤어서 같이 안먹는다고 했데요",
+        "writer": "UgyL1Q416zYi9fyaUGp4AaABAg.9Dma6H1b0S39FOoepIMO0H",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하나씩만 먹어 허재형 삼천 뜯김",
+        "writer": "Ugwo3rG5hPjjCoIj0154AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 수염 나신 분 혹시 누가 현주엽님한테 개기다 빡쳤을때 말(반사회적용어)분 아닌가유",
+        "writer": "UgxE4USygwGeZKsOA_14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요즘 최고 먹방대세...",
+        "writer": "Ugx-BQhjnOsXnzGTSQl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "싱싱한 참치에 쐬주, 캬, 최고지,",
+        "writer": "UgxZGhYaPbM3Ml97CE54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "피부좋은거봐봥 빤짝빤짝하네.",
+        "writer": "UgzSm0KNokeAmuekTdl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하루에 정말.",
+        "writer": "UgwbH1Zmq43r1Sq6vVN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "박광재전프로농구선수 지금은배우로활동중이시죠",
+        "writer": "UgxE4USygwGeZKsOA_14AaABAg.9Dh42fRGnJs9Djx1607P5O",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넌 싸던 똥이나 마저 싸심이 어떠하리오",
+        "writer": "UgzSm0KNokeAmuekTdl4AaABAg.9Da7qYJkAKp9HlLPcdUBCr",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UQ6C3eYHVuY",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

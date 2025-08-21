@@ -1,0 +1,420 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001660927",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001660927"
+    },
+    "text": [
+      {
+        "content": "(이름)이 매고 있는 가방 어딨건가요",
+        "writer": "Ugwu-5jy3tZoQmcyzax4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김포 시민이에요",
+        "writer": "Ugyc4E-B9eWw834OR5Z4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애기들 너무 이쁘다",
+        "writer": "Ugw905raZ7Dy46KY9wh4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "희성이가 어떻게 환불 원정대 노래를,",
+        "writer": "UgzyPihBk2SS8ViTHFt4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "메이비 초동안이죠 90년생이라고 해도 메이비 첨본사람들이면 믿을거예요",
+        "writer": "UgwE8rlauItpK6IXx5N4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "메이비랑 나겸나온 레알 천사",
+        "writer": "UgwSKUSpB_GqBLaDIVl4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아진짜 희성이 언니 모음집좀",
+        "writer": "Ugzm1_LYK5zDwuOKIah4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "희성이는엄마가외출한후 아빠랑누나들이랑지내야돼.",
+        "writer": "Ugz8G7_WpmfEutFKzp94AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 아들 콧대보소 크면 한인물하겠다",
+        "writer": "Ugy_4ozTfwZ3rDpZgel4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이집 애기들은 넘예쁜네 말도잘듣고 이쁜이들,",
+        "writer": "Ugxph2C-uLGWezljkfh4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 여태껏 애들만 놔두고 어디 가본적 없다고하시더니 그거때문에 애기들도 엄마가 간다고해도 크게 동요가 없는 것 같아요 엄마는 자기들을 두고 어디 가지않을거라는걸 아는거아닐까 싶어요",
+        "writer": "Ugy7lfRYBzn6mFBJEjZ4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누가 보면 (반사회적용어) 아들 가르치는 것 같아 아 개웃갸 진짴",
+        "writer": "UgztOJxA0y5V2LMfR914AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "셋다 인형이야",
+        "writer": "UgwscRSn03E6msbRGrh4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 근데 너무 귀여워 다 희성이 너무 구욥다 ,",
+        "writer": "UgwELyyXyFgJc5-bTOV4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "희성이 진짜 예쁘게 잘생겼다",
+        "writer": "UgwfZxV79YTx1rF0PJ94AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니 도깨비할아버지한테 갈래 너무 귀여워 반복재생중",
+        "writer": "Ugz7ZI_gJlbjzsuyvCx4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나겸 귀요밈 셋다 사랑 스러움",
+        "writer": "UgyX70bvnh_f1wuki4p4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "메이비 진짜 대단하다 이가족은 사랑으로 뭉쳐있는듯",
+        "writer": "UgyuS3AS8Xcaazr2-aZ4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 왠지,",
+        "writer": "UgyVi7srmzcbzehpxaF4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "카이나 백현 직접 나왔음 좋켓다...",
+        "writer": "UgxSV3JrVcWSPuE2EPd4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)네는 딴프로에서몆번봣는데 굳이 슈돌까지.",
+        "writer": "UgxI6s5pFTZNTndqImV4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요즘 삼남매 보는 재미가 솔솔 합니다너무 이뿌고 착해요",
+        "writer": "UgwSbZM_J9ih4t4DeR54AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "삼남매 넘 귀여워",
+        "writer": "UgyZFBn08BWBVkKz8oV4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딸 둘이 엄청 순하다 했더니 아들이 성격있네 이렇게 다 다른게 키우는 맛이지",
+        "writer": "UgzZJKHubaYL6Gs2Bwh4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사랑스러운 윤남매",
+        "writer": "UgwEg0XC9bxTsxZVDaR4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아기가 셋인데 나가라고 해도 못나갈꺼같아여 (이름) 쏘스윗 엄마나가는데 그냥 쳐다는볼래",
+        "writer": "UgwVNxN6wKItCpTWZvZ4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 귀엽다, .",
+        "writer": "UgwL0VyGWirVcOJGIht4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 나겸이 발음이 끝내준다, 어린데도 또박또박 정확하네",
+        "writer": "UgwRouNE48Xn3cGOKwN4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애들이 어쩜 셋이래도 하나도 성가시지 않네요 둘째 애교쟁이",
+        "writer": "UgwD_o32hgPTLN4DzH14AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애들 너무예쁘고 똑똑해요 슈돌보는 재미윤(이름) 팬입니다 정말 대단하세요 애기들도 넘착하고 예쁘고 요즘슈돌 윤씨네 보는재미로 사네요 항상 건강하세요",
+        "writer": "UgwcN-cMg1BRK3saeWp4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아(비속어) 잘생기고 엄마가 이쁘니까 애들이 인물이 좋아 다 이쁘네",
+        "writer": "UgwOCvNRyEU_i5fJK5x4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "셋 다 너무 사랑스럽닼",
+        "writer": "Ugyyx4etqRakBAibq-V4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "희성이 하영이랑 비슷하다",
+        "writer": "UgzO_PG5_V5zU02QEKp4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애들 셋이. 너무 반듯해 밥도 잘 먹고 알아서 잘 놀아",
+        "writer": "UgxNVv9zsqDQuyhh0xx4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아희성이 넘 귀여운데",
+        "writer": "UgyOzdLCzmatSnqESHh4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애들이 너무 예쁘네요 아빠 엄마 품성이 참 좋으니 아이들도 닮아서 그런지 착하네요 (이름) 님 가정 늘 건강하고 행복하세요화이팅입니다",
+        "writer": "Ugy3jyEoGd2_X4SFLHF4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 이뿌다. 딸없는집은 딸하나 낳고싶을 정도네요. 삼남매를 키우시면서도 절대로 산만하지않네요.",
+        "writer": "UgwJXyC2MZS-tdUYYQp4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부모도 인물이 좋고 아이들도 인물이 좋네요 서로 잘 놀고 이쁜가족이네요",
+        "writer": "UgytGnDmgwlqX-gzRH54AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "셋다 이쁘다요",
+        "writer": "UgwJUemyqeahSseIG7p4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "셋다 넘 귀엽고 이쁘다",
+        "writer": "UgxU5frRUdVu_RoEUMF4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동상이몽에서 배냇이불에 싸여있던 그 아가가 벌써 말도 (이름) 시간참빠르다",
+        "writer": "UgxEPbs0y5zeVdklU8R4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애기들은 내복 입고 있을 때가 제일 귀여워",
+        "writer": "UgwNFcPLFWLQ1HQSBTx4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아가들 힝 쿨한 딸들과 귀여운 막내",
+        "writer": "UgzHDmMnsRJ7Qevs34t4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "셋다 예쁘누. (이름)의 외모가 대단하지",
+        "writer": "UgzrobH2CPRCvY6NUll4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 아들 진짜 아빠 판박이",
+        "writer": "UgzmoEm7C25RnscsEnx4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소리지르는거 너무 귀여워",
+        "writer": "UgxFMtlM9xceqfsus1F4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꼭사랑하자 밥",
+        "writer": "UgxEPbs0y5zeVdklU8R4AaABAg.9J6dZyjr2Bo9N2DZscHG6i",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "합니다, 볼록 나온 배도 너무 귀엽죠",
+        "writer": "UgwNFcPLFWLQ1HQSBTx4AaABAg.9J4cMmF3IJ69KGrEv8bXnX",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "희성이 웃는 옆모습이 아빠 붕어빵이다",
+        "writer": "UgxgB1A1zHMYNsfbTR94AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "많이 기다렸어요",
+        "writer": "UgzZHhsWL3Yvm-3ObBZ4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이뿐 애기들 계속 봐도 이뿌네요",
+        "writer": "UgwbyEGJn0XOzy-RuLV4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=GgNzgZT21R4",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

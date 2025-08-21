@@ -1,0 +1,1956 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001640615",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001640615"
+    },
+    "text": [
+      {
+        "content": "이제보니깐 남자 주인공 (비속어) 잘생겼네",
+        "writer": "UgwXzqt4PFkUPzK8iK54AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 영화를 보고 힘을 얻으라니,",
+        "writer": "UgyKYTd8uf_S8HLGhgF4AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영화 소리가 작아요",
+        "writer": "UgyBuNI3IpxrwJo9wDx4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여배우 엠마 왓슨인줄",
+        "writer": "Ugw83soHjM68ygwizbR4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 내려주세요, 비하인드 스토히 우울하네요,찰리쉰넘 죽일넘리네",
+        "writer": "UgzEH6wVhwxn1140l9t4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "위노나 라이더다",
+        "writer": "UgyKg2RRAVs85Ob-Fdl4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1분29초 감스트 관제탑리액션 추는중인가",
+        "writer": "UgzujMbOIfuD2wnbafx4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 월반한 꼬맹이 괴롭히는 미식축구 주장이 실화냐",
+        "writer": "Ugx-35W5mVNChcmRBVF4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "루카스 (비속어) 귀엽게 생겻당 내 남동생으로 삼아서 라면 끓여오게 하고싶당 후후후후",
+        "writer": "Ugxq6pp8wd5mbbBo5wZ4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리나같은애 잡는게 인생 승리다",
+        "writer": "UgyREzl0hmhbsfRheid4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 리나 존예다",
+        "writer": "UgwvrAkikVMZf_7L6et4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 루카스역맡은 배우 죽었다는데",
+        "writer": "Ugyibsp1eaNw0Z8JAXF4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사귄 적도 없는데 여친",
+        "writer": "UgzUh3KfhWNMRzA1YjN4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 주인공버프를 믿는다",
+        "writer": "UgwNDtkYAnn8IkzcxsV4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "캐피는 무슨 20대후반같냐 , 글구 제눈엔 흑발리나가 훨씬예쁘네요, 여주는 붉은머리길게기른거빼고 뭐가 나은건지 저 시대엔 확실히 금발이유행이 심했나보넵 요즘 연예인들하고 분위기가 많(이름), 그나저나 루카스 막내동생같이 생겨서 안따까워라",
+        "writer": "UgwDjT7_4sPUtmYN0qZ4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 이거 결말 학교팀이 지고 있는데 감독이 한 번 기회 줘서 투입 루카스 엄청난 부상 학교에 오자 유니폼 받음",
+        "writer": "Ugxsg7kjh0IW5b8ejQx4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "루카스 진짜 (비속어) 어벙하넼",
+        "writer": "Ugz7tXjvKWJWsg11uUZ4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리나 리뷰에서 잠깐잠깐 나오는데 존재감 무쳤다",
+        "writer": "UgzATO9MSA06R4oBFQt4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 어디서 볼수 있을까요 다운로드 받을수 있는곳이 없네요 네이버 영화에도 안뜨고 이런 자잘한 정보가 없어서 너무 아쉬워요, 중요한 재료가 빠져서 부족한 느낌",
+        "writer": "Ugys2gUlPBuP__MDFlV4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헏, 어쩌다가요,",
+        "writer": "Ugyibsp1eaNw0Z8JAXF4AaABAg.8uanoqj87Qp8uffW4DnAhB",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 폐렴으로 2010년에 사망햇네요",
+        "writer": "Ugyibsp1eaNw0Z8JAXF4AaABAg.8uanoqj87Qp8vRlCArGqxc",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "라고 했지만 결국 메기랑 안이어지고 저상태로 아싸만 탈출합니다",
+        "writer": "UgwNDtkYAnn8IkzcxsV4AaABAg.8totge3zIfF8zwSI9RiR7E",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 애초에 여친이 있으면 아싸가 아니지",
+        "writer": "UgyqYt1bnVJrBdh6upp4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "메이 MEI mei 오버워치 overwatch",
+        "writer": "UgzFUEjeH14aYs5QN9l4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "디오스 adioskk.컴 코DOMG77 첫15 매5 시스템배팅가능 네임드. 하프라인.엔트리A 파워볼게임.로투스.(비속어)라 스포츠.실시간쿼터.조합배팅 깨톡pl012",
+        "writer": "UgyfHINvUxM-A2y7Y0l4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "루카스약간 (비속어)진같이생김",
+        "writer": "UgwA8_rAIADdLsjnndh4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여자애 마음은 이해 안하고 뺏으려고만 하네 포기도 알아야지, 꼭 자기가 좋아한다고 사귈 수 있는 것도 아니고 상대방하고 마음이 맞아야지 사귄든 말든 하는데 저렇게 밀어붙이면 부담스러워서 있던 정도 다 떨어질 듯. 주인공 천재지만 너무 어린 거 같다",
+        "writer": "UgzgwMyLWND-FVGNMkh4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공부를 너무 잘해도 안돼는 이유",
+        "writer": "Ugw8FAtYOaQ4fBEIssl4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리나가 더 이쁜데",
+        "writer": "UgzWLbejh6-Vrr_6qrR4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여주 엠마왓슨이랑 비슷하다",
+        "writer": "UgxdzbZTh_4XcI85BB54AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여주가 약간 엠마왓슨느낌나는거같아요 존예보스",
+        "writer": "UgxT-s2Z0P9dOX2qEf94AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영화 아싸와 현실 아싸가 다른점 영화 아싸는 공부(반사회적용어) 잘하짘 ,",
+        "writer": "UgzYf25eEI326oyakpZ4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애기같이 생겼는데 고딩(이름)",
+        "writer": "UgwMiySG8vjngwMt7Hh4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엠마왓슨아닌가 아니면 엄청 닯았다.",
+        "writer": "Ugy2p96Dm1jXm1ouFx94AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "약빤놈과 (비속어)한놈과 도둑질한년이 나오는 환상적인 영화네요",
+        "writer": "UgyxG6BaozGP7WQfUXx4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)당, 외국고딩이랑한국이랑은 좀 다르네,",
+        "writer": "UgwfDkHfk-uVez2UTQV4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쟤들은 지금처럼 염색이랑 화장 많이 (이름) 자연스럽다 다는 아니지만 지금 미국 영화보면 애들이 거부감 들어. 뭔가 아주, 이질적이야",
+        "writer": "UgxR1Ln9o8XdeE4hJix4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1986년 영화 (비속어) (비속어) 오래됀 영화네 저 남자배우도 나이는40살은 됐을듲",
+        "writer": "Ugz2fjM0xUa8I_AHC3t4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "루카스는 나중에 어른됄때 (비속어) 똑똑해서 변호사 돼는거아님",
+        "writer": "UgxFmEA6SfNoZSb7V594AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누가 도둑질함요",
+        "writer": "UgyxG6BaozGP7WQfUXx4AaABAg.8rjbZYNX2O-8uk-1DSw9zy",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리나 나오는장면 세번 돌려봤다 리나 이쁜데 저런 애를 잡아야지,",
+        "writer": "UgxgFEhQLHsCoflNlaV4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘보고 좋아요 삘간버튼 삼종 셋트누르고 갑니당.",
+        "writer": "UgyR8FqakhxX23f4TwF4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리나가 훨씬 이쁜데",
+        "writer": "UgyRWZDb_qWMOtR_Vct4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "결말이 머에여",
+        "writer": "UgyNo4WoXeliY2M5Wgh4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찰리쉰 잘생겼을적 시절이네,",
+        "writer": "UgzqEkZnyCfkGozxZqp4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아싸가 여친이 있다는게 가능한가요",
+        "writer": "UgymhjXYjYUv57l4f494AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나레이션 듣고 진짜 난줄",
+        "writer": "UgwU3fwzpU6KIhyQfAV4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 차를,",
+        "writer": "Ugx-TeIe_VhHHfmZ97R4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 리나가 저렇게 이쁜데",
+        "writer": "Ugw_Afot8wMiOsu-wB14AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "86년 영화인데 스타일이 나쁘지않아",
+        "writer": "UgzlQnF5Z40XNt663714AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찰리쉰 위노라 라이더",
+        "writer": "UgzCJP0imzrp1CdciNJ4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 리나가 젤 이쁜듯",
+        "writer": "Ugy99uWwCZsVRdHYn_d4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누가 봐도 위노나라이더가 훨신 이뿌구먼, 루카서 눈이 삐었네",
+        "writer": "Ugx1hOMt6Myi69zj8zV4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아싸놈이 나보다 (비속어) 귀엽네",
+        "writer": "UgxsUyMjkJo05qBBJhZ4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어린떼끼가 차도 잘타네",
+        "writer": "UgyPidFP0jSgRHRWTGZ4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 에 리나라는 얘 (비속어) 예쁘다",
+        "writer": "UgwZZels1_nuu0BpOv94AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안경이랑 헤어스타일만 바꾸면 됄것같은디",
+        "writer": "UgyxndVJZTyZnEr-Jq54AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "위노나 라이더",
+        "writer": "UgwZZels1_nuu0BpOv94AaABAg.8qJFdI9eplP8qMHZMRwmDu",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "검은머리 여자아이는 그렇게 버려짐,",
+        "writer": "Ugwej9Itq4AfAzlzjN54AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초에 나만 매기라고 들림",
+        "writer": "UgybnUml2Ae3LqxYial4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보통 외면이 형편없는 사람은 내면이 뛰어나고 내면이 형편없는 사람은 외면이 뛰어나다",
+        "writer": "UgybPLN89hc2pNjuF2N4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아싸 인싸가 뭐래,",
+        "writer": "UgzYuBEQ1GACNDRJRs54AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남자 아역 배우 코리 헤임이 이 영화로 만난 찰리쉰에게 (비속어)당함 이때 당시 남자 아역 배우들도 헐리우드에서 심심치 않게 (비속어)당했고 후에 미투 폭로 했는데 인기없고 힘빠진 피해자만 방황하고 망가짐.",
+        "writer": "UgzNLb2i05TaFr_Pqxd4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와어릴때 저런 (비속어)친구있었으면 (비속어)이네",
+        "writer": "UgytYAsPnPHD76EuKDd4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리나 위노나 라이더 에어리언4 로봇",
+        "writer": "Ugwde5MW_NXDzhY56wJ4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 뭐야 위노나 라이더야 와 어린거봐 진짜 그대로 크고 그대로 나이드셨다 역시 winona forever",
+        "writer": "UgwbBfT4-JELPp2HsWp4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "풋풋한 위노라 라이더라니 어허 귀엽고롬",
+        "writer": "UgwTTZl7BwsaGj3lgYF4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "루카스 저런 찌질한(비속어)가 제일 싫던데",
+        "writer": "UgyaU-IUVU624PRtYLB4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리나랑 사겨버려라메긴가 머시깽이 버려 그냥",
+        "writer": "UgyNTYpO1PqxbpcSLrF4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "루카스는 완전 애긴데, 월반을 얼마나 한겨 또래애를 사귀면되지 같은학년말고",
+        "writer": "UgxV4KbsV2BXXrJE3V94AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저런 애도 이쁜 여자애랑 친구는 되네 (비속어)",
+        "writer": "UgxvQVh390UlakWjqbt4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다른 영화리뷰보다도 특별한 목소리.. 그 목소리 때문에 더 재밌고 긴장되어져요. 좋은 영상 항상 잘 보고있습니다.",
+        "writer": "Ugy3VrZcA6AVB7gB2N14AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찰리쉰 개(비속어)야 저 애기를 (비속어)하고 있드나",
+        "writer": "UgxT3B10iEAPVFLAoP94AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)이 좀 포기를 하지 그사람을 위한길이기도 하고",
+        "writer": "UgyHgl_m3rvZ2yVIU0R4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찰리쉰하고 위노나 라이더 리즈시절영화였네",
+        "writer": "Ugz1XHNQGDnY0We4gR94AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭔 맥북도 아니고 이름이 맥이냐",
+        "writer": "UgyFImwX7KFELVBpQVZ4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그럴 줄 알았는데 외면도 형편없는데 내면도 형편없는 사람도 있고 외면이 뛰어난데 내면도 뛰어난 사람들이 꽤 있더군요.",
+        "writer": "UgybPLN89hc2pNjuF2N4AaABAg.8q7_K6_0vu08uBkvZRoBnO",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "코리 헤임이 여기서 누구인가요",
+        "writer": "UgzNLb2i05TaFr_Pqxd4AaABAg.8pzK0hVwlyG8t0IJGFxisC",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김히순 루카스 역으로 나오는 배우에요 찰리 쉰은 케피 역으로 나오는 배우고요.",
+        "writer": "UgzNLb2i05TaFr_Pqxd4AaABAg.8pzK0hVwlyG8t8qpl9CxrR",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남자가 남자한테 당했네 (비속어)(비속어)",
+        "writer": "UgzNLb2i05TaFr_Pqxd4AaABAg.8pzK0hVwlyG8w6tk8atWlg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찰리 쉰은 그 뿐만 아니라 에이즈 감염 사실 숨기고 수많은 (반사회적용어)이랑 관계 맺은 근본 없는 놈이죠.",
+        "writer": "UgzNLb2i05TaFr_Pqxd4AaABAg.8pzK0hVwlyG92ghjxJw0Up",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찰리쉰 역시, ,",
+        "writer": "UgzNLb2i05TaFr_Pqxd4AaABAg.8pzK0hVwlyG93H0IgZ2yTC",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엥 (비속어), 충격,",
+        "writer": "UgzNLb2i05TaFr_Pqxd4AaABAg.8pzK0hVwlyG9Cd_pUkAeEG",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "루카스역을 한 코리하임이 연기력이 대단한건진 몰(반사회적용어), 너무찌질하고 진짜 이상해보임, 그리고 영화도 좀 (이름)것같고,",
+        "writer": "UgwrnpxyngBVBeCUEzF4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리나 설마 위노나",
+        "writer": "Ugzr1Vz3dKrwu0chAp14AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제가 아주 어렸을때 보고 일기까지 썼던 영화네요. 결말이 참 마음에 안들었고 결국 키 작은 (비속어)는 정(이름)만 할수 있어 정도의 결말이었으니까요. 아무리 노력해도 키크고 잘생긴 킹카에겐 안된다 이게 이 영화의 결말인데 참, 당시 유행했던 청소년 성장 스토리 영화중 결말이 가장 뒷맛이 텁텁했던 영화였습니다. 그래서 전 (이름)가 너무 싫었어요. 참고로 찰리 쉰은 이 영화 다음 여주였던 케리 그린과 또한편의 영화를 함께 찍게 되는데 거기서는 나이차가 많이 나게 나오죠.",
+        "writer": "UgxTGY91SwezQJOI6dd4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리나 정말 괜찮던데,",
+        "writer": "Ugw5ocl2AwyBRds9D4R4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "루카스 개 찌질하네 그렇게 질척거리면 여자도 싫어해",
+        "writer": "UgwQ16BqWpZoGi2CTzV4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엔딩 시합에나가서 마지막에 공을 잡는데 기회를 놓치고 부상을 입고 병원으로가고 마지막에 미식축구 자켓을 받습니다 유트브에 처보면 나와요,",
+        "writer": "UgwoTYpQCrossY8IrIl4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리나가 인데,",
+        "writer": "UgwlvhIZSWPF185PinN4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리나 존예에엥엑...",
+        "writer": "UgyUfQ1XsXarYI0dKFB4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "워메, 캐피 역할하는 사람 찰리 쉰 아님",
+        "writer": "UgwCMSJl5sCcsrqXzw14AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리나 (비속어)",
+        "writer": "UgwKZp5IYSS8T_Navih4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찰리쉰, 에이즈환자라니,",
+        "writer": "UgyCrhJqlT38wNK5oc54AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에서 찡함",
+        "writer": "UgxUC0eVgYmVprRIuqt4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "위노나 어렸을땐데 오지네",
+        "writer": "UgzbTpy7njpN1w97WMB4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "10(비속어)초에 카메라맨 어디찍고있는거",
+        "writer": "UgzL5NEn-EaaDyQNA2J4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재목을 어떻게지었기에 조지루카스가나와,",
+        "writer": "UgzHxbTdavVQtbYpAY14AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나만 캐피 디발라 닮았다고 생각하나",
+        "writer": "Ugx-AQ19Jg0kP4jUZcZ4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "결론결국 여자의 사랑을 얻지는 못하지만 풋볼잠바 빨강색을 루카스에게 주면서 풋볼에 들어온것을 인(이름)면서 끝남 1.결국 여자의 사랑을 얻지 못함 2.루카스가 모두에게 박수갈채 받으며 인싸가 됨 끝",
+        "writer": "UgwBXbsgCJmUdtoIrRp4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 영화끝부분에 주인공 좋아하는 여자 리니하고 이어지는거 아닌가요 영화 끝부분쯤에 둘이 미소를 띄던데",
+        "writer": "UgxTGY91SwezQJOI6dd4AaABAg.8plrFztZsjQ9B6Ik4RrYWY",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "충분히 썸네일 야하고 자극적이게 꾸밀 수 있었는데 이 분은 정직해서 참 좋다",
+        "writer": "Ugw9fQp8d9MpmODEV514AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엥 근데 왜 루카스는 초등학생처럼 생겼고 여주는 20대같은데 뭐죠",
+        "writer": "Ugxk5I_XxsPbvar8Di14AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "위노나 라이더",
+        "writer": "UgxYC6qGddio1Wu2w0B4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)때문에 찾아보게된건데 찰리쉰이 (이름)찍을때 루카스역 코리 하임 (비속어)했다네요, . 넘나 충격적",
+        "writer": "UgwhiZewEyhvSl7CJ1t4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 어디서 볼수잇나요 링크좀",
+        "writer": "UgynsbnNue-Xpt4jPwV4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "위노나 라이더가 나오네, 이쁨",
+        "writer": "UgyxA1CRgVw_9srakuF4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "콩깍지 별거있나.. 옆에 훌룡한 처자가있는데 아휴, 답답하구만.",
+        "writer": "UgyMGKl2ZwlAslKypah4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리나 조녜",
+        "writer": "UgzYszILS2VtB6YBnBN4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찰리쉰인가 설마,",
+        "writer": "Ugwx01xP58gkS6YDFl54AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "메기녀 골반 (비속어)",
+        "writer": "UgwOe5yn8y-MO55r-xN4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "노니여 오마이갓....",
+        "writer": "Ugx9WKsTRdtM2SReRGx4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리나가 더 이쁘다",
+        "writer": "UgwmiKoS_7ON_GNOtMN4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어디서 볼수 있나요",
+        "writer": "UgyrlqdodQnRJ9SGqwt4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "루카스 안경 바꿔주고 싶다 루카스 그, 쿵퓨리영화(지무비채널) 에 나오는 해커맨 닮았다",
+        "writer": "UgzNWvrSnZJEJglUGQR4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "결말좀알려줘요 매번결말 안알려주넉",
+        "writer": "UgxMNG_zW2UeGV7wbKJ4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "매기 (비속어) 징그럽",
+        "writer": "UgwMDXmwyqs-oOg0e8V4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)것 .",
+        "writer": "UgwAsQWB7ylNFeqW7yR4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 웃지님 방송 잘 보고 있는데, 영화 외적인 얘기를 해볼려고 하는데, 이 영화에 인물들이 모두 아역배우이다보니, 어릴때 인기가 끌어서그런지 성인이 되어서 오히려 불행해지는 배우가 많은거같아요. 주인공인 루카스역의 코리 하임도 아역일때는 인기를 끌다가 성인이 되어서 인기가 떨어지지 절망했는데 약물과다 복용으로 사망했더군요. 캡피로 나왔던 찰리쉰은 아역일때도 아버지 마틴쉰의 후광으로 인기를 끌었고 성인일때도 40대 정도까지는 인기가 많았다가 그 이후에는 인기가 시들하더니, 각종 기행으로 구설수에 오르다가 지금은 반패인처럼 사는거같던데, 참, 여기 여주인공으로 나온 케리 그린은 구니스에도 나왔었네요. 그리고 성인배우로도 성공한 위노나 라이더도 보이고, 배우들의 과거의 모습을 볼수 있어 괜찮네요.",
+        "writer": "UgwpdDedWUyIZ5HiAGZ4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이분도 한때 그랬음",
+        "writer": "Ugw9fQp8d9MpmODEV514AaABAg.8pbYuNDp7Cy8qSPhx5RDJw",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "02 01 (비속어)",
+        "writer": "Ugw9fQp8d9MpmODEV514AaABAg.8pbYuNDp7Cy8rMphcYqw4U",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "학교 일찍들어간거에요",
+        "writer": "Ugxk5I_XxsPbvar8Di14AaABAg.8pavpew4WYe8pdIjJ9LEM5",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서아 넵 영상 2번보고 알았어요 감사합니당",
+        "writer": "Ugxk5I_XxsPbvar8Di14AaABAg.8pavpew4WYe8pfB5ZEOF6H",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여주도 실제나이 십대처럼 보이는데요. 외국애들은 중학생만돼도 우리나라 20대처럼 보임. 우리나라 20대여자 피지컬보다 쟤들 중학생 발육이 더 쩜. 우리나라 20대쟤들 초6 피지컬",
+        "writer": "Ugxk5I_XxsPbvar8Di14AaABAg.8pavpew4WYe8pkbtw5ECj_",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "외국애들 발육 개쩜 스위스 갔을때 스페인고딩애들이 수학여행왔다는데 무슨 대학생들 오티온줄",
+        "writer": "Ugxk5I_XxsPbvar8Di14AaABAg.8pavpew4WYe8ps6cO6fn2E",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Julian 발육이 문제가 아니라 얼굴이 우리나라 20대보다 성숙함 몸매는 (반사회적용어)답게 걍 (반사회적용어)몸매들인데 얼굴은 울나라 20대급",
+        "writer": "Ugxk5I_XxsPbvar8Di14AaABAg.8pavpew4WYe8q2LCkbkbVc",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "설명에 나오네요 똑똑해서 고학년 다니는것",
+        "writer": "Ugxk5I_XxsPbvar8Di14AaABAg.8pavpew4WYe8q7dTMsgrOO",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "러시아 가면 그런여성들 많이 볼수있음",
+        "writer": "Ugxk5I_XxsPbvar8Di14AaABAg.8pavpew4WYe8q9DcaAOmJ9",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서양인들 (반사회적용어) 특징쓰는 애들 쓰는애들 특징 실제로 그런거 본적 없는데 위에 댓글쓰는거보고 아 그렇구나 하고 베껴적음",
+        "writer": "Ugxk5I_XxsPbvar8Di14AaABAg.8pavpew4WYe8reUeEytLnX",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "검정고시 봄",
+        "writer": "Ugxk5I_XxsPbvar8Di14AaABAg.8pavpew4WYe8sSzxg9odZt",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "과수농부 서양쪽나라는 영국가봤는데 무슨소리세요,",
+        "writer": "Ugxk5I_XxsPbvar8Di14AaABAg.8pavpew4WYe8tGV5iAVyPS",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "20대중반이후부터는 안부럽던데 외모열등감처럼보이는 댓글들많네요",
+        "writer": "Ugxk5I_XxsPbvar8Di14AaABAg.8pavpew4WYe8tiFj265_-W",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "외국인 생긴게 어쩔 수 없음 개 부러움",
+        "writer": "Ugxk5I_XxsPbvar8Di14AaABAg.8pavpew4WYe8tx7HPQWQ5M",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "실제로 쟤네들 이차성징 우리 보다 더빨리옴",
+        "writer": "Ugxk5I_XxsPbvar8Di14AaABAg.8pavpew4WYe8wsydftwU15",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서양여자를 우리나라 여자랑 비교해봤자 뭐해, 남자는 차이가 더 심하더만,",
+        "writer": "Ugxk5I_XxsPbvar8Di14AaABAg.8pavpew4WYe8yukK21zUwW",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앙앙앙 사실 미안한데 얼굴은 여자가 훨씬 썩창나버린게 맞아",
+        "writer": "Ugxk5I_XxsPbvar8Di14AaABAg.8pavpew4WYe8zYGjtbjio1",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "문현웅 남자가 남자아이 (비속어) 한거죠, . 남자도 (비속어) 당할수있어오,",
+        "writer": "UgwhiZewEyhvSl7CJ1t4AaABAg.8p_fY6uZspT8pdXio0LMYy",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찰리쉰이 아니라 어른이 한거임 찰리쉰이 문란해도 (비속어)범은 아님",
+        "writer": "UgwhiZewEyhvSl7CJ1t4AaABAg.8p_fY6uZspT8pgFAIjzvRk",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Mumba Jumba 노노 검색해보세요 뉴스 기사있어요 찰리쉰이 부인하지만 코리하임은 이미 죽은 뒤고 죽기전에 자기가 (비속어) 당했다고 말했다는데, 글쎄요,",
+        "writer": "UgwhiZewEyhvSl7CJ1t4AaABAg.8p_fY6uZspT8pgFXIcSxM8",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "G 저기, 님, 그 두 기사의 소스가 National Enquirer인데 그거 대표적인 (반사회적용어)입니다, 혐의도 없고 재판도 없고 선고도 없지 않나요",
+        "writer": "UgwhiZewEyhvSl7CJ1t4AaABAg.8p_fY6uZspT8pgHsnjCCjI",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Mumba Jumba 저는 기사보고 적은거예요 위키피디아에도 아주 유명(반사회적용어)자에게 (비속어)당했다고 나와있네요 아마 그래서 찰리쉰으로 의심받고 (반사회적용어)가 나왔는거일수도 있겠죠 20년도 지났는데 그게 누가 그랬는지도 밝혀내지 쉽지않은게 사실이고요",
+        "writer": "UgwhiZewEyhvSl7CJ1t4AaABAg.8p_fY6uZspT8pgJWdZjr7d",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Mumba Jumba 이게 사실인 것 같네요 한편 미국 주간지 내셔널 인콰이어러 는 8일(현지시간) 전직 배우 도미닉 브라스키아가 코리 하임이 2010년 3월 10일 38세의 나이로 세상을 떠나기 전 찰리 쉰이 자신에게 접근했던 사실을 털어놨다 면서 도미닉 브라스키아가 찰리 쉰이 19살 때 영화를 찍으면서 당시 13살이었던 코리 하임을 (비속어)했다 고 폭로했다 고 보도했다. 출처read oid009aid0004045530",
+        "writer": "UgwhiZewEyhvSl7CJ1t4AaABAg.8p_fY6uZspT8phOJDSqKjW",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 충격, 루카스의 영화 결말처럼 씁쓸함만이 남네요",
+        "writer": "UgwhiZewEyhvSl7CJ1t4AaABAg.8p_fY6uZspT8puLtVtIRgU",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이치즈 헐 그게 사실이면 더 슬프네요",
+        "writer": "UgwhiZewEyhvSl7CJ1t4AaABAg.8p_fY6uZspT8rIknNaamZg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찰리쉰 에이즈에 걸린거알고도 무분별한 성생활로 여기저기 전염(비속어)고 다니고 원래 (비속어)인 배우인거 누구나 다 아는데 (반사회적용어)니 어쩌니 혼자 부인하는거보니까 짠하다 증말. 구글에서 찰리쉰 쳐보면 온갖 희생자기사들이 즐비하는데, 요즘 진짜 딴지거는사람이 너무 많다. 좀 알아보고 딴지걸던가,",
+        "writer": "UgwhiZewEyhvSl7CJ1t4AaABAg.8p_fY6uZspT8vBNGN9m2fJ",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오우(비속어) 남자가 남자를 이거완전 (비속어)(비속어) 아니여",
+        "writer": "UgwhiZewEyhvSl7CJ1t4AaABAg.8p_fY6uZspT90TNLkU7Q0v",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그러네요 구독할려다 말음",
+        "writer": "UgxMNG_zW2UeGV7wbKJ4AaABAg.8pHVDafXmv58pikrsW6hHW",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "결말은 포기를 모르는 루카스는 결국 미식축구대회에 나가게 되고 좋아하는아이에게 잘보이려고 하나 외소한 체격덕에 큰부상을 입어서 입원합니다. 그리고 좋아하는 아이가 병문안 와서 위로해주죠 그렇다고 사랑은 이루어지지 않아요 그리고 다시 학교를 돌아온 루카스는 (비속어)를 당할꺼라 생각했던것과 달리 학교친구들이 미식축구 일원으로 함께 인(이름)고 옷을 선물해주죠 여자아이와는 잘 안되고 친구로 남아요 그 여자는 미식남이랑 끝까지 사귀는 사이로 끝납니다",
+        "writer": "UgxMNG_zW2UeGV7wbKJ4AaABAg.8pHVDafXmv58qg9ZhIGWWS",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시간 참 빠르네요, 어느덧 영화 속 배우가,",
+        "writer": "UgwASnP_xEcUYjprHBZ4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 눈에 콩깍지씌이면 잘챙겨주는 사람도 몰라뵈네",
+        "writer": "UgzQzuOr2OKOzggdLdB4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 위노라 라이더다 어릴때 진짜 이뻐구나 너무 좋다 세월 참 빠르네 위노라 라이더가 벌써 50대를 바라보다니",
+        "writer": "UgzVsuLm0upuEuSJxNp4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미국학생들은, 부럽네,방학 끝나면 바로 새학기던데,",
+        "writer": "Ugy5CnJYIc-wdAEXUrt4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "루카스 입벌리고 있는거 (비속어)같다",
+        "writer": "Ugx_07xaMeCQ9NSwNtx4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개(비속어)놈이 까부려재끼는 모습 꼴보기 싫다",
+        "writer": "Ugy8xW7aGwOW-S1oPJB4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "청춘 스타들 다 나오네",
+        "writer": "Ugw0X0OTD-GBy47Hj3R4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다들 리나역 누군지 못 알아차리는구나",
+        "writer": "Ugxrv6tXdFmV9a-QyVx4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "결말 좀 알려줬으면 좋겠다,",
+        "writer": "UgzicvqWo-5vx5y4A_V4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선생 (비속어) 저걸 걍 쳐다보고만 있네",
+        "writer": "UgyW0oSOa6cR_HcZLfJ4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선생(비속어) 운동부가 장난칠땐 좋은말 안하고 주인공이 춤추니 좋은말할때 내려가라고하네",
+        "writer": "UgwuPi--LNpMm76A5F94AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초에나오는 클래식 뭐였죠",
+        "writer": "UgxmzC0tuX1vD9KVEqN4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네토라레물이네, (비속어)(비속어) 꼴잘알이구만,",
+        "writer": "UgzAdXSJLN-vQSlLKr94AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리너가 에일리언4에 나오는 콜",
+        "writer": "UgxCI2rSN_9goGc5y2N4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Utzl님 혹시 영화분위기는 되게 (이름)고 텅빈회사에서 살안마와 직원이 숨어가면서1대1로 싸우는 영화아시나요 제 기억에 영화 배경이 갈색이 었어요분위기는 (이름)지만 긴장되는 무서운 분위기에요",
+        "writer": "UgwLDMg4AKg1jc9Az5h4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제주도 응잘챙겨주던말던 저런 어좁꼬맹이 4차원이랑 사귀겠냐",
+        "writer": "UgzQzuOr2OKOzggdLdB4AaABAg.8pEcy5wdlJC8pdEl_ST0sD",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웹더쿠 루카스가 매기한테삽(비속어)때 잘챙겨주는 까만머리 여학생을 몰라본다는거같은데요",
+        "writer": "UgzQzuOr2OKOzggdLdB4AaABAg.8pEcy5wdlJC8phkUcrdN2H",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막엔 루카스가 풋볼팀 인원으로 정식입단하여 인정받고 아싸탈출합니다 그리고 메기랑은 안 이어집니다, 결말이 좀 맘에 안들죠,",
+        "writer": "UgzicvqWo-5vx5y4A_V4AaABAg.8p8mDGEv3FW8zwSUoCyYMV",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "위노나 라이더가 옆에서 좋아하는데 다른 여자애한테 한눈을 팔다니",
+        "writer": "UgxQwzxx-yq4Rc5dUJF4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "메기 했을때 물고기 생각남",
+        "writer": "UgyeccWb9M5N1HOfwdl4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "루카스 가 없어요.",
+        "writer": "UgzZhoyT9UxyoRhH3Z94AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "운전 실환가요",
+        "writer": "UgxLUnv9jG9UR-KlOtx4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나만 리나가 더이쁨",
+        "writer": "UgwIjoYY0uf84WkNl9x4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저건 뽀뽀가 아니라 키스입니다 뽀뽀는 입술 이나 볼 등 다른 부위끼리 입만 맞추는거고 키스는 입술과 입술을 서로 포개고 혀가 상대방의 입안에서 같이 트위스트 춤을 추는걸 말합니다. 모솔의 얄팍한 지식으로 한번 정리해봤습니다 커플분들 한번 평가 부탁드립니다.",
+        "writer": "UgxMOeaJpCiYNCHad6p4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "글러먹었네 저러니 아싸지",
+        "writer": "UgyZXspXICj4z50_6AN4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미국 하이틴영화 특징남자주인공 안경끼고 외소하고 (비속어)임 거기에 친구는 항상 뚱뚱하고 안경끼고 파마머리",
+        "writer": "UgzbeSacfyV6TgvHUGd4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 루카스였으면 총들고 미식축구부랑 매기랑 다 쏴죽이고 (반사회적용어)한다 아무리 (비속어)이고 (비속어)여도 목숨걸고 달려들면 무섭다는걸 이세상에 보여주고 죽어야지 다시는 루카스를 무시하지마라 미식축구부(비속어)아 그리고 매기년아 나도 널 좋아하면 안되냐 내가 너좀 좋아하겠다는데 날 거절하는건가 그럼 너도 죽어라",
+        "writer": "UgzTXrofXvi2PgmXaLh4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 어디서 본것 같은데.",
+        "writer": "UgylyN2WrqbCZoRWE7R4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찰리쉰 젊을때 플래툰이 생각나네요",
+        "writer": "Ugy7qO1gppMQOkLSh4d4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전학생이 뭐라고 위노나라이더를 거르냐,",
+        "writer": "UgwHL_Phy_pVqR5KH5Z4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "루카스 같은 애들 좀 그렇더라",
+        "writer": "UgzyLFnZe9YaIYFqif54AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "궁금해서 찾아보는데 루카스 배우분 2010년에 돌아가셨군요",
+        "writer": "UgyfQwv2yxaTGsAhm0p4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 일찍 온듯",
+        "writer": "UgwWtrLlo6_dvvy7xZ54AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "원래 주인공이 더 이뻐야 해서",
+        "writer": "UgwIjoYY0uf84WkNl9x4AaABAg.8p6sJ8qmABb8pcJtLbqymE",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한국인은 검은머리가 일반적이니까 흑발도 좋아하지만 미국 남자애들은 금발 큰가슴에 환상이 있음. 금발 아니(반사회적용어) 밝은 머리가 더 인기 있음. 물론 다인종이 많은 동부 서부 해안은 좀 다름.",
+        "writer": "UgwIjoYY0uf84WkNl9x4AaABAg.8p6sJ8qmABb8pdKazrRLgv",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 리나 나오자마자 바로 그생각함",
+        "writer": "UgwIjoYY0uf84WkNl9x4AaABAg.8p6sJ8qmABb8pfkJHMFc6J",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Uklion 뭔소(반사회적용어)지, . 미국애들말하시는거면 큰가슴보단 큰 엉덩이에 관심이 더많고요 금발의 환상이라기보단 흑발도 좋아합니다 (그냥 예쁘면 좋다는거) 알지도못하면서 지껄이지마시죠",
+        "writer": "UgwIjoYY0uf84WkNl9x4AaABAg.8p6sJ8qmABb8pj76v5gz2q",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Lilylilylily Bobobobo 응 알고 말하는거야. 같은 (이름)면 대체로 금발을 더 좋아해. (반사회적용어)끼리도 금발에 파란 눈을 더 부러워하고. 니가 아는게 다가 아니니까 함부로 토달지 말고 (비속어)하렴.",
+        "writer": "UgwIjoYY0uf84WkNl9x4AaABAg.8p6sJ8qmABb8pjG6kbVy-2",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Uklion 반말하네 외국나가봣냐 캐나다에서 몇년동안 산사람이라서 내가 더잘알거같은데",
+        "writer": "UgwIjoYY0uf84WkNl9x4AaABAg.8p6sJ8qmABb8pkgcXB7OnH",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Uklion 큰가슴(비속어)하네 알지도못하면서 서양사람들은 가슴보다 엉덩일좋아하는거 몰라 인스타그램에서도 sommer ray 가 top 1인데 나 혼혈인데 한국인인너가 알기(반사회적용어)하겟냐",
+        "writer": "UgwIjoYY0uf84WkNl9x4AaABAg.8p6sJ8qmABb8pkgur2ksYe",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Lilylilylily Bobobobo 니가 아는게 다가 아니라구 (비속어)아. 난 미국에서만 11년 살았어.",
+        "writer": "UgwIjoYY0uf84WkNl9x4AaABAg.8p6sJ8qmABb8plBJyT4GIT",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Uklion (비속어)진짜 아는척오지네 가슴큰걸좋아한다고 미국에 11년동안 살앗으면서 엉덩이를 더 본다는걸 모를까 여자끼리는 금발에 파란눈 좋아한다쳐 캐나다에 잇는 내친구(반사회적용어)도 그러니까 남자들은 그런거 신경안쓴다니까 남자들마다 개인적인 취향이잇는(혐오표현) 그런 fantasy 는없다고 인스타그램에 썸머레이는 도대체 왜 탑원이겟어 금발도아니고 파란눈이아닌데 가슴도작아 이거설명해봐 서양(반사회적용어)이 올리는 사진들보면 거의다 엉덩이빼고 찍고 엉덩이에 관심이 되게 많고 가슴없어도 엉덩이만 크면 된다는거 모를까 11년동안 미국에서 살앗는데 나 혼혈이야 너가 지껄일게아니라고 그니까 너나 (비속어) 짜증나니까",
+        "writer": "UgwIjoYY0uf84WkNl9x4AaABAg.8p6sJ8qmABb8plC4oCKnHb",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Lilylilylily Bobobobo 응 미국 살아보고 말해. 니가 혼혈이든 뭐든 니 생각이 옳다는 근거는 안되는거란다. 동부 서부 해안쪽 다인종 많은 곳은 다르다고 이미 얘기했다. 니가 아는게 다가 아니니까 남의견 반박할땐 조심해라.",
+        "writer": "UgwIjoYY0uf84WkNl9x4AaABAg.8p6sJ8qmABb8plSevtfass",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둘이 (비속어)들한다.",
+        "writer": "UgwIjoYY0uf84WkNl9x4AaABAg.8p6sJ8qmABb8pmYeh-hjwE",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도대체 왜 가슴과 엉덩이로 싸우는것인가,",
+        "writer": "UgwIjoYY0uf84WkNl9x4AaABAg.8p6sJ8qmABb8pn4rEZP46E",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썬썬 그렇군요. 가슴과 엉덩이로 싸우는게 되었네요. 제 취향은 골반라인이쁜 라티나인데 (반사회적용어)가슴 옹호론자가 된 듯,",
+        "writer": "UgwIjoYY0uf84WkNl9x4AaABAg.8p6sJ8qmABb8pn8hDDaCys",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썬썬 아개웃기넼 그러게요",
+        "writer": "UgwIjoYY0uf84WkNl9x4AaABAg.8p6sJ8qmABb8pnVT0sPc4k",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Lilylilylily Bobobobo (반사회적용어)해서 막말해서 미안해요.",
+        "writer": "UgwIjoYY0uf84WkNl9x4AaABAg.8p6sJ8qmABb8pnd48vO_T0",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Uklion 아니에요, 제가 더 죄송해요 욕한것도 너무 죄송하고 사과 해주셔서 정말 고마워요.",
+        "writer": "UgwIjoYY0uf84WkNl9x4AaABAg.8p6sJ8qmABb8pnd_mW2a7L",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Lilylilylily Bobobobo 사과한게 고맙다니, (이름) 걸로 두근거리게 하시네. 사과받아줘서 고마워요.",
+        "writer": "UgwIjoYY0uf84WkNl9x4AaABAg.8p6sJ8qmABb8pnfrb7YlKz",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Uklion 고맙다뇨 먼저 사과해주셔서 전 진짜 고마운데요, 원래 넷상에서 의견이 안맞을때 싸우고 서로무시하던데 이렇게 좋게 끝내서 좋기만 한걸요",
+        "writer": "UgwIjoYY0uf84WkNl9x4AaABAg.8p6sJ8qmABb8pngrYuZD1w",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 님들 훈훈하다",
+        "writer": "UgwIjoYY0uf84WkNl9x4AaABAg.8p6sJ8qmABb8pnu3QaG7vR",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머야, 알람떠서 보니 사랑싸움하고 있네",
+        "writer": "UgwIjoYY0uf84WkNl9x4AaABAg.8p6sJ8qmABb8po4ICo545D",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썬썬 그러게요 흔하지 않은 케이스에요 이거는",
+        "writer": "UgwIjoYY0uf84WkNl9x4AaABAg.8p6sJ8qmABb8poDv-LFRNj",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "첨밀밀 위노나라이더",
+        "writer": "UgwIjoYY0uf84WkNl9x4AaABAg.8p6sJ8qmABb8prMlO2KntQ",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐야 이게 (반사회적용어)극이냐",
+        "writer": "UgwIjoYY0uf84WkNl9x4AaABAg.8p6sJ8qmABb8qf1ihKVAI_",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "취향마다 다른데 금발만 좋아하는 남자들도 꽤 있습니다 걍 취향 그 이하 이상도 아님. 반대로 흑발 좋아하는 남자 있고 (반사회적용어)여자에 환장하는 남자있고 (반사회적용어)여자한테 관심있는 여자있고 걍 인종이 다양해서 개취가 좀 상당히 갈리는 편임. (반사회적용어)여자는 생긴거도 몸 체구도 전혀 틀린데 (반사회적용어)여자에 환장하는 남자 꽤 많아요. 이유는 (반사회적용어)여자는 우선 냄새가 잘 안 나고 (암내말하는듯) 대체적으로 아담하고 이목구미가 오목조목해서 귀여워보인다고 하네요. 우리가 서양인 보고 인형같다고 하는 것처럼 (반사회적용어)인 보고 인형 같다 생각하는 사람이 있다고 보면 됨. 걍 정말 개취 개취. 매기는 (비속어) 넘치게 생겨서 어린 남자애들이 좋아할만 함. 반대로 리나는 좀 남자같은 보이쉬한 스타일인데 나중에 크면 매력폭발할 스타일. 따라서 나이 먹고 알만한 사람들은 리나를 더 선호하지만 어릴 땐 걍 겉보기에 여성스러우면 다 좋아함. 내 학창시절도 그랬음.",
+        "writer": "UgwIjoYY0uf84WkNl9x4AaABAg.8p6sJ8qmABb8r0uzAitoMG",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 (혐오표현)랑 쭈쭈 좋아하는건 각국에서나 그런(혐오표현) 뭐 응 (혐오표현) ..흑발. 응 쭈쭈.. 응 (혐오표현).. 응 쭈쭈..... 이러고 있네",
+        "writer": "UgwIjoYY0uf84WkNl9x4AaABAg.8p6sJ8qmABb8rUPvbcIEga",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 둘다 좋은데,",
+        "writer": "UgwIjoYY0uf84WkNl9x4AaABAg.8p6sJ8qmABb8rij0E0Sbs0",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)들아 가슴 엉덩이 골반 다리 얼굴 다중요해",
+        "writer": "UgwIjoYY0uf84WkNl9x4AaABAg.8p6sJ8qmABb8sZfPJ-LjxN",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "위노나라이더 아역같은 역할도 했었네요,",
+        "writer": "UgwIjoYY0uf84WkNl9x4AaABAg.8p6sJ8qmABb8sja5GT1UDM",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댓글읽다가 영화끝남 (비속어)",
+        "writer": "UgwIjoYY0uf84WkNl9x4AaABAg.8p6sJ8qmABb8tW-qy3evpI",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Lilylilylily Bobobobo 제가봤을태 uklion이분은 90년대2000년대미녀상 얘기하시는듯요, 정말 요즘은 머리색상관없고 가슴보다도 힙진짜 많이 보던데, 저 아는친구도 엉덩이뽕성형할꺼라하고, .",
+        "writer": "UgwIjoYY0uf84WkNl9x4AaABAg.8p6sJ8qmABb8tiGBsoM3iZ",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 나중에 리나랑 이어짐 영화끝부분 쪽에",
+        "writer": "UgwIjoYY0uf84WkNl9x4AaABAg.8p6sJ8qmABb9B6IYK6LPOK",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엉덩이 가슴이 뭐라고 두 분 사이좋게 서로 (비속어) 싸고 닦고 다 하시네",
+        "writer": "UgwIjoYY0uf84WkNl9x4AaABAg.8p6sJ8qmABb9BJhtTx-VmQ",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 난 가슴이 작은게 오히려 더 좋던데",
+        "writer": "UgwIjoYY0uf84WkNl9x4AaABAg.8p6sJ8qmABb9BUljt1EAJJ",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞는데 트위스트춤은 아닙니다 해보면 알아요 서로 꼬기 (비속어) 어렵습니다 연습해야되요",
+        "writer": "UgxMOeaJpCiYNCHad6p4AaABAg.8p6qxQucTlT8p82GQj7_-I",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세호 모솔에게 모솔이",
+        "writer": "UgxMOeaJpCiYNCHad6p4AaABAg.8p6qxQucTlT8p8BLacLPZS",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아, 죄송합니다 이론으로만 배운거라서요 피드백 감사합니다.",
+        "writer": "UgxMOeaJpCiYNCHad6p4AaABAg.8p6qxQucTlT8p8FCnw8UrY",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "은밀한 부분끼리 닿는거는 머라고 하죠",
+        "writer": "UgxMOeaJpCiYNCHad6p4AaABAg.8p6qxQucTlT8p8Q28JEiFq",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Wasabi Kimchi 뭐요 (비속어)치는거요",
+        "writer": "UgxMOeaJpCiYNCHad6p4AaABAg.8p6qxQucTlT8p8aWy3oRQf",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "키스는 영어고 뽀뽀는 한글,",
+        "writer": "UgxMOeaJpCiYNCHad6p4AaABAg.8p6qxQucTlT8pTDPVJEwZe",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (비속어)",
+        "writer": "UgxMOeaJpCiYNCHad6p4AaABAg.8p6qxQucTlT8pgZi85pVyC",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "추가학교얼짱 여자애 좋아함 그것도 짝사랑",
+        "writer": "UgzbeSacfyV6TgvHUGd4AaABAg.8p6mCeq77su8p6mGFMBddt",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "덩치좋고 잘생긴 못된운동부애가 괴롭힘",
+        "writer": "UgzbeSacfyV6TgvHUGd4AaABAg.8p6mCeq77su8p6mMcRou5W",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그이 (반사회적용어)지밥",
+        "writer": "UgzbeSacfyV6TgvHUGd4AaABAg.8p6mCeq77su8pAQIPdduwk",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찌롱이_ 치어리더도 항상 나옴",
+        "writer": "UgzbeSacfyV6TgvHUGd4AaABAg.8p6mCeq77su8pUPJ-1a3_x",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일찐이랑 (비속어) 나이차가 5살은 넘어보임",
+        "writer": "UgzbeSacfyV6TgvHUGd4AaABAg.8p6mCeq77su8pYJcEYUMqd",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그런 애들이 지구를 구함",
+        "writer": "UgzbeSacfyV6TgvHUGd4AaABAg.8p6mCeq77su8pjmtK_GXLs",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "29 맛있음",
+        "writer": "UgzbeSacfyV6TgvHUGd4AaABAg.8p6mCeq77su8sLONJt29wA",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안경 안끼면 겁나 잘생김",
+        "writer": "UgzbeSacfyV6TgvHUGd4AaABAg.8p6mCeq77su8tG2bnvBlLS",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여주는 노랑긴 여신웨이브머리에 핵인싸고 (비속어)이쁨",
+        "writer": "UgzbeSacfyV6TgvHUGd4AaABAg.8p6mCeq77su8ta7XzUUEB6",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다들 다 맞는말",
+        "writer": "UgzbeSacfyV6TgvHUGd4AaABAg.8p6mCeq77su8taTSi6jPkj",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아싸들도 희망갖으라는 메세지아닐까요 아님 영화감독들이 어릴적에 대부분 아싸였거나, .",
+        "writer": "UgzbeSacfyV6TgvHUGd4AaABAg.8p6mCeq77su8tiHL0vBLts",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 이거 맞다. 다 맞다.",
+        "writer": "UgzbeSacfyV6TgvHUGd4AaABAg.8p6mCeq77su8ugdt_r2Ui-",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 대게 (비속어)들이 저래생겼잖아",
+        "writer": "UgzbeSacfyV6TgvHUGd4AaABAg.8p6mCeq77su8xpbNm8mvXm",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐가 그렇다는거",
+        "writer": "UgzyLFnZe9YaIYFqif54AaABAg.8p6b(반사회적용어)7CotJ8pBZWnMOzlX",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 왜 돌아가셨어여",
+        "writer": "UgyfQwv2yxaTGsAhm0p4AaABAg.8p6YY2PMiwt8rLSfKOW-Zi",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 코리하임 2010년 3월 10일 약물과다복용(추측) 으로 사망",
+        "writer": "UgyfQwv2yxaTGsAhm0p4AaABAg.8p6YY2PMiwt8rMeBRD2bCi",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "결말 궁금해요퓨",
+        "writer": "UgzGhfJlmk5G6NNmvJh4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재밌어 보이네요",
+        "writer": "Ugy-gLKvp9jcW1EKuil4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 (비속어) 루카스 (비속어) 불쌍하네",
+        "writer": "UgxdEQK-_ACRvNRyX_d4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오랜만에 보니꿀잼이네요...",
+        "writer": "Ugxf4NmQct-55Du7hoR4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모든 영화를 호감갖게하는 매력적인 웃지님의 금요일 목소리",
+        "writer": "Ugzr5W3jyXqj53Knupl4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 나1등",
+        "writer": "UgwH-OEGo63hXgRg_hl4AaABAg.8p6UKXYj9eP8p6URdxPrPZ",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=YrZnBNrejSY",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

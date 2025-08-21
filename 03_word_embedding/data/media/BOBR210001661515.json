@@ -1,0 +1,764 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001661515",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001661515"
+    },
+    "text": [
+      {
+        "content": "똘똘한 세은이 많이 사랑한다",
+        "writer": "UgyeNJfDexnsCv6aNZl4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜그말이맞나보네 여유있는집아이들은 맑다고 아무시련없이 커서 맑고 여유있고",
+        "writer": "UgyARk7nkFR_QbzqPkV4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "용희 세은이 넘 귀엽고 이뻐요 (이름) 꾸밈없어 좋아요 백(이름)가족 사랑입니다 용희 세은이 화이팅",
+        "writer": "UgzrxLse0RoCe15SDQZ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세은이만 이뿌네 세은(이름)",
+        "writer": "UgyaUxewMirP37ZAyNh4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애기들 재미잇게놀아",
+        "writer": "UgzhZdNOH0nJAUq77sl4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예쁜애기들 나왓네",
+        "writer": "UgxaVVMgy2ErSq7fFBJ4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "삼남매 존똑",
+        "writer": "Ugxj0fOIBJwMuZRGxUB4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세은이 너무너무 겹다",
+        "writer": "Ugwzg53bZIncC1C1v3x4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하영이도 귀엽운데 세은이보니까 넘넘 귀엽다.",
+        "writer": "UgzulQ0JIwLjQsPvVIB4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세은이 깜찍해 귀여워 까꿍",
+        "writer": "UgxBNGOgZpL00V0W7UF4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소유진 (이름)너무 두분이 너무잘맞고 잘하시던데요 특히 (이름) 어쩜그리도 말을 재밋게 기욥게 잘하시는지 요즘 소유진 매력 에 푹 빠져삽니다",
+        "writer": "Ugx9jsxGztQn8j9CT494AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 환경이 중요한듯 착한 느낌",
+        "writer": "UgzDitdQOEGqYFAbmkh4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "백종원 딸뜰이 아빠(혐오표현)이다",
+        "writer": "UgwB4rcD0zINVb4AnCF4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "용희랑 연우가 원래 찍은거 같아요",
+        "writer": "UgyIKvdkY8txwkj0PSh4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "첫째 둘째 엄마닮구 막낸 아빠닮았네요 넘귀엽고 사랑스럽네요 아저는 하영이땜이 미쳐요",
+        "writer": "Ugx3BVXya9SZauNPsx14AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕 세은아 내이름도 세은이야 20(비속어)생 처음봤어 너무 귀여운거 아니야",
+        "writer": "UgxSyLqd_iSWfq1OoN94AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "금수저들의 만남",
+        "writer": "UgzRRriFw7E6D-FyKFR4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄마들이 딸둘 낳으면 꼭 똑같은 옷 사서 입히더라 이건 옛날엄마들이나 지금엄마들이나 똑같네",
+        "writer": "UgyUVVxtxqekooB6Ffx4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여긴 오빠들이 다 동생들 잘챙기구 차카네 부럽다",
+        "writer": "UgxFV2yWv2juFz9OLSx4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세은이 너무 귀여웡",
+        "writer": "UgzZgJ8kcuiQ92iXSLh4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 용희는 얼굴진짜 갸름하다.",
+        "writer": "Ugwy8df6rv3OCzSYUHR4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 세은이 보고 바로 반했다",
+        "writer": "UgzgsbNuD3uTsAuZD9p4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막에 아이가 다섯 포스터에 하영이랑 세은이 위치 바뀜, 크흠,",
+        "writer": "Ugw8qNAZ2eGd0ZnhQUp4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "용희 의젓하네",
+        "writer": "UgzMBMee9VARIkAJ6OZ4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소유진 넘이뻐 가정도 남편도 모두모두 행복한 꿀이뚝뚝",
+        "writer": "UgxuwqompCH3UcpUPZB4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둘다 귀요미 하영 세은이 친구네 아이가 다섯 부부 같이 보여요",
+        "writer": "Ugz_Jo4jHXU4R8ZF-wB4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "친구가 아니고 동갑이쥬. 친군데 이름도 몰라서 이름을 갈쳐주나유. 지난번 누가 친(비속어)고 (반사회적용어)게 말하니 도아나운서가 동갑이라고 고쳐주길래 아 아나운서는 다르네 했는데. 세상사람이 다 그러니 따라가시네요.",
+        "writer": "Ugw8cB9Ax02t1PKN_K54AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "먼뎈 도아나운서 왜 그러세요 헤어졌던 누나라닠",
+        "writer": "UgzKZUo2_r6eZPLFdlp4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)생(이름) 18학번은 울어요",
+        "writer": "UgyNtl9y3dA6mRUePWB4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세은똑순이 이뻐라 귀요미",
+        "writer": "UgyMg9B6unfin7UnkJh4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어휴 못난이 하영",
+        "writer": "Ugw2njgv6CUYyyWedlJ4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "용희 서현 세은 이쁘고귀엽네 다들",
+        "writer": "Ugz9vTR4TrVupl0MZ-94AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)도 귀요미 네",
+        "writer": "Ugz-o724n2eiX5a_6B54AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세은이 진짜 이쁘다",
+        "writer": "UgxJ026eJ9ydc3C8Y1d4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세은이 너무이쁘다",
+        "writer": "UgwvZsQLlOYuvHCLPD94AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "슈돌 재미있다",
+        "writer": "UgzVC9SoDeR2NnrVJIR4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아(비속어) 백종원이면 평생 고기",
+        "writer": "UgzctnKJcRbizUJJLth4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뜬금없지만 삼광빌라ost",
+        "writer": "UgxgcTPM3lxOd9002aN4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 너무 귀여워",
+        "writer": "UgyDzeraUaU-fmy0KEV4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기에 백아(비속어) 요리해주고 장엄마가 노래해주면 진짜 캠핑이 환상적인 축제장이 될듯",
+        "writer": "UgzPuHtXOxttNi7r39p4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 다 아빠랑 똑같이 생겼엌",
+        "writer": "UgyPliLNsFQvEYoZzpV4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이가 다섯 진짜 재밌게봤는데 생각해보니 소(이름) 거기서도 아이셋엄마",
+        "writer": "UgwGbo8pFl2ATokEviF4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "용희 7살이에요",
+        "writer": "UgwatlF_TsufxiACLN54AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "셋째 딸은 귀엽구 둘째 딸은 못생겼지만 아빠 판박이 같구 아들은 첫째라 그런가 듬직하네",
+        "writer": "Ugz0WwN66RfF(반사회적용어)5M5Rx4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앝 썸네일 어디서 많이 봤다 했더니 세은이네 쿠",
+        "writer": "Ugylunzt26JLvv1Y9eh4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세으니 넘 사랑스럽다",
+        "writer": "UgzqBUj82Wpqi2zkWE94AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애들도 너무 귀엽고 사랑스럽고 다들 행복해보여 좋네요",
+        "writer": "UgwdaXmBxoM49cGjEgp4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일만 봐도 백종원 딸 (이름) 딸인게 보임",
+        "writer": "UgwviXYvPLQQH4yW2LR4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연우 아빠랑 엄청 닮았다",
+        "writer": "UgwzATQ3F1LqQrJODa94AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는요 여덟 살이에요",
+        "writer": "UgwKLamK7nwohsxAL_p4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아, 기여어",
+        "writer": "UgwZUF-DRxrgjbgtYGt4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연우도 초기엔 꼼꼼이라고 신생아 였는데 언제 저리 큰거니",
+        "writer": "UgwKpaJv0Msz8GjSGnZ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "백(이름)이 아가들 대하는거 보면 진짜 아가들 부럽",
+        "writer": "UgzGOdq5MLVca9eOFNF4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀여워 주께떠 ,",
+        "writer": "UgyeQboRDXfB_iZ-axh4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세은이 만화에 나오는 포뇨같에 귀여워",
+        "writer": "Ugx26auR6pkpdyQtfsR4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "백남매는 백종원2명 소유진1명이네",
+        "writer": "UgyS85gdkUK0JfNHTwV4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, . 나도 놀러가면 오빠친구 동생친구 난 노친구인데, 동생은 5살 이여서 놀면채력 딸리고 오빠는 깸 만 해 서 끼지도 못 하고 나는 아빠랑 만노는그런, 그런, 그런, 그lun, 그런, 그런,재미, 로놀러가지(아빠랑있음불쑈나고기엽에서주워먹는그런즐거움)",
+        "writer": "UgyKB4n_4TvY-h-B-Jt4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애기들 다 동갑이네 친구생겻넹",
+        "writer": "UgzkIBY7nx3of-tA3kl4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리집 7세는 책이 뭔지도 모르고 유튜브만 보는데, 다 내 탓(이름).",
+        "writer": "Ugy1DmweSKGnXNX3vmx4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애들이 사랑 많이 받고 여러가지로 부족함이 없어서 그런지 맑다 착하구 맑아 이래서 환경이 중요한듯",
+        "writer": "Ugz(반사회적용어)8fs5j98OfbHX1p4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 무슨 일 왼쪽은 백종원 오른쪽은 장(이름)여서 놀라서 들어옴",
+        "writer": "Ugwz1l1r-J2xXtZgB6F4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀여운애 옆에 귀여운애 막내사랑둥이들",
+        "writer": "UgxCokRmklXV_n9-UbN4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세유니 정말 앙증맞게 귀엽다",
+        "writer": "UgwQBEWt4bUjOCQv36d4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딸들이 안생김",
+        "writer": "UgyYmGR-3DocZqh0nqd4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세은이 귀엽당",
+        "writer": "UgwFF8lCdK1yWjyX_EN4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동갑이지만아직 하영이가 동생티남억울한3살11월생하영",
+        "writer": "UgwOFpL7gBY4PFA3rkZ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뱅용이 잘생겼네",
+        "writer": "UgzGHHTOYbvQ6abYFal4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "용희는 훈남될것같애",
+        "writer": "UgyLspeSApvvV-g-0sl4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "금수저 애기들 집합 이네. 사뭇 부럽.",
+        "writer": "UgxVtvFTtMwozlk7-Tt4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "백 가네 막둥이 예쁘네",
+        "writer": "Ugxmd33Piu-T8cEbRMF4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무슨말인지 다시 보고옴",
+        "writer": "Ugwz1l1r-J2xXtZgB6F4AaABAg.9GU3bkOoz0E9GgMiI8XqDD",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유전자의 힘..애기들 너무 기여워요",
+        "writer": "Ugwz1l1r-J2xXtZgB6F4AaABAg.9GU3bkOoz0E9H6uSNBvgmq",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하영이랑 연우랑 둘다 아빠쪽 유전자 몰빵이라 생각했는데 엄마 닮았다고 생각하시는분도 계시는군여",
+        "writer": "Ugwz1l1r-J2xXtZgB6F4AaABAg.9GU3bkOoz0E9HAiMmh0w9B",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 웃겨",
+        "writer": "Ugwz1l1r-J2xXtZgB6F4AaABAg.9GU3bkOoz0E9HlUXXWKhYn",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 하영이는 점점 장(이름) 판(이름) 생각하는데 저희어머니는 도경완씨 판(이름)고 하더라구여 부부가 닮았나봐요",
+        "writer": "Ugwz1l1r-J2xXtZgB6F4AaABAg.9GU3bkOoz0E9HzIQHJ4Vlp",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하영이는 외할머니 판박이임,",
+        "writer": "Ugwz1l1r-J2xXtZgB6F4AaABAg.9GU3bkOoz0E9SnufnO8kVC",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "2월생 너무 부러워요 우리애들은 둘다12월생이라 항상 속상하네요",
+        "writer": "UgwOFpL7gBY4PFA3rkZ4AaABAg.9GPm7CUqSBT9HUtG9VFH5n",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 미치도록 귀여움",
+        "writer": "UgxegfHI20nIkOspPNJ4AaABAg.9GO2m5_mGcs9HxzuR7hNod",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 귀여워요",
+        "writer": "UgxegfHI20nIkOspPNJ4AaABAg.9GO2m5_mGcs9K_xmd467W9",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기도 그렇죠.",
+        "writer": "UgxegfHI20nIkOspPNJ4AaABAg.9GO2m5_mGcs9MzCWy4V_qZ",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하영이 애기들 너무 예부다",
+        "writer": "Ugy3xx0wjbUAcmTli5p4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연우 바른생활요 모두 예뻐요 예전에 (이름) 뜻있는 기관에서 뵌적있었지요",
+        "writer": "Ugzp2PVrkR-0R2wX3nZ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "백남매 아빠랑 똑같아요 너무 똑같네요",
+        "writer": "Ugw51qiD3d_f5dQm8zV4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소유진 부럽다 진심",
+        "writer": "UgxrgyExsA1_0SGEZHB4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이가 다섯",
+        "writer": "UgzSjVhYvj5H0OPf0IZ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이쁜 아가들",
+        "writer": "UgyfaRYq3KT55pWRE1F4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "20(비속어)생(이름), .",
+        "writer": "UgyyECjewLzr4aajrGh4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하영이 웃는 모습 너무 예쁘다.",
+        "writer": "UgxMHNg2cUP_eNfljFV4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하영아오늘도안녕 티비다바서 재방송 보고또보고한다",
+        "writer": "Ugy5WrkInGp72JTUknN4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세니는 왜이렇게 귀여워 엉엉",
+        "writer": "UgwU1hZ8xJVY6CcpCV54AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세은아 세은아 귀요미",
+        "writer": "UgyUdXPoxoUSAGuC77B4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세은이 깜찍하네 요정",
+        "writer": "UgzTq_NVO3RnYo6wXV54AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아우 귀여워",
+        "writer": "UgwmS91wtPSaRq4oIKR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세은이 귀요움에 치인다.",
+        "writer": "UgxA77ok2hiNlb1-dzZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YZIm757DMZI",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

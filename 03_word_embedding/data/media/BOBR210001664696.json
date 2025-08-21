@@ -1,0 +1,684 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001664696",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001664696"
+    },
+    "text": [
+      {
+        "content": "하연이는 아빠 닮아서 동걸납딱 피부가 뽀얏코 귀여워라 여자다원애기 사랑스러워랑",
+        "writer": "UgxtUXgmGOgBIiQAomZ4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하연이 귀엽당",
+        "writer": "Ugyb_pOuC4pJ9gibno94AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "두남매너무 예뻐.. 멋있는 가족이네요",
+        "writer": "UgyJglsaa8nzESXE9ux4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혓바닥도 귀여워어떻해",
+        "writer": "Ugz5XxhwRofpbJg6iR54AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하연아 구여워..",
+        "writer": "UgwlNlTYSAOm_bcA0x94AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄청 이쁘게 생겻누.",
+        "writer": "UgxdxHB7luE-xJosP6l4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몇번봐도 귀엽당",
+        "writer": "Ugxpmwvp0IXbEDJJdHR4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아가야 사랑해",
+        "writer": "Ugylp-LpWdqfGCsVVx14AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이쁜 아이들 늘 행복해라",
+        "writer": "UgweJ0PG63Yg3JvgwrB4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요정이 말하는거같아요",
+        "writer": "UgwDGwq_lmwSwgmKt0R4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하연이 넘 이쁘네",
+        "writer": "UgyIDv6BwhkamV-x5NF4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하준이도 너머이뿌고",
+        "writer": "Ugy2OOcipzgqahsfa6x4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "질 이뽀 하욘이 추석 잘시어",
+        "writer": "Ugx_dpy3V0Mk-NE8eEV4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하연은 사랑스럽고 밝고 똑똑한 소녀입니다.",
+        "writer": "UgzszJMH2ChWRE9EeTx4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하연이 귀여움 넘 이쁘고 착해 가까이서 실물 보고싶어 하준이도 착한 오빠짱 이랍니다 늘 이프로 봅니다",
+        "writer": "UgyF5Y1CQsbkYiJV0oB4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 느므 이뿌자냐 하연아",
+        "writer": "Ugz98EwSbYBXDEN1Vad4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하연이 모자, 일부러 (비속어)내서 머리 뺀건가요 넘나 귀엽",
+        "writer": "UgyS3FaLqV-xHXQyTU14AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연우 하영이 남매처럼 넘 이쁘네요. 하준이도 하연이한테 넘 좋은 오빠네요",
+        "writer": "UgzF8YtDDnpjbYgu-Fl4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무엇보다 아빠반응이 너무 좋아요",
+        "writer": "UgzpL-vK6xowchNyR2V4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "문제하연이랑하준이중에누굴더좋아하나요 1번하연이 2번하준이 3번둘다 밑댓글에적어주세요.",
+        "writer": "UgzbVEynrDlfp1aEgPF4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하연(이름) 넘넘귀여워요",
+        "writer": "UgxIutHGdcOYNZuHGbx4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하연아 훌륭한 오(비속어) 있어 행복하게어요 하연이 사랑쟁이야 해피한",
+        "writer": "UgwxFWj3x2CHky5NLIl4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언제봐도 하연이 넘 이뽀 이제 말문이 트이나봐요",
+        "writer": "UgxFeXKUAX3hSaTzf0p4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혀 내미는게 딱 강쥐 포메 같네.",
+        "writer": "UgxkVstBDmV74PESqjR4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하연이 우아 안녕 이라고 하네",
+        "writer": "UgwKTn6TpkOJKm_jxn14AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하연귀여워 오빠하고예쁘게놀아요",
+        "writer": "UgwnpbCD5tKwhcK20Ed4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하준이는 착하면서 잘생기기까지 하연이는 귀여우면사 뽀얗고 이쁘기까지유전자가 잘나눠졌넹",
+        "writer": "UgwM-u29JGRnvPwzzd14AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하연이 하준남매 넘 귀엽고 이뻐요",
+        "writer": "UgyPw-jbHK15x0TBZCF4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이구 귀여워라 남매가 어쩜 이리 귀엽고 이쁘노 매주 나왔으면 좋겠다",
+        "writer": "Ugy07QW1L82D-2OZuTx4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀엽고 참예쁘네요",
+        "writer": "Ugwtw6vFeTrshTWK3v14AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하윤이 진짜귀여워 하윤이가 그디어 말문이 터지는건가",
+        "writer": "UgwBEKS8A2K79kw8QiN4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이고 하영이 때문에 심장 녹는다",
+        "writer": "UgwDW4MMHQlWi670k0t4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "박(이름) 넘 행복해 보였어요 하영 하준이 있어요",
+        "writer": "UgzCVUTx9YaWQeSaOZh4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무똑똑하고 예쁘고.귀엽내요.",
+        "writer": "Ugz8wxKq5pacH17WTmB4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하준이 하연이 너무 귀여워요 하준이 동생 챙기는것도 너무 기특하네요",
+        "writer": "UgxY1F_miMoN31OjklZ4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안본사이 마니컷네 오구 겸댕이건강하게 자라거라",
+        "writer": "Ugy5QWrZg88m9yno0rF4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하준이 너무 예의 바르고 말도 이뿌게 하네요하연이도 이뿌고요",
+        "writer": "UgxdOuZci9iAYrpq7HR4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아우 진짜 너무 귀엽다 하연이 말 더 잘하면, 벌써 심장아파, 하준이는 넘나 천사야",
+        "writer": "UgxaQxaD-OJf2tO5yaZ4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "노래는 기쁨 안녕",
+        "writer": "Ugw6f1uWHnlDy4zpF114AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "볼때마다 너무 귀여워",
+        "writer": "UgxbLQnmc6JVvk-pvyl4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세상 젤 귀여운 아가들이네요. 이뿌게 잘 키우세요.",
+        "writer": "UgzNImXWbBQR5W8iaVh4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애들이 너무예쁘요 아들은 아빠 와 붕어빵 이네요",
+        "writer": "Ugy06EMFPXlAv1-KAd94AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하연이 넘 예쁘다",
+        "writer": "Ugxp8j3874NkH_6gzz14AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "똘망똘망 하연이 넘예뻐요 하준이도 넘 의젓하고 (이름)은 행복하시겠네요",
+        "writer": "UgxRZfjWFdSJdje28GR4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 귀엽짜나.",
+        "writer": "UgzsffQuIV3OKpLmZ8R4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애기들이 국화빵 예쁘네요 귀염귀염",
+        "writer": "UgxIvG0FYRD_cdmfnc14AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하연이 너무귀여워요 하준이는 똑똑하고 의젓하고",
+        "writer": "UgzmAogAXdBV2xAWMr54AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하연이 넘넘 예쁘고 귀여워요 하준이는 왜 이렇게 착한 오빠일까",
+        "writer": "UgwdZBLajAdzx1dBnFF4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)을 닮아 엄청 이쁘고 귀엽다",
+        "writer": "Ugy8AXtX0wG4qff7fah4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하연이 넘귀여워요, 오빤 왜그리 착하구,웃음이 절로,",
+        "writer": "UgymMq-LVDi23jKMk2x4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동굴동굴 하연이 귀염탱이",
+        "writer": "UgxgGoRIjtZ6Ow65qI54AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)도 좋아하는데 울 이쁘고 듬직한 마음고운 하준이랑. 또 넘 사랑스런 하연이 매일 보고 싶어요.",
+        "writer": "UgyioAiFxAjozjbzbqd4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하준이 진짜 심성무엇 아가가 너무 착해",
+        "writer": "Ugz8GI8P78U5m6ooSUN4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아구 귀여워",
+        "writer": "UgyNLtLVv8SlbtHfBCd4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "화연이 행동 하나 넘 귀요미 하준이가 오빠 역할을 진짜 잘 하는것 같애요 그리고 착한 오(비속어) 어디 있되요 짱 하연이 티비에 많이 나오면 좋겠어요 하준이와 하연이 땜시 힐링 합니다",
+        "writer": "Ugybd1So3RYqKH6reoV4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제2의 도하영(이름)",
+        "writer": "UgxEZyU4U4RkUdPeAqx4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하준아 하영아 너무귀여워서 죽겠다 하영아 너무예뻐 하준이 하영이때문에 본다단다 사랑해",
+        "writer": "Ugz0M5KfeWIyVkHICD54AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀여워 죽겠다",
+        "writer": "UgyQWOfRxX2HSMUbUdF4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하영이 귀요미 하준이도귀요미",
+        "writer": "UgzN2gDi_AjiuI7RxW54AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하준이 하연이 너무 예뻐요",
+        "writer": "Ugz0hQD_1YC-x0bfMVh4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하연이 귀여워 죽겠네",
+        "writer": "Ugww62fz475Bsvg5cmx4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "구여움 폭팔 이쁘라 아기들은 왜이리 귀엽고 예쁠까",
+        "writer": "UgwrsLiYm1PAfyxKdnJ4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하준이가 더 귀여워,",
+        "writer": "UgwLf849jPWeyUkNc4N4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하 녹는다.소중한 하준이 하연이",
+        "writer": "Ugxe3I9-HopzVRd6WvB4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예쁜 어린이들 뭐하니 (이름)(이름) 닮아서 아이들이 예쁩니다",
+        "writer": "UgzwrTS2I7n4n4iE5Jh4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하연아 잘했어",
+        "writer": "UgyyJbqzsuBHi57Fvfl4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하연이 진짜 천생여자아이 피부며 눈코입 다",
+        "writer": "Ugz1C-ngKAnfcQtMDYl4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 부분 넘 귀엽다",
+        "writer": "UgyIfOH-cnSJ6JypsUR4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "말하기 시작하니까 더 귀엽네요.",
+        "writer": "Ugym3stn89FhyfVlMkN4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하연이는 너무 너무 귀여워",
+        "writer": "UgzBuaMNJj_zBXYpPWR4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이모 심장 아포 우리 하연이 땜에 심장 아포",
+        "writer": "UgygsgBRTYC-aG7QYCB4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하준하연남매 내가 응원할끼하준이는 똑똑하고 하연이 이제말도 잘하네. 현빈아빠 화이팅하세요",
+        "writer": "Ugxi0x8eZyJWq3OVdzB4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무귀여워 갈까 까 . 제스쳐도 너무 귀여웤",
+        "writer": "Ugx_wrmGU8DAjUkUTY54AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 어떻게 저렇게 귀엽고 예쁘지",
+        "writer": "UgyU4z5Q5cJFZKbs_sd4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하연이 엄청 컸다 진짜아이고오",
+        "writer": "Ugza3jpVMdB7yOXB7dt4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아웅 인형이 드디어 말을 기여워 몇번을 보는지 의젓한 하준이 하연이는 좋겠다 오(비속어) 있어서",
+        "writer": "Ugw6QTWo6WQaG27mrKB4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하준이 너무 다정하고 하연이 넘 기엽다",
+        "writer": "UgzGvM4IXVmz8JN_3dV4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "볼때마다 하연이는 넘 귀여워서 놀라고 하준이는 넘 착해서 놀람",
+        "writer": "UgxHLPxugyhUDTP2ayF4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하연이가 제일 이뻐",
+        "writer": "Ugxu5z8W8h3Zm471oT94AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "옹알이 터지면 응 의 귀여움을 더는 못 느낄거라 생각했다, 나의 (이름)었구나, 세상 귀여움을 다시 한번 느끼네, 행복",
+        "writer": "UgxL_KVs9c2inOrzwEJ4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하연이 넘 이뻐서 커서 아이돌할 듯.",
+        "writer": "UgzKM9eph88Pkp1zFjt4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 하준이는 동생밖에 모르는 동생(비속어)임",
+        "writer": "UgxHLPxugyhUDTP2ayF4AaABAg.9PrOFvMx3EO9Q0xF3E-EKW",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕 (이름)",
+        "writer": "UgzGGfDbgwY5PeHdVQ14AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하연이 너무 너무 귀여워 정말",
+        "writer": "Ugwt1pEjg3NgKCMsIAR4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5opKbXDtCk4",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

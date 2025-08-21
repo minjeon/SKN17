@@ -1,0 +1,820 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001661203",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001661203"
+    },
+    "text": [
+      {
+        "content": "Deen G 주제가 왜 (이름)정도면 인데",
+        "writer": "Ugz-zzQIu6VSFYxLidN4AaABAg.93vC1EXWwTi94-SFCKtuU4",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 나이차 나는 연애한다고 토쏠리는 애들은 반대는 뭐라안하더라 (이름) (이름) 나이차랑 (이름)커플이랑 같은데 , 그드라마는 보면서 토 안쏠렸자나",
+        "writer": "Ugz-zzQIu6VSFYxLidN4AaABAg.93vC1EXWwTi941cki73Gj1",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Bum Heo 그쪽은 비주얼이 다르자나요",
+        "writer": "Ugz-zzQIu6VSFYxLidN4AaABAg.93vC1EXWwTi942z5OrC11_",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 드라마랑 같냐 생각 좀 그리고 솔직히 (반사회적용어)가 중요하지 돈 많아도 (비속어)이면 밥맛 떨어짐 일단 얼굴이 평타는 쳐야 호감이 가든 말든 할거아냐,",
+        "writer": "Ugz-zzQIu6VSFYxLidN4AaABAg.93vC1EXWwTi944ldxWUxJD",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선물은 선물대로 해주고 욕은 있는대로 다먹네",
+        "writer": "Ugz-zzQIu6VSFYxLidN4AaABAg.93vC1EXWwTi94mJt8zJOBR",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 불쌍",
+        "writer": "Ugz-zzQIu6VSFYxLidN4AaABAg.93vC1EXWwTi95Qh_0PmPAk",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "DiCaprio Leonardo 언제요 첨 들어보는 소린데요",
+        "writer": "Ugz-zzQIu6VSFYxLidN4AaABAg.93vC1EXWwTi99nVoKgZutU",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 개희철",
+        "writer": "Ugz-zzQIu6VSFYxLidN4AaABAg.93vC1EXWwTi9BNuup_On2q",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Bum Heo 양심이 있음 걸러서 비교해야지. (이름)이 어린여자애랑 사귄다고 몇이나 욕할것같냐 오히려 여자를 부러워하는데",
+        "writer": "Ugz-zzQIu6VSFYxLidN4AaABAg.93vC1EXWwTi9CYiBdWSj8u",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 야야, 너무 팩트로 때리지마라 순살되겠다",
+        "writer": "Ugz-zzQIu6VSFYxLidN4AaABAg.93vC1EXWwTi9EH5KpZoKIP",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "M ATCH 웬",
+        "writer": "Ugx7POJb47a_4ntTMpt4AaABAg.93tSnOgLUxJ93wFLruXDKa",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스포츠 브랜드에서 속옷도 나오니까요",
+        "writer": "Ugx7POJb47a_4ntTMpt4AaABAg.93tSnOgLUxJ93xW-0uTUjN",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남자는 속옷전문브랜드도 있지만 의류브랜드 스포츠브랜드에서 다 속옷도 만들어서 나누려면 수십개로 나눌 수도 있을듯함. 유명한 브랜드들 켈빈클라인 타미 게스 라코스테 폴로나 알마니도 가능하고 스포츠브랜드로 넘어가면 아디다스 퓨마 리복 나이키 휠라 등등등",
+        "writer": "Ugx7POJb47a_4ntTMpt4AaABAg.93tSnOgLUxJ947oXWGVifd",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한 네개 세다 말았는데 의외로 브랜드가 많네요",
+        "writer": "Ugx7POJb47a_4ntTMpt4AaABAg.93tSnOgLUxJ94EgEsNAAUM",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "SJ JN 여자 속옷도 많아요",
+        "writer": "Ugx7POJb47a_4ntTMpt4AaABAg.93tSnOgLUxJ94IRthluJkq",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "GoGo Zink 여자속옷도 의류 스포츠 브랜드에서 만드는데 설마 모르심",
+        "writer": "Ugx7POJb47a_4ntTMpt4AaABAg.93tSnOgLUxJ94XQ0iauHlL",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스포츠브랜드 의류브랜드에서 다만듬 군대가면 레전드이긴한데 속옷까지 다바뀌는",
+        "writer": "Ugx7POJb47a_4ntTMpt4AaABAg.93tSnOgLUxJ94tuJiYxS-p",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유하정 연생시절 포함이여",
+        "writer": "UgyhA2gCX3179pdfLyl4AaABAg.93stzcyPWVE93tUFtacf2d",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "zh lx 연생시절 포함하면 아이린은 11년차 슬기는 13년차 웬디는 9년차 조이는 8연차 예리는 11년차 이렇게 됩니당 각자 연생 기간이 달라서 그럼 이만 TMI 였습니당",
+        "writer": "UgyhA2gCX3179pdfLyl4AaABAg.93stzcyPWVE93vF9hro21e",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연차로하면 7년차이고 활동한거로 따지면 5년반 정도에요",
+        "writer": "UgyhA2gCX3179pdfLyl4AaABAg.93stzcyPWVE93vL3PEnJjP",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예리가 연습생시절이 그렇게 기나요 슬기가 제일 긴걸로 아는데",
+        "writer": "UgyhA2gCX3179pdfLyl4AaABAg.93stzcyPWVE93waa7_xqmu",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사람지나가는 슬기가 제일 긴걸로 표기했는데요 예리 초등학교 5학년 때부터 연습생활 시작했어요. 멤버들이 예리가 나이는 어려도 초등학교 5학년 때부터 연습생 생활을 시작해서 연습생 기간이 길어요 라고 언급한 적이 꽤나 많이 여러번 있습니다.",
+        "writer": "UgyhA2gCX3179pdfLyl4AaABAg.93stzcyPWVE93wazctnloa",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1313 13 그렇군요 .",
+        "writer": "UgyhA2gCX3179pdfLyl4AaABAg.93stzcyPWVE93wb7vV3NF6",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1313 13 제가 년차 계산할 줄을 잘 몰라서 한국식 나이 계산이랑 똑같은 건가요",
+        "writer": "UgyhA2gCX3179pdfLyl4AaABAg.93stzcyPWVE93wbCQlhlzB",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유하정 오늘부로 2000일 됐습니당..",
+        "writer": "UgyhA2gCX3179pdfLyl4AaABAg.93stzcyPWVE940RvHhoODt",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)들아 7년차라고 7주년이 아니라 올해 데뷔일인 8월달이 지나면 6주년이라 햇수로 7년차라고 부르는거라고요.",
+        "writer": "UgyhA2gCX3179pdfLyl4AaABAg.93stzcyPWVE943CADG8a02",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세월 참 빠르다 막냉이 새로 들어온다고 한지가 엊그제같은데",
+        "writer": "UgyhA2gCX3179pdfLyl4AaABAg.93stzcyPWVE948Nu7gmR7A",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 레드벨벳 처음 좋아했던 게 열다섯살이었데 벌써 스무살이네",
+        "writer": "UgyhA2gCX3179pdfLyl4AaABAg.93stzcyPWVE97JgC4zG2RI",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "빠르다 (반사회적용어)때 좋아한게 엊그제 같은데 벌써 고딩이네",
+        "writer": "UgyhA2gCX3179pdfLyl4AaABAg.93stzcyPWVE97mckJDHqxd",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개로미 연생 포함 아니예요,",
+        "writer": "UgyhA2gCX3179pdfLyl4AaABAg.93stzcyPWVE98-GOQTuxvx",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "레벨 처음 입덕한 게 초5였는데 지금 고2",
+        "writer": "UgyhA2gCX3179pdfLyl4AaABAg.93stzcyPWVE98RPetG4RN_",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "배추 데뷔팬인가요",
+        "writer": "UgyhA2gCX3179pdfLyl4AaABAg.93stzcyPWVE98RWM6XdeMS",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 초 4때부터 레벨팠는데 벌써 쫌있음 (혐오표현) ,",
+        "writer": "UgyhA2gCX3179pdfLyl4AaABAg.93stzcyPWVE98fINp7yT_a",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "놀라그래 넹",
+        "writer": "UgyhA2gCX3179pdfLyl4AaABAg.93stzcyPWVE98fIYQjyD_f",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연습생시절포함해서 연차계산하는게 어딨냐 대체 맞는말 아닌데 따봉많은거 보면 (이름)네",
+        "writer": "UgyhA2gCX3179pdfLyl4AaABAg.93stzcyPWVE9DDIZnpwett",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "실상 당시 6년도안됨",
+        "writer": "UgyhA2gCX3179pdfLyl4AaABAg.93stzcyPWVE9FeeDB711_O",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벼라랑 맞음",
+        "writer": "UgyhA2gCX3179pdfLyl4AaABAg.93stzcyPWVE9KDMVhlV1lW",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "설마 옷을 누가 들고가는건 아니겠지 그런일은 없었으면 좋겠다",
+        "writer": "Ugzf8SaPVOVSF7qvfYR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수영언니 귀여워요 근데 숙소 규율 생각보다 엄격하네요 그래도 레드벨벳 멤버들끼리 서로 존중해주는 모습에 보기 좋아요",
+        "writer": "UgzKwbN1CA-Wyyw9_jR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "레드벨벳 숙소 규율 궁금하다",
+        "writer": "UgzijmIPR-bQnjUvHSF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둘다 비주얼 쩐다",
+        "writer": "Ugyyv_hVCTRABZZyurl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "막냇동생 자막오타 나셨어용",
+        "writer": "UgwnB6v6evrf5QS_CRN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소문은 소문일뿐 사실이아닐수도있어요 글은 수정으로 바꾸겠습니다 다시는 (이름)처럼 그런일이 안일어나면 좋겠네요.",
+        "writer": "UgylF1tY4l0qEcau-EF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 집에서도 옷이나 양말 속옷 이런거 꼭 없어지지않나요 그래서 전 저 말에 너무 공감되던데, 그래서 지금 짝 없는 양말만 산더미로 쌓여있어요 저희집에, 진심 미스테리",
+        "writer": "Ugzf8SaPVOVSF7qvfYR4AaABAg.93slB_ffaT893teCWF0zEa",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누가 들고간건 맞죠 갑자기 증발할일도 없는거고 근데 일부러 가져간게아니라 모르고 가져갔을거임",
+        "writer": "Ugzf8SaPVOVSF7qvfYR4AaABAg.93slB_ffaT893tffPU8lVa",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그런가요 저는 집에서 물건이 없어진적이 없어서요,",
+        "writer": "Ugzf8SaPVOVSF7qvfYR4AaABAg.93slB_ffaT893tsXk9Jbd5",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여아이돌이고 그러니 아마 일반 사람들보다 평균적으로 옷도 많을 거고 안 그래도 비슷한 옷들이 많으니 멤버들도 자기 건 줄 알고 들고 가는 게 맞겠조, 근데 일부러 그런 건 아니니 어쩔 수 없음 ,",
+        "writer": "Ugzf8SaPVOVSF7qvfYR4AaABAg.93slB_ffaT893ulpKjAxjC",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니면 빨래바구니에 넣어뒀는데 다른 곳에 빠지거나 박혀있거나",
+        "writer": "Ugzf8SaPVOVSF7qvfYR4AaABAg.93slB_ffaT893vFO_-qpmu",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 집에서 양말한쪽이 계속없어짐,",
+        "writer": "Ugzf8SaPVOVSF7qvfYR4AaABAg.93slB_ffaT893vMQlsVtKp",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "분명 빨래돌릴땐있더니",
+        "writer": "Ugzf8SaPVOVSF7qvfYR4AaABAg.93slB_ffaT893vUcY6C7pA",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "옷 엄청 많아서 (이름)기도 힘들듯",
+        "writer": "Ugzf8SaPVOVSF7qvfYR4AaABAg.93slB_ffaT893vlEBz18Mw",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "낮말은 새가듣고반말을 하지마 팬이 레벨 숙소에 침입해서 가져간다구요 말이되는 소릴해야죠",
+        "writer": "Ugzf8SaPVOVSF7qvfYR4AaABAg.93slB_ffaT893yMrUG8Vp1",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "낮말은 새가듣고반말을 하지마 숙소근처에서 어슬렁거릴순 있어도 집에 어떻게 침입해요",
+        "writer": "Ugzf8SaPVOVSF7qvfYR4AaABAg.93slB_ffaT893zdik0FiqV",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "낮말은 새가듣고반말을 하지마 소설쓰지마셈",
+        "writer": "Ugzf8SaPVOVSF7qvfYR4AaABAg.93slB_ffaT893zoT7td7yD",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "팬들이 숙소 들어가던 시대면 무슨 1세대 아이돌 팬이셨나요즘은 숙소도 외부 보안부터 엄청 철저한 곳으로 정해줌",
+        "writer": "Ugzf8SaPVOVSF7qvfYR4AaABAg.93slB_ffaT894-7k5ifqJD",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "레드벨벳 수입 궁금하다",
+        "writer": "UgzijmIPR-bQnjUvHSF4AaABAg.93qXxcgbcwM93v1M686roI",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "레드벨벳 남친 궁금하다",
+        "writer": "UgzijmIPR-bQnjUvHSF4AaABAg.93qXxcgbcwM93wHHOUy3hC",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내일 뭐 먹을지 궁금하다",
+        "writer": "UgzijmIPR-bQnjUvHSF4AaABAg.93qXxcgbcwM93wULRj2MR9",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예콩이 니 여친 궁금, 아 없지",
+        "writer": "UgzijmIPR-bQnjUvHSF4AaABAg.93qXxcgbcwM93xIY3neRXJ",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바코 근데 솔직히 이거 진짜 궁금 저 정도 급이면 얼마나 벌까",
+        "writer": "UgzijmIPR-bQnjUvHSF4AaABAg.93qXxcgbcwM93xZZUe-IHA",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이즈원 발닦개 지망생 레드벨벳은 각각 1020억 정도 있을듯 딴 그룹들에 비해서는 앨범이 많이 안팔려서",
+        "writer": "UgzijmIPR-bQnjUvHSF4AaABAg.93qXxcgbcwM93yDYyK9YVx",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "shimmy shimmy 엥 에펙이 20억 넘게 벌었다는데 레벨은 아레나투어도 많이하고 개인광고도 하고 앨범도 이때까지 150만장 정도로 많이팔았는데 30억쯤 벌었을듯",
+        "writer": "UgzijmIPR-bQnjUvHSF4AaABAg.93qXxcgbcwM93yGVI-xdVA",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Djdjd Djdj 아아 그럼 그게 맞을듯 블핑은 510억쯤 트와는 6070억쯤",
+        "writer": "UgzijmIPR-bQnjUvHSF4AaABAg.93qXxcgbcwM93yLUdlp9U9",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "shimmy shimmy 트와도 그정도까진 아닐듯, 멤버수가 많아서 50억쯤 블핑은 15억쯤 근데 뭐 추측은 추측일뿐 모르죠",
+        "writer": "UgzijmIPR-bQnjUvHSF4AaABAg.93qXxcgbcwM93yMo6Cga7G",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "율소 엔터테이너쪽 사업은 진짜 얼마나 버는지 아무도 예측불가한게 소속사 마다 가져가는 퍼센트가 다르고 멤버별로 차등을 두고 분배하는 곳도 있음. 개인cf를 멤버들과 나누냐 안나누냐도 다르고 콘서트 수익도 평소 음반 수익과 다르게 분배하고,어디서 누가 얼마를 얘기하든 다 정확하지 않음 걍 다 (비속어) 전문가",
+        "writer": "UgzijmIPR-bQnjUvHSF4AaABAg.93qXxcgbcwM93yTiGsWPPd",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "블핑 해외에서 엄청가져오는데 레벨급은 벌겠지",
+        "writer": "UgzijmIPR-bQnjUvHSF4AaABAg.93qXxcgbcwM93ydzLVzK19",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에셈 처음에는 정산 이렇게 하고 재계약 하면 인가 콘서트가 이 쯤이였던 거 같은데",
+        "writer": "UgzijmIPR-bQnjUvHSF4AaABAg.93qXxcgbcwM93z1sllCoMi",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "레드벨벳 3세대 음반 총판매량 트와이스 다음임 매번 신작 나올 때마다 전 앨범도 꾸준히 잘 나가는 편 음반 잘 팔아요외국 멤버도 없고 한국인 멤버만 다섯인데 대단한거",
+        "writer": "UgzijmIPR-bQnjUvHSF4AaABAg.93qXxcgbcwM94-7S26TrIU",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Djdjd Djdj 근데 그것도 단순 벌어오는돈이지 회사랑 스탭 스타일리스트 등등 n분의1하면 얼마 안나올걸요 웬디가 알비비때 얼른 돈 많이벌고 집사서 (이름) 한국모시고싶은데 아직도 (비속어)고 함",
+        "writer": "UgzijmIPR-bQnjUvHSF4AaABAg.93qXxcgbcwM94-mNlrlI4M",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "shimmy shimmy 은근슬쩍 까지마라",
+        "writer": "UgzijmIPR-bQnjUvHSF4AaABAg.93qXxcgbcwM941ZVJz3f5g",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언제였지 17년도인가 (비속어)도에 수영이가 동생 대학은 쉽게 보내줄 정도로 벌었다고 그랬음",
+        "writer": "UgzijmIPR-bQnjUvHSF4AaABAg.93qXxcgbcwM9432tyMIsP7",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "브이브이 한국인 멤버만 있으면 뮤비조회수도 1억넘기기도 힘든듯",
+        "writer": "UgzijmIPR-bQnjUvHSF4AaABAg.93qXxcgbcwM945g32G1IiO",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "time waste 블핑이 유투브로만 가져가는게 엄청 날텐데 명품 협찬에 콘서트에, 물론 트와도 투어랑 유투브 큰건 당연하고 둘 그룹 다 몇십억은 벌거같아요 블핑 여돌 초동 2위, 1위 트와 2위 블핑 3위 아이즈원",
+        "writer": "UgzijmIPR-bQnjUvHSF4AaABAg.93qXxcgbcwM94DpizMCslm",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "shimmy shimmy 뭔소리임 짐살라빔 때만 최소 96억 벌었다는대 성적 더 좋은 다른 앨범에서는 더 벌고도 남았겠구만 해투 도는 비용도 생각하면 10억은 훨씬 넘고도 남음",
+        "writer": "UgzijmIPR-bQnjUvHSF4AaABAg.93qXxcgbcwM94XMq-RL-2I",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "shimmy shimmy 그냥 궁금해서 그런데 왜 갑자기 블핑이랑 트와 얘기가 나오나요",
+        "writer": "UgzijmIPR-bQnjUvHSF4AaABAg.93qXxcgbcwM94XpoZJQeL3",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시밍 제가 오지랖이 넓어서 비교한번 해본건데요",
+        "writer": "UgzijmIPR-bQnjUvHSF4AaABAg.93qXxcgbcwM94XrkeR79fO",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "프사 슬기 양갈래 너무 귀엽다처피뱅,",
+        "writer": "UgzijmIPR-bQnjUvHSF4AaABAg.93qXxcgbcwM94mdMZIIWwP",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞죠 제가 이 사진 진짜 좋아해요 알아봐 주시는 러비분 있어서 너무 좋네요 진짜 진짜 행덕하세요",
+        "writer": "UgzijmIPR-bQnjUvHSF4AaABAg.93qXxcgbcwM94mdhUmd5b0",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "shimmy shimmy 블핑이 제일 많이 벌지 지금 한국 인스타 팔로워 순위만 해도 14위가 블핑인데",
+        "writer": "UgzijmIPR-bQnjUvHSF4AaABAg.93qXxcgbcwM94vxpgluMRG",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "음반이랑 음원은 아이돌들한텐 돈 비중 거의없음",
+        "writer": "UgzijmIPR-bQnjUvHSF4AaABAg.93qXxcgbcwM94waiK18WMs",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "레벨이 20억 블핑이 10억 무슨 배로 벌지레벨같은 경우엔 개개인 인기가 많아서 멤버들 개인광고도 많이 찍었는데 조이 여태까지 고정예능도 많이했고 아이린 광고 몇개 찍었는지 알고 말하나, 그 외에도 레벨은 걸그룹중에 오스트도 제일많이 불렀고, 애들 곧 솔로활동하면 음원도 잘나올거고 예리 저작권료도 꾸준히 들어올거고 몇십업은 기본으로 가지고있지 그리고 인스타팔로워수랑 수입이 무슨상관, 작년에 스엠이 레벨엔시티 해외투어 쫙돌려서 그때만 엄청 벌어왔을걸",
+        "writer": "UgzijmIPR-bQnjUvHSF4AaABAg.93qXxcgbcwM95QEPoxqrEy",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그리고 무슨 에펙이 이십억 구체적으로 공개한적 한번도 없는데 무슨 진짜인 것처럼 지껄여 레벨은 개인수입도 많고 블핑이나 레벨 다 인원수 때문에 똑같이 일해도 트와보단 많이 버니까 다 비스무리하겠지 다들 돈많이벌어 아는척좀하지마",
+        "writer": "UgzijmIPR-bQnjUvHSF4AaABAg.93qXxcgbcwM95QEc8Of_nA",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가널이끄는론리깔깔맨 (비속어)이네 (비속어)해",
+        "writer": "UgzijmIPR-bQnjUvHSF4AaABAg.93qXxcgbcwM95kHLj2X00F",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "회사에서 정산 비율에 따라 다르기도 하지만 멤버 머릿 수에 따라서도 갈릴듯, 아무래도 다들 n분의 1 하는 편이라 이왕이면 멤버 수 적은 곳이 더 유리할듯",
+        "writer": "UgzijmIPR-bQnjUvHSF4AaABAg.93qXxcgbcwM96ILaW6jTlb",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 왜저래 으더러워",
+        "writer": "UgzijmIPR-bQnjUvHSF4AaABAg.93qXxcgbcwM97wLGMhFYdq",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리가 이거 쓸 시간에 레드벨벳 지갑에는 돈 들어온다",
+        "writer": "UgzijmIPR-bQnjUvHSF4AaABAg.93qXxcgbcwM9DL1yma6m_u",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저니 그니까요 아각",
+        "writer": "Ugyyv_hVCTRABZZyurl4AaABAg.93pxoYKw3Ca93xtoGsoCqY",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상보는 3분동안 두분이서 웹드찍는거 상상해버렷자넝벌써달달",
+        "writer": "Ugyyv_hVCTRABZZyurl4AaABAg.93pxoYKw3Ca93zSlQBxq-b",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "막냇동생 맞습니다.",
+        "writer": "UgwnB6v6evrf5QS_CRN4AaABAg.93n7RKrhOHh93o6BpGfngt",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "푸른김 왜요",
+        "writer": "UgylF1tY4l0qEcau-EF4AaABAg.93m0a5b-5Hi93pZ4V0sOF2",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무슨 소문이요",
+        "writer": "UgylF1tY4l0qEcau-EF4AaABAg.93m0a5b-5Hi93q1xj4CN2Z",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어휴 설리 구하라 어쩌고 할 때는 언제고 또 유언비어를 아무렇지 않게 퍼트려. 남들이 하면 악플이고 니가 커뮤니티에서 본 글은 진퉁 선플이냐",
+        "writer": "UgylF1tY4l0qEcau-EF4AaABAg.93m0a5b-5Hi93rMy-t_VWW",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": ", 예능이라 웃길려는 썰이기엔 한두개가 아님",
+        "writer": "UgylF1tY4l0qEcau-EF4AaABAg.93m0a5b-5Hi93rVMlWeaR2",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남자 후배들한테 찝적대는 거야말로 안 좋은 소문이지",
+        "writer": "UgylF1tY4l0qEcau-EF4AaABAg.93m0a5b-5Hi93sBRK5-KY8",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "님같은 사람때매, 할많하않,",
+        "writer": "UgylF1tY4l0qEcau-EF4AaABAg.93m0a5b-5Hi93sXJRWT0sH",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 문남이랑 크라임씬2 게스트로 나왔던 유튜브 영상보면 댓글 가관임, 영상도 눈쌀 찌푸리게되고,",
+        "writer": "UgylF1tY4l0qEcau-EF4AaABAg.93m0a5b-5Hi93sXLGJczqe",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김또깡 미안한데 유언비어가 아니고 사실이에요,",
+        "writer": "UgylF1tY4l0qEcau-EF4AaABAg.93m0a5b-5Hi93twIwFaZMr",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 본인이 그 소문을 이야기 안하고 저런식으로 말 하는건 뭔 심보냐",
+        "writer": "UgylF1tY4l0qEcau-EF4AaABAg.93m0a5b-5Hi93u92UnN8HO",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 예능엔 컨셉이란게 있잖아 (이름)는 그럼 (비속어)냐",
+        "writer": "UgylF1tY4l0qEcau-EF4AaABAg.93m0a5b-5Hi93uwQSyi32w",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정신 못차리지",
+        "writer": "UgylF1tY4l0qEcau-EF4AaABAg.93m0a5b-5Hi93v5FhjB3lx",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "템포루바토 유튜브 잘(이름) 답을 이제봤네요 생각이짧았네요 (이름) 사건생각하몀 더욱 이런일이 있으면 안되죠 글은 내리겠습니다.",
+        "writer": "UgylF1tY4l0qEcau-EF4AaABAg.93m0a5b-5Hi93v6FSDD4ZD",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nVSv_mi3MTI",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

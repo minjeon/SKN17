@@ -1,0 +1,236 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001659750",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001659750"
+    },
+    "text": [
+      {
+        "content": "한서 은호 조카 너무너무 깜찍하고 귀여워요",
+        "writer": "UgyJx4SqOOaVLPt2NDV4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ibxDahgJJ0s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한서야 노래 잘부른다 누나 사랑한다",
+        "writer": "UgyZRYn4YtekPAzCCgp4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ibxDahgJJ0s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 연상의 여인을 좋아하는 바람둥이 은호 헐 그렇게 안봤는디 .",
+        "writer": "UgyLRe2f-SmMrSP4D6V4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ibxDahgJJ0s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리천사 (이름) 조카들이 귀엽네요 사랑합니다",
+        "writer": "UgwXA4_R2Ym2ZQh5h2B4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ibxDahgJJ0s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한서 은호는 너무 영리해요 예뻐 죽겠어요",
+        "writer": "Ugx8-dj9j9WKbo4TOkN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ibxDahgJJ0s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 귀엽네요 웃겨요",
+        "writer": "Ugy2wZ0LLwC2D8RI6yF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ibxDahgJJ0s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "띱따층 누나 넘귀여워서 우짤까",
+        "writer": "UgzA7Muq7mM-nu9sosh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ibxDahgJJ0s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아오 넘 재미지다.",
+        "writer": "UgxSCO52hQ4rQj0jDyB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ibxDahgJJ0s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조카들 넘 사랑스럽다",
+        "writer": "UgyWCctWBQiEotCOdJF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ibxDahgJJ0s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "응원해요 송블리",
+        "writer": "Ugy3q2bryffofG_vpJJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ibxDahgJJ0s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "송블리 조카들 귀여워요",
+        "writer": "Ugx0al-wLbBXIifgPh54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ibxDahgJJ0s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)조카들 정말귀여워라",
+        "writer": "UgwG6EeZ5pHVSuUNs5B4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ibxDahgJJ0s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "은서 은호 넘 귀여워요 역시 (이름) 조카들 이어라",
+        "writer": "UgyhsB25TZXPuTuQBGJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ibxDahgJJ0s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘한다 조카들과 (이름) 응원합니다",
+        "writer": "UgzZTsBNz-6YRXzgjQB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ibxDahgJJ0s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "똑똑한 (이름)들.. 가인씨 조카사랑이 꿀 뚝뚝 천진난만한 밝게자란 조카 넘 귀염..",
+        "writer": "UgxG2fvB2egFOoVb2RZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ibxDahgJJ0s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀여워 귀여워",
+        "writer": "UgwsM3vuCHu3IGI9JfZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ibxDahgJJ0s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "송블리 조카분들 넘귀여워요 대(이름) 최고의가수 (이름) 최고이어라",
+        "writer": "UgxWOKzBzm_CjE37VLd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ibxDahgJJ0s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 울(이름) 맘 잘알지 나도 완전 조카 (비속어)거든 은호 한서 어쩜 저리 귀엽냐 그러니 (이름)고모 눈에는 얼마나 이쁠까나 고모가 (이름) 이라서 좋겠다",
+        "writer": "UgwowZf6SBAuCS2PL_14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ibxDahgJJ0s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조카들 귀여워라. 첫째는 엄마 닮고 둘째는 아빠 판막이네 아이들이 피는 못속인다고 끼들이 많아요.",
+        "writer": "UgxQsRT-fji78-YPkg14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ibxDahgJJ0s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "은호 너무 귀여워",
+        "writer": "UgwDG2Rmi6Wou78g6fd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ibxDahgJJ0s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한서와은호 넘 귀여워요.. 슈퍼맨이 돌아왔다 (이름)과 은호 한서 고정 출연하면 시청률 대(이름)라 봅니다...",
+        "writer": "Ugyx0YHJudsC5De9LVh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ibxDahgJJ0s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조카(비속어) (이름)씨 행복해 하는 모습에 덩달아 입가에 미소가 번집니다 귀요미 한서 은서네요",
+        "writer": "Ugzn44Zk6ognLye7xmN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ibxDahgJJ0s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "불리불리 (이름) 최고 가수 천사 팔색조 파이팅 응원합니다 대박 나세요 사랑합니다",
+        "writer": "Ugy6_LZPtEAs-hY2ij54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ibxDahgJJ0s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넘넘 귀엽고 똑똑한 은호야 한서야 사랑해",
+        "writer": "Ugwgk1D-fhNb2IokWY14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ibxDahgJJ0s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 조카들 너무 귀엽고 똑똑해요 슈돌 고정으로 나왔으면 좋겠어요",
+        "writer": "UgxUUWnfBtdSd83TmwF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ibxDahgJJ0s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)가족 조아",
+        "writer": "Ugx9uteutWRP94icmpF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ibxDahgJJ0s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 보험광고 외안들어오지 은서랑 (이름) (이름)이랑 셋이 보험광고 하나 찍으세요 보험사들 너무 세상돌아가는 것을 모루는걸까",
+        "writer": "Ugx1PjcQGFb00TXg9Rt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ibxDahgJJ0s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "똑똑하고 귀여운 조카들 한서 은호 가인 고모 닮아 넘 사랑스러워요,",
+        "writer": "UgwzlAJHzhetT40gEsR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ibxDahgJJ0s",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

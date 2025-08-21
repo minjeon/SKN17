@@ -1,0 +1,476 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001661873",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001661873"
+    },
+    "text": [
+      {
+        "content": "아들며느리 손녀딸과 행복하게 사세요 나이들어서 남자 수발들일 뭐하러하나요",
+        "writer": "Ugwry4kCw3pd3fdHLyB4AaABAg",
+        "write_date": "2021-11-09",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)는 한마디로 푼수임. 말도 때와 장소 상황을 봐가면서 하는거임.",
+        "writer": "UgxPUAlRFr3ulWivGJp4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "젊어서여유있으면쓰면서살아야죠 얼마나 산다고 늙어서 백억이면뮈해요 쓰면서30억이면되죠",
+        "writer": "UgycRTqwFJgne24_KfV4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니, 아끼는 것도 좋고 부자도 좋은데 어떻게 빈손으로 오냐 이해가 안되네 잘먹고 일장연설,참,",
+        "writer": "Ugyhx5nYEp9S0Vu1xVl4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 진짜 진상이다 잘먹고 뭔소리야 방송 끝나고 말하든지 역시 (이름)가 (이름)하네 집에 가면 또 며느리한테 (이름) 얘기 하겠네 으휴",
+        "writer": "UgytVQ-XmIzKe12I_5F4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지독하고 궁상떨고 돈만있다고 다가아니야 사람답게살아야지 (이름)는 보기에도 순수하고 착해보이잔아 남은여생 행복하게살면되 이래도한세상 저래도한세상이래",
+        "writer": "UgwLafZMLQNje14XPQ14AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)는60대고 (이름)씨는80대인데 원주씨가 피부가 화색이있고 더젊었네 지독하고 할말다하고살고 나이보다건강하긴해",
+        "writer": "UgzKhaSwHY_p47lnHB94AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 선생님 교훈이 정말 찐말씀입니다 선생님 손님으로 오셨으니 찐으로 차(반사회적용어)거에요 또 그게 원(이름)에 대한 예의라고 생각하셨을거에요 참 좋은 모습이에요 그래도 (반사회적용어)엄마의 참 모습도 좋으세요 두분 모두 사랑합니다",
+        "writer": "Ugw2d2XXuMnbhuGmch14AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)씨 돈에부자는될지언정 마음은 가난한 사람이네요정성들여 대접한 음식다먹고는 (반사회적용어)(이름)요 수고했다 잘먹었다 인사하고 돈이부자면 (반사회적용어)어머니 용돈이(반사회적용어) 주시면서훈훈하게 마무리(반사회적용어) 하시지 돈자랑하러 온것도아니고 인생의 황혼에 서서 본받을만한것이 못되네요사는모습이 다다른것이 틀린것이 아니람니다 다른것을 인(이름)고 존중해 줄때 평화가오는 거랍니다 돈을아무리 쌓아 놓았다 한들 임종의때에 무슨의미가 있나요 적당히 주위를 둘러보시면서 지혜롭게사세요",
+        "writer": "Ugx1noTTAXaUOFTvEzB4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)씨 기부는 하시는분인가",
+        "writer": "UgzChP13dPuzjEOSNIt4AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대화를 할 때 상대방을 배려하는 마음이 있어야 하고 알뜰도 적당히 때와 장소를 가려야되는데, 대접을 받은 곳에 , 이런 말은 쫌",
+        "writer": "Ugy4NRED2qz3OVmYfJV4AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "빈손으로 와서 음식 대접하는 주인에 대한 예의가 없네요. 나이 먹어도 제대로 먹어야 하는데.",
+        "writer": "UgyTG4xXrQNaVfymt-Z4AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 할머니는며느리한테 잘해주세요, 여기서 말많이하지말고,",
+        "writer": "UgyNtPB3mme1sNRfc814AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자기돈아깝지않은사람어딨누 대접받으러갔음대접만받아야지 예의가없군",
+        "writer": "UgzQVm1cXayQcw_Nt3x4AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 (이름) 너무 싫다 더 심한 말이 나오지만 참.",
+        "writer": "UgzMDJsZ4VizFOew2J54AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "손님 대접차 차린 밥상 앞에서, (이름) 쩐내 얘기 예의가 아님,",
+        "writer": "UgxXt9rE9MlWUcPfaHF4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "식사 대접 받으며 짠내 얘기 넘 싫으,",
+        "writer": "Ugyrrc_XFO9tGhpdx494AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭣하러초대해서 훈게질이세요 참나 돈이나 내고가시지 돈많타면서 아픔몸으로해주니",
+        "writer": "UgyHXmh8hbiP2SH5l2p4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대접한다고 그랬죠. 잘 드시는데고맙게 잘 먹었다고 인사하는게 예의입니다. 돈이 있는데그렇게 얘기 하는것도 예의는 아닌듯돈을 모을줄만 알았지 기본적 매너를 모르시는분 그렇게 근검절약 하는건 배울점은 되지만그렇게 모으셔서여우같은 며느리 좋은일만 (반사회적용어)십니다 대접 못 받으면 뒤돌아서서 뒷담화 하실분이",
+        "writer": "UgzT90CD70_XArKnMHd4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대접받는 자리에서 차린사람 무안하게 일장 연설을 하시네, . 지갑은 열고 입은 닫아야 한다시면서",
+        "writer": "UgxHmYbZejQu0cNiS8d4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어) 어머님집안 살람 하느라 고생많으세요 나같음 업고 다니시겠네건강 하세요",
+        "writer": "UgxBjUHmgaCJ9P7DJH54AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 프로그램에서 부르는 (이름) 다 그 억척스런 절약 때문에 부르는거니, 본분에 충실하신거죠,",
+        "writer": "UgywkvRHPcGw-7jAPZl4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "알뜰한 것도 좋지만 아이고 성의에 대한 예의는 아닌듯요.",
+        "writer": "UgwGpq-ikV0XoSi5_Mx4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저렇게 많이 준비 하실 필요가 있을까요 요즘 누가 그렇게 많이 먹는다고",
+        "writer": "UgzeCcxMup05V6q-TUN4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)선생님 정말 알뜰하시지요 언젠가 (반사회적용어) 공연 가실 때 크루즈 여행 중 배안 카페에서 같이 차 마시고 맥주 마시는데 우리가 같고간 안주가 남았는데 음식 버리면 죄 라면서 내일아침 드시겠다고 챙기시는것보고 참 알뜰 하시구나 생각했어요",
+        "writer": "UgxkIPLwHnXe8-2Irn94AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어) 어머님이 현명한듯, 누리면서도 살아야됨. 궁상이 답은 아닐듯",
+        "writer": "UgydCNuxUK0t_3AuyTx4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이제 봤지만 (이름)씨 진짜 에이 예의가 아니네 남으면 그집도 이따가 잡솨야죠 어쩌다 잼나게 쓰려고 열심히들 사는건데 돈돈돈 징징징 이제 식상해요",
+        "writer": "UgzvnMzOrznLV-dk6oB4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애껴서 관속에 같이 가져가는것도아니고 세상에 왔다가 잘쓰고가는게 돈",
+        "writer": "Ugw9-98mFouqqoKZHdp4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 왜저래 진상. 왜 죽을때 가지고가지",
+        "writer": "UgwusVbRrlsdXU2kEyd4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사람마다 상황이 다를텐데 자기상황만 이야기하네. 할 말이 돈 밖에 없음 돈벌고 모으는 사람 있고 그 돈을 쓰고 누리는 사람 따로 있는거 모르시나. 그러니 이제 쓰고 사셔요.",
+        "writer": "UgypXIYiTrXzlbBQ4sB4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "먼 저런 눈치없는 늙은이 다있노 노망 났나부다 주책덜고 잡빠졌네 좀 사람답게 먼저 살고 남한테 조언하세요",
+        "writer": "Ugyi9yXsxTWdYy7YbK14AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "절약이 몸에 베어서 잘 못쓰시는거 같아요. 쓰는게 몸에 베이신 분들은 저축 못해요. 돈들어오면 쓰기바빠요",
+        "writer": "Ugz8EOsKdxRj-kzmngh4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "돈지퍼좀 여세요 (이름)",
+        "writer": "UgxuQQtn8sBQjldVDzF4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연예인으로 벌어 저축한 이야기를 남편없이 살림하는 어멎니한테 저런소리하는 (이름) 소리에 내가 다 민망해지네 (반사회적용어)어머니도 그동안 아끼며 지금껏 살아왔을텐데 자기만의 철학이 다 옳은듯 죽을때 빈손으로 가는 철학도 아셨으면 아끼다 똥된다는말 들어봤는지요",
+        "writer": "UgzZhhCgPs39cyinLsB4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)씬 넘궁상뜨는게보기싫다 돈을벌어슴쓸줄도알아야지 넘구두쇠다",
+        "writer": "UgzzsXC5OlY1ZUyXrq94AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)씨 입지퍼난닫고 돈지퍼는 열어야한다 하시면서 입지퍼만(반사회적용어)고 돈지퍼는안(반사회적용어)네여 잘먹엇다 용돈도줄만한데,",
+        "writer": "UgwmPUSBI4h5SK6KM-Z4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "원주야 이런애기 떠들고다니지말고 그냥 있어 지겨워 이런것은 올리지말지누가본다고",
+        "writer": "UgyabA6Ytj9bJhEC-mh4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그러게 말이에요. 돈 아껴라 하는말을 저런자리에서 할건 아니죠.",
+        "writer": "UgxHmYbZejQu0cNiS8d4AaABAg.9TLFPrVVpfW9UBnS_a2bln",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요걸보고 주책 에궁 고생해서 음식 준비한사람한테 훈계 보기불편해",
+        "writer": "UgxjwBqXdkBQAu43VyV4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래도 (반사회적용어) (이름)이 좋아요.",
+        "writer": "UgyQpxKyqcFQinBrXb94AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)선생님말씀도 좋은 뜻이세요 그리고 가정에서 전업주부로 손녀까지 돌보시며 여기까지 오신 (반사회적용어)어머님. 그리고 (반사회적용어)선생님 저는 정말 존경하고. 또 그 노고가 그어떤 값어치보다 귀하다고 생각해요. 자녀분께서 잘 챙겨드리실꺼라 믿습니다 참 보기좋은 가정.을 만들어가시는 (반사회적용어) 선생님.",
+        "writer": "UgwxosvdrP5Xzu4GZ8Z4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 선생님 돈을 왜 모으십니까 돈을 아끼고 아껴서 모으시는 건 이해가 가는데 계속 모으시는 건 아니라고 봐요. 모으셨으면 쓰시기도 하셔야지 연세도 있으신데 계속 모으시는 건 아니라고 봅니다. 한마디로 궁상스러워요. 어려운 이웃도 좀 도우시고 소비도 좀 하셔야 나라 경제도 돌아갑니다. (이름) 선생님 같은분은 전혀 도움이 안돼요. 그리고 남의 집에 오셔서 식사하시면서 (반사회적용어) 하시는거 아주 보기 흉합니다. 음식에 무슨 재료를 넣든 그걸 왜 (반사회적용어)을 하세요 그런 마인드로 방송에 나오시면 시청자들에 대한 예의가 아니죠. 좀 더 격이 있는 모습을 보여주세요. 인상 찌프려집니다. 설정이 예약된 프로인진 몰(반사회적용어) 너무 상식이하에요.",
+        "writer": "UgwYL4EWHwFnY6rZh0N4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이제 좀 쓰시다 가세요",
+        "writer": "UgyseKwgMJGnsLsTRoV4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 왜(이름)씨는 노년에 이렇게 궁상을 떨고사셔요 죽고나면 말짱도루묵인데요 제발짠순이짓 그만하고 화장 실 불좀 켜고사세요 남 한테가서 짠순이 가르치지 말고 사는동안좀 베푸시고서시길",
+        "writer": "UgwLHktUX9lzjfXiFhN4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수의에는 주머니가 없다는데 왜그리 짠순이로 사십니까 (이름) 어르신",
+        "writer": "UgxNoCN87RRwJ769Vn14AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)씨는 정말 예의라고는 없으신분 저 음식마련하려면 장보고 음식만들고 얼마나 힘드셨을텐데 해준 보람도 없이 며느리있는데서 (반사회적용어)이몬테 (반사회적용어)은 정말싫어 티브이도 전 저분나옴 채널돌리네요 말조심 안하고 남에게 무안주고 상처주고 에휴 맘에 안들어요",
+        "writer": "Ugyv3sHdKIfUkd6-81F4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 (이름)선생님 말씀맞음 돈은 쓰는게중요 사실 (이름)선생님은 좀심하긴하지만 꼭 필요한건만 쓰고 쌈지돈을 만들어야한다 그래야 할머니로써 손주들에게 사랑받고 카리스마있는 할머니가 된다",
+        "writer": "UgyfGwHW9wT94wWAWih4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 나오는면 장면은 잔짜로 싫어 저렇게 살고 싶을까",
+        "writer": "Ugx7hvrWltKyo9f6udB4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "원주 할매 오신게 영광이 아니고요. 원주 할매가 (반사회적용어) 어머님 만나신게 영광 인거 같은데요 . 실컷 고단하게 상차림 하신 것에 이러쿵 저러쿵, 씁쓸 합니다. 원주 할매 궁상 스러워요. 아끼는 것도 좋지만 볼때 마다 짜증이 앞서요.",
+        "writer": "UgyYBt_H7aWw5i-y0op4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언제까지 모으시려나 가지고 가시려나 어디로",
+        "writer": "UgyAuKxKYXwN7h0n--F4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어) 어머님이 계셔서 (이름)도 (이름)도 맘 편히 일할 수 있는 것이고 예술이도 밝고 건강하게 (비속어) 수 있는거에요.",
+        "writer": "Ugw9zHu9SSYXBGkTx5F4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고향이 이북이라서 독한 (이름) 님이라서 소금쟁이",
+        "writer": "UgwLHktUX9lzjfXiFhN4AaABAg.9OTssv27mga9PtH2qjg-Yq",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "옷도 비싼거 척척 사시더만요. 쓸데는 쓰시겠죠",
+        "writer": "UgwLHktUX9lzjfXiFhN4AaABAg.9OTssv27mga9SB8n1qUCsV",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "grace kim 얼마나 아끼는지 나이들어서 아끼면 똥되는거 모를까",
+        "writer": "UgwLHktUX9lzjfXiFhN4AaABAg.9OTssv27mga9ThNdX8--Eh",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래도 나이들어아직도 돈을못쓰신데요 싸보지않아사 모아만봐서, 젤불쌍한분인듯요 가지면뭐해요 머리가안좋은듯 잔소리안하고 대접받으면소 본인위해쓰면 남도좋고 본(반사회적용어)좋은데 나이들어도 늘 없이사시쟎어요 통장에돈은죽어거져가는게아님",
+        "writer": "UgyfGwHW9wT94wWAWih4AaABAg.9OQtpcTdBDf9OdCVIBvGd1",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "견니님이 한수 우위십니다",
+        "writer": "UgyYBt_H7aWw5i-y0op4AaABAg.9OMutYZxyD79OW7yVBimXx",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아들 며느리만 신난거죠 구두쇠들이 다그래요 말년에 배풀면서 소비도하고해야지",
+        "writer": "Ugwv__gg8UbagsuKn1V4AaABAg.9OD0ZglmuR19ObfOtCu9nu",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)씨 천년만년사시고 돈모으셔쓰면 배풀기도 하면서 사셔요 이런애기 질리네요 (이름) 참힘드시게네요",
+        "writer": "Ugwv__gg8UbagsuKn1V4AaABAg.9OD0ZglmuR19Oca9ibfwhR",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=0jolhlPiIiY",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

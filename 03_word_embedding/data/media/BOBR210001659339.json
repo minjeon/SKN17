@@ -1,0 +1,588 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001659339",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001659339"
+    },
+    "text": [
+      {
+        "content": "오이까기 인형",
+        "writer": "UgxLcfabayIGNJ1K4Y14AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인형이 요리하는데요",
+        "writer": "UgxQ1sMOFc6wWH5fE0h4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오이 깎는거 미쳐",
+        "writer": "UgzBrD4IF2co5ZSh_5p4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "돼지 벤",
+        "writer": "UgwMdgsHzK3rId5PhwV4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌벤 요리대결 윰맘의 촌철(혐오표현) 맛평 궁금",
+        "writer": "UgwghYPDdjXLQcwIYvZ4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐든지 열심히하는 벤(반사회적용어) 사랑스러워",
+        "writer": "Ugx3rhTzLk92wDyQ-Fx4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어) 요리에 열중하는 모습 사랑스러워",
+        "writer": "UgwPbXpsRgejQLkhtC14AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어) 어린나이에 오이를 저렇게 자를 생각을 했다닠",
+        "writer": "UgyaCJt4yBMBrYDRVXl4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하지만 귀여웡",
+        "writer": "UgyulJFljhmli1AhGKx4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 더러워",
+        "writer": "UgwBmsG3nDrCQ1PcwRl4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울산 거누팬 악마 여경영",
+        "writer": "UgwMdgsHzK3rId5PhwV4AaABAg.9R33X9aD0Em9R4iq5Qfb3w",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참 못났다",
+        "writer": "UgwMdgsHzK3rId5PhwV4AaABAg.9R33X9aD0Em9RBDM059YbX",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어) 귀엽다고 셍각 하는 사람. 윌리엄 귀엽다고 생각 하는 사람.",
+        "writer": "UgyauEvc_V-dTsbSqit4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게 그전설에 먹뱉인가",
+        "writer": "Ugxfv0A7-yBpHTzBkrF4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아벤 손에 붙들린 파가 되고 싶다",
+        "writer": "UgyKWCqIJ-lake36vFJ4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무엇을 상상하든 그(이름)다 오이까기인형 최고",
+        "writer": "Ugys5IGZMJXL_GToadJ4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "까기 인형 벤 (비속어)어떻게 저럴 생각을 했지.",
+        "writer": "UgwHMagg20ZtaOUew4V4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤토리는 항상 화면도 멋있고 매력까지 넘친다. 너무 이쁘고 잘생긴 깜찍이.",
+        "writer": "UgwVH2NiWZSPBt5-Zlh4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄마아(비속어) 집에서 저런거 해주니까 이렇게 요리도 잘하고 좋겠당",
+        "writer": "UgyCJ4PNTYBvMerknPZ4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어) 사랑해",
+        "writer": "UgxdEJXsttO0tTdJ5j54AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오이먹는줄알았는뎈진짜 상상도못했닼",
+        "writer": "UgzsTuVZWW1aQJKCCmV4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참 창의적인 방법일세. 그 방법을 몰랐을까",
+        "writer": "Ugx3tVQqZU9hNKM8Pvt4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "똑쟁이 우리벤(반사회적용어)의 놀라운 순발력 오이까기인형 너무귀여워",
+        "writer": "UgzT3p9J5djIcBu5iA14AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤 만나겠당",
+        "writer": "Ugz0HDD9gKNPJHyVXH14AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우성아 오이는 왜 뱉엌",
+        "writer": "UgwETjRYxz5HgnPkkU14AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀여워 벤(반사회적용어)너다운 발상이다",
+        "writer": "UgyBg8EgkXRMxGA82tF4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜오래간다 이프로",
+        "writer": "Ugwwadms_-OtFja0lmp4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤 계속해서 열심히 오이 자르네",
+        "writer": "UgwnrCE9NwS-krziYJ14AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 벤(반사회적용어) 이빨로 오이를 자를 생각을 하다니, 벤은 정말 문제 돌파력이 대단한 것 같아요. 뭐가 없어서 안된다고 징징대는 게 아니라 생각해 내서 할 수 있는 방법으로 일단 시도하고 보는 도전 정신 너무 멋지네요. 아마도 벤(반사회적용어) 사전에는 포기란 배추 세는데나 쓰는 거다 라고 쓰게 될 것 같습니다. 똘똘한 벤(반사회적용어) 언제나 멋집니다.",
+        "writer": "UgwBazfYA2T36_1mHKB4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전혀 생각지도 못한 해결방법 기어다닐 때부터 돋보이던 벤(반사회적용어)의 기발한 창의력 안되면 되게 하라 된다 벤 선생",
+        "writer": "UgzuE02vGy_1zVrXFid4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤 너무 기발해",
+        "writer": "UgzMCs8QB82G1n8KXtt4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 태오 춤선이 RM 형아보다 멋있는데",
+        "writer": "UgxbJwy9kDJxOLms9kp4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어) 요리사",
+        "writer": "UgzfiZH4jmcJWhoT_SR4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미치겠다 오잌 왜케 미치도록 귀엽냥",
+        "writer": "UgyjIMhlBX6BOotR8t94AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌리엄은 전문 요리사 같아요 어쩜 저렇게 척척 해낼까요 6세인데 윌.",
+        "writer": "UgxAQMUFOcdqtTYV1sx4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "길다란 파도 깨물어 자른 (이름) 벤의 정성이 든 음식이니 맛있을 거야 벤은 왼손잡이야 하지만 상관없어 넌 개성 있고 참 똑똑해 윌벤. 너희들의 꽃길을 늘 바랄게.",
+        "writer": "UgyNsC0P4RQNQ5KMxWV4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오이까기인형 사랑해요",
+        "writer": "Ugz8PREV8DnkIO-TMn94AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번주에도 윌벤져스 볼수 있어서 너모 죠타앙",
+        "writer": "Ugw8rYbUVaWK33ho--t4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤 저 매력 어쩔껴",
+        "writer": "UgzGJiMs-k9MNH4KWoJ4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "니가 disgusting",
+        "writer": "UgzxcdN_1YVlSkzMElt4AaABAg.9QwuMrEckkC9Qww8E7gM1O",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀요미 똑쟁이는 양손잡(이름) 똑쟁이라 그런가봐요",
+        "writer": "UgyNsC0P4RQNQ5KMxWV4AaABAg.9QwrrZHPWQH9QwyUYSOinr",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤이 젤 재밌다",
+        "writer": "UgzyXPn1zdCHU2RBKl14AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 모로 가도 서울만 가면 된다 어떻게 저런 발상을 버릴게 하나도 없는 울벤",
+        "writer": "UgyNCBL3x8HrdgY3DhV4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울 벤(반사회적용어)는 천재야어떻게 이로 오이 썰생각을 하지,",
+        "writer": "UgwquhI8pyYr2Ww7C0h4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤 이모도 혼자 먹을때 그런적 있어 오이 이빨로 썰기우리 윌벤 이번주에 나와서 너무 좋아요",
+        "writer": "UgwB4F3cUKcBJKqxWCN4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤이 통째로 대파 넣으라면 넣어야죠",
+        "writer": "UgyT2zdtVCaU7FQTceN4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울 귀요미들 언제나 사랑스러우지",
+        "writer": "UgyzacKCHBGuXzBNTnx4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 벤(반사회적용어) 비범해",
+        "writer": "Ugxntgn9fBp7OIk5aUR4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤 똑똑해",
+        "writer": "Ugyk8eAKdLqLyaunqm94AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤 너무예뻐",
+        "writer": "UgxhBitGoqJ1LMWDgq14AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "칼로 써는 거 위험하니까 입이 낫다",
+        "writer": "UgxHK9J649yNocl3yjR4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌리엄 벤(반사회적용어) 보고 싶어서 일요일 슈퍼맨이 돌아왔다 방송만 기다린단다.",
+        "writer": "UgwzzGEP5HHhR0suyFB4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤 너 정말 왜이러닝",
+        "writer": "UgytW9gKDztzGzfzRh94AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어) 보러 왔다",
+        "writer": "UgxL9eIud9iMuU2tKUl4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 벤토리는 절대 포기하는 법이 없음 어떻게(반사회적용어) 일을 해결해 칼 안 되니 치아로 벤 천잰가 혹쉬",
+        "writer": "UgyiihtUo_ThGqQv0JN4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안되면 되게 하라 된다 벤 선생",
+        "writer": "UgyiihtUo_ThGqQv0JN4AaABAg.9QwexGB7Mon9QwxXSypQcR",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어) 왼손잡인가보네",
+        "writer": "Ugxxkz9i4b00awSRSZ54AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어) 이빨 튼실한거 봐 아휴 귀여워서 어째",
+        "writer": "Ugz5EdHbEsF8wiCv1fR4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와사삭 하는 소리가 그와중에 좋앜 귀여운 가족",
+        "writer": "Ugxzb-7YXHiFHbw7wDR4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어) 역대급으로 귀엽네",
+        "writer": "UgxIQvnA-n4e_LLNwiZ4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이고 내가 못산다 벤(반사회적용어) 때문에, 웃겨 죽겠네 윌리엄은 어어 여유 있고 멋져 멋져",
+        "writer": "Ugx68g4x5lgX4v7EmbF4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어) 역시 머리가 빨라",
+        "writer": "Ugwbyjngk7qokvbk5sB4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃다 눈물나서 안구건조증 치료됨오이까기인형 왤케 귀엽고 웃기냐",
+        "writer": "UgySxn6OAzb78qQMs-54AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤 천재야. 오이를 이로 써를 생각을 하다니",
+        "writer": "UgzJ6RPO0sAYMMP3zCV4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "식욕 돋우는 귀여운 ASMR",
+        "writer": "Ugxzb-7YXHiFHbw7wDR4AaABAg.9QwdE6lsbOJ9QyQNEW7lZs",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "빨간 리본 멘 벤(반사회적용어) 이쁘네",
+        "writer": "Ugyyai1imOjiDp1ueex4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아웃겨 죽엌앜벤(반사회적용어) 넌 항상 그렇게 상상을 초월하니 너무너무 귀엽다 정말",
+        "writer": "UgyBWwTSrPa8gYOAxLt4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어)처럼 파는 크게 썰어야 해",
+        "writer": "UgylI9knD3duq_0ekWZ4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀욤 마니컸네",
+        "writer": "Ugy1IVO59ECg-hS6crt4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꼬마 요리사 윌벤져스 귀여워일요일에 만나자",
+        "writer": "Ugyjg7vji9UZHi8RdWp4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어) 오이 써는 법 신박하네",
+        "writer": "UgyxPyla74DtXZBgT514AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어) 귀요어",
+        "writer": "UgyxPyla74DtXZBgT514AaABAg.9QwYn2GFWYP9R3bsHcGwtR",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NPX-gxNr3HM",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

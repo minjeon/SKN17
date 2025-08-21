@@ -1,0 +1,756 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001660964",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001660964"
+    },
+    "text": [
+      {
+        "content": "사탄의 궤계의 견고한 진을 무너뜨려 모든 사슬을 끊어소서 부흥의 (이름) 성령을 부으소서 예수 그리스도 이름으로 기도드립니다 아멘",
+        "writer": "Ugx0Itr8X9lul-QmUM14AaABAg",
+        "write_date": "2021-11-07",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무화과랑 먹어도 맛있어여",
+        "writer": "Ugw1wPCw1-Rm462Xywt4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그만좀 쳐무라 영자야",
+        "writer": "UgyZDkccXDlXgo4onq14AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맛은 있는데 갠적으로 저런 처덕처덕 식감을 싫어해서 먹는 내내 고역, 잘 안 먹게 됨.",
+        "writer": "UgyzBoUpo5on3ePIAyN4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 맛있게드셔,",
+        "writer": "Ugy1ry77xxkab1C8x8l4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "토마토에다가 올리브오일 또는 발사믹 먹었는데 진짜 (비속어) 이마트에 하나 있길래 바로 사먹었어요",
+        "writer": "UgyPbl8mX9l1Cu2q8iJ4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저기 부라타말고 그냥 모짜렐(반사회적용어) 눈물나게맛남",
+        "writer": "Ugy_2WAH2AyJ12cKxjV4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "먹어보기 전까지 맨날 이 영상 보러올래",
+        "writer": "UgzPKl1JkggOIpaKd4N4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몇 번을 보는건지 맛있겠따",
+        "writer": "Ugx87rK2VhiZ7zKK7_p4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전 우유치즈 못먹어서 대리만족 하고갑니다.",
+        "writer": "Ugwy2cFT7oPZLdNtL5Z4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 부라탁치즈라고 하니까 옆에서 듣고 있는 친구가 (비속어) 이래서 (비속어)탁치즈 됨 이거 볼때 계속 (비속어)탁 생각나서 웃겨서 못보겠음",
+        "writer": "UgwxvYnFb9EmfbsiL7B4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주기적으로 와서 꼭 보는 (반사회적용어)영상,",
+        "writer": "UgykGmG-gi7QwpZfX2Z4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부라타 치즈",
+        "writer": "Ugz1vVxTcPBQWPFXFbF4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 느끼할거같은데 맛잇어보이고 그리 꼭 먹고싶은 음식은 아닌데 저렇게 맛있어보이게 면치기하는거처럼 먹고싶어 죽기전에는 한번 먹어보고싶고 궁금하고 (이름)고 막 그렇고그런 음식이야",
+        "writer": "UgwPqjxlftnVPafDguZ4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "버킷리스트 추가,",
+        "writer": "UgyZuu6_4iaUCXd2FSF4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "먹고싶다, 진심 저거 두개다 먹을수 있는데, .",
+        "writer": "Ugy7Kj2iw9PrBY_3buR4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거보고 부라타 너무 먹고싶음",
+        "writer": "UgwSzi_egu6t0MkPiYp4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "치즈를 무슨 국밥 먹듯이 먹어",
+        "writer": "UgwT7wJTVf_TsowWNMp4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기 3시 전에 웨이팅 도 끝난다는 곳,",
+        "writer": "UgxVqG331vzOm1UTPWt4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바질페스토랑도 맛있는데",
+        "writer": "UgzNrSlZa-EbRktorW94AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저기 아딘교,",
+        "writer": "Ugz-oaJKI0a4sYog9Zl4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부라타치즈 맛있지, 아",
+        "writer": "Ugxb_HWy9IU_JFcGLn14AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 진짜 맛있게 잘드신다, 침나와여",
+        "writer": "Ugw0gZ8WTGTLPnwcCb54AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 두개를 어떻게 먹어요 비싸서,",
+        "writer": "UgwGG6Eky8adx79OuNh4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저기 웨이팅 안그래도 너무 길어서 갈 엄두도 못 냈는데 더 길어지겠네,",
+        "writer": "Ugz8NTf8_-omT2n9luN4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가격은 수제라 감안하시고 부라타는 고소 담백 그 자체고 모짜렐라 먹으면 와나 이게 치즈구나 싶습니다",
+        "writer": "UgwQtkjpGYs9Twhtuxh4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 저기 (비속어)탱인데,",
+        "writer": "UgxUTVwzDSySU7uGpf94AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저기 어디지, 어디에요",
+        "writer": "UgxeZ5S6xB1Wy2DD09l4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리나라 기업들도 만들어 팔면 좋을텐디 시중에 파는 브라타는 다 수입이라는",
+        "writer": "Ugxu8slowmh3eC0XH8R4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 고소하고 맛나요. 근데 칼로리가 좀 높다는 적게먹을 수가 없쟈나",
+        "writer": "UgzFKBGJL3gjH1iTSyl4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머지치즈가 (이름) 머리랑 똑같이 생겻는데",
+        "writer": "UgxLwJnDcTnUGxN65XR4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저기 어디에요",
+        "writer": "Ugyyi7-1AVS79Lo4Ech4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "치즈면 치즈파스타",
+        "writer": "Ugw6BFg9kE88Txl9-Fd4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "치즈랑 헤어스타일 같으시다,",
+        "writer": "UgyPbcnGQbMxd_Nv15R4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "느끼할거같기도하고 토마토덕에 더 맛잇을거같기도하고, 궁금해요,",
+        "writer": "UgxkYMjt76RHNFtPcLF4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부라타치즈 (반사회적용어)랑 같이드셔보세요 맛있어요 프랑스 식당에서 먹어보았는데 짱이예요",
+        "writer": "Ugwz7--OP1lMQ2sfZu14AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 맛잇어보여요. 여긴 어디죠. 가보구 싶네요.",
+        "writer": "UgyfKH9xFFWAo6_3_R94AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부라타치즈, 시중에 파는것도 맛있는데 수제면, 상상만해도 맛있겠다. 이걸 왜 밤 열한시에 보게된거야",
+        "writer": "UgzSvve7LPUYB7zuzfF4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기 (비속어)",
+        "writer": "UgxgI3xSFX_fsryzfs94AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "청담 슬로우치즈 입니당",
+        "writer": "Ugz-oaJKI0a4sYog9Zl4AaABAg.9PNNGjeOqWQ9PWH56IV25y",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "청담 슬로우치즈",
+        "writer": "UgyQ95DvQi_jNRJcrMt4AaABAg.9OgItl0PPgt9Pk6o9mmLLW",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어딘가요 가고 싶어요....",
+        "writer": "UgwQtkjpGYs9Twhtuxh4AaABAg.9OXkNenwk4B9SGozv4ppzu",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "강산 청담 슬로우치즈 입니다",
+        "writer": "UgwQtkjpGYs9Twhtuxh4AaABAg.9OXkNenwk4B9SGu2uEqzch",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "청담 슬로우치즈요",
+        "writer": "UgxeZ5S6xB1Wy2DD09l4AaABAg.9OSAuopqEoJ9OXkEpb93_F",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세로링 감사합니다",
+        "writer": "UgxeZ5S6xB1Wy2DD09l4AaABAg.9OSAuopqEoJ9OYb7yxVPVB",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "원래도 다른 치즈에 비해 저렴항 편은 아닌데 낙농이 활발한 국가가 아니라 옴청 비쌀 것 같네요",
+        "writer": "Ugxu8slowmh3eC0XH8R4AaABAg.9OIgqFqDCwc9Q21YQktaVr",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우유 남아 돈다고 많이 마시자 뭐 그러는데 사실 요즘엔 우유 자체보단 버터나 저런 치즈가 소비층한텐 더 잘 먹혀서, 우리나(반사회적용어) 그런쪽으로 많이 만들면 참 좋을거같음 기술이 없는것도 아니고",
+        "writer": "Ugxu8slowmh3eC0XH8R4AaABAg.9OIgqFqDCwc9Q8dGu1QePH",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 댓글 왠지 귀엽닼",
+        "writer": "UgxLwJnDcTnUGxN65XR4AaABAg.9O87njD6oZt9PL3LD1mYKd",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "청담 슬로우치즈",
+        "writer": "Ugyyi7-1AVS79Lo4Ech4AaABAg.9O71Rv7bzfS9Pk6pK2HxMV",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 꼬오소한 맛이에요. 우유맛인데 오지게 꼬소함",
+        "writer": "UgxkYMjt76RHNFtPcLF4AaABAg.9O2S8UfBS0a9OD0fCBXoEJ",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맛있긴한데 오일많이 찍어먹으면 느끼하긴해요.",
+        "writer": "UgxkYMjt76RHNFtPcLF4AaABAg.9O2S8UfBS0a9O_9rnJRwpM",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 먹어도 엄청 맛나요 고소하고 식감도 좋아용",
+        "writer": "UgxkYMjt76RHNFtPcLF4AaABAg.9O2S8UfBS0a9RG9oPHazIz",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부라타 식감을 처음 드셔보시는 분들은 되게 신기해 하시는데 맛은 꽤 괜찮아요..",
+        "writer": "UgxkYMjt76RHNFtPcLF4AaABAg.9O2S8UfBS0a9RIODRlUnIG",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안느끼하고 맛있어요",
+        "writer": "UgxkYMjt76RHNFtPcLF4AaABAg.9O2S8UfBS0a9RTnoXLl3g9",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 맛있어요겉은 쫄깃하면소 안은 부드러워요 모짜랄라치즈먹는맛이에요 후추맛이 신의한수 그냥 기본 방토 반 잘라서 먹는것도 너무 맛잇어여",
+        "writer": "UgxkYMjt76RHNFtPcLF4AaABAg.9O2S8UfBS0a9TQvkpOuxg_",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "청담동 슬로우치즈",
+        "writer": "UgyfKH9xFFWAo6_3_R94AaABAg.9NzUQhXBCxy9O-Klxk5GDS",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윤슬 고마워용.",
+        "writer": "UgyfKH9xFFWAo6_3_R94AaABAg.9NzUQhXBCxy9O-Q9FV2pw7",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기 어디에요 .",
+        "writer": "UgxgI3xSFX_fsryzfs94AaABAg.9Nxx6OCGg5Q9O9BSeVSMVe",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "삥뽕 청담 슬로우치즈요",
+        "writer": "UgxgI3xSFX_fsryzfs94AaABAg.9Nxx6OCGg5Q9O9BeoPdOfu",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 무슨 치즈를 그렇게 뺏어먹고 싶게 드시는거예요.",
+        "writer": "Ugzrg0jKqRIBdvzCCUt4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저많은 양을 조금 잘라서 덜어먹지않고 통째로 다 먹어요, 우와",
+        "writer": "Ugzsv1gWraHdkGlDuRR4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리아들 먹여주고 싶어요. 어디인지 알고싶어요. 7월에 한국들어가면 찾아봐서 가봐야 겠어요..",
+        "writer": "UgxMBKfuK_UJRpZQmZZ4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예전에 (이름) 일일 매니저 할때 사줬던 그건가",
+        "writer": "Ugztk2Pf2_zwVFzXrgl4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와 무슨 치즈를 파스타먹듯, 뭐든 진짜 맛있게먹음, 군침도네",
+        "writer": "UgxeQ_ZqflhOTJyU7B54AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 진짜 너무 맛있게 잘드셔, 분명 치즈가 덩어린데,너무 맛있어보여",
+        "writer": "UgwXb09Su_dBAeZyrR94AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기 주소는 어디입니까",
+        "writer": "UgxiJe8G_mZpO504viJ4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우유가 영양덩어리는 아니죠",
+        "writer": "UgybgoFdWI6zPpoAG-B4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저거 맛있어요",
+        "writer": "UgyIbFIRubBvWWWO8Xt4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "음식의 (반사회적용어)같다 보고있으면 (비속어)다 먹는거 말고 본인의 인격이 있는지, 난 그치킨 광고도 눈돌리고 (반사회적용어)고 싶지도않다",
+        "writer": "Ugw3tHKo8xUAskA9J1p4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "칼로리 무지 높음,",
+        "writer": "Ugw4eACJqpOXDuqsDjJ4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가능할 거라 생각하세요",
+        "writer": "Ugzrg0jKqRIBdvzCCUt4AaABAg.9Nwu9oEactd9O-4kDEibNj",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찾아보니 청담 슬로우치즈라는 곳입니다.",
+        "writer": "UgxMBKfuK_UJRpZQmZZ4AaABAg.9Nv9RYFOqo59NzuzNnTWHc",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기 웨이팅 (이름)니예요",
+        "writer": "UgxMBKfuK_UJRpZQmZZ4AaABAg.9Nv9RYFOqo59O7mK00rg1K",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전화예약하면 포장은 웨이팅없어요",
+        "writer": "UgxMBKfuK_UJRpZQmZZ4AaABAg.9Nv9RYFOqo59Oi4FYZdF40",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "청담동 슬로우치즈",
+        "writer": "UgxiJe8G_mZpO504viJ4AaABAg.9Nt6Nztn6Ze9O-KiWBQfjQ",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모질게 살면 다 돌아옵니다. 또 고소당할 수도 있으니 인터넷 상에서는 조심하세요 당신이 성인이면 선처 없을 거같네요",
+        "writer": "Ugw3tHKo8xUAskA9J1p4AaABAg.9No_w5zXidG9NtUaG3D4lm",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "많이 힘들어 보이시는데 그래도 아무연관없는 타인에게 이렇게 말하는건 정말 안좋은 행동 입니다 본인의 행복에 만족하고 살아가고 있는사람인데 굳이 상처 주려는 (이름) 뭔가요 맘에 안드시면 조용히 지나가시는게 좋을것 같아요.",
+        "writer": "Ugw3tHKo8xUAskA9J1p4AaABAg.9No_w5zXidG9NthLsG9dUw",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 하고싶은말 다 내 뱉는 사람을 이해하지 못하겠다, 그냥 한번만 참으면 되는걸, 굳이 상처주는 이유,자기가 이런 소리 들으면 어떨지 생각할 머리가 없는건가 마음이 얼마나 좁은건가, 진짜 오히려 이런 사람이 더 (비속어)다,",
+        "writer": "Ugw3tHKo8xUAskA9J1p4AaABAg.9No_w5zXidG9NtrA0YiegB",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지안 그 음식을 만들기위해 학대하고 죽이는 닭들과 소 등이 더 불쌍하쥬",
+        "writer": "Ugw3tHKo8xUAskA9J1p4AaABAg.9No_w5zXidG9NuKxqoZ0IV",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 지금 저 음식 먹을 수만 있다면 음식의 (반사회적용어)가 되어도 행복하겠는데 왜",
+        "writer": "Ugw3tHKo8xUAskA9J1p4AaABAg.9No_w5zXidG9NuLXcLsHBo",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댓글 수준이 인성 수준입니다 싫은걸 이렇게 공격적으로 표현하는것은 예의가 아니에요 차라리 케베스 시청자 게시판에 제작진들한테 항의를 하시던가",
+        "writer": "Ugw3tHKo8xUAskA9J1p4AaABAg.9No_w5zXidG9NvGnZgkg3T",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는 당신이 악플의 (반사회적용어) 같다 악플쓰는거 말고 본인의 인격이 있는지 난 당신의 악플의 점하나에도 눈돌리고 싶지 않다",
+        "writer": "Ugw3tHKo8xUAskA9J1p4AaABAg.9No_w5zXidG9Nx5ccuRc1e",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인성 무엇,",
+        "writer": "Ugw3tHKo8xUAskA9J1p4AaABAg.9No_w5zXidG9Nx_rlo3PfT",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "실명쓰고 이렇게 모진 악플 다는것도 참, 대단하네요, 인격모독까지하고",
+        "writer": "Ugw3tHKo8xUAskA9J1p4AaABAg.9No_w5zXidG9NyUdBhG__I",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "님 댓글이 더 (비속어)요 인격 운운 하는데 이런 저급 댓글 다는 그 쪽 인격이 더 의심스러워요",
+        "writer": "Ugw3tHKo8xUAskA9J1p4AaABAg.9No_w5zXidG9Nzb6qUHvBv",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜이리 싫어해요 궁금해서요 이런댓글 달정도면 왜 그렇게 싫은건지",
+        "writer": "Ugw3tHKo8xUAskA9J1p4AaABAg.9No_w5zXidG9O2dUeM40t7",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 그렇게 역겨우면 굳이 왜 유튜브에 영상 클릭해서 들어와서 보고 악플 남기세요 제목이랑 썸네일부터가 먹방이라고 되어있는데 썸넬보고 그냥 안보면 되는걸 참 인생 불편하고 드럽게 사네요. 굳이 보기싫은거 꾸역꾸역 들어와서 보고 거기에 더러운 인성까지 드러내고 참 대단하시네요",
+        "writer": "Ugw3tHKo8xUAskA9J1p4AaABAg.9No_w5zXidG9O4ItdDwRdb",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밥 안먹고 사니 안(비속어) 이러는거면 괜찮은데 물 한모금이(반사회적용어) 쳐마시면서 이러면 (비속어)지",
+        "writer": "Ugw3tHKo8xUAskA9J1p4AaABAg.9No_w5zXidG9O7I_9iTUCU",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "kelly lee 여기는고소안돼요 다른데는되지만",
+        "writer": "Ugw3tHKo8xUAskA9J1p4AaABAg.9No_w5zXidG9O8tmsOAoiB",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영은아 니는 청소(반사회적용어)잖냐",
+        "writer": "Ugw3tHKo8xUAskA9J1p4AaABAg.9No_w5zXidG9PGJK835nNU",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "본인 잣대로 욕하지 마세요 누구보다 열심히 사시는 분입니다",
+        "writer": "Ugw3tHKo8xUAskA9J1p4AaABAg.9No_w5zXidG9PNEGdM3FUL",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐해요 한심하게,",
+        "writer": "Ugw3tHKo8xUAskA9J1p4AaABAg.9No_w5zXidG9QNPD--TIUD",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 먹는게 너어어어무 많이 나오긴 함",
+        "writer": "Ugw3tHKo8xUAskA9J1p4AaABAg.9No_w5zXidG9Rs_7IkBk4x",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=PgWezCVkK9U",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

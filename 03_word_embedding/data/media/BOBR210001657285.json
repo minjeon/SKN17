@@ -1,0 +1,516 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001657285",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001657285"
+    },
+    "text": [
+      {
+        "content": "쨈쨈 김걔리 강하오",
+        "writer": "Ugy8eIfWDZrff-pVdO54AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "희율이 최고 넘 예쁘고 사랑스러",
+        "writer": "UgwvS5yyYhnIyM-z0wx4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 데리고 갈 때 귀한 (이름)의 역사를 믿고 깨달아 나",
+        "writer": "UgzA4Loe65yvFDdPWMF4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잼잼 귀염",
+        "writer": "UgzBT_6h7CulNEL_IIR4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오 너무 이쁘고 잘생겼어",
+        "writer": "UgwpMohsMlkjLeyhWQB4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잼이 야무지게 먹네 귀엽",
+        "writer": "Ugw_-DPDrW5DafbzYHR4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀여워 희율이",
+        "writer": "UgwJ_GFboFPIrUCXsbl4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한번에 2연타 맞은 개리아빠",
+        "writer": "UgxOjI6GeXVITwjb22V4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잼잼이 너무귀여웡",
+        "writer": "UgyA9UJHM-3t0UcTmst4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요렇게 귀여웟는데 우리 하오 하차해서 어떡해",
+        "writer": "UgxzsyQ6BccKxaF8I_54AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 사랑스럽네요",
+        "writer": "UgzpgOMQiHFg28FzusB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잼잼 하오 둘다 귀엽내",
+        "writer": "UgzViiwAQER_azq32-F4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이름 잼하오 특징 귀여움 이 잼하오는 좋아요를 먹어야 나이가 커지미다.",
+        "writer": "Ugx3MSUNrOyBWDGL_IR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잼하오 사랑행",
+        "writer": "UgxI2Dflq-vPwR9oubZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 잼잼이 안나오나요 나의 비타민인데",
+        "writer": "Ugz7OhKNHgw4BLh0Gvt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오 보기 하오한번 봤음 좋겠다",
+        "writer": "UgwbzDYAgumw7Z7ytEF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초때 잼잼이 목소리 되게 성숙하게 들려 (비속어)(비속어)(비속어)",
+        "writer": "UgybHNDz4Lz2uHNlWMp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 목소리 좋다",
+        "writer": "UgybHNDz4Lz2uHNlWMp4AaABAg.9BB7LhAI29Z9EhpEmA4uFb",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잼이가 아빠 사랑해 할 때 하오표정에 주목하세요 에 있음",
+        "writer": "UgxN-KXOwhFIdS5SDJp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잼잼이 현실 말투갔다",
+        "writer": "Ugx5wyNv8PJD55mjNah4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애기들 귀여웤",
+        "writer": "Ugxi-zyuROK29jyVI4d4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잼잼이 귀여",
+        "writer": "Ugw5wYkjNyj3x9GQsj54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오 표정에 한번씩 어른이보여 속깊고 배려심강하고 착해",
+        "writer": "Ugyaj1hLUyx6mLbg9bV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잼잼이 너무귀엽다 어떻게 저렇게 귀엽지",
+        "writer": "UgwTbS2knrMCfV5zFV14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잼잼넘순수하고귀여워요 문희준 복받았네요",
+        "writer": "UgxosO5dG9dYDHcQHM54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잼이 부녀 우리 오빠랑 그 2세랑 동시덕질을 하다니 너무 사랑스러워 미쳐",
+        "writer": "Ugzbtiar3O5xi6g4mLV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오야잼잼만 좋아하는게 귀여우면서 질투나",
+        "writer": "UgxOQbWZsWbvA2jm2oJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무럭무럭 자란자 미래 바랄게",
+        "writer": "UgyE(반사회적용어)A1MRPqQshOud54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "슈돌 역시 귀여워",
+        "writer": "UgyGmFFoq-V7Ia0LXYt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오도 넘 구엽고 사랑 스러워요 하오 아(비속어) 좀 권위적인모습이 보이긴 하지만 천재 하오를 잘 교육 하신듯요 하오 최고",
+        "writer": "Ugx9FdNP4Rhs1vSmdOt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잼이 아(비속어) 볼수록 좋은 아빠군요 교육도 어쩜 그렇게 잘 시켰나요 잼이보면 힐링되요 잼이같은 손녀 있으면 부러울 것이 없이 행복 할듯요 사랑스런 잼 계속 볼수있음 좋겠어요",
+        "writer": "UgyUvL-5fq09SsRCR0p4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아들 . 딸차이 하오 벌써 상남자",
+        "writer": "UgwGEaPzJVyKvl28k7l4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "천사같은 하오 잼잼",
+        "writer": "UgwaMju8sxDNgkY0-QN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "띠러 하지마래",
+        "writer": "UgxsKUKWXKY10rGRMAx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "으악 하는 표정",
+        "writer": "UgxN-KXOwhFIdS5SDJp4AaABAg.9APqrlKn9VZ9PFrdy9OEXg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 애기 입에서 허스키한 목소리가 어떻게 나와지",
+        "writer": "Ugx5wyNv8PJD55mjNah4AaABAg.9APbeNbQZYG9D2GhECl2y0",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예림Ye Rim 마자여그래서더 귀엽다",
+        "writer": "Ugx5wyNv8PJD55mjNah4AaABAg.9APbeNbQZYG9D2MmQ6yDEz",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "말투 같다 이거 맞죠 아닌가 맞춤법,",
+        "writer": "Ugx5wyNv8PJD55mjNah4AaABAg.9APbeNbQZYG9Ehp1f2-qqd",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "갔다 같다",
+        "writer": "Ugx5wyNv8PJD55mjNah4AaABAg.9APbeNbQZYG9IFP8RSXsTW",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오는 뭘하던 귀엽고 예쁘고 사랑스러워 잼이도 이쁘고 잼하오 영상보는 재미가 솔솔하네",
+        "writer": "Ugws7BBSGLVvfT-iOC14AaABAg.9A0pNEkhf1R9AF03sDmNsZ",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아들과 딸의 참모습",
+        "writer": "UgxHdyxuk6hiY64Ak2x4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잼잼이 인형보다 훨씬 이쁘고 귀엽네 예쁘게잘자랐음좋겠다",
+        "writer": "UgxXda2phYvfMLCG7GN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "평등한 교육실현을 위해 앞장서겠습니다",
+        "writer": "Ugwuvd_Y1Skl5qnjRot4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오 전형적인 시크남기질이 발쎄보이네 요 꼬물이들 기여워 워쩔 대화나누는 수준이 이건머",
+        "writer": "UgxHkPaYsOGhBAdKveV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잼잼 왜케 예뻐",
+        "writer": "UgzQSRacgOEh5R4iv5Z4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연예인 애들은 왜케 똑똑한거야. 얼마나 이쁠꼬",
+        "writer": "UgygCSc5-qu5TW1uEGF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스윗한 하오 하오야 넌 어느 별에서 온거니",
+        "writer": "Ugwxw2y-td7LTSMef854AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1일 1번 하오영상 보기 하루(반사회적용어) 안보면 입안에 가시가 돋아",
+        "writer": "UgyfbvvZcC1DrlcEGft4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잼이 추워 꺄아악 미치겠다 하오 너 어른이지",
+        "writer": "Ugy4RhZNfvFCoj5V_Y54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잼잼이애교짱 하오는 잼잼이친구랑 의젓하게 지내는모습이 남자네여",
+        "writer": "Ugz6gypc2lRbXuh6U8x4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오 쏘 스윗",
+        "writer": "UgzNzBqhyi-rbqWHS9p4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잼잼이 눈코입 둥글둥글하게 생겼어 귀염뽀짝",
+        "writer": "UgxIrxjIJYwM-3n30z54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오 감성 최고",
+        "writer": "UgwUhpA5SkDHLQ8FqGp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잼이 진짜 (비속어)다",
+        "writer": "UgwgYvR3Wrxa-5aq25p4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개리분 지쳐보임",
+        "writer": "UgzkofZ7XJ6lDcU6Cuh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잼이가 안추워 할때 넘 어른스러운것 같은기분",
+        "writer": "Ugz0YNeE8hWUd9-8NPN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넘맛나게 드시네요 정말 즐거워보여요",
+        "writer": "Ugz0MjABKf8Z94LE6-F4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오 장난꾸러기",
+        "writer": "UgzDii0ibMQT-RTNvrh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잼하(이름)해요 진짜너무귀엽구사랑스러워요",
+        "writer": "UgyOr8iILPOys0kr1114AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "why Jamjam이 more more more more cute everyday",
+        "writer": "UgwavPAZ3TapndmH0X54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아기미소 너무 귀엽,",
+        "writer": "Ugxku75Tahwgs2Bjp8Z4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잼잼 그리고 하오 환상 친구 너무 귀여워요",
+        "writer": "Ugy1FwSoN2R4oqfKbKJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잼잼 하오",
+        "writer": "Ugy9KFkOMDQZJwdmj5J4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=xkm2SZAyAW8",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

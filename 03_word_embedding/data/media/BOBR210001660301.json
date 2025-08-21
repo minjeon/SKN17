@@ -1,0 +1,660 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001660301",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001660301"
+    },
+    "text": [
+      {
+        "content": "아니 무슨 대령숙수얔",
+        "writer": "Ugx6b4-08Z8GdySOa0B4AaABAg",
+        "write_date": "2021-11-08",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 분 볼때마다 와이프가 너무 부럽네.",
+        "writer": "UgwBk5cU5PWnqlMvMPt4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유튜브 개설하시면 좋겠습니다 일등 구독 자신있습니다 100만은 금방될것같은데요",
+        "writer": "UgyFiNhjRcXI9mrawEt4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)들은 (반사회적용어)간장을 쓰지 않았을까요 지금 양조간장을 쓸 때는 설탕량을 좀 줄여도 되지않을까요",
+        "writer": "UgynSGb_encv7wMgS0V4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘 만들어보려고요 영상 잘 보고갑니다.",
+        "writer": "Ugw72AqjvBBQ68ybJtx4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남편이 숟가락으로 탁탁. 하며 간장양념 묻히고 저는 계란물 묻히며 맛있게 만들었네요. 시아버님이 최고라 하시며 엄(반사회적용어) 척.. 막걸리에 먹으니 최고네요. 찹쌀가루랑 부침가루 둘다 해보니 제 입맛엔 찹쌀가루가 더 맛있더군요. 어(이름) 너무 맛있게 먹었습니다. 다음번 레시피도 해볼게요 최고최고.. 아 참참, 불고기 고기 사오니 고기가 녹아서 끊어지더라구요. 살짝 얼려서 하니 잘 되더라구요. 팁도 좀 알려주세요.",
+        "writer": "UgyELOr5fduED1-S4VZ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "류수영처럼 잘생긴 남자가 요리까지. (이름)은 무슨 복이 그리 많냐.",
+        "writer": "UgzYVjMBsIZxOlB2PSZ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선생님 넘 잘생기셨어요 너무 잘생기셨습니다 너무 잘생기셨어요",
+        "writer": "UgznV6yqPPjUdnz1zlN4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유치원생 조카와 함께 만들었는데 쉽고 재밌게 했어요 맛도 정말정말 최고에요...",
+        "writer": "UgxCsqoPcZW6QZ6Y5xB4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요리하고 싶은 충동이 생겨요. 쉽고 간단하고 꿈팁, 좋은일만 가득하길 기원해요.",
+        "writer": "UgwkK9XPKFk85vLRx6x4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘 불고기용고기를 사왔는데 냉장고에 들어가지 않은 신선한 고기를 팔더라구요. 얼리기 아까워서 불고기 대신 육전을 해 먹어야지 생각했는데 육전용 고기랑 불고기용 고기가 따로 있는지 첨 알았어요. 이 레시피 이대로 만들러 갑니당.",
+        "writer": "UgxRYgUNbKuqcl5AyJR4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "음식하는데 엄청 행복해보인다 저건 찐이다",
+        "writer": "Ugx0wZdOPVAJEZALQzp4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얼굴도 잘 생기고 유머도예쁜미소 예쁜 말 어떤 요리사보다 잘 하시네요 화이팅 최고",
+        "writer": "UgwU0oFFC_GlGfSCSC14AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 어남샘 유튭 하세요. 찾아보지 않고 바로 볼 수있게.",
+        "writer": "UgyMQPo62aELw1u4ddZ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "육전 간을 제데로 해주면 좋겟네요",
+        "writer": "UgxTB7xbGUzoW2AfFNd4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자그마하게 부치고 식어도 맛있어야 정말 맛있는 육전입니다",
+        "writer": "UgxD6AeaiiB2B2Xo3S54AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이분 이렇게 매력적인 분이셨다니",
+        "writer": "Ugzi27iXrknK9ealFv54AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어(이름) 유투브하실생각 없는지",
+        "writer": "UgySoYoI6-QXbRsijBZ4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 왜 불고기용으로 육전해먹을 생각을 못했짘",
+        "writer": "UgyQe0rene3Y-Kkadtl4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)씨 왜 화났어요 귀엽네요",
+        "writer": "UgzYn9dTzdZX_MYXKS14AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맛있어보여요 저도한번 도전해봐야겠어요 건행",
+        "writer": "UgxTeLroLzbKhXq92ut4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미국산은 (반사회적용어) 걸린다믄서",
+        "writer": "UgzyL-A6ydFXjyNhj3F4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "설명도 잘하고 요리선생 같아요",
+        "writer": "UgzktM1mwyM_tAHkV1x4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "육전은 많이 만들어보았지만 불고기육전으로 도전해보겠습니다.",
+        "writer": "Ugw7Y7n6hSIGZxot3Up4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그대로 따라하고 가족들한테 칭찬받았어요 이번 추석때도 만들어서 먹어야 겠어요 이런 저런 레시피 따라하다 피본 제가 어(이름) 레시피로 정착했어요 앞으로도 기대할께요 그리고 가정적이신 모습도 보기 좋아요 항상 응원할께요",
+        "writer": "UgyLmv2n3xXS5YfYyVp4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아, 너무 감사드립니다. 저 이런데서 댓글로 고마움을 표현하는 그런 사람은 아닌데, 오늘 처음으로 우리 아들 딸에게 맛있었다는 말을 들었어요. 작은 조각 하나 없이 싹싹 죄다 먹더라구요. 특히 초록색 채소 나오면 쳐다도 안보려는 아들 녀석은 부추까지 냠냠, 제 아들 볼이 음식으로 그렇게 빵빵해진 모습을 본 적이 없다는 걸 오늘에서야 알게됐고 그래서 미안하기도 하고 씁쓸하기도 하고, 까나리액젓은 사랑이네요 아, 우리 신랑도 첫입에 오 맛있다 , 아무거나 잘 먹어줘서 고맙다는 마음은 있었지만 그게 나를 배려한 말이었음을 새삼스레 느꼈고 신랑에게 고마웠어요. 제 입맛에도 정말 맛있었습니다. 앞으로 어남선님 레시피는 죄다 해 봐야겠어요.",
+        "writer": "UgxlrXIj1E6l4gag0Th4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "책 유툽 다해주시면 안될까욤",
+        "writer": "Ugw52cg4kxVw_FgaZuR4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비디오북으로 출판해주세요",
+        "writer": "UgwzXvPrZTJ2Nvl3-Wp4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요리책으로 내주세요 제발요류(이름) 너무 탐나는 남편이시다 (이름) 부러워요 행복하세요",
+        "writer": "Ugxhpgq0EXinJUzzcn14AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네지금 당장 해먹을께요선생님",
+        "writer": "UgzRqed2S_NCuQKJUJh4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하선씨 정말 결혼 잘했네요",
+        "writer": "UgxfYcHgPJcl13tehSR4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요리로 데뷔해서 요리로 또 빛보시네용",
+        "writer": "UgyuiUZTLAgdlEeJxeV4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 육전해봐야지",
+        "writer": "Ugy7MKTUsRqG6ICOWHV4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보면볼수록 대단한어남선생 요리할땐매력이뿜뿜",
+        "writer": "UgwHghnosqTqXVeikOB4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어남쌤 전문요리사같아요 타고나신듯, . 전 전업주부인데도 요리하는게 싫던데요",
+        "writer": "Ugx4CIdgzHk437cze1J4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "옛날 조상들은 요리에 설탕 안넣었을거같은데",
+        "writer": "UgxYoAdyozoneaMJ2fh4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "백 s 뺨치네 그릇그릇 안뭍히고 바로투하해서 설(혐오표현)를 줄이는 현실적인 요리수업",
+        "writer": "UgyqmH9BI8yi2c35nQJ4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남(비속어)만 머싯다 찐남이여",
+        "writer": "UgznYfiO3w4oCW6NENR4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전생에 나라를 구하셨나봄",
+        "writer": "UgxfYcHgPJcl13tehSR4AaABAg.9S2rXBK3FCh9TMRJ433tFg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)기이후 (비속어)가나 궁중에서넣었다고해요. 아무래도 옛날요리책은 글읽을수있는 상류층의 전유물이었으니까요 기록이 있어요",
+        "writer": "UgxYoAdyozoneaMJ2fh4AaABAg.9Rw8bVsX8j_9RwD7LIdw1E",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이귀여워귀염둥이 애교도 많네 신랑 참 잘 얻었다싹싹하고요리도 자알하고 아이 좋겠다아 우리사위가 젤좋고 류슝도 귀여운 사위일세",
+        "writer": "UgynroeU9PWZXIYXCHV4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 그 시대의 간장이란 모두 집간장(국간장)일 때라 그 때 5대 3이랑 지금 단맛나는 진간장 쓸 때 랑 다를텐데요.",
+        "writer": "Ugzfk6nXIgwhUnBZhQh4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어남 선생님이 하신 요리를 저희 아(비속어) 엄마 생(이름)고 직접 해주셨는데 너무 맛있게 배불리 먹었어요",
+        "writer": "UgzmXCjo3ATBYYR7hl94AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "니 마누라 뭐가 진실이야",
+        "writer": "Ugzjjk0xMJJb4SPomCl4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밉지 않은 오바액션 끝장납니다. 어남선생 요리 프로 중독임. 고생한 와이프를 위해 제가 직접 요리 해줄려구요.",
+        "writer": "UgzpqFO6E1OrbAEVsA54AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "펀스토랑에서두 봤는데 요기서두 또 뵙네요, 넘 쉽구 설명을 잘해주셔서 초보인저두 해보구싶다는생각이 들두라구요, 앞으로도 좋은 영상 기대합니다 건행 잘보구 갑니다",
+        "writer": "UgwKgwS3pcX6a65go554AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 이분 초장 레시피 해보고 엥 뭐지 하고 그 뒤론 맛에 의문이",
+        "writer": "UgxC9xbm-bjuwand9gd4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 멋지세요.",
+        "writer": "Ugx5tWwKXzGg5TcfVXZ4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부추무침할때 메추리알 노른자도넣어주면 고소하고 맛있습니다. 요리책에서 배운것임 저희고향에서 육전많이하고 팔기도합니다. 전라남도 (반사회적용어).",
+        "writer": "UgyK_wP28afc5gVV2LZ4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)은 어쩌냐 (반사회적용어)꾼이랑 엮여서",
+        "writer": "UgzfCtfD4ApTxuOCxQh4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비오는 날 부쳐먹어야지 어남선생 자란다자란다",
+        "writer": "UgxztgaaY8nCvVM0pV14AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)님 왜화난지 아시는분",
+        "writer": "UgwoE0IUL6jAGTVr5ut4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "믿고먹는 어남샘레시피",
+        "writer": "UgxcDFiLqcokIBhlRMp4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흠 참기름이 옥에 티네요시장에 있는 방앗간 가면 맛있는 참기름 구입할수 있어요",
+        "writer": "UgxX6Ujc9yJTtUi1pKJ4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "음식 너무 잘하시는데 참기름은 너무 맛없는것 쓰시네요,",
+        "writer": "Ugxe_7BWD9_eynhifXh4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "류(이름) 힘내세요",
+        "writer": "UgwUJHLKmV0nmb7m3O94AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 목소리가 찐하게나오네",
+        "writer": "UgyEVzmaqGxIK9UVi6t4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방앗갓 참기름이 진리죠",
+        "writer": "UgxX6Ujc9yJTtUi1pKJ4AaABAg.9RkSERnMRY49RlhH36xZHo",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정보 감사하고 엣지 손가락 꿀팁이네요",
+        "writer": "UgzimSO-o__e-f0dpeh4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "욱전 수산물로 만든 해물파전은 (비속어)할듯",
+        "writer": "UgyXuuK44LmWb9GB8254AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "멸치 까나리 언제 뭐써야되는지, 알려쥬시면 , 크",
+        "writer": "UgxFvRqn6aqTjfb-R2R4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "차력도하고 요리도하고 못하는게 없네 어남셍",
+        "writer": "UgzvDXGe9VLVWI7uWmJ4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참 가지가지한다, . 방송해먹기 힘들지.",
+        "writer": "UgxNyiM5JLsR7HkOVel4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남선이형 지금 육전만들때가 아닌거같은디",
+        "writer": "Ugy1f_PrX2GRcxteYT14AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어남 선생님 요리책으로 출판해 주세요. 책 살 의향 200 예요. 많이 안 넣고도 맛이 나서 따라하기 정말 쉬워 좋아요. 많이 배워요",
+        "writer": "Ugx2kPz4JuBy_ENZNq94AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와역시 어남슨생",
+        "writer": "UgwkjdJPd6SPnJrSwOd4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인제는 책ppl도하네",
+        "writer": "UgwigfoQuAoJtCSk16p4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "K푸드의 참기름 바로 그거조오. 정말 요리설명도 쉽게쉽게 귀에 쏙쏙",
+        "writer": "UgxzsbcqOZujkXUWJUN4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어남선생 하차하면안돼",
+        "writer": "Ugx3urD3OBtfTwt8m5l4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어남선생 최고",
+        "writer": "UgwIcRxiQE1tAD49JCt4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 어쩌나요 오징어",
+        "writer": "UgyyH7_Sc-LAU_etAKl4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어남 (이름) 제이미올리버 처럼 장보고 요리하고 넥플릭스 가즈아",
+        "writer": "UgxzYOZD7XQOZqvFrO94AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다시 왕실이 생기면 대령숙수로 어남선생이랑 백종원 들어가면 재밌을듯",
+        "writer": "UgzdTEl8hD6xshOljqt4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이것저것 보고 먹고 만들고 하다보니 어느덧 요리에 눈을 뜨게 되었다 하더라 어남선",
+        "writer": "UgxVK0rfY1SMTrZZDEJ4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어남선생 진짜 유튭 개설해줘요, 채널명은 어남선타고 장보러 가요로,",
+        "writer": "Ugw-zQr4m_iVTF2uge94AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동대표도 하시고요",
+        "writer": "UgzvDXGe9VLVWI7uWmJ4AaABAg.9RhiiBsZ8Qb9RkkHG2N4xf",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그러는 그대도 역시 가지가지다.",
+        "writer": "UgxNyiM5JLsR7HkOVel4AaABAg.9RheM7NMt8U9RyFEe5DMSM",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭔일 있어요",
+        "writer": "Ugy1f_PrX2GRcxteYT14AaABAg.9Rh9xBHdsL59RlgEt6w_YL",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저, 남자면 최고상궁이 아니라 대령숙수, 그리고 원래 수라간은 남성의 공간이었다고 하네요 여성이 수라간을 맡은 건 고종황제 폐위 후 내시와 숙수들이 모두 해고된 후, 대장금에서 나온 수라간 풍경은 그냥 허(비속어)고 생각하시면 되요",
+        "writer": "UgzdTEl8hD6xshOljqt4AaABAg.9RfLGRC4Nwl9RlovwqHUbt",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "EHUN K 우와, 덕분에 역알못은 새로운걸 알았네요. 대령숙수 메모 수정했어요..",
+        "writer": "UgzdTEl8hD6xshOljqt4AaABAg.9RfLGRC4Nwl9Rlta94vksb",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 어남선님은 요리 전문가신거 같아요 짱짱 스윗남",
+        "writer": "UgxdksVgt9SKBJEqfyt4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ksGaJ-m0XGs",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001656238",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001656238"
+    },
+    "text": [
+      {
+        "content": "포레스텔라의 하모니는 두말하면 잔소리죠 너무 행복한노래예요",
+        "writer": "UgyPSd_jkcl1Ibf8-SN4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 더 풍성한 화음이 넘 좋네요. 이 버전두 저정해야지",
+        "writer": "Ugzy3KNH0hGhtfKKiWB4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밍(이름) 착장 너무 세련되고 예뻐용 힐링 우리팀 포레스텔라 사랑스러워요",
+        "writer": "UgyFjrg39HsT1NZ4BsR4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이날 형호님 넘 이쁜것 같아요",
+        "writer": "Ugys_4U229ulupJSV0N4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐 이렇게 예뻐,",
+        "writer": "UgwZAYUvuN3oq2Ir6xF4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "허허, 무대가 신비롭네요. 노래도 더 아름답네요. 감동 두배입니다.",
+        "writer": "UgzZ4Jpy8EAsxfax3wp4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마음 힐링",
+        "writer": "UgzdDmS4lU9tFhRo8iV4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초록초록하고 사랑스러운 무대네요. 노래도 노래를 부르는 사람들도 무대 배경까지도 너무나 아름다워서 바라보다 행복해집니다. 그리고 한글로 번역된 힐더월드 가사가 참 뭉클하게 하네요.",
+        "writer": "UgzndtFst5l04HrYTZ54AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "빛으로 (이름)희망이 무지개되어 보입니다 포레와 꿈아이들",
+        "writer": "UgyzSd6w-mdEzgH2Rv94AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무대도 너무 예쁘고요....",
+        "writer": "UgzeJNfmOc888YeJD_x4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 왜이리 사랑스럽죠 아왜이리가 아니라 어쩜이리요 하나같이 다 근데 그와중에 형호님 목소리는 아이들과도 넘나 어우러지고 호소력 짙고 포근해요 물론 모두 다, 지만요",
+        "writer": "UgyJCkpy0jf8ptByAIx4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "배경화면이 환상적입니다 노래도 더 고급지네요 아름답습니다",
+        "writer": "Ugw1Z46d-pvgqBUq1XR4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "포레가 있는 세상이 천국이야",
+        "writer": "Ugy4jk2Ubd3IwYLeeVZ4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "화음과 무대장치등 최고로 아름답네요",
+        "writer": "Ugzd2L_KXFo0fbGQk3x4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "숨죽여 눈도 뗄수 없는 무대 너무 아름다운 노래 입니다 똑같은곡이지만 불명보다 더 고급짐",
+        "writer": "Ugzqdq44HcEV7LYDjrF4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도입화음 악기수준이네",
+        "writer": "UgzJIyWnD1CB6y2CjdB4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어린이날에 포레스텔라와 딱 어울리는 사랑과 평화의 세상을 노래했군요 어린이와 아름다운 꽃세상 그리고 포레스텔라",
+        "writer": "Ugx5TWMgSJumHFBdomV4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하루 1포레 힐링",
+        "writer": "UgzYB4Q7GFcw2p0pptF4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목소리 화음 음향 무대cg 어느 하나 빠짐없이 최고. 아름다움 최고.",
+        "writer": "UgzyNe658MwjOkMpBBF4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초반 화음 실화임 헐 이건 머 이세상 소리가 아니네",
+        "writer": "UgwlCNFhvJIqEd2Ktlx4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세상이 다 힐링이 되는 노래네요 포레스텔라여서 더 가능한것 같아요",
+        "writer": "UgzLHoIN02UtYwneFjV4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아름다운 화음과 목소리 동화같은 무대 모든게 너무 좋다",
+        "writer": "UgwL3JH0LG2wTY9ifqR4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "포레스텔라는 사랑입니다",
+        "writer": "Ugypqi1ObMls8xCfbMt4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도입부 화음 미쳤다앙",
+        "writer": "UgwcbZP1eTG6g5fpnWR4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와진짜 아름다운 화음 최고에요",
+        "writer": "Ugyq_c8x5dM6IGyW2RZ4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "처음 화음 미쳤고 cg 미쳤고 합창단 미쳤고 듄 스윗농도 미쳤고",
+        "writer": "UgwgZY4DxQahyHFQT354AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초원위의 포레스텔라 화음이 푸른 풀밭위로 날아다녀요",
+        "writer": "UgzFUc94X8UUtNg6g8J4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "눈과 귀의 피로가 사라졌어요",
+        "writer": "UgxhYrNCW4ESrA7wTt94AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘로 미얀마 쿠데타 100일 이 영상을 보다가 온세상에 죽어가는 사람들을 향한 국제사회의 관심을 바래봅니다 너무나 시의적절했던 선곡이에요",
+        "writer": "UgyIr9vdTeVaSqPFmm94AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "화음이 정말 아름다워요",
+        "writer": "UgzqtprWO9UfXdjkqoZ4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 kbs 참(이름) 특수효과 너무 알흠답고 음향 짱짱하고 우리 포레들 엔딩요정 만들어 주셔서 감사합니다 수신료의 보람",
+        "writer": "Ugw2_LA7p2PPwdT3qJl4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "힐 더 월드 라이브로 들으신 분들 귀 사요",
+        "writer": "UgzNnrzORXLRWQx4l_J4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 사람이 내는소리 맞는가 라이브 맞나",
+        "writer": "Ugx43_y5P83nzEewyCF4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "갠적으로 화음이 가장예쁘게표현된곡, 처음에 효과음인가했는데 다 입으로낸소리라고해서 깜놀 했더랬죠 포레스텔라의 그동안 했던 무대들이 요즘 의미있는 행사들에서 빛을 발하고있어 너무 뿌듯하고 자랑스럽네요",
+        "writer": "UgzCNGTLVcZqioW3ZPh4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번에도 레전드 갱신 매번 놀라게 만드네요",
+        "writer": "Ugzy2noNeQi2h_00ucF4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "kbs엔 포레전용 음향반사판 있나봐요 소리가 반짝반짝 남달라요. 넘 좋으네요",
+        "writer": "UgzbpooHbluM8CAJUgJ4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어린이날에 Heal the World 정말 찰떡 선곡이네요. 역대급 Heal the World 무대 감사합니다 Be God s Glow. 제가 제일 좋아하는 가사 짱짱한 하모니로 클라이막스로 쫙 올려주셔서 넘 감동 받았어요",
+        "writer": "UgwjTZPOmvQAXUhRvtF4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 아름다운 하모니 어린이들과도 이렇게나 잘 어울리다니 다음 어린이날엔 따사로운 햇살 아래 초록이 펼쳐진 곳에서 포레스텔라와 함께하고 싶다",
+        "writer": "UgzedU0jRtpQLgRza4Z4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 진짜 힐링이다아, .",
+        "writer": "Ugw2SdVOI8EUszUIGKp4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "배두훈님 스윗한 미소",
+        "writer": "UgyTw5tqAgKvY1s3TNV4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어린이날 어린이와 포레스텔라 그리고 힐더월드 셋의조합(이름) 의미있는 무대 만든 제작진들 칭차네",
+        "writer": "UgxtbMtQbOy-dMNA4bd4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "화음 아름답고 cg도 너무 멋지네요",
+        "writer": "UgyRa5G6sdWAE-CqTg14AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예쁜 CG 넣어주셔서 감사합니당",
+        "writer": "Ugw5mYOqpSQ_EM4znol4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어른이까지 힐링되는 갓무대 갓포레",
+        "writer": "Ugyu3FhUVCZigI4YB8h4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어린이날 특집 방송에 찰떡 무대.",
+        "writer": "UgwpfXSDXy7WVZcgmiV4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도입부 화음 존좋",
+        "writer": "Ugw_-bMiBx-QOztOI9N4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "듄 얼마나 꿀잠잔거야 눈에서 꿀이 뚝뚝",
+        "writer": "Ugzt8Z20D79veuykYUR4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "호카손 듣고 귀정화하러 갔다가 최신버전 떠서 들어와봤는데 예전 불명보다 더 좋네요",
+        "writer": "UgzhM2iJB34LOURXqSN4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=F55vEy6vKxU",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

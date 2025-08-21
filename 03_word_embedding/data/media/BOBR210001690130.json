@@ -1,0 +1,796 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001690130",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001690130"
+    },
+    "text": [
+      {
+        "content": "뭐이런 영화가 오늘도 잘보구갑니다. 오늘은 지구가 멸망하진 않았네요",
+        "writer": "Ugx4X_-ifs_1nwmu6vl4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 영화도 있군아",
+        "writer": "UgzOy3YJdLBiyIv6xT94AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와우 진짜 상상도 못하는 사람이 변하는 모습은 진짜 새벽네 빵 터졌어옄 아 너무 욱겨여",
+        "writer": "UgwEHCmd4H8pmaCfuap4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아닠내용이 대게 신(이름) 재밌게 봤네요 안에서는 웅장하게 내용을 이어가는데 초 여기서 빵 터졌네욬",
+        "writer": "UgzXhiQBoEvRicKtE2R4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "처음에 순간 엔트맨2인줄 알았네",
+        "writer": "Ugy9AmdkAQWs7EYakCZ4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 미로 사랑의 미로 노래가 생각나는건 나이탓이겠죠 영화 내용이랑 전혀 상관없지만요 마지막 시즌2를 기다리게 하는 모습 시즌2있나요",
+        "writer": "UgyFS5ZYTWuYwXvKRZ54AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남친은 초시공능력자.. 아니 근데 친구는 진짜 죽은거야",
+        "writer": "UgypBAtJD756p2ZijCh4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지구가 안망하다니 어딘가 아쉽당",
+        "writer": "Ugz4A5KITcAds-BJNMt4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 저 손모양이 일루미나티라고 하는 건가요",
+        "writer": "UgzmkZVyTfr6wlphSQZ4AaABAg.980uEsBsMTd981Ajr4Y4pO",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잉 저거는 그냥 피스인데요 롹앤롤같은곳에서 많이 하는 손모양이죠. 방탄도 작은것들을 위한시에서 손동작을 했구요",
+        "writer": "UgzmkZVyTfr6wlphSQZ4AaABAg.980uEsBsMTd981hzdOOiDf",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헣헣 그렇죠",
+        "writer": "Ugyer84m0XwZJ68ChtR4AaABAg.980ikhc-j9A981APv7OxqT",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "신기한 마법의 공간인 것 같습니다",
+        "writer": "UgziCGcgVbK3nYHeMCR4AaABAg.980hE1ETOrr981ANdkSa0q",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앜 이상(이름)의 라면박스 검색해봤어여",
+        "writer": "UgzjDaLHAQQLTB_-EPl4AaABAg.980gdLPQSo-981ALV0Ho8W",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동네비디오방 좀 웃겼나요 , 개그욕심이, 리뷰 잘보고 있어요.",
+        "writer": "UgzjDaLHAQQLTB_-EPl4AaABAg.980gdLPQSo-981BtwI_M9g",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조별 과제",
+        "writer": "UgwSWebMW9lkjukTalZ4AaABAg.980cPpciyoI981AHw0IILA",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대학 살무기",
+        "writer": "UgwSWebMW9lkjukTalZ4AaABAg.980cPpciyoI994hnZrnZ_P",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동네비디오방 겨",
+        "writer": "UgwSWebMW9lkjukTalZ4AaABAg.980cPpciyoI9BVMlwo3oNg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "학생들 (이름)들 여기로 들어가시면 됩니다",
+        "writer": "UgwSWebMW9lkjukTalZ4AaABAg.980cPpciyoI9D5_yVesfAE",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 쿨하게 안 살려주더라구요",
+        "writer": "UgyTyO3k_8cZUilGCZ94AaABAg.980TlRT23LZ981A6L4nlZu",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동네비디오방 네 또 뵈요",
+        "writer": "UgwERf3Pz8RWEKe7l6B4AaABAg.980Sh0PGU7p981Ay0gAah_",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "심지어 그다지 안타까워 하지도 않아요",
+        "writer": "Ugxwm_IgniksWv2voRJ4AaABAg.980SN5o1VJT981A2CNjYVO",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거슨 마법",
+        "writer": "UgyF2XtUnCMexOd-_VJ4AaABAg.980HxDcs3aW9819q98IDU2",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헣헿헿 기발하지유",
+        "writer": "UgwL-HDtu_HwYe0AJQJ4AaABAg.9804PcUp2jJ980Hbps2um6",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주말 전에 한 번 망하게 될 것 같습니다",
+        "writer": "Ugzp3D5MHF1KLWN9geV4AaABAg.98-zzNfG2dt980H_4WQxQv",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주말 전에 한 번 멸망하게 될 것 같습니다",
+        "writer": "Ugx4X_-ifs_1nwmu6vl4AaABAg.98-hhk9J5GQ980HRS-5kiz",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동네비디오방 전 지구멸망이 개인적 취향입니다.",
+        "writer": "Ugx4X_-ifs_1nwmu6vl4AaABAg.98-hhk9J5GQ980KCV_D-xq",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영화의 세계는 완전 넓으니까요",
+        "writer": "UgzOy3YJdLBiyIv6xT94AaABAg.98-gPhjZuGe980HOBFuT7r",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초 진짜 너무 당황 진짜 쵝옼",
+        "writer": "UgwEHCmd4H8pmaCfuap4AaABAg.98-ebRkykyu98-epBtJ84P",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흐헣헿 영화가 완전 기발하더라구요",
+        "writer": "UgwEHCmd4H8pmaCfuap4AaABAg.98-ebRkykyu980H14i1eu6",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "들썩 들썩",
+        "writer": "UgzXhiQBoEvRicKtE2R4AaABAg.98-YwvySlJD980GuiQ_tN3",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앤트맨 좋네유",
+        "writer": "Ugy9AmdkAQWs7EYakCZ4AaABAg.98-UIwhl0qe980GoOcZxwF",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시즌2 없습니다 이것도 흥행 하지는 못해서,",
+        "writer": "UgyFS5ZYTWuYwXvKRZ54AaABAg.98-Pr9L-9N2980GdFArCMZ",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "친구들 진짜 죽었습니다",
+        "writer": "UgypBAtJD756p2ZijCh4AaABAg.98-OBWQ54SZ980GJstDQZR",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앜 주 1회 이상을 망가트려 놓을게요",
+        "writer": "Ugz4A5KITcAds-BJNMt4AaABAg.98-MzYefrzo980GE1R3sGJ",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런영화 좋아하는데, 늘 이렇게 좋은 리뷰 감사드립니다.",
+        "writer": "Ugz19A4Hd4-jpi0oghd4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘 지구는 안전합니닷.",
+        "writer": "UgwrC6-UIEsRJZuPUfp4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭔가 귀여운데 무섭고 무섭지만 (이름)고 (이름)지만 (이름)고 복잡미묘하네요 근데 왠지 실제로 있다면 들어가 보고는 싶은 미로네요",
+        "writer": "UgyyP5ax5va2_z1zCTF4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앗, 크리미널 마인드에 페넬로페 아니, 저런 미로가.말이.되는지, 와우, 대탈출인데욥,",
+        "writer": "UgwFKB1Vnxql0rZkA-h4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기발하고 재밋지만, (반사회적용어) 데이빗, 늘 원(비속어)의 잘못을 애매하게 넘어가는 미국식 넌센스는 한국인에겐 통하지않는다. 한국인은 논리적이라서 일단 누구 잘못인지부터 따지거든",
+        "writer": "Ugz8UGeD_dc_952LH994AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "닌텐도 라보월드",
+        "writer": "Ugw1EiZ2Z6D6qgdXs8h4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "겁나신박하네욬거의 해리포터에 나왔던 텐트",
+        "writer": "Ugwde2LndMNCXZ3KCtJ4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 여기 아니었으면 평생 듣도보도 못했을 영화, 종이박스 미로라길래 앤트맨이 피넛을 위해 만들어준 미로인 줄,",
+        "writer": "UgwQSdrKuox8qZI-FNd4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지구멸망 인류멸망 전쟁 외계침공 (비속어) 이쯤되면 우리 동방님 마조히스트",
+        "writer": "Ugz-6n1y3Ezg4d63Gth4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 특이한 영화네요",
+        "writer": "UgzygQfJFs18r9APhA54AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감독 머리속에 뭐가 들어야지 이런 영화를 만들까요. 스토리의 개연성 그런건 제쳐두고 상상력만으로도 기발한 영화네요.",
+        "writer": "Ugw4_iysxrOoR1q_UFB4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "집안에 아파트보다 큰 저렇게 말도 안되는 크기의 종이박스의 미로인데 처음에 들어가서 놀라지도 않고 해맑은 사람들이 더 무섭네요.",
+        "writer": "UgwBcDHdo2jSQQcPh2B4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭔가 넷플릭스 스럽군요",
+        "writer": "UgyBjL355eBcY845avV4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "똥방님의 영화 세계는 어느정도 입니까 장르가 다양하고 정말 맛깔스럽게 설명해주네요. 우리가 모르는 홍콩 느와르도 염치없게 부탁해 봅니다 감사합니다..",
+        "writer": "UgxDyeXYxGgH5TCbvfR4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "독특하고 새로운 시도.",
+        "writer": "Ugx_YFLO8oXE-lHiXKd4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제작비는 저렴하게 들었겠네요.",
+        "writer": "Ugz8UCMzXazZ-ses80V4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "볼만 하네요",
+        "writer": "UgxdTpk-W2K_PyPLApB4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제목 데이브 미로 만들다 라고 합니다 여러분 끝까지 시청.",
+        "writer": "UgyhaP95Ks2rqVYHF014AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기발함과 (비속어)의 사(이름), 진짜, 동네비디오방님 아니었으면 죽을때까지 몰랐을것같은 영화네요. 제스타일이 아닌 영화지만 똥방님이 제스타일이라 끝까지 보게 만듭니다.",
+        "writer": "UgzBXj44pVB0MiURA0l4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헿헿 감사합니다. 앞으로도 열심히 하겠습니다",
+        "writer": "Ugz19A4Hd4-jpi0oghd4AaABAg.98-K_W0_jmw98-Mq5gdNH7",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앜 주말 쯤에 한 번 (반사회적용어)라고요",
+        "writer": "UgwrC6-UIEsRJZuPUfp4AaABAg.98-KQBY5BuK98-MoPJkgKy",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왠지 저기서는 괴물한테 당해도 안 아플 것 같아요",
+        "writer": "UgyyP5ax5va2_z1zCTF4AaABAg.98-H_lN9lBi98-MkKE8UUv",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대탈출 꿀잼",
+        "writer": "UgwFKB1Vnxql0rZkA-h4AaABAg.98-9fDacoT898-DGm91ARH",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞아요 데이브 때문에 여럿 죽었어여",
+        "writer": "Ugz8UGeD_dc_952LH994AaABAg.98-7ha6MdMn98-8jeOE4a6",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "라보 로봇 변신 생각나네요",
+        "writer": "Ugw1EiZ2Z6D6qgdXs8h4AaABAg.98-7MBiXiaI98-8h6yhSPJ",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그게 더 기발하네요",
+        "writer": "UgwQSdrKuox8qZI-FNd4AaABAg.98-30rnfkP598-4Gne3MrB",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 처음에 뭐야 피넛용 미로 또 나왔나 이랬는데",
+        "writer": "UgwQSdrKuox8qZI-FNd4AaABAg.98-30rnfkP598sGHD0ePep",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앜마조히스트라니 흥미로운 이야기군요",
+        "writer": "Ugz-6n1y3Ezg4d63Gth4AaABAg.98-2ecxXG6_98-4CFKSAx0",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동네비디오방 오늘 하루도 고생했어요",
+        "writer": "Ugz-6n1y3Ezg4d63Gth4AaABAg.98-2ecxXG6_98-55pwebLH",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개연성은 집 나갔지만요",
+        "writer": "UgzygQfJFs18r9APhA54AaABAg.98--xty0Rad98-0H5-HJ6l",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개연성은 집나갔지만 독창성 만큼은 짱인 것 같아요",
+        "writer": "Ugw4_iysxrOoR1q_UFB4AaABAg.97zzhe5ZV7F98-0F5imDRu",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앜 해맑은 사람들 맞아요 심지어 안에서 친구들까지 죽었는데 마지막에 뭔가 해결한 듯한 표정들이잖아요",
+        "writer": "UgwBcDHdo2jSQQcPh2B4AaABAg.97zvUMC6Ngg97zyb_5osnN",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "죽은사람도 있는디 나와서도 해맑은게 소름",
+        "writer": "UgwBcDHdo2jSQQcPh2B4AaABAg.97zvUMC6Ngg988YSgVRXVe",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "친구 죽었는데 해맑",
+        "writer": "UgwBcDHdo2jSQQcPh2B4AaABAg.97zvUMC6Ngg988db-lbUfK",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서양인들이 우리들 생각보다 (비속어)함 자기나라가 어딘줄도 모르는데 뭐 말다했지",
+        "writer": "UgwBcDHdo2jSQQcPh2B4AaABAg.97zvUMC6Ngg98LDqDloold",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애꽁사랑피어싱중독 이댓글이 더 (비속어)해보이는데, 영화 컨셉 이해도 못하고 갑자기 (비속어)해서 원래 (비속어)하다니 뭐하니, 참",
+        "writer": "UgwBcDHdo2jSQQcPh2B4AaABAg.97zvUMC6Ngg98McfMlaIf2",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)은 님이 하신듯",
+        "writer": "UgwBcDHdo2jSQQcPh2B4AaABAg.97zvUMC6Ngg98Mgd98_KZi",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)은 아니지 지들 나라가 지도상으로 어딨 지 모르는 애들 많음",
+        "writer": "UgwBcDHdo2jSQQcPh2B4AaABAg.97zvUMC6Ngg98Nhzwl_sVM",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "X 뜬금 없는 건 맞잖어",
+        "writer": "UgwBcDHdo2jSQQcPh2B4AaABAg.97zvUMC6Ngg99HX4dEkspw",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앗 넷플릭스 스럽",
+        "writer": "UgyBjL355eBcY845avV4AaABAg.97zt70Tbmnw97zwFgx7iSL",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헙 홍콩 느와르... 기회되는데로 준비해보겠습니다",
+        "writer": "UgxDyeXYxGgH5TCbvfR4AaABAg.97zsth8-OYn97zwEFRCaYN",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)으로 넘어가기 전단계 였어여",
+        "writer": "UgwjMIpMoyE0mzrIhuR4AaABAg.97zodPKIM8497zvocSVnY8",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저거 만드는 스탭들만 고생했을 것 같아요",
+        "writer": "Ugz8UCMzXazZ-ses80V4AaABAg.97zn6TjNIXE97znE5llSs2",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헿헤헹 다행이네요 감사합니당",
+        "writer": "UgxdTpk-W2K_PyPLApB4AaABAg.97zmIpWldaS97zmlcgjFo2",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엇, 밥술한잔님 멋져",
+        "writer": "UgzBXj44pVB0MiURA0l4AaABAg.97zleuBlJUz97zm7n4Oocb",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리뷰 재미있어요 오늘도 지구는 안망했어요",
+        "writer": "UgyRg7D5uFEglOi_vnh4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 말도 되지 않는걸 우리 똥방님 영화 독창적이네요 영화 잘보겠습니다 감사합니다",
+        "writer": "UgwgjzlIJSPqmBmv8hZ4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 목소리가 너무 좋아",
+        "writer": "UgwK_3iV7kTWpveeEUF4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘은 빨리 왔어용. 지난주에 계속 늦어서 죄송합니다",
+        "writer": "UgwmuyZDL0aBevNmBmt4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한 주를 망하면서 시작해야하나 고민 많이 했어여",
+        "writer": "UgyRg7D5uFEglOi_vnh4AaABAg.97zlcsw5u-X97zm5L4UsKU",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헣헿 (비속어)과 판타지의 아슬한 줄타기였어여",
+        "writer": "UgwgjzlIJSPqmBmv8hZ4AaABAg.97zlS8dOuSg97zlfF2hwOM",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동네비디오방 재밌있게 밨어요",
+        "writer": "UgwgjzlIJSPqmBmv8hZ4AaABAg.97zlS8dOuSg97zqqj-NesG",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헿헿 감사합니다",
+        "writer": "UgwK_3iV7kTWpveeEUF4AaABAg.97zkU2JwKqr97zkahIuHYS",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 진짜 빠름요 .. 대기하고 계신거 아니죠",
+        "writer": "UgyzfV57IGTLo4gtC2F4AaABAg.97zkQ09tda397zkZVCQkXw",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동네비디오방 예 아니요",
+        "writer": "UgyzfV57IGTLo4gtC2F4AaABAg.97zkQ09tda397zkf0EL1WS",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오해할뻔 했잖아요헤헿",
+        "writer": "UgyzfV57IGTLo4gtC2F4AaABAg.97zkQ09tda397zkpOCnuQI",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 영화 소제가 독특하네요 근데 이미로 다른 차원 이예요 집안에 이렇게 만드는거 불가능",
+        "writer": "UgyzfV57IGTLo4gtC2F4AaABAg.97zkQ09tda397zkxVaccQZ",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐랄까, 마법의 미로 쯤 되는 것 같아요",
+        "writer": "UgyzfV57IGTLo4gtC2F4AaABAg.97zkQ09tda397zlQMhnKQW",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동네비디오방 지금 보고 있는데 마법이네요 상상력짱.",
+        "writer": "UgyzfV57IGTLo4gtC2F4AaABAg.97zkQ09tda397zlbdXSe_0",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 왜 마법이 걸리는지는 안나와서 아쉽더라구요",
+        "writer": "UgyzfV57IGTLo4gtC2F4AaABAg.97zkQ09tda397zmoj41Uz-",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동네비디오방 그니까요 열린결말인가",
+        "writer": "UgyzfV57IGTLo4gtC2F4AaABAg.97zkQ09tda397zpaVMb65t",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아쉽게 2빠요",
+        "writer": "UgzdH5_xVI-QqyKwVmt4AaABAg.97zkOXalJic97zkTXIDaLY",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐, 진짜 빠름요",
+        "writer": "UgwmuyZDL0aBevNmBmt4AaABAg.97zkNOKdMl397zkQOSjZb7",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동네비디오방 평일에는 항상 기다리고 있어용.",
+        "writer": "UgwmuyZDL0aBevNmBmt4AaABAg.97zkNOKdMl397ztl7mYWnE",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=WLburJAeqUI",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

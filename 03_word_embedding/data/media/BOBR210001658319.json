@@ -1,0 +1,620 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001658319",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001658319"
+    },
+    "text": [
+      {
+        "content": "우석이랑 따다 기여워어어어어어어어어어엉엉",
+        "writer": "UgzT4V2yrCZMgQoUTfB4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 몇화에요 보고싶어요.",
+        "writer": "Ugzs_eClHibsgCRbDfF4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "닮았네닮았어 잘생긴거까지 닮았어",
+        "writer": "Ugybzu9wo_sYCWxJ-bB4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애기 (비속어)가 오자마자 (이름) 훈련사님 옆에 가서 앉아있다가 훈련사님 조심히 (이름)시니까 시선 따라가는 거 넘 귀여워요 진짜 좋은 사람이라는 포스를 느꼈나봐요",
+        "writer": "UgxFYnvFXObcfJjgFlh4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 포메 완전 곰상인듯",
+        "writer": "UgxKVeXZ4QcZYLPOrlJ4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)가 (비속어)를 키우네",
+        "writer": "UgzgvVL4WZqbHRh7tyZ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "달려오는 첫 장면부터 아름답다",
+        "writer": "UgzdjYR4irElo4ntuhJ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "따따부자 너무 사랑해 따따 (이름)래 건강하게 살고 우석이도 건강하고 행복하게 가수랑 연기자생활 오래하자. 나도 팬으로서 쭉 함께할게",
+        "writer": "UgxraA9dWYHMUL7I4PV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "반려동물은 주인 닮는단 말 진짜인가 봐 (이름) 쌉고양(이름)데 따따랑 그림체 동기화 되는 거 완전 (이름)다",
+        "writer": "UgxG9zG2-vFeFHtcCWJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안돼 안돼 다 따따같이 귀여운 개만 나오는거 아니니까 그냥 한번씩만 나와",
+        "writer": "Ugyg4EKfbazicxGOdMt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "트웬티트웬티 현진이가, 왜 여기 있어",
+        "writer": "Ugwe5Ve9cH6t7AcpNNF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "X1때 우석 오(비속어) 따따 라고 말 많이 하셨는데 애기 이름이 따따 여서 더 귀엽네",
+        "writer": "UgzBIg7g8vlP6pLJLsR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "따따야 사랑해,",
+        "writer": "Ugy2hwdx1bUikZghk094AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "따따 전생에 나라 구했어",
+        "writer": "UgzGlLhFqFwODsiWvK94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀여워 저솜뭉치녀석 , 넌복받은거다 , 다음생엔 꼭 저 솜뭉치로 태어나고싶어 , 우석오빠랑같이 살다니 .",
+        "writer": "UgxrzxaYdmzf-QrYYLd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "등장할때 청순미 (비속어),",
+        "writer": "UgxHjBGXeLj7tpqXyph4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "따따 너무 귀엽다, (비속어) 왜케 잘 흔드니",
+        "writer": "Ugzlz1iH2n3B-8ISCo94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 귀여워.",
+        "writer": "UgzyDIbdKkpP18HFMZt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 몇화에요 아무나 제발 알려 주세여진짜 제바류",
+        "writer": "UgwYkLx-TYcykiWvoZx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀여워 따따",
+        "writer": "Ugxy-H2qbtBNwnDQJBd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어 따따야. 할때, 우석옵 넘나 귀여웡,",
+        "writer": "Ugw_V0bnILy0g0kol7t4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아, 이러시면 안되시죠 우석이 얼굴보느라 마무것도 들리지않아",
+        "writer": "UgwfRbl672EpGnz7bhd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀여워, 둘다 진짜",
+        "writer": "UgzX7DM00T-RS7Ie5Bt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 우서기 오빠",
+        "writer": "UgypfPz1_datnrh_AEl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우서기는 사랑입니다 화보 맞는데요",
+        "writer": "UgwCBbe8iWwfnrrRNHZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하, 마음이 정회되는 마법",
+        "writer": "UgzvQJi3daay_bxOGVZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우석 오빠 너무 멋있다 그리고 우석 오빠 (비속어) 따따도 귀여워요",
+        "writer": "Ugy-bupCb69r3jy91I14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 처음으로 개팔자가 상팔자라는걸 인정했다.",
+        "writer": "Ugwwa0H988X1tYx2LoF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "따따넘귀여워 우석이오빠 사랑해여",
+        "writer": "UgwB3GbB2En-hKvftlV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "펫샵 분양이네",
+        "writer": "UgzRXPlrdYwAvhbgaCd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개는 휼륭하다에 우석이 나오는거 생각도 못 했음.",
+        "writer": "Ugw4srIKK_qa0RNZwS14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우석이와 따따 볼때마다 심쿵 넘 귀여워",
+        "writer": "UgwMRgLS_1hwvpa7Pl94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 (이름) 개사랑해",
+        "writer": "UgxIWH6A8QS0SieY1hJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리우석인 또 봐도 심쿵 좋아 죽겠음, 개는 훌륭하다 고생시켜주지 우리우석이 관계자분들 플리즈 따따랑 같이 나와서 또 영상보고 있쭈 근데, 따따 키우고싶다는 울 딸 아들키우는건 내가 힘들어 따따 닮은. 인형 나옴 사달랍니당",
+        "writer": "UgwPiGVZNpS1-DxWqdt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 따따 둘다 예쁘다",
+        "writer": "UgyAnOgXUzNXeUnx_UN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개(따따는 훌륭하다)는 훌륭하다. 주인((이름)이 훌륭하다)도 훌륭하다.",
+        "writer": "UgznGzl8VxNGqDt4lxh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "kbs2 개는훌륭하다 30회예요.",
+        "writer": "UgwYkLx-TYcykiWvoZx4AaABAg.9Djq_pskNEA9DkBs5gDqOD",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이랑 메죵따따가 고정하면 좋을듯,",
+        "writer": "UgwK3875ZTw9ATz_4R54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 진짜 둘다 너무 이쁘다",
+        "writer": "UgxIrsM3-DM93uhx7Bl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "x1 언급 (이름)심 해용 이걸보는 멤버들도 불편 할것 같아용",
+        "writer": "Ugw(반사회적용어)CtsMNSMFi4sxIR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보호자도 반려견도 멍뭉미 폭발",
+        "writer": "UgzByHdEf9RUGd5byjx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꺄악 넘 조아",
+        "writer": "Ugz8MRVpKwZwbcAXXsJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 우리 우석이는 오늘도 얼굴이 열일하는구나, 우석이는 사랑이에여,",
+        "writer": "Ugwe7F2aj9lwvPh7IJV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엑스원 언급",
+        "writer": "Ugx71FqHn-gzuMy8KdJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 어똑해 따따 너무 귀엽다 이름도 따따야 너무 귀여웡 그리구 우석이도 너무 귀여워 우석이하고 따따하고 묘하게 닮았다....",
+        "writer": "UgztYheIWOqdthJJ6_l4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마음이 평온해지는, 아름다운 느낌,",
+        "writer": "UgyB1tdMDPtuLgcwr8N4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "따따로 태어나고 싶다, 나만그럼",
+        "writer": "Ugwkccg4T9Ls2PrCTDx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "따따너무 이쁘고 귀여움 역시 아빠 닮아 잘생김",
+        "writer": "UgxKhQCNw4pBAMqBrUp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 부자 비주얼 대박이네 그아빠에 그 아들",
+        "writer": "UgzOjMBa9qfJQclbVG54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게 바로 마음의 힐링영상인가,",
+        "writer": "UgzU5GpQIhgEnr1w9KF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 진짜 닮음,",
+        "writer": "Ugwtkw4iTOZaZpS7Yp54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 (비속어) (혐오표현)쁘다 아 진짜 (비속어) 어쩜 좋아",
+        "writer": "UgzX7lZhbl8Nk7dnXwZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우석이랑 따따가 개훌륭 고정했음 좋겠다,",
+        "writer": "UgwiscHJSy-g6XOhKzN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 복지다... 따따 아빠랑 똑같이 생김",
+        "writer": "Ugw3aPfe5GTUbaGovNt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인형이 인형을 안고있으니 더 비현실적이넹 보고싶어",
+        "writer": "UgyrKeyc5_4HO47TDxN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하 개귀여운 부자다 정말",
+        "writer": "UgwWnMsDc_ElIQjbyHN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우석이가 개훌륭 고정했으면, 진짜 힐링된다",
+        "writer": "UgzJXBmstehAUfm15dV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "만찢남 우석 만찢댕 따따 너무 사랑스런 투샷",
+        "writer": "Ugy17AiOCpYuiWlx6A94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여담인데 우석이 슈돌에 나오면 좋겠다,",
+        "writer": "UgzW5PFKBr2YVn5_aQF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "따따 너무 귀여워",
+        "writer": "UgwfrlTkYthSuJ3QLkt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우석오빠 진짜 사랑해요",
+        "writer": "Ugz24-W5jFLH_KaNBzZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 고양(이름)데 따따랑 닮은거 신기해",
+        "writer": "Ugyf7wOVdH1fYigdydR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "화나는게 조금 이따가 실제 방송 보면 우석이 자막 쓸 때 (이름)이라고 되있음",
+        "writer": "UgxH3amgVSdinD9nT3x4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "최강 조합 (이름)과 따따를 소개합니다 워후.. 울 우석이는 (비속어)고앵인뒙,",
+        "writer": "UgzeDVitxwdQgcHTA7x4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우석 따따와 메종 따따. 너무 이쁜 조합. 따따야매일 우석의 앉아 꿀목소리 들어서 좋겠다 우리 따따 너무 귀여워",
+        "writer": "UgzvfgoReCknNZVKqeR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "따따 너무 귀엽다 진짜 (이름)이랑 닮았어",
+        "writer": "Ugzj3-qF61DGGf1YBed4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너모 기여워 우석아",
+        "writer": "UgyiiDHQgKlU85ZQgYx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 닮았다,",
+        "writer": "Ugx8lx0YG_GWCSylntd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우석이따따 닯아서 귀여워좀무서워지만 우석이보고 다시 좋아짐",
+        "writer": "UgzZC-yFwSOSNKowktp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 그냥있을뿐인데 상큼함 실화, 화보찍는줄,",
+        "writer": "UgyFgCF02SlK_52dzU54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우어어너어어어 귀엽다",
+        "writer": "UgyPDDKsbVScvrvVkZ54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마음이 정화된다, 하루마무리할때 매일 보고자야지, (이름)이랑 따따 개훌륭 매주 나와주면 안될까요",
+        "writer": "Ugz9vZsfE3tBa4NIqrh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그러게여 애옹이가 따따랑 닮았엉",
+        "writer": "Ugyf7wOVdH1fYigdydR4AaABAg.99a07TwMPq69HWqg4FYLAj",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "16초에서도 캡쳐를 저렇게",
+        "writer": "UgxH3amgVSdinD9nT3x4AaABAg.99_kg2y7WcE9DE5P5EnhzX",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대박 귀여워어어엉어어",
+        "writer": "Ugxtax_UQFk8Ik6rOl14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "따따 너무 귀여워",
+        "writer": "UgxeeEvLKzwEbQZLPKN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IQmn7boBoz8",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

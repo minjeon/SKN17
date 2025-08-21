@@ -1,0 +1,788 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001664455",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001664455"
+    },
+    "text": [
+      {
+        "content": "애기가 엄마닮은구석은 안보이네 입이고코고눈이고 아빠판박이네",
+        "writer": "Ugw9iNtoNYI5m0DsgnF4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이고 넘쁘다 귀엽고말도 이쁘게도 하고 잘하네 이모 울딸도 지금은 4학년이지만 21개월때 진짜 이뻤고 말을 더 잘했단다 동네 할머니들이 다 이뻐했어 우리딸도 엄청 잘먹었는데 (이름)보니 이모가 옛날생각이 나네요",
+        "writer": "Ugy1jP4IQiyqiVUij2d4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)님 진짜 정성껏 해주시는거 감동이네요",
+        "writer": "UgzKO4nWFlsmZ9a89OR4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아기늘은 애교 다있어요",
+        "writer": "UgyhfllNu68I3C7-PH94AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "절대 안돼 에서 그냥 내 심장 우르르르 아 매력터짐",
+        "writer": "Ugx41kmB7jQjLKyLCSF4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아구 귀여워라 박(이름) 솜씨에 부끄러워지네요 정성이 대단하세요",
+        "writer": "UgzIMGLvSHaEZ9zhUpN4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)님 주얼리때부터 참 똑부러져 보였는데 육아도 똑부러지시네요",
+        "writer": "UgxZULk13kAPp-zJN2x4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애 얼굴보니 (이름) 성형전 얼굴이 궁금해진다",
+        "writer": "UgxRkhDbDmvBKDjBeCh4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "절대 안돼",
+        "writer": "Ugw5gE_Pim5z_LGrOO94AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아기가 두살이에요 헉 많이 커보이네요 말도 엄청 잘하고 네살(이름)줄 알았는데 우와",
+        "writer": "UgwQ2AwLIMhPa-GrJHR4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애키우면서 행복한 모습 참 보기 좋아요 애기도 넘귀엽고",
+        "writer": "Ugx8NJIXCq-Z-40wLJ14AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "메뚜두알 너무 귀엽자나",
+        "writer": "UgynRsJpZ4kOWMFAmO94AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 예쁘다.",
+        "writer": "Ugw4VCSOwU1a4QHKbUF4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄마의노력이 아이언어성장에 큰도움이되죠 끊임없이 말하고 묻고 힘들었겠어요",
+        "writer": "UgxHcP4Ha2HYzGp7LBN4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어쩜 애기가 저렇게 말을 귀엽게 똑뿌러지게 잘하지",
+        "writer": "Ugz5gQhn7B35i0nwsZV4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무너무 귀엽귀엽하구 말을 엄청 이렇게 잘하냐",
+        "writer": "Ugx-1DQDLYF1SNjJmY94AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내조카가 저나이에 앵두나무 우물가에 라는 옛날노래를 12절을 다부르더니 기억력 영재에 중3인데 서초동 수학학원에서 수학만점 맞아서 학원(이름)이 너무 기쁘다고 전화옴 아(이름) 분명 공부 잘할거임 아빠 행시패스 엄마수학과 다니다 교대들어감",
+        "writer": "UgydES0FNWVUWtd34dp4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "박(이름)는 자연미인., SNS에 어린시절 엄마와 함께 찍은 사진들과 하나도 변함없이 똑같음., 아가는 아빠 판박이.,",
+        "writer": "UgxRkhDbDmvBKDjBeCh4AaABAg.9P0hiCvVX819PWnd8NW4-2",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "절대 안돼 꺄",
+        "writer": "UgwZ9wI2Bpb8jxbpD6B4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아윤이 너무 귀여워요메뚜루알 안아보고싶네요",
+        "writer": "UgyeF7l0cuPg2OBeGFl4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "박저아 성형전 보고 실망",
+        "writer": "UgzhnHRcJwqGKZmWOV14AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아기 애교가 36단이내 넘 귀여워",
+        "writer": "Ugxe6jfc0tkfv398-Eh4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인기 스타에서 낮은 곳으로 내려오셨네요 보기 좋습니다",
+        "writer": "UgylhaNMOOLp2GkoQWB4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울딸 20개월인데 너무 닮았어요 넘 귀여워요",
+        "writer": "UgxyZo6QdEQeOtmFyip4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "돌싱들도 출연좀시켜주시지. 살림남 나왔던 지(이름) 민수어머니 부모를 대(이름) 조카를 키우시는연예인 분들도계실텐데",
+        "writer": "UgwAmskBaYRpJjacNiZ4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 귀엽다",
+        "writer": "UgzNP2lxxn1KJGdk5td4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 집에 러닝타워가 시급함",
+        "writer": "Ugwu0Il9A225Ia3X3rp4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애기 왤케 귀여워 .",
+        "writer": "UgwpkoFw1h1w0zdIAG14AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "슈돌 나오면좋겠넹",
+        "writer": "UgwLpCo1VDGh__mwyz14AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기저귀차고 말 너무 잘하는데요.",
+        "writer": "UgwlthZkzkaWDHWxq0d4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방송보고 진짜 놀랐어요 요리실력과 아가의 언어력에 , 아기 밥을 이렇게 신경쓰는 분은 처음봐요 다른 유튜브에 나오는 분들도 이정도 아니던데. 엄마는 대단해",
+        "writer": "UgxSCssw2W6hoEwctDd4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아빠 판박이네요",
+        "writer": "UgwuBIwALdyFS2epfQB4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자연미인 을 성형전 실망 어쩌니.저쩌니. 하는데, 요즘은 증거없는 소리 지꺼리면, 명예훼손죄 로 고소 당할수 있는것을, 모르는가 보네., 에휴.",
+        "writer": "UgzhnHRcJwqGKZmWOV14AaABAg.9JIbYgcp10F9PWo_tgcJj6",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 니 인성보고 실망",
+        "writer": "UgzhnHRcJwqGKZmWOV14AaABAg.9JIbYgcp10F9PZ_IqNur3o",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아빠랑 똑같음",
+        "writer": "UgwuBIwALdyFS2epfQB4AaABAg.9J7zsmLsevx9JqCWZTDUQT",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어머 말 진짜 잘하네요 하나만 더달라 그러구, 두돌도 안됐는데 빠른 듯 볼빵빵이 넘 이뻐요 한창 예쁜시기인듯",
+        "writer": "UgznWUeAkC1Azwywgkx4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "돌에서 보고싶네요",
+        "writer": "UgzXA-6c_QfUmpsE5sN4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밥먹어야 하는데 귀여워서 메추리알 계속 주게되네",
+        "writer": "Ugw_lp6jgtwFx2uLPdd4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄마를 안닮아서 영 시원찮타",
+        "writer": "Ugxju7aiybAl8rI2gAd4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아빠닮았나봐, 말은정말발한다,",
+        "writer": "UgwJbFEcAyIR7P7VBx54AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "말을 어쩜 저리 잘해",
+        "writer": "UgxJ9lNIWqEplNqFtHB4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 귀여워말도 잘하네요",
+        "writer": "UgxZ94inzT4UXACrE3l4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "늦은 나이에 애 낳아서 그렇게 애 키우다가 한번에 훅 갑니다 걱정되네요 엄마 읔식도 잘 챙겨드시고 14킬로 애기 그렇게 안다가 허리 나갑니다 조심하시길",
+        "writer": "Ugx1Fxhnd9RM_rvz4bN4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 (이름)님 애 낳으셨구나 애기 너무 이쁘고 (이름)님도 넘 행복해보이신다",
+        "writer": "UgxhgBBZMQ_eIOQBrrV4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "약간에 메이컵 했겠지만 생얼 이쁜네",
+        "writer": "UgyZBkwrRfpiUtz-JGZ4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "메뚜루알 아유 귀여워라 말도 잘하고 애교 까지 사랑 스럽네요 메뚜루알",
+        "writer": "UgzwP0f0JsPNNxyv6rF4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 말 나보다 잘하는데 귀엽",
+        "writer": "UgyXcBCd8XLCU7sGd4d4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "박(이름)비된엄마네아이 메추리알먹일때 칼돈리는거 참보기좋네",
+        "writer": "UgyxzEa0DGdxeiLr_w94AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아빠 닮았나보네",
+        "writer": "UgyqWnTYSgHc2Sp2x2t4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)에서 만낫엇는뎅 정아님와",
+        "writer": "Ugx27MmnrE0h9iblWE14AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "박(이름) 따뜻하고 사랑가득한 엄마네요 아기가 말을 너무 잘하네요",
+        "writer": "UgwNSxIFhIOtkEmvbOB4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)도 쌍꺼풀은 했을거예요",
+        "writer": "Ugxju7aiybAl8rI2gAd4AaABAg.9J7dsZZiqul9J8UP2tBKNk",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "An y 데뷔때 찝은거 한번빼곤 성형 안했음",
+        "writer": "Ugxju7aiybAl8rI2gAd4AaABAg.9J7dsZZiqul9JqConGCK1L",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요리 이것저것 잘하시네요대단해요 전 맨날 생선만구워주는데",
+        "writer": "UgwLJS9mySVuf5GIuJp4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아잉 귀여워.",
+        "writer": "UgzlhqAr_6PKMzNGc2p4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "실시간 방송은 안되네요 채널돌리다가 (이름)님이 아이랑 있길래, 님 풋풋했던 기억이 있어요마침 방송보다가 찾아봤는데(이름)님 결혼해서 아이있는 줄 첨 알고 깜놀.님은 소중한 하나밖에없는 아이니까 (누구나 첫아이 엄마 맘은 같은데,)음식을 보통 사람들과는 다르게 아이간장에 소스에 그렇게 특별하게 고생하면서 해주면 유. 이후 사회생활은 어떻게 적응할지 걱정됩니다, 평생엄마손으로 키워야 될것같아요, 좋아보이는게 아니라 님때문에 엄마뿐만 아니라 아이도 고달퍼집니다 슬퍼지네요,적당히 해주세요, 까딸스러워집니다.엄마가 더 힘들어져요,님이 행복해보이는게 아니라 님과 길들여지는 아이가 고달퍼 보여요 갠적으로 절대 권장하고 싶지않네요,방송에서 이런건 자제해줬음 합니다.",
+        "writer": "Ugy77byd8hBwSh_1jX54AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "말하는거 신기해요 대박이다",
+        "writer": "Ugx4_nsIhZicHV2dKhd4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 박(이름)한테 애기가 있다니,",
+        "writer": "UgyL9EimFt9S-tPnfk94AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "메뚜루알 중독적이네 모닝콜 하고 싶어요 우리 첫째가 저때쯤 신발 달라고 하는데 자꾸 욕처럼 들려서 귀여웠던 기억이",
+        "writer": "Ugwa2LX5mRvXWAV95_54AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "메뚜루알 늪에 빠져 몇번을 보는지 순딩순딩 땡강 아닌 애교있게 말하는게 너무 귀엽네요..",
+        "writer": "UgwQ-Fk8Jv1duBXN20Z4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "메추리알이 이렇게 사랑스럽게 들리긴 첨이네요 귀여워",
+        "writer": "UgyWE4DUSpfU4GXCns94AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아, 볼살 봐봐",
+        "writer": "UgyqRNGgalhRXL4XyDF4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아기가 엄청 순하고 귀엽네요",
+        "writer": "UgwCx0NX4akGCNAHiEB4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아가 애교가 넘치네요. 아휴 귀여워",
+        "writer": "UgyMtfqgt6F_VAuM1UZ4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름).차태현.데프콘.은지원.(이름) 고(이름)세요",
+        "writer": "UgwFYuboWXkvjvYng_x4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몇갤인데 이케 말을잘해요 우와",
+        "writer": "UgxCrJpVTJLN5AzYTrd4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아기가 엄청 순하네 만약 내가 보는 앞에서 메추리가 반으로 잘리는 순간, 1시간은 비명소리로,",
+        "writer": "UgzdrJyVabXOa5VvIOl4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앙 귀여오오오오옹",
+        "writer": "UgzTlkExErOTAI1hBjp4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무슨 두돌도 안된 애기가 말을 저렇게 잘해요 너무 귀여움",
+        "writer": "UgwORsc8kAg4qXGEZw14AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 결국 길씨랑 결혼하셨구나, 너무 축하드려요. 두분 헤어지지마시고 (이름)래 행복하시길",
+        "writer": "UgyiVsdjERc9qeNOT614AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선생님같은 시어른 같은 분들이 랜선에 또 계시네요 되게 모범육아 하시는 분이신가봐요, 아이의 심리까지 꿰뚫어보시는 혜안까지(아.놀.라.워.라)",
+        "writer": "Ugy77byd8hBwSh_1jX54AaABAg.9J5xniLV5bm9J70BZi9ERg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그럼 왜요",
+        "writer": "UgyL9EimFt9S-tPnfk94AaABAg.9J5j06RzhlT9P5tVB6J5ep",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "21개월이래요, 대박",
+        "writer": "UgxCrJpVTJLN5AzYTrd4AaABAg.9J50qQIQ5rt9J76eIxeeoO",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애기들은 통체로먹으면 목에걸릴수도있어서그래요 동그라면 확넘어갈수도있어서요",
+        "writer": "UgzdrJyVabXOa5VvIOl4AaABAg.9J507Ht1WLT9J5OrsJK6jp",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뀨우 누구테하는 소리임 김maria 님 한테하는소리임 저분은 반으로 줬다고하는소리가아닌데 엄마가 반으로잘르는거야 크니간 자르는건알지 근데저분은 아이가순하다고 자기같음 비명지른다는소린데 왜반으로자르는이율설명해주고있음",
+        "writer": "UgzdrJyVabXOa5VvIOl4AaABAg.9J507Ht1WLT9J74Umh7Xa6",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나를막을자누구 아기낳으면 이해되는 댓글일듯요",
+        "writer": "UgzdrJyVabXOa5VvIOl4AaABAg.9J507Ht1WLT9J89SpvhUif",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뀨우 그쳐 그렇지만 아이 시점에서는 반으로 잘린 메추리를 먹기 싫어하져",
+        "writer": "UgzdrJyVabXOa5VvIOl4AaABAg.9J507Ht1WLT9J89Vbk0u1r",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무슨 (비속어) 길은 다른분이랑 결혼하셨는데",
+        "writer": "UgyiVsdjERc9qeNOT614AaABAg.9J5-3Oh6HwZ9J5-cihfmz4",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "골프선수랑 결혼하셨어요",
+        "writer": "UgyiVsdjERc9qeNOT614AaABAg.9J5-3Oh6HwZ9J5-mhhvJGj",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐카노 클날소리 왜 그러세요,",
+        "writer": "UgyiVsdjERc9qeNOT614AaABAg.9J5-3Oh6HwZ9J5PVP-hS_G",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일부러 이카는듯",
+        "writer": "UgyiVsdjERc9qeNOT614AaABAg.9J5-3Oh6HwZ9J65MdsZfMH",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일부러 정아 흠집낼려고 쓰는 듯 악플신고...",
+        "writer": "UgyiVsdjERc9qeNOT614AaABAg.9J5-3Oh6HwZ9J7ANcjwQ61",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "신고당해서 벌금맞았음 좋겠다 그렇게 살 면 좀 낫나",
+        "writer": "UgyiVsdjERc9qeNOT614AaABAg.9J5-3Oh6HwZ9J7MxI8FgJn",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우악 아기 몇개월인데 말을 이렇게 잘해요",
+        "writer": "Ugw3te3vZIN33f7syjB4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "말이 엄청 빠르군요19년생인데",
+        "writer": "UgzrmLnRFjKh634WKst4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미쳤다, 넘귀여워요",
+        "writer": "UgxnGXCCzvnw_eg1vV54AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서언이 옹알이 끝나고 말 했을때 생각난다",
+        "writer": "UgzuiFrPVIrAHF7SlCF4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아가들은 왜 이렇게 예쁜걸까욤.",
+        "writer": "Ugwz4hQye2WrLuObo2F4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이가 아빠를 닮았나보다 아기새네 아기새",
+        "writer": "UgxhELZ8ClkyhpyuRx54AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엥, 아기들이라고 다 예쁘진 않은거 같아여",
+        "writer": "Ugwz4hQye2WrLuObo2F4AaABAg.9J4rj1Zzq5p9J4yWp_HqLx",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아(비속어) 좀 못생겼어요",
+        "writer": "UgxhELZ8ClkyhpyuRx54AaABAg.9J4rFv71ZWn9J4ybYjGL3J",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여(이름) 엄마를 닮은거 일수도 있지 않을까요",
+        "writer": "UgxhELZ8ClkyhpyuRx54AaABAg.9J4rFv71ZWn9J5-pJQikY1",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄마 성형해 현재모습. 엄마 예전모습인듯,",
+        "writer": "UgxhELZ8ClkyhpyuRx54AaABAg.9J4rFv71ZWn9J52QJErHhU",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭔 (비속어)내나네",
+        "writer": "UgxhELZ8ClkyhpyuRx54AaABAg.9J4rFv71ZWn9J5K7Q-YBia",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "코가너무 아빠닮은거같음",
+        "writer": "UgxhELZ8ClkyhpyuRx54AaABAg.9J4rFv71ZWn9J72IQ4-5aR",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 예전모습인데요.",
+        "writer": "UgxhELZ8ClkyhpyuRx54AaABAg.9J4rFv71ZWn9J7NpWz-1qc",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대댓 왜이래",
+        "writer": "UgxhELZ8ClkyhpyuRx54AaABAg.9J4rFv71ZWn9J7U0wnFs2S",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=yq_Vfw4G6tg",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

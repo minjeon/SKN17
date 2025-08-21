@@ -1,0 +1,524 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001662827",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001662827"
+    },
+    "text": [
+      {
+        "content": "힘들었 을땐데, 왜케 멋인는거냐, 남을 최고조일때보다 만배 멋인는거냐.",
+        "writer": "UgzItU36DEaT37DOYkx4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다시봐도 귀엽 ()",
+        "writer": "Ugz7LFUm5b0bXz3hWKh4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "강다녤 말이 (이름)다",
+        "writer": "UgzIbHMjWBFx3SG54gV4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 봤어요,",
+        "writer": "UgyFoK9YiRh-mDfkXGl4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)엘 사랑해",
+        "writer": "UgyShBRyktgyh4ItPMl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "타팬인데 아이돌 멤버 중 나오면 댄스신고식 할때 약간 소속사 (이름) 마음 같은 그 뿌듯함, 보고 있는데 내 입꼬리가 언제 올라갔는지, 내려오(반사회적용어) 않네",
+        "writer": "Ugy7Fg_8sDEtE2-gtNx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜케 말랑기염뽀짝해 갓구운 모닝빵이야 뭐야",
+        "writer": "UgxzC1lohJ6rzexQkOh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울 녤이는 얼굴도 잘생겼고 귀여운데 춤도 잘추고 어떡하니, 녤이야 사랑해 앞으로 꽃길만 걸어",
+        "writer": "Ugz_6jeKpw7u0rkYFmZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "녤이 춤추는거귀여웡",
+        "writer": "Ugw-yxJtdIT_QbHtggd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무대에서나 예능에서나 애써 도드라지려고 오바하지않아도 있는자리를 빛나게 하는 남자(이름)엘",
+        "writer": "UgwJ0aEKdNgWOI6DHXB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "KangDaniel 편스토랑 (이름)엘 편스토랑_강고기마이무요",
+        "writer": "Ugzu7MBlkzA8CH8nq3d4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아구 강생이구여어",
+        "writer": "UgzUePkVD5yiuUcPanR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와남자도빠지게하는다니엘, 귀엽다이뻐죽게네우리아들조다착하고.잘생기고이쁘다매력덩어리보고있으면.자꾸웃게만들어본인은아프면서팬들한데.잘할려고이제는그러지마인생선배도돼고아빠도됄수있어그러니.아픈마음있으면나아프다고착(이름)티한데털어나.다니티는다니엘을사랑해서들어줄거야.천사니까50이대서아이돌좋하긴다니엘이처음이야요.피해갈까봐숨어서응원.할게요올해꼭얼굴보여주세요",
+        "writer": "UgzqU2ZxHGyvCvbgw8R4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)엘 리엑션도 최고 터칭 무대는 더더더 최고입니다 편스토랑에서 또 볼수 있어 너무 좋아요",
+        "writer": "Ugx14daP_0tLwTPOpNV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)엘 보고싶다 편스토랑 빨리 보고싶다",
+        "writer": "UgzjpwmnmHUUfC0EMyN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)엘 살짝 추는데도 춤선 진짜 예쁘다",
+        "writer": "UgztUQXjNCodkhXAJU54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모두 (이름)엘을 사랑하지",
+        "writer": "UgzZzRnRImSPnYrLP994AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "춤선 참 예뻐요 가볍게 날아다니는 느낌",
+        "writer": "UgzulbpwMni8WJu7ZJ54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀엽고 멋지다",
+        "writer": "UgySLvyLKxpOVT-kkVV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)엘 정말 멋지네요",
+        "writer": "UgyQAVp7NM2XZMKSVX54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보기만 해도 정말 힐링 나는 억만점 명품무대 명품안무 명품 음색킹 최고최고 터칭 최고야 늘 응원해요 아름다운 아티스트 (이름)엘 홧팅",
+        "writer": "Ugx9g6EnpJ-s0Wr0SDt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아앙 다니엘 귀여워",
+        "writer": "UgzECKBfADpJz9gfkJ94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사랑스럽고 예의바른 먹방 신 (이름)엘 예쁘다",
+        "writer": "UgyTsXZadsHPk4THuJp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)엘만 할수있는 느낌있는춤",
+        "writer": "UgyzUtLrVPCoONzkeYh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)엘 귀여움 한도초과",
+        "writer": "UgwMMz7z1lTlOtCdt0l4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 사랑스러운 나의 스타 (이름)엘 입니다 다니엘 그렇게 밝게 웃는 모습을 보니 너무 좋아요. 다니엘 행복하자.",
+        "writer": "UgzwmL6lYEbcAU9kwpZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "편스토랑 (이름)엘나오니 너무조으다",
+        "writer": "UgxAtqSPJ37I7QxVu4Z4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "큐티섹시란 이런거죠 범접할 수 없이 아름다운 다니엘의 춤선.",
+        "writer": "Ugy_p9PVadEKGyxVvdx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "편스토랑 3주 방송인건가요 사랑해요",
+        "writer": "UgziJFbIBGvyCmzwpeN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "백만정 백만점, 멋저요 울 다니엘",
+        "writer": "UgzG0u4ENnPcwIzxWOJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무대에서는 누구도 범접못하는 카리스마. 예능에서는 주변을 배려하고 예의를 지키며 케미를 자랑하고 겸손한 다니엘. 참 사랑스럽네요",
+        "writer": "UgwzavVIcbdepau1sk94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이렇게예쁘고다들 좋아하는 다니엘을 이유없이 깔려고 (반사회적용어)하고 조작하는 악플러들저주해 이렇게많은사람들맘아프게하니 벌받아마땅 악플러들은 앞으로 모든일이 잘안될거야",
+        "writer": "UgwWERbnRa0OmA5FoQ54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)엘 진짜귀여운데, 터칭은 또 멋지고 둘 다 못잃어",
+        "writer": "Ugwj4moNQTooJd-RGUJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)엘 KangDaniel 편스토랑 TV 예능에 많이 나와줘요",
+        "writer": "UgxO-qqpc-Gxpt0DxIp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넘 예뻐글구 넘 솔직혀아가야 맞네.",
+        "writer": "UgwZR8_xUXZks4NtYv54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)엘 2주나 볼수있네여 꺄",
+        "writer": "UgxRQgwB5eCDAAtWi3B4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 봤어요,",
+        "writer": "UgxffGVXTXjB33t8DQF4AaABAg.92oEajO4bPg9HbE589lgYY",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 봤어요,",
+        "writer": "UgwzavVIcbdepau1sk94AaABAg.92o4PaHFGJ09HbE2p2CYIR",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 봤어요,",
+        "writer": "Ugwj4moNQTooJd-RGUJ4AaABAg.92nVmJrS2aC9HbE4VZCJlj",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 봤어요,",
+        "writer": "Ugzryt4XWOUKOktSNXV4AaABAg.92_ACQXfwnZ9HbE5OQjlS2",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아으 다니엘 앓다 죽을",
+        "writer": "UgwICQXxT7ZmRTOZBFV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아으 다니엘 앓다 죽을",
+        "writer": "Ugy-mwHKiVlMkQxzOP14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "갸아악 (이름)엘 너무 좋아해",
+        "writer": "UgwEb1sws01IwSSAKdJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)엘 진짜 힐링이네요. 어디가도 이쁨받고.말도 순하게 잘하고.영상 감사해요",
+        "writer": "UgwGwHvxCSDbHYk3_g94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 봤어요,",
+        "writer": "UgwtaW35XftfwhoNO0d4AaABAg.92UohlscJ-h9HbE3vRG8Q9",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 봤어요,",
+        "writer": "UgyNqvS9PP89MW1p4Y54AaABAg.92Un9ZOq3h39HbE47bfwRZ",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 봤어요,",
+        "writer": "UgxSThDMj_GKry02yIl4AaABAg.92UmgQg67X-9HbE3NGZhY0",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울 예쁜 (이름)엘 터칭 춤도 보고 먹방도 보게 되서 넘 좋아 담주도 넘 기대기대",
+        "writer": "UgywxXlWBDlfXOFQ3Ct4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)엘 KangDaniel so coolDaniel",
+        "writer": "Ugyu_g0qIrNlxjlvsH94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Daniel TOUCHIN Fighting (이름)엘 KangDaniel danielk_konnect",
+        "writer": "Ugx1tT6NYqByyFlnsPx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Kangdaniel (이름)엘 is so handsome.",
+        "writer": "Ugz1bBxRJP8GePymEXB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Thank you so much kbs and sunbenim for taking care our boy (이름)엘편스토랑",
+        "writer": "UgwEqU5e0ytFEujsMxt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 봤어요,",
+        "writer": "UgypFoKAVNw1XXMRz8R4AaABAg.92Ufh_8dv_59HbE3AGdaty",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 봤어요,",
+        "writer": "UgxO9jknuRgAwZ1ti2R4AaABAg.92UfZqtKDep9HbE2zlw1Bc",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 봤어요,",
+        "writer": "Ugz-yHTZVJwnuFRx2V94AaABAg.92UfBYJlE4M9HbE4uFYOYs",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 봤어요,",
+        "writer": "UgzGEd5TGnSLACP5r5Z4AaABAg.92UedNxIN5G9HbE8qvMypL",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 봤어요,",
+        "writer": "UgwpP9IB2JFV991TBpN4AaABAg.92UdcUHeJ_G9HbE96pDFN2",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 봤어요,",
+        "writer": "UgwuUX-u-yZFnBV5PLl4AaABAg.92UdOW8bJAg9HbE5aUOFu8",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 봤어요,",
+        "writer": "UgwEqU5e0ytFEujsMxt4AaABAg.92Ua-dLJ3Ef9HbE3YpP7DG",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다니엘 사랑해요",
+        "writer": "UgzpNxcAytF77czpeNl4AaABAg.92U_zj-fujb92nYK5hTfcm",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)엘 KANGDANIEL",
+        "writer": "UgzxBKAdir4wTcqPFXN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다니엘 너무 반가워서 눈물나. 해외에 나와있어서 앞부분은 좀 놓쳤는데 덕분에 잘봤습니다.",
+        "writer": "UgyH8Eop6LqEOGJcFsR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 봤어요,",
+        "writer": "UgwFer-et5VWyNUm-Hl4AaABAg.92U_p64QzE29HbE3jcDhK_",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 봤어요,",
+        "writer": "UgzxBKAdir4wTcqPFXN4AaABAg.92U_XYV2f-_9HbE4hUFXM9",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wtwEF2gVYZc",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

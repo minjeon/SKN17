@@ -1,0 +1,692 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001663677",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001663677"
+    },
+    "text": [
+      {
+        "content": "먹고싶은데 맨날 가면 편스토랑꺼는 맨날 품절,",
+        "writer": "UgxkknHLInh3kyMnHH14AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "류(이름)껀 못따라하겠음.",
+        "writer": "UgxRbNuGA9HnA6ZHiCt4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "레이먼킴 좀 빼라 보기 불편하다",
+        "writer": "UgzIC6AlyPu21CVtC_N4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 나가고 전문세프가 심사하는게너무 좋다 (이름)요리 칭찬 하는게 너무좋다",
+        "writer": "UgxvR0P6Na3TQVD173p4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)은 집에서 (비속어)박고 반성해라, . 전문가들도 다 칭찬일색인데 지깟게 뭐라고 빈정대고 비웃냐 인성이 덜된녀석",
+        "writer": "UgyZ3_OhEVe7BQTEtyh4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예전에 (이름) 데려다 심사는 왜 한건지 진짜 궁금해서 그래요",
+        "writer": "UgxYa_l607ebgLH82AR4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그러게요 이제 구색이 갖춰졌네요 류(이름) 멋져요 존경해요 사랑해요 흥하세요 (이름)도 덩달아 사랑해요 두분 결론하시고 더큰 파워를 내시는것같아요 서로 잘 맞는 인연인겁니다 영원히 행복 다 누리세요",
+        "writer": "Ugzd5fdA8NCrNDd96bF4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 안나왔으면 좋을텐데",
+        "writer": "UgxJ3GYrlfPVwtlR0WJ4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "냉부 셰프들이 다 여기로 왔네",
+        "writer": "UgxnpsvXS6X_rXi4lnh4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요리 잘하는 게 이렇게 매력있어보이는 건 처음이다. 남자가 봐도 개멋지심",
+        "writer": "UgyqgY3gbCXshYTqUcx4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "심사위원이심사제대로하니까 쉬는시간에시청하면서스트레스안받고좋다 내가일끝나고 티비보면서도스트레스받아야되나 짜증났었는데가수를왜껴 갑자기 보이스코리아냐고",
+        "writer": "UgxES9g5doIH43HcmpN4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이제 (이름) 보냈으니 MC만 바꾸면 되겠네",
+        "writer": "UgwoKkSoFJuFfGQBG9l4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이(이름)은저리얼굴도멋있고이쁘고착하고요리도잘할까, 신기",
+        "writer": "UgxMmsPfHhz1wLRJ3xF4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 없어지니 방송이 이렇게 훈훈할수가. 진짜 유리언니 언니보려고 방송봤었는데 다시 돌아와서 기뻐요 어남선씨 진짜 1가정1보급해주세요... 내남편은 먹기만 하는데...",
+        "writer": "UgyXVlIKZakPzwv0euN4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "류수영 고정으로 넣어주세요. 보면서 식재료에 대한 이해도 보고 감탄중입니다",
+        "writer": "UgyyJNQAA9Qjzg9CYD94AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감탄면 진짜 맛있을거 같아, 나오면 사먹는다",
+        "writer": "UgxiVnOVublyh5IgFBt4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요리를 진짜 잘하나보다,",
+        "writer": "Ugx0bhfCexCPv74YzdJ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)만 없으면 됌.",
+        "writer": "UgwiYbUqlTOtWOTIFrR4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "류수영 (이름) 두 사람 다 훌륭해요",
+        "writer": "UgzzMyXcIMVXH_xaGXB4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "류(이름)랑 이(이름)는 냉부에서 요리사로 나가도 손색없을듯,",
+        "writer": "UgxKzZCj4GqmqOsHa-V4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 (이름)없으니까 속이 시원하네",
+        "writer": "UgwBnkkyGZzB2pkHvxF4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미카엘 셰프 누군지 했네,",
+        "writer": "Ugyc3hSZ6Ubgkz8T5KZ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "송훈 (이름) 오랜만이네, 마셰코 재미있었는데",
+        "writer": "Ugy4yfmEJtDgjsMlRYh4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)는 편의점 주 고객의 입맛을 아는데,",
+        "writer": "Ugzf6-1BUkxMa_7-eqV4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유(이름) 요리 실력도 있고 인성도 좋네.. 이번에 (이름) 나와서 (이름)에 대해서 찐평도 해 주시고 좋아요.",
+        "writer": "Ugy_iaJNeud7GNkZj8l4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 미카엘 못알아봤다.",
+        "writer": "UgzZ2cX6E9k3LocetV14AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "끌배이들 없으니까 매우 편 안",
+        "writer": "Ugw4PVxylvkZydFVojR4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이(이름)가 만든 것 먹고 싶네요 편의점 (이름)시는 분이 나와서 시식했으면 하는 생각이 드네요",
+        "writer": "Ugw_idrsdcKF4mVu_lB4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이때동안 가수 데려다가 음식 평가하는거 이해 안됬음",
+        "writer": "UgyuMbUpfqMzJ-ORosR4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "류수영 (이름) (이름) (이름) 두분 다 정성과 진심을 다하시는게 매 순간 느껴져셔 왠지 존경스럽고 사랑스럽네요, (이름)들 리액션도 너무 보는 재미가 있고 보기 편해요",
+        "writer": "UgyhVcADbZIJmrrLMGN4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)사람이라면 무조건 안다는 고추기름양념이 있는데 하도 요리좋아하고 음식좋아하고 하니까 이것저것 많이도 드셔보고 하다보니까 류수영이 그 고추기름맛 비슷한거로 만든같애요 저건 맛없을수가 없어",
+        "writer": "UgyhSxCVBubvOOWJC-R4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)시가 조금 실수 했네요 저렇게 비벼 먹는 라면 말고 국물로 먹게 했으면 어땠을까 십은 (반사회적용어) 조금에 저 작품 그대로 넣고 먹었다면 아마 이겼을지도 국물요리에 저런면 요리는 점수를 먹고 들어가서 손해본거 같아요",
+        "writer": "UgzwK9XXRsuY0ExrfNV4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쓸데없이 정색 안빨고 저렇게 즐기면서 심사하니까 너무 좋아",
+        "writer": "UgxDvHDbsrGVrfRITyN4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 전문가인 (이름)들이 나오셔야해",
+        "writer": "UgwwgfuKfGoB9Qk8bNJ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둘 다 너무 맛있겠다",
+        "writer": "UgxjOw8SoX8Iwl615MJ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 둘다 너무 잘해서 누가 득표를 더 많이 해도 (이름)지 않음, 저 회차에서 가장 열심히 하고 가장 실력있었던 두 분이어서 더 재밌네여",
+        "writer": "UgyDi1gEyAcLMZzDbid4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "두 분계속나오셨음 좋겠어요 이제 비전문가도 사라졌으니 이래서 모든분야에 맞는 전문가가 필요한(혐오표현)요져도 기분이 나뿌지가 않잖아요",
+        "writer": "UgyhVcADbZIJmrrLMGN4AaABAg.9GFJ6kEUAWi9GJrdAcm2WX",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 전문가짱이야 가수가 나와서평가하는거 개별로",
+        "writer": "UgyQ4sTUSVCMBvN8FK14AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이(이름) 보이스북 내면 살꺼 같다. 톤이 너무 좋아요",
+        "writer": "UgxFhgnvuJ-wqGT1JHJ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "심사위원들 이대로 쭉 하심 안되나요 훨씬 전문적으로 보여요.",
+        "writer": "Ugxr1MuBq1B67COD4wZ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "류(이름)는 월레 요리프로 데뷔아닌가요",
+        "writer": "UgztE-H9PdplNCfsbPN4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "출시해주세요진짜 먹고싶습니다",
+        "writer": "Ugz4JMtztmxlvk11BAF4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 너무 사랑스러워 칭찬받을때 저표정",
+        "writer": "UgwW5RICceHzeOehN4d4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진작이래야죠 (이름)또나옴 구취각 천명 예상 방송 흐름재미있네요",
+        "writer": "Ugz29hdIO4GM6iH8LmR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 한명빠졌다고 분위기가 이렇게 편(이름)는구나... (이름) 잘가세요 다신 오지마세요",
+        "writer": "Ugxw_k9H5hEru2cSypF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그와중에 어하루 브금",
+        "writer": "Ugw7nRF7x4aXC5RAM1J4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 뭐야 (이름) 안나왔어 다시보기 시작해야겠다 시식평이 달라졌어",
+        "writer": "UgwHfZFSOj3OL9-c67J4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 왜 안나오나요 감사합니다.",
+        "writer": "Ugw_TDNcvn-eEdWpgbd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둘다 우승감아닌가요 아 진짜 둘다 먹어보고싶다",
+        "writer": "UgxQFV3vM7YLVnI_dUZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "심사위원이 아주 맘에 드는군요",
+        "writer": "Ugyd3JExkbE-v9HKBjh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 밀키트먹고싶었는데 짜증",
+        "writer": "UgylbI34MbK_LMBVE4N4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유리언니 역시 요리사만 ..심사했어야함",
+        "writer": "UgygSLFzTYgASXUm2-d4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "편안 몇 심사위원때문에 안보고있었는데 이젠 다시 시청해야겠네요 이렇게 바뀐지도 몰랐는데 진작 이렇게 해야했는데 편가르기에 불편했고 전혀 이주제와 상관없는 사람들이 심사한다는거 자체에 어이가 없었는데 다시 본방사수 해야겠어요",
+        "writer": "UgxPhiQP1F4WsF_v9AF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (이름) 노무너무 귀여우시쟈나.....",
+        "writer": "UgyiQEhpfQ-Hfo0Vndp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어남 류수영. 짱 ....",
+        "writer": "UgxTzPOXhdGB-I5dodN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진심 다신오지말길 그사람좋지도싫지도않았는데평소에 아무생각없이 몇회차보다가 입에서욕나왔네요",
+        "writer": "Ugxw_k9H5hEru2cSypF4AaABAg.9G8ufmtK_sU9I5x7BRvRs8",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)은 그냥 아무대도 나오지마세요 ,",
+        "writer": "Ugxw_k9H5hEru2cSypF4AaABAg.9G8ufmtK_sU9KrWsUmquSc",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 프로도 뭔가 요리 대결 느낌이 안나서 한동안 안봤는데 최근 류(이름) 때문에 다시보기 하고 있는데 이미 류(이름) 음식 출시 되었겠지만 이(이름) 음식 맛보고 싶어요",
+        "writer": "UgxQFV3vM7YLVnI_dUZ4AaABAg.9G5BCBlir779Kz-5WM_5dE",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앞으로도 (이름)들이 심사하시면 좋겠어요 진짜 너무 보기 좋았습니다.",
+        "writer": "Ugw0jJTXXtk27WzGAHp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "칭찬 말고 (이름) 요리 편의점에 출시 해 주세요",
+        "writer": "Ugw36Mb9TRj_7ufAkiZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무너무 예쁜 에너지가 느껴지는 분들",
+        "writer": "UgxiVO26-iKjyDTxBJp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)만의 특유의 긍정 에너지가 있음",
+        "writer": "UgwxDkFFUZADVL_Fu1h4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 아이디어는 늘 탑이에요.",
+        "writer": "Ugziv0NytmFi8yRCpCJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넘 맛있는건 등록먼저하고 티비나왔음 좋겠네요, (반사회적용어)이 또 카피하고 지들꺼라하면 어떡해요",
+        "writer": "Ugy8ZIH4QxrTXYSN0ct4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "편스토랑 (이름) 볼려고 보는데 와 진짜 류(이름)는 대결자가 아닌 심사위원 실력인듯, 뭔가 취미 수준을 넘어선 대가의 향기가 솔솔",
+        "writer": "Ugzjdv0yE5Ql0gmEHoZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "심사위원이 이래야지 이제야 격있어보인다",
+        "writer": "UgxloEwzhFuL3ziBocd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "레이먼 킴 너무 귀엽네요. 이거 뭐야 하하하하하",
+        "writer": "UgytqidwPfl7-mwB1_54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이(이름) 칭찬 이렇게 좋아하시는데 저번에 평가 제대로 못받으신거 생각하면 짠해요 패널들 반응도 좋아지고 심사위원도 쉐프들이라 좋아요..",
+        "writer": "Ugxj-umT-Ly35omLHGR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우승을 못 해도 (이름)가 진짜 재미있다",
+        "writer": "Ugw63mKzdt1H1EM1NxR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재미는 (이름)가 맛은 류수영이 최고 둘다 너무 좋다",
+        "writer": "UgypNjkaz1QAaH6gy_l4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)가 편스토랑 살리다",
+        "writer": "UgzsQGfXGllhIvsI2SN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 (이름)(이름) 없구나",
+        "writer": "UgzcGQBwT3_Q94cDW8t4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "심사위원 전문가로만 데려다놓으니까 편안",
+        "writer": "UgwGabN_xFRWgiJu6294AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 요리대결은 셰프가 평가해야지",
+        "writer": "UgyFPnEqOj-S7PB-B4Z4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재료의 특성같은거도 되게 해박하시더라구요 요리를 즐기시는데다 잘하시는듯 박(이름) 부럽",
+        "writer": "Ugzjdv0yE5Ql0gmEHoZ4AaABAg.9FzZ-23wzDq9IG8_EgmguE",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "심사위원 바뀌니까 이렇게 편안할수가",
+        "writer": "Ugy7NpM292amEVy2laF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가수 데려다가 심사하게 하는것보다 (이름)이 심사하니까 훨씬 보기 좋다",
+        "writer": "Ugyi27sXjRxNz2htPwV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방송은 케릭터 거든요 독보적인 케릭터 그게 경쟁력. (이름) 팬인 제가봐도 감탄면이 맛있을거 같아요 참신함. 눈썰미(한번보고 걍 해버리는) 편스토랑에서 이게 (이름) 케릭터 이게 반응이 좋은대 이걸루 계속 가야저 . 근대, 이슈가 되려면 확실히 우승도 필요함 독한맘 먹고 정공으로 한번 보여줄 필요도 있음. 여튼남색 인가 왼쪽에서 두번째 셰프 왜일케 (이름)을 음흉하게 처다봐 기분 나쁜 (비속어) 내",
+        "writer": "UgxKQTGB09wvsGkuIUx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "류(이름) 레스토랑 만드시면 일주일마다 꼭 한번씩 가는듯",
+        "writer": "Ugxb71FwWbhbdhnS2sR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 왜 여기까지 영어댓글이 울 (이름) (이름)도 글로벌이였구나..",
+        "writer": "Ugx0vrhn3VG_qK-U-uh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)가 싫다기보다 패널로 같이 만들고했음 좋았을텐데 요리를 가수가 심사(이름) 근데 선넘어 어라 함",
+        "writer": "Ugyi27sXjRxNz2htPwV4AaABAg.9Fs5yxPLYwC9G65fhTzR82",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "심사할수도 있지 일반인한테 파는거니까. 근데 그 입장에서 가볍게 심사해야하는데 무슨 몇십년 요식업한 대가마냥 심사하는게 문제였음",
+        "writer": "Ugyi27sXjRxNz2htPwV4AaABAg.9Fs5yxPLYwC9IZ4WPOpL5i",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한국 유투브를 KBS 에서 컨탠츠 판매 때문에 몇칠 막아 놔요 그래서 그럼 영어지만 한국분 일수도 잇어요",
+        "writer": "Ugx0vrhn3VG_qK-U-uh4AaABAg.9Fk8F4_E9Kt9FqP7lFsvnH",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감탕면 먹어보고 싶다",
+        "writer": "Ugxmp4XceTV2k7GeuSV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "류수영 사람 보면 볼수록 괘안다",
+        "writer": "UgxQ7kZudNQ0WHDCXrd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DQ2SIy3odXw",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

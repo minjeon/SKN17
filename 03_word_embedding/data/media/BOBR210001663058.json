@@ -1,0 +1,356 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001663058",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001663058"
+    },
+    "text": [
+      {
+        "content": "윤코치 한입만하면 재밌겠어",
+        "writer": "Ugw5rWlsV4zJCfuLQ-N4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=33P_1evLVn8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "같이 밥먹고 싶다,",
+        "writer": "UgzTSeoqGXEaG6aXCmR4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=33P_1evLVn8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자주 보게되네요 윤코치",
+        "writer": "UgxPRyIUxLOvhVfUFWZ4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=33P_1evLVn8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윤코치 은근히 귀엽네",
+        "writer": "UgzGz1SidGUWnEnKV2h4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=33P_1evLVn8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "음식 너무남긴다 깨끗이 비워야지 비빔 시킬때 계란 안먹어면 주지마세요 해야지 안그런가",
+        "writer": "UgygHFC1uBkFmeFI7TJ4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=33P_1evLVn8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 강호동에 이은 홍보대사 윤코치네",
+        "writer": "Ugx9W7c6V50KSwMNAK14AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=33P_1evLVn8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 진짜 볼수로 매력적이야",
+        "writer": "UgyfMN6-cDhJLk0Ij9Z4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=33P_1evLVn8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀욤 귀욤",
+        "writer": "Ugztq1h3XVbPhy9XKO94AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=33P_1evLVn8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주엽아, 윤코치의 센스좀 배워라 남자와 선배로서 존경받을 사람이다",
+        "writer": "UgzU9xMM78X3I0Zb_mJ4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=33P_1evLVn8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 되게 귀여우십니당",
+        "writer": "UgzdPUm0q4wjXV6n0vZ4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=33P_1evLVn8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 식탐 (비속어)많네",
+        "writer": "UgxpIKqgGb5ve_KSbeJ4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=33P_1evLVn8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 볼수록 귀엽",
+        "writer": "UgxNqzPgq56W-63VggR4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=33P_1evLVn8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "코치 비쥬얼 (비속어)다",
+        "writer": "Ugz_P2IM1k5bBHsiN914AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=33P_1evLVn8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영암 씨름단분량 많이 넣어주세요",
+        "writer": "UgyX_y1R4L7o7Jy9vxB4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=33P_1evLVn8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 너무 귀여워요",
+        "writer": "Ugw9VO3-NXIeWzgEYFJ4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=33P_1evLVn8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "국민 귀요미 등극",
+        "writer": "UgwfMmUV8IQDb4pz7s14AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=33P_1evLVn8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜무섭게생겨가꼬 밑에사람한테 되게 강압적이지않은모습에 오늘부터 맘에들비시작한다",
+        "writer": "Ugwskm3uDsX3RLkujLh4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=33P_1evLVn8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "2021 맘콫대세",
+        "writer": "UgwUzRuIxA4iUMZBYaV4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=33P_1evLVn8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "음식좀 남기지 마라",
+        "writer": "UgyvDenSQ_UKcIp_7Qh4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=33P_1evLVn8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비빔맛볼사람 어 시켜먹어",
+        "writer": "UgxUsbMMRX5ms5u-pe94AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=33P_1evLVn8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현감독과 (이름) 먹방대결 기대 됩니다 꼭 한번 만나시면 좋겠어요",
+        "writer": "Ugx_FT6rRsJu5PBDyYp4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=33P_1evLVn8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윤코치 캐릭터 쩌네 개그맨 해라",
+        "writer": "UgyJlj8v4UgajJZZeNN4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=33P_1evLVn8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 너무 재밌어 매력 대박임",
+        "writer": "Ugy-1f1RIcq0scm4Ixp4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=33P_1evLVn8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)진짜멋있고귀엽고 개그까지",
+        "writer": "UgxHhuAiMAqX7IcKM8h4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=33P_1evLVn8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 영상 찾아보고 있어요. 완전 찐팬 됐어요 넘 귀여워",
+        "writer": "Ugx3flNSnBL8NcY(반사회적용어)hN4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=33P_1evLVn8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 보고 비빔막국수 시킴",
+        "writer": "UgyFNNwMYOny-TegN494AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=33P_1evLVn8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개그맨 (이름)씨가 씨름코치도 하시는군요",
+        "writer": "UgxIP2n7uny8P3DuQmN4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=33P_1evLVn8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맛볼 사람 저요, 시켜먹어.",
+        "writer": "Ugy4HvwtUk9G_PEVWNd4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=33P_1evLVn8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남긴것 보니까, 생각보다 많이 안먹네",
+        "writer": "UgwjMCw8UotkMyQzE7F4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=33P_1evLVn8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밥따로물따로와 함께채식 하세요 건강하고활기찬삶을살아갈것입니다",
+        "writer": "Ugx02ScwNRXEerrq6Et4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=33P_1evLVn8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "막국수에 계란을 남기다니요...",
+        "writer": "Ugz4LxysQMXEdTnuOk14AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=33P_1evLVn8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "당나귀귀는 영암 씨름단 분량 늘려줘라 제발",
+        "writer": "UgwU7JXk2w2A9grFAM94AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=33P_1evLVn8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 완전 팬 당연히접니다",
+        "writer": "UgziU8n0qJgzhiBb-Bt4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=33P_1evLVn8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "당연히 접니다. 당연히 저에요. 알고계셨죠 시트콤인줄 귀엽고 재밌으시네.",
+        "writer": "Ugx9CAEBauFvtHvrOiZ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=33P_1evLVn8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소식 아닌가요",
+        "writer": "UgzVzJhvbFtg1d5YQ9F4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=33P_1evLVn8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "응 (반사회적용어)",
+        "writer": "UgyvDenSQ_UKcIp_7Qh4AaABAg.9I4SqFoe22s9JXdqZWZvRf",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=33P_1evLVn8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "니가 먹는데 돈 보탬",
+        "writer": "UgyvDenSQ_UKcIp_7Qh4AaABAg.9I4SqFoe22s9QyLK0M_uc9",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=33P_1evLVn8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이제는 몰려다니지 못할거야,",
+        "writer": "Ugwx9DR_qsJw1jT6uUd4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=33P_1evLVn8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맘모스 코치 웃겨 현웃터졌네 맛볼사람 시켜먹어",
+        "writer": "UgxeueFg7761OYLwcBN4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=33P_1evLVn8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "생각보다 많이 안먹음 그리고 (이름) 정말 재미있음",
+        "writer": "UgxL056BKOi2JKxfseV4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=33P_1evLVn8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "생각을 얼마나 거대하게했길래",
+        "writer": "UgxL056BKOi2JKxfseV4AaABAg.9H-mI-cy-tN9HPIA9o64cQ",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=33P_1evLVn8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현주엽 먹는거에 비하면,",
+        "writer": "UgxL056BKOi2JKxfseV4AaABAg.9H-mI-cy-tN9HT7Nf1i9KO",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=33P_1evLVn8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞습니다 저도 (이름) 어제 부터 팬 했습니다 (이름) 너무 귀요미 이다",
+        "writer": "UgxL056BKOi2JKxfseV4AaABAg.9H-mI-cy-tN9J-i9FybBnO",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=33P_1evLVn8",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

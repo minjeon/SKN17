@@ -1,0 +1,572 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001664135",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001664135"
+    },
+    "text": [
+      {
+        "content": "나엄마 나 아무래도 30대 좋아하는거 같아, 엄마 어머 얘가 미쳣니 ..... 너 미성년자야. 나 자꾸 우리집 오라고 꼬셔, 엄마 얘가 뭐래는거야 ... 나 우리집 준호야, 엄마 엥 아 그럼 진작 말하지 엄마도 같이 놀러가게",
+        "writer": "Ugwm-YznsZ1BENnE2pl4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오빠 나 3살이야 13살그러니까 저도",
+        "writer": "Ugzr6oiEHvbx_i85HKl4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오빠 나도 3살이야, 우리집 와줘,",
+        "writer": "Ugzpkk6DXqAHXZPn4DF4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준호쓰 우리집에도 아기들 있어 빨리 와,",
+        "writer": "UgxS0JJxjy2wV1uFIip4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다복한가(이름), 준호야 나 애 잘낳을수있어 우리집으로 와라 언제오니 , 기 기다린다.....",
+        "writer": "UgyqE1Fprn131FlGOyF4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준호, 집으로 가고싶다, 애기들이 부러운건 첨이네 연예인부모를 둬서 부러운것도 첨이고",
+        "writer": "Ugy2u5YqLkaRWcN_aQV4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 내년에 3살이에요 23살",
+        "writer": "UgwYZ7hTJoqm4oWoad14AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 부럽다 슈돌 카메라맨이(반사회적용어) 했어야 했나",
+        "writer": "UgzBmbsrltaBJHjSAe14AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이들 상상력이 넘 귀엽다",
+        "writer": "UgwRoLikN44EZGW2eMF4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준호 내 아를 낳아도.........",
+        "writer": "Ugxc0IgSpeDkR3wUUYx4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애기들 눈이 정확해, 난 애기가 아니어서 늦게 준호를 알아본거였나",
+        "writer": "Ugz-EGRalPqc9ZyUYaR4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오빠 우리집은 왜 안와",
+        "writer": "UgzQBuhdiyvnCwaA7k94AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 진짜 너무 잘생겼다, 투피엠 막내들이 이렇게 잘났습니다",
+        "writer": "Ugy6ulth-34L1bNUAxZ4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 광대 찢어질 것 같다",
+        "writer": "UgzAPlwehjPieVh_ZHt4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오빠 우리집에도 좀 와줘 나 3살이야",
+        "writer": "Ugx7GLBqiW9FWSI5Pf94AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 (이름) (이름) 미치도록 좋다,",
+        "writer": "Ugy0VsgetEP-2HHpZCZ4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "태봉이 (이름) 춤 잘추셔",
+        "writer": "UgxHDfue1hOpwrBjoA94AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준호는 카라티에 와이드팬츠가 너무 잘어울려",
+        "writer": "Ugzyq1JWJUZJJbRmU6R4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대박1저것이야 말로 1열 직관",
+        "writer": "Ugydv7_UhK0rIzAmBER4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 웃겨",
+        "writer": "Ugxc0IgSpeDkR3wUUYx4AaABAg.9Pi1LhFijON9UjLEJePV_f",
+        "write_date": "2021-11-15",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 나 준호때매 슈돌을 보고 있네",
+        "writer": "Ugw2MRA0ymYwAWxQ7MF4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오빠, 나 3살이에요, , 스, 무살 언니가 있는 3살,",
+        "writer": "UgxEyTMa3eJIsSSa6Tx4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 마음만은 3살이다. 우리집도 와다오.",
+        "writer": "UgwUJ1y4U31vV6HOXct4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래서 뭐 결혼하자는건가",
+        "writer": "UgzlNZnVhzE_vX7woI94AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋겠다 나온이 나겸이 희성이는",
+        "writer": "Ugzieg-HJ0T6p8MdGsd4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애기 (비속어)",
+        "writer": "UgwVGaAK52-1Kz_Szex4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 아빠는 왜 (이름)이 아닌가",
+        "writer": "Ugzs3Ph2fkimvah32PF4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 사랑해",
+        "writer": "UgwKx2z1bQELs_mbFiB4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찬성아 너무 잘생겼답",
+        "writer": "Ugx7MT3f48Clym-C1NJ4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 찬성이 준호삼촌 함께 했네.",
+        "writer": "UgzdyUaYVM276Zb0c2d4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애들아 미안하지만 내가 먼저야.",
+        "writer": "Ugx76D_K-JQEJHgnC9B4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 세살이 될순 없으니까 언능 애를 낳아야겠네, 이건 출산장려영상이었네,",
+        "writer": "UgyYv5Pt09L2mY2kerJ4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 가고싶다,",
+        "writer": "UgxPIE-CbbaXJscXZRN4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아우 애기들 너무 이쁘다, 어쩜 저렇게 귀엽고 이쁘니 삼촌들 아이 낳으면 진짜 이뻐하겠네",
+        "writer": "Ugx9Raw-FXCqtIS0Tct4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 아빠 당장 데뷔 진행해",
+        "writer": "UgzswTc9EFA35PkvDIZ4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오빠들 부인 되는 사람은 세금 더 내야 해.",
+        "writer": "UgzQ3hpz6mYKWYO4j8x4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸넬 무해하잖아",
+        "writer": "UgxM2vqsSRcrZIgddBF4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하, 슈돌본방, 챙겨본다",
+        "writer": "Ugx0E8caeYH8H11qWDZ4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오빠 나 세살할게,",
+        "writer": "UgzvvG2UkibAv5sLlGN4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 (이름) 너무 다정해 쏘스윗 나도 아가 하고 싶어",
+        "writer": "Ugy_AsLaXY0mIeWOSx94AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이구 애들이 준호를 알아보네",
+        "writer": "UgyUCFCL_elyWoEF_9J4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "응애네살입니다우리 집에도 와주세요 (준호) 삼촌",
+        "writer": "Ugz_F_LwtOSvikJwLCp4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이누너, 오빠나도 애기할래",
+        "writer": "UgwfDdZEEBCWflWSO494AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 날 집에서 엄마가 10점 만점에 10점 했는데 몇시간 후에 슈돌에서 10점 만점에 10점 자막 나오고 2pm 두시 이래서 설마설마 했는데 준호 문 앞에서 기다릴 때 머리가 준호라서 놀랐어 이 날 왠지 슈돌이 보고 싶더라니 자리를 떠나고 싶지않더라니 뜻하지 않게 준호 찬성 봐서 감격했고 보는 내내 행복하고 흐뭇했다",
+        "writer": "UgydJbUpdCP9UbDRB5B4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준호야 평생 만두만 먹을께",
+        "writer": "UgzOWKfmTapjTesAzfd4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 아기가 되고싶어,",
+        "writer": "UgyBntze1q2kGjiUGlR4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "눈웃음 미쳐따",
+        "writer": "UgwWuJ_cFQ5AFG4qwe14AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주노오빠 내앞에서도 우리집 쳐줘",
+        "writer": "UgzVddapijEqeFJ0T6V4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오빠 나도 3살이에요 23살,",
+        "writer": "UgzLH-voIDykEyT4ax14AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 결혼해 아니 하지마 아니 해 아니 하지마",
+        "writer": "UgwIPGMUiUcUcZktrYZ4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오빠 응애",
+        "writer": "UgwS6_aoL1fYtlUzqON4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준호야 너네집에 초대한다더니 남의집에서 놀고있니",
+        "writer": "UgyLRTqainQFl2iQCeR4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오빠들 제가 신체나이는 곧 20살이긴 한데 정신 연령은 3살이거든요 응애 저도 놀아줘요",
+        "writer": "Ugwhf66Y_PQRi8EimqR4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나랑 살자. 나랑 가정을 꾸리자.",
+        "writer": "UgxdEPAeOYQ_nLPJ8-N4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 말고 자꾸 누구한테 너희집 가자고 하는 건데",
+        "writer": "Ugx4LKJ3rdYnBN2qaJd4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나나도데려가아, ..",
+        "writer": "UgxZG44mEeVmbTp4HFN4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세 살쯤 되면 우리집에서 찬누너 춤추는거 볼 수 있는거야",
+        "writer": "UgzvueRvIWNfJ1vVKo54AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 이 애기들 미치게 부럽다,",
+        "writer": "Ugx47LCsyGQAj9vp8eZ4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나두 델꾸가",
+        "writer": "UgzzVvLdXIvdrx5KcwR4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이렇게 된 이상 사람이길 포기해서(반사회적용어) (이름)를 봐야겠네 야옹",
+        "writer": "UgxU4M8B2Bpm4xngs7Z4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아, 귀여워랑",
+        "writer": "UgxMFmTCeU3Gj6tEaZ94AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 괴롭다, , 오빠 나도 세살이에요 제발",
+        "writer": "UgzjZ8F6h00xbYhHG2Z4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준호네집 다섯번째 고양이 되고싶다옹",
+        "writer": "UgxU4M8B2Bpm4xngs7Z4AaABAg.9PDM30Fuwm89PHh4-V8GMP",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "루의응 뫄",
+        "writer": "UgxU4M8B2Bpm4xngs7Z4AaABAg.9PDM30Fuwm89PI1VmU8kOe",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쟈니로 변신",
+        "writer": "UgxU4M8B2Bpm4xngs7Z4AaABAg.9PDM30Fuwm89PX9FxNnUSM",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 내년에 3살이야 13살",
+        "writer": "UgzjZ8F6h00xbYhHG2Z4AaABAg.9PDEjEvXnsJ9PF9y9JVoYm",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선생님 앞자리 묵음 안돼요",
+        "writer": "UgzjZ8F6h00xbYhHG2Z4AaABAg.9PDEjEvXnsJ9PHD-z9u6yM",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전 43살",
+        "writer": "UgzjZ8F6h00xbYhHG2Z4AaABAg.9PDEjEvXnsJ9PX9BHkrD56",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준호야 우리집도 올래",
+        "writer": "UgyEhvmNinC_hrik6SZ4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어머 애기들이 우리집 알아요 대박.",
+        "writer": "UgzkvOqX_sDfx7J51Ut4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G54UPqIxojs",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

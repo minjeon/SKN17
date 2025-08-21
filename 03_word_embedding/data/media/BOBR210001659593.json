@@ -1,0 +1,916 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001659593",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001659593"
+    },
+    "text": [
+      {
+        "content": "오잉 ..",
+        "writer": "UgxhNdilB9BFik7Pz8F4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잼이 콩콩 뛰는 거 너무 귀여워........",
+        "writer": "UgwUVgt9I0uuxkVXTIZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왓더, (비속어) ,",
+        "writer": "Ugyuu4D(반사회적용어)w_j_UPQBGZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잼잼이 방방 뛰는 거 왜케 귀엽냐 진짜",
+        "writer": "UgyPEJQrsVOeZG8Bztl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (비속어),",
+        "writer": "UgwdzgJRrngZoJratuZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 개(비속어)",
+        "writer": "UgyLsBLdItj1ACEyuzR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 눈빛 왜 저렇게 나른해",
+        "writer": "UgyTMw0h5UZoeCd7RPR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "처음 인트로 영상 진짜",
+        "writer": "Ugy7rj7pcx-MFjTRun54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잼잼이 때 왜이렇게 (이름) 닮았지, 아",
+        "writer": "UgxFPFOmg87pf0xAld14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민봉교 내방으로",
+        "writer": "UgxPCEZZB1HfiHGqEAZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐야 뭐야 여기 뭐야",
+        "writer": "Ugx64Qgkwg79BXE8Clt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 대박 (이름)",
+        "writer": "Ugzn_BTucMi3YEO-I9t4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와, (이름) 그윽한 눈빛 아련하면서 개섹시함 우와,우와아,",
+        "writer": "UgwrabxpOyQLQK9M0UJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "글고보니 귀요미 쨈한테서 (이름)도 보인다",
+        "writer": "UgxFPFOmg87pf0xAld14AaABAg.93iE_4453BB94iRSrItyA9",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잼잼이 안녕 목소리 미쳤네",
+        "writer": "Ugx-wO-rbMC-_SOuIdN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니는 살아있다 때 보면서 정말 더 뜨셨으면 좋겠다구 생각했는뎅 요새 티비에서 자주 보니깐 좋네용.. 더 잘생겨지셨어요",
+        "writer": "UgzbgXwLYBQ2fgYVekh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마블 피규어 엄청 많네블랙위도우 하나만,",
+        "writer": "UgzZINnWJML15YzVV0N4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "She s looks like pororo너무 귀여워",
+        "writer": "UgyME4PPpMikpGwPwC54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)인줄 알고 들어왔는데,",
+        "writer": "UgyvHss5W8h4aP7pG0B4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "첨에 썸네일이 문희준이얐던가, 엥 이러다가 아 아니구나함",
+        "writer": "Ugw2eqoSPwgdekFVnhV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 멜로(비속어) 미쳐따리 지독하게 엮이고 싶은 사람을 슈돌에서 찾아버리네",
+        "writer": "UgxibGvEXV8Z8pg1KrR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도모르게 동영상 저장누른건 처음이네,",
+        "writer": "UgyjE_96O74oEy4Y2Cp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 잼잼이 너무 귀여워",
+        "writer": "UgwrbHF4cRfAHNFbjdZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 이 조합 사랑합니다",
+        "writer": "UgzA6dZPFIajXJaiUcp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (비속어)",
+        "writer": "UgzQkDKhDp42g6a003F4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하 잘생겼다",
+        "writer": "UgyW-2qQ94bI2obc4sp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어떤분이 애기들은 낯이 아닌 낯짝을 가린다네요",
+        "writer": "UgwGw5SKuvyEXoOb_ah4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 너무 잘생겼다 (이름)",
+        "writer": "Ugxj1lbhvJP4uMhNboZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "학교 2013때 다들 (이름) (이름) 좋아할 때 나 혼자 (이름) 좋아했다, 여전히 잘생겼다",
+        "writer": "UgxMpngk4bBi42Fe2UZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리집에도 와줘요",
+        "writer": "Ugwqa-ETxxHgRENGUuh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (비속어)",
+        "writer": "UgzCrQSBdhBroSIIp1N4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 진짜 뭐야 잼잼이보러왔다가 눈 호강했네 왤케 잘생겼어",
+        "writer": "UgyhBNY7pEKmT92fl1d4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "육아 프로그램이 멜로 드라마로 변하는걸 보고 계십니다",
+        "writer": "Ugy4V9nPBVCx1t9pY_x4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이것이 퇴(비속어)라는건가",
+        "writer": "Ugwm0mWqFkmLYqqp0a94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (비속어)",
+        "writer": "Ugzzf5Rf2gRiXVM9Jh14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미쳤다 눈빛 개설렌다",
+        "writer": "Ugyl6Ngjrx-FCl2THhB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시간 원래대로 바꾸면 안되나요 9시 15분 기다리기 너무 힘들어요 밥 먹으면서 보면 딱이엇는데",
+        "writer": "UgziNGruHIQEbJnncx14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 민봉교님,",
+        "writer": "Ugzt9hHVkAC3XqOK5ml4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목소리 봐",
+        "writer": "Ugx3FwMQ4H1BZkPM9DZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 진짜 뭐야 너무 멋있어",
+        "writer": "Ugzp6_AibqpTjEUvtSx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "당신 눈빛 왜 그래, 미쳤어",
+        "writer": "Ugx_-s0sezic0c1iDpl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "째미는 힐링이다",
+        "writer": "UgzxIIkxUP3QRnlmpmx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 (이름) (비속어) 사랑해",
+        "writer": "Ugw5N342GmvXjsLNlLV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "워후, 눈빛 진심 미쳤다, 계속 보게 되네",
+        "writer": "UgxENhcNkbRWpotQU_p4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 잼잼이 너무 엽다",
+        "writer": "Ugwi6y4899hzFP70buN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 눈빛만 1시간 연속재생 컷으로 박제해주실 은인 찾습니다.",
+        "writer": "Ugz61QERSX-tLI6KuKB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (이름)이 슈돌에 나온다니, 크흡",
+        "writer": "Ugy_ze8vQ9fryM5_EAd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 진짜 잘생긴 배우인데 의외로 사람들이 잘생긴줄 몰라더 떴으면 좋겠다",
+        "writer": "UgzzSwdQj8eB9EnpDyp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 애기도 꼬실 수 있으세요 ,",
+        "writer": "UgzgVB_730gFqPL-m_F4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아진짜너무 좋아해유 (이름) 정말잘생겼어요으허내 이상형이야",
+        "writer": "Ugw7owhAdYYq7PyVTkJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잼잼너으 호수같은 눈, 사랑한다 , 이모가, .",
+        "writer": "UgwMswVz6Qe2YD4IS0h4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잼잼이 언니가 사랑하는거 알지 입술 너무 귀여웡, 매력포인트",
+        "writer": "UgzRZUOtzyFPavQQgEV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 미쳤다 진짜, , .",
+        "writer": "Ugz61QERSX-tLI6KuKB4AaABAg.935E68BH2VW93j2HAoii62",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그니깐여, 저도 (이름) 안 지 얼마 안됐지만 연기도 너무 잘하시고 진짜 잘생기셔가지고 계속 나오신 작품들 찾아보는중",
+        "writer": "UgzzSwdQj8eB9EnpDyp4AaABAg.934m3WApo369Cdoh_ftBrt",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "홀린듯이 들어옴, 당신 얼굴 뭐야",
+        "writer": "UgxvoHG32FQfnxKfIqZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아빠 엄마 좋은것만 닮았네",
+        "writer": "UgxDfZe8Mdvwdqb3Nm94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 왜케 잘생겼냐,",
+        "writer": "UgzvUOkL7MBq6b024wN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오메 주여 잘생겨버라",
+        "writer": "UgyDT6FAvpNcPYNx47l4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "I came for (이름) Lee Jihoon 99억의여자 잠시후 actor",
+        "writer": "UgweqB_hddKxFNtCQEB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아잠시만 목소리 뭐야 개설레",
+        "writer": "UgyxSCroBjaxXrqT2WJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잼잼아, 잼잼앓이",
+        "writer": "UgxqEI-m3jOmjef6Bb14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 (이름) (이름) 드라마 학교 때부터 좋아했다 진짜 미쳤다",
+        "writer": "UgwNYoSbVjB_hxF0Gap4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아기들도 잘생기고 이쁜사람 좋아한다구요.",
+        "writer": "UgwWX1DoLlvH-7pGeFV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "드라마에서는 잘생긴줄 몰랐는데 핵잘생겼었네",
+        "writer": "Ugy6Hrg6ajeO1E_I7Zt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왛눈호강 그 얼굴에는 가면이 필요없어요",
+        "writer": "UgxqE_nCKQtk37dqiSF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뚜비뚜바 진짜 인정 저도 학교2013때부터",
+        "writer": "UgwNYoSbVjB_hxF0Gap4AaABAg.9326-6wauRd989jo5Ix998",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "눈빛 봐,",
+        "writer": "UgxgzapwV8xAgMbp0Kp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잼잼이 귀여워 만화속에서 나온아이같아 예뻐",
+        "writer": "UgwV3-P6h5vpC27MwG14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄마아빠 이쁜곳만 닮았네",
+        "writer": "UgwHWA2riij3rs2c-IB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와우 목소리가,",
+        "writer": "UgxqMKr5JUfbX0vhq894AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지훈이 안녕,",
+        "writer": "UgxHUp7aCjeXOJMAyAp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 잼잼아 너무 귀엽다",
+        "writer": "UgyeoGTms-gvwoH7PN54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 별거 아닌데 왜케, 두근.거리지 얼굴이, 힘들어보이는데, 어, 10개 넘어 본적 처음에요 .",
+        "writer": "Ugw_fcuNUS86bx7at5R4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아(비속어) 날씬하네",
+        "writer": "UgxEvMc_o2_ysGP7S894AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잼잼이 너무 귀여우어유 엄청 좋아하는것좀봐,",
+        "writer": "UgzeiT0JOv0dYYL5MAJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잼잼이 너무 예뻐 매일 보고파요",
+        "writer": "UgzQu_CqkTBI_8S9MD14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미니 특공대가 아직도 한다고",
+        "writer": "UgzoExSrRdz5byznoMN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잼잼이 넘 예뿌고 귀엽네. 문희준은 밥 안 먹어도 배 부를듯",
+        "writer": "Ugx1bKcnxS-TGf3qS8t4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐야 잼잼이 (이름)는거 왤케, 미",
+        "writer": "UgxwP5ziCwzg6QgFV_R4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 보고 골든차일드 보민이 30대가 되면 (이름)이 상상이됨",
+        "writer": "UgySdH7xBaEgcLlmKT54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저만한 여자 얘들이 잘 생긴 남자 얼마나 밝히고 좋아하는데 진짜 옆에서 보면 웃기지도 않는 다니까 막 머리 빗고 왕관 쓰고 립밤 바르고 수줍어 하고",
+        "writer": "UgzweMu0QnQZ8oujHaV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초 눈빛 실화인가 진짜 코피날뻔",
+        "writer": "UgyRZR77jQyt9ZUd0od4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "희준이가 그래도 착하게 살아서 하늘이 이쁜딸을 주었구나 축하드림",
+        "writer": "UgzrZxd2HqxaLanJ5bp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잼잼이 방방 뛰는 거 졸기,",
+        "writer": "UgyAYwawVE2uNMFEJNF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지훈 씨의 눈 예쁜데",
+        "writer": "UgzRcfvIASGoUriSpk54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 99억의여자 (이름)이다",
+        "writer": "UgwtHEkYS_1QIKgVecJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 맞아요 얼굴이 약간 비슷해요",
+        "writer": "UgySdH7xBaEgcLlmKT54AaABAg.9300rIf6KpL937eUAt6jko",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "J Y 구역 특히 웃을때 진짜 비슷한거 같아요",
+        "writer": "UgySdH7xBaEgcLlmKT54AaABAg.9300rIf6KpL937ivB5IX67",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "H 썸네일 보고 보민인줄 알았어요",
+        "writer": "UgySdH7xBaEgcLlmKT54AaABAg.9300rIf6KpL937k8bqs8RN",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 (비속어)",
+        "writer": "UgyRZR77jQyt9ZUd0od4AaABAg.93-wRH6d2BD93-zK30ltIk",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 이거 에바다 내 심장이 반응한다",
+        "writer": "UgyRZR77jQyt9ZUd0od4AaABAg.93-wRH6d2BD9323-iTlWJQ",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 인정, 와 진짜 대박인데 와 진심 개잘생김",
+        "writer": "UgyRZR77jQyt9ZUd0od4AaABAg.93-wRH6d2BD933hWb7bCJG",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아닠 홀린듯이 계속 누르고 있다가 문희준 웃음소리때맼 디리링 으흫힣히",
+        "writer": "UgyRZR77jQyt9ZUd0od4AaABAg.93-wRH6d2BD933nJjCEzkQ",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진심, 눈빛에 치였다 아니 그냥 보는건데 왤케 그윽하고 아름다우시죠",
+        "writer": "UgyRZR77jQyt9ZUd0od4AaABAg.93-wRH6d2BD935KJqE-wJy",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "야 이건 이야 , 와 ,",
+        "writer": "UgyRZR77jQyt9ZUd0od4AaABAg.93-wRH6d2BD93EbNWUcPQM",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저거 보고 심장털릴뻔,",
+        "writer": "UgyRZR77jQyt9ZUd0od4AaABAg.93-wRH6d2BD93FQAMa1k1B",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몇번째 돌려보는 중,",
+        "writer": "UgyRZR77jQyt9ZUd0od4AaABAg.93-wRH6d2BD93FQCRbp9j5",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이미 제 코에서 무언가가 흐릅니다 .",
+        "writer": "UgyRZR77jQyt9ZUd0od4AaABAg.93-wRH6d2BD93KPYFDbGKG",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이상형을 찾았다.",
+        "writer": "UgyRZR77jQyt9ZUd0od4AaABAg.93-wRH6d2BD93PGVSTbwTy",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무슨 코피까지 이러고 눌러는데 코피가 아니라 그냥 쌍코피 터져부림",
+        "writer": "UgyRZR77jQyt9ZUd0od4AaABAg.93-wRH6d2BD93XM68D0U0N",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미쳣닼 .",
+        "writer": "UgyRZR77jQyt9ZUd0od4AaABAg.93-wRH6d2BD93aiLyRCXuK",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "팔 살짝 당겨서 안는거 봐",
+        "writer": "UgyRZR77jQyt9ZUd0od4AaABAg.93-wRH6d2BD93gNRcCuEck",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 힘둘어서 애기 끌어안으면서 땀 닦는데 이게 이렇게 섹시할 일이야,",
+        "writer": "UgyRZR77jQyt9ZUd0od4AaABAg.93-wRH6d2BD93ghEPyqX_4",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남자 누군지 모르겠고 관심 없구, 잼잼아 사랑해, ,잼잼이 손주 낳을 때까지 슈돌 나와줘 ,",
+        "writer": "UgxychBf78OgWRELW7B4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잼잼이 분량좀 늘려주세여 요즘같은 불경기에 순수한 땅위의 천사 잼잼보며 힐링하게",
+        "writer": "Ugze20SpNVxEmgK8d-V4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잼잼이 목소리 너무 귀여워 진짜 머가 드러이셔 . 찐애기 목소리 너무 귀엽다",
+        "writer": "Ugyh8fZFLZBKYaEBVvh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "handsome lee ji hoon 삼촌",
+        "writer": "UgwUwOpuQ9PaRlY_Znd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐야 나 썸네일에 홀려서 들어왔어 (이름) (비속어)이다",
+        "writer": "Ugwg-KBxHIkTWNAjH-14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 귀여워 잼잼",
+        "writer": "UgxhYxccXdDgevnIu9R4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "졘이 (이름)도 너누군지몰라 잼잼이도",
+        "writer": "UgxychBf78OgWRELW7B4AaABAg.93-kiUMuDlJ93-scdGCykf",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "SM HM 글쿤 .",
+        "writer": "UgxychBf78OgWRELW7B4AaABAg.93-kiUMuDlJ93-uVFgyzcn",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 이 지훈 보러 여기 처음 들어 왔는데 혹시 잼잼이 가족중 한분 그러니 이런 욕(비속어) 글이나 올리시지...",
+        "writer": "UgxychBf78OgWRELW7B4AaABAg.93-kiUMuDlJ932HpWIWq-b",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "minofish Conner 욕 안먹었는데 다들 모른다했나 난 모르고 난 관심없다는데 왜 화가 났어요 (이름) 가족분 .",
+        "writer": "UgxychBf78OgWRELW7B4AaABAg.93-kiUMuDlJ932oYKL-DEC",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=L9fVCIyznpA",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,412 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001661348",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001661348"
+    },
+    "text": [
+      {
+        "content": "하우 이모도 마음이 안 좋아서",
+        "writer": "UgxF1wzOoqXkEmcXZ4t4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개그콘서트 나 지금 지금 가요 가요 너무 피곤해요 나 지금 너무 많이 사나이 사나이 사나이 먹은 삼산 거 같아 같아 먹었어 그래 잘 보내세요 보내세요 보내세요 나 곧 도착 도착 너무 너무 너무 오늘 오늘 오늘 이제 이제 집에 가고 가고 가고 아 근데 근데 근데 미안해 미안해 와서 왔어 지금 지금 밥 밥 밥 아 나 나 진짜 받으세요 받으세요 받으세요 오늘 오늘 알겠습니다 알겠습니다 알겠습니다 (이름) (이름) 한국 한국 아 아 아 너무 너무 그래 거 거 거 오늘 오늘 오늘 이제 이제 가고 가고 하는 하는 진짜",
+        "writer": "UgwJUwFYc2LY_EcudAV4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한숨도 귀엽따하오 휴우",
+        "writer": "UgxkjM83l_wRrFp21rV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 귀엽고 사랑스럽다 하오.살랑하오 하(이름)하오 하오힘내이야하오 축복하오",
+        "writer": "UgzJ3U-4Xdr6g18wSrZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "착하고 똑똑한 하오 그냥 아무것도 아니라고 하는모습이 기특하면서두 맘이 아프네용 근데 개리아부지가 하오 맘 먼저 알아주고 달래주는 게 너무너무 감동이고 이래서 아이가 이쁘게 잘 크고있구나 싶어요 . 우리엄마아빠는 , 하오네 너무 보기좋아 대단해 기욤둥이애기야 이대로만 커랑",
+        "writer": "UgxgfA0AZbDMldO54mt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "코로나 때문에 애들이랑 많이 못논다, . 어른들이 미안해",
+        "writer": "UgwS8o3x9yQlEG6gcTN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아주귀여웁고 똑똑한아가행복하거라",
+        "writer": "Ugxnt-zIQnm4Gr8QeLF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오 아이같은 모습 첨 보내요 하오 너무 사랑스러워",
+        "writer": "UgwTJ3jZfXVY_sjgVlh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아(비속어) 좋아 녹는다 하오야 괜찮아 하오는 할수 있어",
+        "writer": "UgwgKGLIFGAmnI0GLTV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아(비속어) 좋아 이한마디 최고",
+        "writer": "UgxnCWoo-TDH-9N93hF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오 반응 귀엽고 안쓰럽고, 아(비속어) 너무 좋은 사람인 거 같다 무작정 혼내는 분들도 많은데",
+        "writer": "Ugx2qSO7b9pegaIgAL14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오 용기 짱이다 기특해 귀여워 소중해",
+        "writer": "UgzBVxlLoBjV8tSA7Gx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영어유치원 같은곳 이라 더 힘든가,",
+        "writer": "UgzBgPXJYFm9PDA63RF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이걸 보는 내내 내 얼굴",
+        "writer": "UgwGIqgPk2tibQecj3t4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목소리가 너무 귀엽고 그래서 그런가 나까자 눈물나네나중에 좀크면 요즘은 세상이 너무 안좋게돌아가서 나도 학생이지만 내가 부모라면 초 중 고 생활을 어떻게 생활할지 너무 걱정될거같다,",
+        "writer": "UgzQV0l9SbGZeYJ24Wt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하 진짜 (이름)고 싶다 하오,",
+        "writer": "Ugw1e7QJhXEy2yQGuW94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이구 첫 사회생활 을마나 힘들었을까",
+        "writer": "UgyChZWUn2j-4ASJ44F4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오 정말 속이 어른 처럼 깊은 아이, 내가 감동 받았아요 하오 사랑해요, 할머니가",
+        "writer": "UgwxpJ8fpyS-cFX2FCV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞아요 괜히 아빠한테 미(이름) 그러는것같아요",
+        "writer": "Ugz4CmA9dngjhGuyPwh4AaABAg.9CUZ48NjVqh9DciCIh98HK",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오오구 속상했구나",
+        "writer": "UgyHY9K14g5UROhaH6p4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오야 괜찮아 힘내 화이팅 우리 하오는 용감해 더 많이 잘 할수있어 아빠 엄마가 하오를 사랑으로잘키우셨어",
+        "writer": "UgwqwuHoYFiJ0MySyDN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오 심난한가봐 아가야 처음엔 다그래 하오가 생각이 많다",
+        "writer": "UgwxDuwctFT_MDRje5J4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아고 우리하고 처음이라 피곤햇네 안스럽네 하오찐펜이예요 힘내요",
+        "writer": "Ugy3ePePgUnLFbS2git4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이잉 (이름)고싶따, 애기야",
+        "writer": "Ugwx1IHRUEN2NZUfizl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개리아빠 아이에게 감정들어주는 한마디 한마디가 마음을 편안하게 하네요 그래서 이쁘고 똑똑한 하오가 되었나봐요",
+        "writer": "Ugya-aOqyxhB6MSLGrN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예쁜 하오.",
+        "writer": "Ugy2u2JDvHu7h_9Yqhd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대학신입생때 한달정도는 낯설었던 기억이, 아이들도 마찬가지겠죠,",
+        "writer": "Ugxh3XzwEFInAF2gzLF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오 심쿵",
+        "writer": "Ugx6dC7zhCDr0Ec3D8N4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오야 괜찮아 하오는 이제 금방 잘할수있어요응원할께요",
+        "writer": "Ugyym0X0cy7fAsBadCJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아구구하오야천천히 해도 괜찮아요하오는 다 잘 할 수 있어요처음이라 그런거에요응원할게 하오 화이팅",
+        "writer": "UgwyQie2jjY742DdA5J4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 다시 런닝맨 하면 좋겠다",
+        "writer": "UgzBTz5coIYXvJibbiZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오가 하오를 낳았네",
+        "writer": "UgzvkGWZDH220EEaYCl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "처음은 다 그래 하오야 너가 커는걸 볼 수있어 감사해 우리하오 진짜 잘했어",
+        "writer": "Ugw7oKPCDOz2XQVxmS94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오 스타개리아빠만쉐이",
+        "writer": "UgyQK-3oThQcjxIxBeZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "했네 안쓰럽네 찐팬",
+        "writer": "Ugy3ePePgUnLFbS2git4AaABAg.9C9oUSmbTv-9COJVv3I6xB",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오야 진짜 아무것도 아니야 하오 하고싶은거 다해 하오가 울어서 맘이 좀 찡했네 신나게 재미나게 잘 놀고 건강만 하오",
+        "writer": "Ugxumk_XKSjffbyiXop4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "심성이 너무착해하오는잘할꺼야",
+        "writer": "Ugzby62dAg3xf6JN6XF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오가 잘하고 싶었는데 속상한가 봐요. 내 맘이 다 아프네. 눈물도 훔쳐내고 . 영특하니 이런 감정도 생기겠죠 잘 적응한 모습도 보여주니 고맙네요.",
+        "writer": "Ugy0mzG09_byqeHq1G94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오가족 모두 응원해요.... 하오야 너는 소중해",
+        "writer": "UgwsBLBT2oU-tFFgllZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오너무 에쁘다강개리도 너무 조타",
+        "writer": "UgxOGsQxLdI5Nsbihgd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "괜찮아 하오야 토닥토닥",
+        "writer": "Ugz0KkiSz3fl-TJp1uZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 하오가 좀 힘들었어 하오 힘내.",
+        "writer": "Ugx63l-g8ZaskWZMrQl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아빠도 아들도 영재라서 그렇죠 창의적인 아이라 조직적인 생활이 좀 어렵지만 금새 적응할겁니다 하오야 힘내 친구야들이 다 널 사랑할걸 지금은 모르겠지만",
+        "writer": "UgyiyRZ6aS2jjJ3JpYp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개리 아빠의 육아 스타일은 아주 칭찬 할 만해요 항오는 아주 특별한 아들이에요.",
+        "writer": "UgxmlFSs-Zhc8JbCiaZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리하오 눈물 흘리니 이모 가슴아프다",
+        "writer": "Ugy0mzG09_byqeHq1G94AaABAg.9C-N-4d-HaO9C-P_D_n-uZ",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오의 마음을 잘표현 하셨네요. 공감이 갑니다.",
+        "writer": "Ugy0mzG09_byqeHq1G94AaABAg.9C-N-4d-HaO9Ei2C4tDtHr",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) .미투",
+        "writer": "UgxOGsQxLdI5Nsbihgd4AaABAg.9BzR8RlItrK9CR5dQM6PJm",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 저두 마지막 문장 때문에 순간 응 했는데 지금은 친구들이 하오를 좋아하는지 이해가 안되겠지만 다 하오 좋아할거야 이 뜻 으로 말씀하신 듯 하네용",
+        "writer": "UgyiyRZ6aS2jjJ3JpYp4AaABAg.9BtmoAjIRKS9Dva5Ye-pyI",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잼잼이랑 하오는 원래 따른가족임 영어로 번역못함",
+        "writer": "UgwaBLTM4aI9pPgl1i94AaABAg.9Btec_PbtYc9FCUoJUZg8V",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오최고 심성 인성최고 일주일기디리며 살아요 하오만보고 장(이름)딸램이만 보고딴아이들은 별로보고싶지않아서 안봅니다 사람마다 각자 취향이다르니,",
+        "writer": "UgxbhebWUqklC5BmE_p4AaABAg.9BrXaLt2N1L9CBgCpN26-8",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NGid1a2qnd4",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

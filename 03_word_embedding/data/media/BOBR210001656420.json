@@ -1,0 +1,452 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001656420",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001656420"
+    },
+    "text": [
+      {
+        "content": "(이름) 너무 웃기고 좋아요영수증보고 호감됨",
+        "writer": "UgzZheGYDNLPhejZvf54AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 좋아 진짜 (이름)",
+        "writer": "UgwpTb4Mj8rRKJG3cTV4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비보 듣고 구경왔습니다",
+        "writer": "UgxtswISX__U7jQmm6t4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비보 영수증듣고왔어요",
+        "writer": "UgwMFqj7ByPpOJUAibl4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비보듣다 언니들이 너무 웃어서 궁금해서 왔어여 진짜 빅웃음이네요",
+        "writer": "UgzgEpyfwtsKrI981ZN4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비보듣다가 여기까지 왔어요진짜 웃상이시네요",
+        "writer": "UgwQkts4KTREffxh55l4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건치 미소 대회",
+        "writer": "UgxXc8KR8zWu0IDEuq94AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앤 또 뭐야 보는내가 민망하다 왜나온거야 (혐오표현) 다 나가는구만 어흪쪽팔려",
+        "writer": "UgyOLZezNHVgivbwwQB4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 겁나 웃김",
+        "writer": "UgzYEybUG2V-1Nba3z14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 귀엽고 신난다",
+        "writer": "UgwKoZRThWugwfCFmJ14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이장면만 한 30번 보내요 (이름)씨 큰 웃음 주신거 감사해요",
+        "writer": "UgwKSYBQY8iMr-UY1c94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자기들만의 리그인가,",
+        "writer": "UgxU-NXFOYCw98c3O1J4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 다들 합성,",
+        "writer": "Ugz1j1pQsBmCtZQh7B94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "박대박 그 (이름)임",
+        "writer": "UgwsXPNToj8-RWi6MZp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 좋아하는 (이름) 개그맨. 웃음이 웃음을 부른다.",
+        "writer": "UgyfVR-bv3G9sJKekUV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "음, ,",
+        "writer": "UgznTGlL9nECaOGdpvZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저게 운동한몸임 동네 멸치 동생벗겨놓고 포징 잡아도 저정도 나오겠네 대회를 장난 개그소재로 생각하는듯",
+        "writer": "Ugw76FNUiXMZu31TUhN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 내가 부끄럽다,",
+        "writer": "Ugy_StSHh3OXkxkTLOd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영어 댓글이 왜케많지",
+        "writer": "Ugw0CZ6zm2tEq65JNlx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넌 그거도 안하면서 아",
+        "writer": "Ugw76FNUiXMZu31TUhN4AaABAg.9Athp8zhyOm9BCMCrHx_6d",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몸은 모르겠는데 살은 많이 뺐구만",
+        "writer": "Ugw76FNUiXMZu31TUhN4AaABAg.9Athp8zhyOm9EN7AJNlkm2",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난이거보고 재수없어 죽는줄 알았는데",
+        "writer": "UgxpCALiNl672AWP1st4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 말랏는데",
+        "writer": "Ugw2wcfcLo6z0OJ80iJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쉘위댄스에 나오는 가발쓴 아오키",
+        "writer": "UgzmS-ysTgJoJQkIhR14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무나 아름다운 방긋 입니다. 한없이 웃고 갑니다,(이름) 홧팅.",
+        "writer": "Ugzc017-Hnvkqhr5AaV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 건치댄스 저리가라 할",
+        "writer": "UgxmcwCIu_uWo7FIpWF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "완젼 피트니스 대회 역사를 다시 썼다.. 지금까지 이런 무대는 없었다",
+        "writer": "Ugw-xjetTcPNEWKPwyJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그 개그맨 (이름) 소는 누가 키워",
+        "writer": "Ugyr9-60pF5xxoQI4F94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 살빼니깐 요즘 애들이 좋아하는 남자애들 얼굴 나오네",
+        "writer": "UgzD3W2DI8KlG4gr6_54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "솔직히 너무 빨리 나왔다 적당한 목표를 잡아주는 것도 트레이너의 역할이지 저건 그냥 비웃음만 남은 경기잖아, 몸 상태가 멸치 고딩 불러다가 며칠 굶기고 그냥 탄만 바른 수준인데 이건 양치승이 잘못했다",
+        "writer": "UgwHNolX5uPF52kEYr54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "살뺀다고 다 잘생겨지진않네",
+        "writer": "Ugz0Nemk0UgaTG8BUQ54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영진아 잘살고 있어 (이름)정호다 국민학교때 너거 할머니가 점심때 자주 싸주던 오징어껍데기 설탕 묻힌거 생각난다. 티비로 자주보니 반갑네",
+        "writer": "Ugy6KqhYoeYjUnQXs8R4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "살를빼도 못생겼네",
+        "writer": "Ugw4IZqwbJ70zvh3-mF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 대박이닼",
+        "writer": "UgzRqAZlObZaUwHY1np4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와너무 재밌었어요",
+        "writer": "Ugx7NOLDlJwt4QM0Vm94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 웃다 움 진짜륰웃길라고 작정하고 나옴",
+        "writer": "Ugyzy2azAV_IZ2NgW3V4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "표정이 너무 웃음을 주셔서 감사요 간만에 너무 웃었어요",
+        "writer": "Ugy1wN7bHTyJTx5EVgZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "완전공감 함",
+        "writer": "UgwHNolX5uPF52kEYr54AaABAg.9AUcgRCqER49AWXXb1FZrK",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "첫 대회에 더 길게 잡았으면 많이 힘들지 않을까요",
+        "writer": "UgwHNolX5uPF52kEYr54AaABAg.9AUcgRCqER49AXSbLD0PdW",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애초에 예능 나온거부터 재미지",
+        "writer": "UgwHNolX5uPF52kEYr54AaABAg.9AUcgRCqER49AaYcRmmiNe",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남의 노력에 비웃지마시고 비웃는게 잘못된 거라고는 생각안해보셨나요. 본인을 몸 본인들이 잘 알고 예능이라 본인들도 즐기는데 문제가 뭐죠",
+        "writer": "UgwHNolX5uPF52kEYr54AaABAg.9AUcgRCqER49Ab4RDEiaSV",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "40중반에 운동경험무 똥배나온 (이름)의 도전하는 모습과 최선을다했던 과정들이 너한텐 안보이겠지만 다른 시청자들에겐 보이기때문에 지금 화제가 되고있는거야",
+        "writer": "UgwHNolX5uPF52kEYr54AaABAg.9AUcgRCqER49AbuLdzRCsc",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게 맞음 개그맨들 다이어트 힘들게 한거 맞지만 저 대회에 참가하는 다른 선수들은 저 대회를 위해서 몇개월에서 몇년씩 식단하면서 운동하고 커팅 벌크 뒤지게하고 나온건데 나와서 무대위에서 장난치면 기분 좋을까 내 반의반도 노력안한사람이 나와서 장난치는데 난 기분 개안좋을거같은데",
+        "writer": "UgwHNolX5uPF52kEYr54AaABAg.9AUcgRCqER49AdEe37fBFQ",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남군 저는 딱히 비웃진 않지만 다른 선수들은 불만 가질 수 잇죠. 몇달을 준비해서 대회에 나온 선수들이라면 다들 진지한 마음으로 임할텐데 개그맨들이 누가봐도 자격 미달인 몸으로 나와서 대회 분위기를 희화화하고 관객들의 관심을 더 많이 가져간다면 내 노력이 폄하됫다 라는 생각을 갖는 선수가 과연 한명도 없을까요",
+        "writer": "UgwHNolX5uPF52kEYr54AaABAg.9AUcgRCqER49Aq4jf6tyM8",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "확실히 아쉽죠 그런데 시합일정은 정해져있고 저때 코로나때문에 헬스장 문도 닫아서 저분들 운동도 제대로 못했으니 이해가안가는건 아닌데,",
+        "writer": "UgwHNolX5uPF52kEYr54AaABAg.9AUcgRCqER49Ay5ixKLsv4",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근육도 없는데 뭔 포징을 저리 열심히 잡고있냐",
+        "writer": "UgwHNolX5uPF52kEYr54AaABAg.9AUcgRCqER49B4AdPzxnFE",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근육발달된게 하나도없네",
+        "writer": "UgwHNolX5uPF52kEYr54AaABAg.9AUcgRCqER49BktDy_LRqq",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 예능으로 단기간에 준비해서 나온거니,",
+        "writer": "UgwHNolX5uPF52kEYr54AaABAg.9AUcgRCqER49EN6zJwV1U1",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 죄다 댓글이 영어야,",
+        "writer": "Ugx1WSY2wv_G9-kV3Cx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "포징 장인",
+        "writer": "UgzX-Cc1HPqWOPwDLxZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "간만에 엄청 웃었네요,",
+        "writer": "UgwJ7l_fBJ3I9-K2jON4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "솔직히 (비속어)인데",
+        "writer": "UgwbkJSP9jwfWEkIdRB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오랜만에 신나게 웃었네요 감사해요",
+        "writer": "UgxAbqeUmrBQ07inOz94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃길려고 작정하거 나왔네",
+        "writer": "Ugy3jyTQvR33zGr3j9h4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몸매 는 아직 별로지만 얼굴 은 잘 생겨 졌네요. 표정 때문에 그렇게 보인가요",
+        "writer": "UgyjNqw5JdWQ73Wb0aR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G1scgX4lzlc",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

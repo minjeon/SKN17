@@ -1,0 +1,444 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001672073",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001672073"
+    },
+    "text": [
+      {
+        "content": "잘생긴 남자 훗 푸풉.... 어머니께서 늘 잘생겼다고 해주시죠 푸풉...",
+        "writer": "UgzwbAknytXrS0XpaKp4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오랜만에 영상 돌고있는데 그래서 다른 컨텐츠는 언제 해 형 빨리 채널하나 더 파자 구독자들 다 데려가자",
+        "writer": "Ugwy18bfHv0ZvgbhKzd4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얼굴공개 하셨나요",
+        "writer": "UgwhCHNTwsY0EuQ5Xmt4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목소리 꿀꿀꿀",
+        "writer": "Ugy99R0g1yJcQQlytLR4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저랑 사귀어요,",
+        "writer": "UgwAk2G40uNWW-H2pnd4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 사랑합니다",
+        "writer": "UgwTsAxDE6FAyoQghHR4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너 남재야 , 너무 낯이 익어 그 어깨,",
+        "writer": "UgwenBihm9MNiw8vwlh4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형어디사세요 ,",
+        "writer": "Ugxy0VcXffyOifJ4fRJ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "돌돌이좀 하고 찍으시지",
+        "writer": "Ugxr0vA6_lwOR9jR-jl4AaABAg",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래서 큐엔에이 언제 할거야 오빠",
+        "writer": "Ugz17M-rt5kqyxhL_MZ4AaABAg",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 다가려놓고 뭐가 잘생겼다는거야 진짜 짜증나 잘생겼으면 제발 보여달라고",
+        "writer": "UgzTfXCugXLLPGQ9xJF4AaABAg",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 (비속어)쇼죠,",
+        "writer": "UgwRlGFxd0VVUDfvJEZ4AaABAg",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보풀인지 제거해드리고싶네 위잉잉윙 어깨만봤는데도 잘생기셔따앙호홍",
+        "writer": "UgyLoc31-AlgwsKlTPN4AaABAg",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "옷 왜 이렇게 더러워욬 돌돌이로 한 번 밀어주고 싶닼 잘 봤어요",
+        "writer": "Ugzfxj0i0GFkkzsQd9p4AaABAg",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)도 얼굴 자른 수트핏 보니까 시계까지 완벽하던뎅",
+        "writer": "UgzDCucyToAEYHLm95x4AaABAg",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잉 몸이 좋으시네요",
+        "writer": "Ugz3YSOTkyoIRboI2Et4AaABAg",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "3만되가여 형님 축하합니다",
+        "writer": "Ugz6nJtdswBPB27ZX0h4AaABAg",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 결말까지 스포해주셔서 너무좋아요, 전 어떤영화든 무조건 결말까지알고봐야 맘편히영화보는스타일에 영화보는시간자체가 너무지루해서 짧게 리뷰영상만보는거 좋아하는데 결말까지나와있어서 너무좋아요... 앞으로 꼭꼭 챙겨보겠습니다",
+        "writer": "Ugz7sn7tXcUVavK_djF4AaABAg",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영화 볼때 팝콘 먹는 스타일(먹는다면 최애맛은 ) 자주(이름)는 영화관은 혼영파 친구와 함께 몸매의 비결은 얼공계획은 (비속어)으로써의 마음가짐과 다짐은",
+        "writer": "Ugyc6BWjg0Omh3vR2Fp4AaABAg",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 댓글을 쓰는 의미가 뭐지 진짜",
+        "writer": "UgzDCucyToAEYHLm95x4AaABAg.8ta5onzI-1e9SYqrFp3MCC",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우앙 구독자 만명 넘은거 축하드려요.. 지금은 더 늘었네요 꺄 Q. 며칠 기준으로 새로운 영상을 올리시나요 자주 올리셨으면 하는데 헝",
+        "writer": "UgwTi-eDFCHrzm7zBHh4AaABAg",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "큰 사랑 이(비속어) 재밌네영",
+        "writer": "UgzDND9AT7f_EMnB1094AaABAg",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저작권 문제는 어떻게 하고 있으신가요",
+        "writer": "Ugy9MsExEO9lS3dq9Qd4AaABAg",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "띵작 추(이름)는 잘생긴 남자말고 지금 소개시켜주는 남자는 누군가요",
+        "writer": "Ugxoswbq_TP3d8sdvTJ4AaABAg",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "컨텐츠 제작하는데 시간이 얼마나 걸리나요 Q. 영화 선(이름)은요 재미나게 잘 보고 있어요 앞으로도 좋은 컨텐츠 부탁드려요",
+        "writer": "Ugw5wl3OAaCboc8tUlJ4AaABAg",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방금 (반사회적용어)영화보고 너무 맘에들어서 구독했어요 Q.여자친구는 있나요",
+        "writer": "UgznosuQbjBzfuER7314AaABAg",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1.평소 입는 (혐오표현) 색은 (기분나쁘면 안해도됭) 2.몇명때 얼공할거야",
+        "writer": "Ugz2acFbKiCEHi2W_Sx4AaABAg",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "큐엔에이는 아닌데 너무 좋아여 가끔씩 나레이션이 영화소리보다 크긴한데 그래도 편집이랑 스포ver만드신건 참신하고 너무 좋아요 유튭 접지 마시고 떡상하기 바라요, 열심히 하세요 .",
+        "writer": "UgzzpP9Qnhjwe1ef_bR4AaABAg",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "님 곧 2만명임 (비속어) 어제 만명 영상찍었는데",
+        "writer": "UgybzYlYyPjyRnxXosh4AaABAg",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "2만 돌파.",
+        "writer": "UgyGbbI_gq7AQI-e-XV4AaABAg",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "짝 짝 짝 짝 와 멋진다 멋쟁이네요 형아 만명 구독자 받아서 진심으로 축하드려요 저 형은 자랑스러워요 맨 진짜로 수고많이했어요 형아 푹쉬세요 다음영상을 기대돼요 화이팅 아 저 머리속에 까먹하기전에 저 인스타에서 ddingzal 페이(반사회적용어) 빨로했어요 잘자용 .",
+        "writer": "UgzetXZIx5BVxc0VK8B4AaABAg",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혹시 헬스하시나요",
+        "writer": "UgzuLx6-biklShMWg6x4AaABAg",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭔가 내가 키운거마냥 뿌듯하네요화이팅",
+        "writer": "UgzzTrUhoU81faX5PMx4AaABAg",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 영화 리뷰보면 결말없어서 암이였는데 이분 채널은 있어서 너무 좋음",
+        "writer": "Ugxb6edVyyqy7YXjRPp4AaABAg",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "등짝 등짝을보자, 가 아니라, 얼굴 궁금합니다. 잘생긴 남자",
+        "writer": "Ugx90ZNm4XAo5Ida20R4AaABAg",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "띵잘님 영화간련된거 말고 다른것도 하시면 구독자가 훨신 많아질거라생각합니다. 힘내세요 저는 첫번째영상 봤을때부터 구독했어요..",
+        "writer": "UgwMjXJ_XbnCyBIppzZ4AaABAg",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "궁금한건 하나.",
+        "writer": "UgwsNLKXW91m_m6vKVp4AaABAg",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "완전 잘보고 있어요 스포ver이 너무 좋구 선정된 영화도 좋아요 Q.직업이 뭔가요",
+        "writer": "UgzGwZgASBm3lNQkDGh4AaABAg",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "구독 해도될까요",
+        "writer": "UgwFASLOZneRWB_PGF94AaABAg",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어디가 잘 생겻나요",
+        "writer": "UgyPTENsPbW7FzFGn5R4AaABAg",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유튜브 시작 계기.",
+        "writer": "Ugzjl4k5RMMw0VHNXUt4AaABAg",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이틀전에 구독 알람 눌렀네용 축하드려요",
+        "writer": "UgyJ9dsnBuxblCULJZF4AaABAg",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유튜버 이외에 다른직업이 있으신가요 왜 리뷰채널을 하겠다고 결심하셨나요 나이가 어떻게. 되시나요 얼굴공개 하실생각 있으신가요",
+        "writer": "UgymbDnWnEg3MeNIURl4AaABAg",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "띵작은 어디서 가져오는 건가여",
+        "writer": "Ugz1g8YpfuXXlO_NPPR4AaABAg",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 잘생겨서 잘생겼다고 하시는 건가요 볼 때마다 늘 궁금했다는",
+        "writer": "Ugwhr7RGyYxrXDiYMBl4AaABAg",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도를 아십니까",
+        "writer": "UgxQriZNsrS-SuBrbbl4AaABAg",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나이 키몸무게 Q2. 유튭 시작하게 된 계기 Q3. 지인들도 유툽 하는거 아는지반응",
+        "writer": "UgwLtm-rEkM0zrQ4nA14AaABAg",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "노래 못부르는 법 알려주세요(장난인거 알죠 ) 그래도 해주세요",
+        "writer": "UgyfRe-1jN0KgklUQn54AaABAg",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영화리뷰보고있었는데 딱 영상올라오네용 댑악쓰 .. 많은 띵작중에 자신이 뽑은 띵작은 먼가용",
+        "writer": "UgzeFX1olwDa2pdqCXh4AaABAg",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영화 리뷰어들이 결말 안넣고 리뷰하는건 영화 저작(이름)도 걸리는건가요 왜 결말을 안넣져 결말넣고 리뷰하면 떡상인데",
+        "writer": "UgyXjkIm3v-8rorbFvZ4AaABAg",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "매번 좋은 영상 넘 좋음 앞으로 많이 올려주세요",
+        "writer": "UgzVD_a9uV9hR5SJw1B4AaABAg",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "( 부터 진짜 하고싶은말, 꼭 끝까지 봐줘요, ) 띵 하. 어제자로 만명 돌파후 만들던 영상인데 하루가 지난 지금 15 000명이 되어버렸네요 , 앞으로도 많은 시청 부탁드려요 여러분 사랑해 인스타그램 팔로우하자 ddingzal",
+        "writer": "UgxrIB_QHP0WMvVH6zp4AaABAg",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남의 저작물을 그대로 잘라와서 수익을 버는것 자체가 불법입니다. 내용 소개까진 방관할순 있지만 스포를하면 영화 소개도 아니고 아예 사람들이 영화를 VOD로 구매하지도 않겠죠. 저작자가 가만히있을까요 밤토끼 마루마루같은 불법복제로 돈버는 범죄자들하고 뭐가 다를까요 요즘엔 유트브가 엄격해져서 수익을 막아내고있지만 끝까지 도둑질로 편하게 돈벌어보겠다고 다른플랫폼으로 유입시켜 광고료버려고 발악하는 (비속어)tv 채널들 너무 (비속어)지않나요",
+        "writer": "UgyXjkIm3v-8rorbFvZ4AaABAg.8sWxsq4WCMv8sbhh7mroKw",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "알수없음 진정하새여 저 불법업로드 안하고 구글 무비결제 조아하는 사람이에요 유튜브 검색창에 결말포함 이라고 검색했을때 나오는 수많은 채널들은 모두 정지되는게 맞겟군여 작품 전체를 게시하는건 당연히 불법인데 결말포함 리뷰도 개빣치는 불법인건 이제 알앗읍니다",
+        "writer": "UgyXjkIm3v-8rorbFvZ4AaABAg.8sWxsq4WCMv8sbwP6yVn9B",
+        "write_date": "2019-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=DHcjMX9zX_Q",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001670599",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001670599"
+    },
+    "text": [
+      {
+        "content": "기(이름) 갔으면 엄청 웃겪을것같은데 시간 안 맞았나보다",
+        "writer": "UgwoFJyysYVskLjbwGF4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=1XFIkTBYxmk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)는 간당간당하게 하는데 손담비 저(비속어)는 기안이 포함해서 (비속어) 갈구네",
+        "writer": "Ugw-ER_RUMXmKM3vupR4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=1XFIkTBYxmk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혼자 타면 뭐 어때 자기 쉬는 날에 자기 여가활동 하겠다는데 손담비 진짜 (비속어)게 갈구네",
+        "writer": "UgwMT_KF3NmZxNOEx_l4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=1XFIkTBYxmk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 보면 볼수록 정 많고 의리파 멋져요. 팬 됐어요 응원할께요. 일 술술 잘 풀리고 복 받으시길",
+        "writer": "UgxKknfFJjLcQ5PtViV4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=1XFIkTBYxmk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어후 손담비 성훈, 또 비꼬기 범퍼카는 누가 있어야하거 아니야 혼자타면 재밌나 지들은 얼마나 잘살길래 한명은 스쿠터타다가 옆으로 자빠져자 한명은 똥매려워용 (비속어), . 둘이 사귀나",
+        "writer": "UgwqyQpoWNo2FCgWzp54AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=1XFIkTBYxmk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 재평가 시급하다,",
+        "writer": "UgwPD_MiZm6hpNB11rR4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=1XFIkTBYxmk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 너무 좋아",
+        "writer": "Ugzj-DUOCVFizor5WrV4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=1XFIkTBYxmk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가운데 춤추던 언니는 왜 할머니 스타킹을 신고 나오셨데 패션하우스에서 유행(반사회적용어)려 밀지 몰(반사회적용어) 일반인들 눈에는 시장좌판에 앉아 계시는 무릎 다 보이는 할머니 스타킹 같어 안타깝네",
+        "writer": "UgxIXQbhsQDtsfvnWQV4AaABAg",
+        "write_date": "2021-03-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=1XFIkTBYxmk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭔일이래 한국 예능에선 남자 갱년기는 거들떠도 안 보는데 (반사회적용어) 갱년기는 헐도록 (비속어)주고 우쭈쭈해주는데 반해 말이지 왠일이야 여자 작가들 피디들 집안 식구들이 갱년기 타는 분들 계시나 아님 소재꺼리가 다 떨어진 겨 하긴 댓글 보니 나혼자 산다가 아니라 나혼자 성공했다 더라 안타깝구만",
+        "writer": "UgzpOsH3-lMu-JV56ll4AaABAg",
+        "write_date": "2021-03-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=1XFIkTBYxmk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭘 해도 저렇게 재미없냐 에휴",
+        "writer": "UgyINtoOucgLJZNyfLh4AaABAg",
+        "write_date": "2021-03-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=1XFIkTBYxmk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혼자 잘 노신다 역시 대배우",
+        "writer": "UgwnpDKHYNsC0I72mt94AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=1XFIkTBYxmk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스핏 파이어",
+        "writer": "UgwXW1VE7SUamyiywDt4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=1XFIkTBYxmk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 너무조앙",
+        "writer": "UgyKRUi0IN6Ic7pziel4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=1XFIkTBYxmk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왠지 짠 하다",
+        "writer": "UgwsRIhdaWQ8XvAuVPl4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=1XFIkTBYxmk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초 (이름) 말하는거 개웃기넼",
+        "writer": "UgzFkRzsTvrXOXV_h1B4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=1XFIkTBYxmk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "범퍼카 쌩쇼하는거 보니까 방에 혼자있는 내모습 생각나네",
+        "writer": "UgwBAkD2dQTbDqQOuRt4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=1XFIkTBYxmk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "범퍼카 혼자 타보고 싶단 생각 어릴때 많이 했는데",
+        "writer": "Ugy5YqUEVgSoy5oIjVl4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=1XFIkTBYxmk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)은 한결같다진짜",
+        "writer": "UgziigfPQntlyG5XRVV4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=1XFIkTBYxmk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 나혼자산다에 (이름) 나왔었는데 내돈내타라고 하는거 보니까 손절한거 같다",
+        "writer": "Ugxwqg-8H2N4Qd_Qir94AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=1XFIkTBYxmk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 다시본게 임채무선생님이 빚 135억지고 오직 아이들위해서 지으시고 어려워하시는거아니까 저렇게 혼자(반사회적용어) 텅빈 놀이공원에서 (이름)도 도와주려는게 너무 착하다 진짜",
+        "writer": "UgzxuEyUGNq7Jo2c9IZ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=1XFIkTBYxmk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "성훈 지도 혼자 오락실에서 놀면서",
+        "writer": "UgwqyQpoWNo2FCgWzp54AaABAg.9RBj4EW5-jt9RHJqurGyKI",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=1XFIkTBYxmk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "임채무 선생님 채무가 135라니. 차무로 안타깝네요.",
+        "writer": "UgzxuEyUGNq7Jo2c9IZ4AaABAg.9ENnjMNOOgm9EmrW2klu5v",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=1XFIkTBYxmk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마저, 진짜",
+        "writer": "UgzxuEyUGNq7Jo2c9IZ4AaABAg.9ENnjMNOOgm9HGikez_BLx",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=1XFIkTBYxmk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀엽게 논다",
+        "writer": "UgzRoiMLWf8xmi6SHCt4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=1XFIkTBYxmk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이(이름) 착한 사람인게 그냥 느껴짐 이 영상에 어울리는 댓글은 아니지만,",
+        "writer": "UgyjfNL4T-47nI(반사회적용어)Kl4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=1XFIkTBYxmk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사람너무 없, 슬퍼",
+        "writer": "UgwEYVHSJ7EqW1noAHh4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=1XFIkTBYxmk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 댓글도 챙겨주세요 여러분,",
+        "writer": "Ugwu75SiTeHaJicESiB4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=1XFIkTBYxmk",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

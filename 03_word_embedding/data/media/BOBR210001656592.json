@@ -1,0 +1,796 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001656592",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001656592"
+    },
+    "text": [
+      {
+        "content": "도티랑 두형pd가 보살이다 진짜",
+        "writer": "UgymM3QmxMT2tpu8vjV4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기서 도티 빠는 애들은 생각 없네 지금 먹보스 채널 봐라 차이가 어느정도인지 현주엽을 (비속어)이 채널로 만들려니 재미가 있겠냐",
+        "writer": "UgzaCQnksaHKhoV0GMR4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저딴회사에선 현쭈엽을 담을 그릇이 안되지",
+        "writer": "UgwLq3u1gEfATap1hdR4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "답답해 으악.....",
+        "writer": "UgzXITsjL5q7c_gaBhp4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무엇을 잘못했져",
+        "writer": "UgzHWmrghS6XvGgDQN54AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "드립도 치지않으면서",
+        "writer": "UgzkvJQ8zzHMwRUR6Yt4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주협아, 그냥 처먹기만 할거면 (비속어)집구석에서나 처먹어라, 뭐하러 영상찍으려고 하냐",
+        "writer": "UgwCmHUKHSwAwRJmVip4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "pd가 현주협을 못살리네",
+        "writer": "Ugy2blN69kr3mLpkST94AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "점수영 한마디만 할게요 (비속어)먹고 직원 도티 pD에게 사과하세요 4가지 없는사람아",
+        "writer": "UgzQuYsIt0LMC_DSW1R4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그저 빛도티",
+        "writer": "Ugze3zYkYkHk1dYjqGF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현주엽 인성 문제있어",
+        "writer": "UgzxGiauSbaGMhUrMgR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 영상이 재미없는데 편집을 어케함",
+        "writer": "Ugy7aT9tV_CPNs0xGut4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "했다고 치고는 지가 뭐 대는줄 암 즉 너무 거만하다",
+        "writer": "UgzrUuwFL3ar3D-cV7F4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자가가 멘트 안하고 재미없게 먹기만 했으면서 왜 편집 탓 진짜 어이가 없네",
+        "writer": "UgzxeRt6LjPzWQgPrcZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "본인이 재미가 없는데 편집을 어떻게 해달라는거야 강호동도 1시간 프로에 10시간씩 녹화하는 걸로 유명한데 도대체 무슨",
+        "writer": "Ugy61jH3sv2KKrLd0xZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현주엽씨 승승장구 하세요 늘 응원합니다",
+        "writer": "UgzALH4baMw5Xeqwgy54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무례하다 저 피디들 도티 참느냐고 애쓰네",
+        "writer": "UgyOiz16bnMFbH7JQT14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 이건 쫌 너무하잖아요 자기소개를 했다치고라고 하는 것 부터가 유튜버의 대한 자세도 아니고 또 아무말도 안하고 먹는 먹방이라면 그게 ASMS이지, 그리고 먹을 때 표현이라던가 아니면 이거 먹을때 이런 맛이 난다아니면 이 회 진짜 맛있다 라고 하면되지 어떤 먹방 유튜버가 먹을만 하네라고해요 편집을 잘하지 못한것도 있는건 맞는 것 같은데요 그래도 친견을 올려서 먹는다던가 표현을 하던가 아니면 진짜 ASMR 먹방을 하시지 왜 아무말도 안하고 진짜 먹기만 하는 그런 영상을 보는 사람은 없어요 이건 현주엽님 잘못도 있는것 같아요 ( 오타가 많이 있을 수도 있어요 양해부탁들게요)",
+        "writer": "UgyPSkqxOvjJ-cl0w5l4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 지가 아무것도 안해놓고",
+        "writer": "Ugz_IENYymkq-nWHzfZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보스같은 (이름) 막나가는 (이름)가 더 잼나요 설(이름) 연기하는것은 좀,",
+        "writer": "UgzIfWuqLMWhiFQrPIJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Pd가 현주협을 못살린게 아니라 현주협 지가 스스로 디진(혐오표현)",
+        "writer": "Ugy2blN69kr3mLpkST94AaABAg.9Hozl6eoGMl9IwH7_aoVdn",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자기들이 잘하는 연출이 아니라 크리에이터가 잘하는 걸 해야하지 않을까요 그 부분의 케미랑 온도차가 있어보여요 그래서 (이름)도 부자연스럽고 욕먹는거 같아 넘 맘아프네요 20년팬입니다",
+        "writer": "UgxcafaZGq3cyLWRw5V4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "회먹고 마카롱먹고 (마카롱 다먹지도 않음)끝 이걸 어떻게 살리냐고 (이름)님이 더 재미있게 해주셔야지 방송이 재미있어지지 그랬다 치고 점수0점제가지금 해주셔야지 님까지 붙여주는것도 마지막이야",
+        "writer": "UgxbFHZAfulNjTdTzKp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자기가 한게없는데 편집자 탓을하냐 어이없네",
+        "writer": "Ugy1DCxbGdhnRhFV-hx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "능력은 탑급인데 사용할줄을 모르네, 배우는 입장이면 겸손 노력 알려는 의지 좀 많이 필요할듯,",
+        "writer": "UgwRlcTEu6CPrmsf6zN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 근데 원나잇푸드트립은 꿀잼이었는데,",
+        "writer": "Ugwr7anocndOOVRQlud4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 다른 유튜버 알아보시면 안될까요",
+        "writer": "UgwqJQiyNJ9Th9A1fTx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나이를 똥꾸멍으로 쳐먹었네",
+        "writer": "UgzTM-1GGnsOoLV-5VR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소통 이안되구 먹기만하시는거보니 쑥스러우신가보네요 자존심 때문에 그러시는거면 소통이안되네요주엽님께서 드시는거보구 대리만족을 느끼는건데 소통좀 하셧으면 좋겟군요",
+        "writer": "UgwM1V8p3kVlsgNPYHV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "멘트없이 먹고 먹이고 맛있네 이런말 하면서 재미없다고 하는건 좀, 제발 컨셉이길",
+        "writer": "UgxBlNlI-9CvV2sKei94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 나옴",
+        "writer": "UgyDbx7begkBA4lre8R4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 안 나왔으면 좋겠다",
+        "writer": "Ugx_36o7fZNBYRiH9TZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 나 진짜 이 사람 볼때마다 왜 이러냐 진짜",
+        "writer": "UgykKbhdD9SHzotwB_J4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "점수 913919390283719021747193718103927251039점",
+        "writer": "Ugx4rJCXQHU91nnq2_V4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "차라리 평범한시민이지만 멘트는 칠줄 아는 절 뽑아가실래요",
+        "writer": "UgxwEUI_WCGKmtyA85x4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그나마 박수칠때 떠나야했다",
+        "writer": "UgwuJQzelk67vbDaFal4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 자기가 재미없게 행동해놓고 왜저래",
+        "writer": "UgzRXUzFUCls7Hxwaet4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 연예인들도 왜 PD 까는 점에 대해서 쉴드를 쳐주는거에요 아니 직접 영상을 녹화하고 편집을 해봤던 입장에서 어찌보면 편집에서 가장 많이 고민하는 단계가 첫단계인 컷 편집이에요 그걸로 틀이 잡히고 뒷 내용이 잡히니까 그런데 그 컷편집을 하면서 넣을만한 장면을 2시간짜리 영상 속에서 단 10분도 찾기 힘들었는데 이건 편집 포인트를 못잡은게 아니라 편집 포인트가 없던거였어요 그걸 전 제가 했으니까 그걸 뼈저리게 느꼈고. 편집은 영상의 액기스를 뽑아내는건데 영상에서 액기스는 없고 그냥 무미건조한 내용만 있으면 아무리 편집으로 (비속어)을 해봐도 뭐가 안되요 자막을 넣던 브금을 넣던 애펙 같은걸로 추가 효과를 넣건 모든 편집 과정은 베이스라는 영상이 중요한데 자기가 그것도 못해놓고 왜 평가질을 하는(반사회적용어) 모르겠네요 오히려 저는 저기 편집자 분한테 동정심이 갔어요 저 영상을 찍고 컷편집에서 잡을 만한 내용도 없는데 뭘 넣어야 할(반사회적용어) 고민하고 그나마 재미있던 부분 뽑아내려고 하고 그러다가 결국 저런 영상이 나온 것일텐데, 어렸을 때야 연예인들이 재밌다고 느꼈지만 이젠 아닌것 같아요 연예인들도 사람이고 아무리 재미있는 사람이라고 해도 항상 재밌고 탠션이 높을 수가 없을텐데 그걸 커버 쳐주고 더욱 재미의 농도를 올려주는게 편집이라는 하나의 정제과정입니다. 연예인들을 비판할 생각은 없지만 연예인들도 그걸 알아주었음 하는 마음도 있어요.",
+        "writer": "Ugz2Y9ryEcm0QBnweq54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)이도 저따구로 안하겠다",
+        "writer": "UgzWShVbh_J1yM8BQDZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리는 엘지세이커스 보려고 현주엽 본(혐오표현) 현주엽 (비속어)질보려는거 아니다 감독접었는데 왜 내보내",
+        "writer": "UgwP5_qP_QTgf4_cG0Z4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애초에 현주엽이 저런거 해본적도 없는데 pd가 먼저 이런이런 멘트 해주세요 해야 되긴함 인성이고 모고 간에",
+        "writer": "UgwVOlo9gwsRkf_4SFx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "원나잇푸드트립은 재밌었는데 요거보면 피디가 재능못이끌어내는것도 맞긴한듯,",
+        "writer": "UgxpOYS7aDGVO0cn1PZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이건 도티나 도티 팬을 떠나서 현주엽이 태도에 좀 문제가 있음",
+        "writer": "UgzFo8BrI77em9d1Px54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현주엽 하면 소고기지 소(이름) 해체쇼하면서 몬도가네식 육회 먹방",
+        "writer": "Ugx4_c36W_Osg0zy2EB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는 일단 현주엽 저 주제도 모르고 째려보는 눈빛이 싫음 자기가 아직도 농구1위인줄아나 저PD가 무슨잘못을 한거야 이거 (비속어)불러다 고쳐주는 프로 아니었음 출연자 전체가 (비속어)네",
+        "writer": "UgzaQ5ujmSGACOJ9Lx14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이랑 (이름)이 중간중간 말한게 더 재밌고 자기가 망쳐놓고 (이름) 혼내는게 웃기다 그리고 지가 망쳐놓은걸 (이름)이 그나마 재미있게 해줬는데 영점을 준것 자체가 이해가 안돼는데 자기소개 안한게 더 이해가 안됀다",
+        "writer": "Ugyt7S0WUShPkcan_ah4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "걍 접어라 뭔 유튜브로 돈벌어보겠다고",
+        "writer": "Ugzi3Kzm_U08GvOznrB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진심 나한테 시작부터 고문관스타일이라고하면 (비속어)에대고 너는 (비속어)스타일같아요 라고 말해줄수있는데 저건 도티나 다른 분들도 문제가 있는게 워크맨같은 애들보면 편집이 재미가 있는 것도 있지만 엄연히 출연진은 소스제공을 해야하는 의무를 다해야함 특히나 먹방 안그래도 포화상태라 레드오션인데 저딴 무멘트 (비속어)(이름) 만약 살리면 그 PD는 세계최고해야된다",
+        "writer": "UgzGN0kOeAjHE6UXulN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 (이름)은 재미도 겸손하지도 않고, . 그냥 이 예의없는사람은 나중에 독이 될듯",
+        "writer": "UgyPA6NTXG6pC_JVWP14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니, 다들 현주엽 욕하는데 태도의 문제인(혐오표현) 컨텐츠 자체는 pd탓임, 기획이랄게 없음, 솔직히 원나잇푸드트립의 애청자로서 현주엽 거의 먹방 1 top인데 컨셉을 너무 개 (비속어)딱같이 잡은것도 사실임, 저 회한접시 갖다놓고 새하얀 스튜디오에서 집게로 쳐먹는게 무슨 분량이 나오겠냐 현주엽은 거리로 나가서 자유롭게 음식을 깔아줘야함, 세계로 끌고다니면서, 스케일을 만들어야함,",
+        "writer": "Ugyk27hsI3BFq9NOVVp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "솔직히 도티가 (이름)가 소개한 이유 하나로 저 수모를 당하고 있는(혐오표현) 현주엽은 더 이상 나오지 마라. KBS도 더이상 아무것도 아닌 백수를 왜 이프로에 계속 출연(반사회적용어)는지 (이름) 알았으면 좋겠네",
+        "writer": "UgwzM2a8-XVFCFFyAjh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 좀 보기 역하다, 어우",
+        "writer": "UgwjQ5Ou8wK2KJakfdB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지가 못해놓고",
+        "writer": "UgxImstlwQ9b3Z_by0V4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여러영상 보면서 내가 다 (혐오표현) 치네. 겉멋에 나이무르익었다고 세상일다안다는듯 여유와노련함을 가장한 저 오만 가득한 눈빛 말투 진심 개(비속어).나같았으면 여유있게 웃어주면서 꼬리내리게하고 다시는 저 눈빛 안나올때까지 막판클라이막스로 맨탈까지 짓밟아부셔버렸을듯.",
+        "writer": "UgzLczZjxAxNCONTaoJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이분 유튜브하면 거의 반이 악플일듯, .",
+        "writer": "UgwAAC5eq9engK43ovZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "먹기만 하는 돼지",
+        "writer": "UgxuB94HA3ooD3LOxWp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자기가 말 한마디도 안하면서 왜PD한테 날리야...",
+        "writer": "UgzincV389XWK5DCuVt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현주엽씨는 귀여운 얼굴을 가지고 태어나셨습니다",
+        "writer": "Ugx2sNV45jMCzfCqgqF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 녹화말고 혼자서 먹는거 라이브만 하세요 뭐하러 주변 사람 고생시킵니까",
+        "writer": "Ugy0paUlh623jik5p3J4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그것도 맞을수 있긴 하지만 (이름)이 말없이 걍 입에 쳐 넣은것도,",
+        "writer": "UgxpOYS7aDGVO0cn1PZ4AaABAg.9BspIwbg8Gk9CkuQ09zxxL",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금 먹보스 채널 보면 답나오지 (비속어)이 채널처럼 만들려니 현주엽이랑 안맞지",
+        "writer": "UgxpOYS7aDGVO0cn1PZ4AaABAg.9BspIwbg8Gk9PNkXpqdwi-",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에휴 다른 먹방유튜버봐라 흰배경에 회하나 놔도 재밌을사람 널렸다 지가 멘트안하고 하니까 노잼인(혐오표현) 다른 유튜버들은 맛이나 꿀 조합이런거(반사회적용어) 생각한다",
+        "writer": "Ugyk27hsI3BFq9NOVVp4AaABAg.9Bih6SqLDzm9BlSdHbkPdV",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무기획 노잼 편집 인정입니다, 주엽님 샌박 손절하세요,",
+        "writer": "Ugyk27hsI3BFq9NOVVp4AaABAg.9Bih6SqLDzm9CGXUjNku7W",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오른쪽분 그 장삐주에서 자기 할말만하고 나가시는 분 아님",
+        "writer": "UgxTb0sMGVgPLb54bvl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 자기가 열심히 하려는 자세가 없는데 그걸로 저만큼이(반사회적용어) 만들어 낸 게 대단함. 솔직히 왜 피디가 잘못 편집한 것처럼 나오는지 모르겠음. 이 전에도 어떠한 방향성으로 원하는지 물어도 스스로 아무생각 없다고 했으면서 결과가 구리닌까 남탓하는거 진짜 (비속어). 진짜 악질 갑이네",
+        "writer": "UgwfKfmNz0Aok1OOfup4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저런건 나이값 대우해줄필요없어",
+        "writer": "UgwiNj293yQgy0zlVMN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막에 아, 예, 맞아요 똑똑한 친구입니다 하는거 할만하않인거 같은데, 뭐 멘트를 치든 표정이 다양하든 해야 편집소스로 사용하거나 하지 다 대충대충 맛표현없고 자신이 먹는 방식설명 없는데 어쩌란건지,",
+        "writer": "Ugyr9sqRhClBIAk6Oih4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다 탄밥에 소스 맛깔난거 뿌리면 뭐해 소스탓하고있네",
+        "writer": "Ugzv4FJax2Z7iv-kOpR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "니는 방송에서 (비속어)라",
+        "writer": "UgzGzrqUj_NYEJE717N4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "야 니가 재미없게 먹기만 했잔아",
+        "writer": "UgzBgwznjFtFlMH69PV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이쯤되면KBS도 문제임",
+        "writer": "UgyP7ImBSeNqdEDyx3d4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "니가 편집을 알어",
+        "writer": "UgxnONkFoEM1zumeV894AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "막내가, 불쌍하다,",
+        "writer": "UgxY4uwbaryWzt7n77p4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "끔찍하다 뭘 유튜브를 찍으려고 하세요",
+        "writer": "UgyIVgFRgPM4SA9MSvV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주엽아 사람 무시하니까 나도 반말할께 방송 나오지마",
+        "writer": "UgydaltS-JXP_32vIRl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 진짜로 현주엽의 어느부분이 크리에이터로서 가능성이 있는(혐오표현), 요즘 먹방으로 잘되려면 많이 먹기만 하는게 아니라 이쁘고 잘생기면서 맛있게 먹거나 아니면 자기만의 특별한 컨셉이 있거나 도전먹방이라던가 리뷰라던가 특색이 있어야 성공하지 많이 먹기만 하는 (이름)는 아무런 가능성이 없는데",
+        "writer": "UgxSvkZ0dSScthWfEJ14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "멘트가 없으면 리액션이(반사회적용어) 하는게 구독자에 대한 예의 아닌가",
+        "writer": "UgzAUeCpN8hoWju6-754AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자기가 멘트 안하고재미없게 먹기만 했으면서 왜 편집을 탓함 어이가 없네",
+        "writer": "Ugx6g33JnLSkXcfWSDx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "PD한테 다 맡기고 지는 꿀빨겠다는 거네. 그냥 먹기만 해놓고 설명을 했니 asmr이 인상적이었니 저 정도면 반드시 놓쳐야 되는 섭외야.",
+        "writer": "Ugw9k71mwtMRihFxs594AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 편집이 마법도 아니고 편집만 탓하고 있어. 초면에 너무 그렇다.",
+        "writer": "UgxURBeHiaUHuP5xXcR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현주엽 형님 응원합니다 배태랑 을 찾아 보다 여기 왔어요 나는 배태랑 에서 우리 (이름) 님과 더불어 배태랑 형님분들 의 팬이 되었습니다 응원합니다 ...",
+        "writer": "Ugyg2dyiFrm1GhW8-Hd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지가 똑바로 안하고 PD를 탓해 왜 태어났냐",
+        "writer": "UgxTBkOKTASwSmGfBWR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재료가 있어야 뭘 만들지",
+        "writer": "Ugy5xe-XNum-VNr_s_x4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": ", 푸드트립이란 프로그램 보시면 왜 가능성있는지 알 수 있습니다, 컨셉을 스튜디오에 가둬놓고 부자연한 분위기로 하는건 좀 안맞는것 같아요, 진짜 먹방계의 타노스급이긴 해요,",
+        "writer": "UgxSvkZ0dSScthWfEJ14AaABAg.9BV95eYJRrC9BigVxJshYJ",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "nove 09 근데 먹방계의 타노스다 뭐다 해도 사람이 인성이 않되서 금방 망하거나 성공도 못할듯",
+        "writer": "UgxSvkZ0dSScthWfEJ14AaABAg.9BV95eYJRrC9BkErMPCCYw",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "beef Roast 보고 토하게해서 타노스인가요",
+        "writer": "UgxSvkZ0dSScthWfEJ14AaABAg.9BV95eYJRrC9BnznMq-grj",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 편집자면 걍 관둘듯",
+        "writer": "Ugx6g33JnLSkXcfWSDx4AaABAg.9BUCy22NIf49C0Ym749HtP",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그게아니고 저기는 회사에요 회사에서 컨텐츠 준비를 충분히 안했자나요 PD가 잘못한거죠 분량을 뽑으려면 단순히 먹방으로 갈꺼면 (이름) 많이 먹으니 많이먹는 쯔양처럼 음식 많이 준비해서 먹게하는것도 아니고 음식 설명이 필요하면 방송전에 어떤회다 어떤 마카롱이다 먹고 설명 잠깐 잠깐씩 부탁한다 아니면 촬영 중에 물어본다던지 드실때 식감은 어떠세요 이게 무슨 회라고 합니다 비쌈니다 이런식으로 도와줘야죠 그게 회사 역활임니다 컨텐츠 준비도 본인이 할꺼면 회사에 수익분배하면서 들어갈 (이름) 없어요 월급 편집자 쓰지",
+        "writer": "Ugx6g33JnLSkXcfWSDx4AaABAg.9BUCy22NIf49CcKFYpAFYk",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이름 저런 대형 업체에서 어느 크리에이터가 방송준비합니까 왓썹맨에서 (이름) 어디가는지 컨텐츠 뭔지도 모름니다 네고왕이나 다른거 보세요, 그리고 피디라는 직업 이 방송 콘텐츠 만드는 직업인데, 왜 피디가 콘텐츠를 만드냐니, 1인유투버로 시작한 사람들이야 자기가 어느정도 짠다치지만 , 영상 하루 하나씩 찍어내는 저런데서 크리에이터가 콘텐츠 준비를한다구요 저게 잘한거임 죄송합니다 전 mcn 으로 스카웃인지 몰랏어요",
+        "writer": "Ugx6g33JnLSkXcfWSDx4AaABAg.9BUCy22NIf49EhkuBAolDm",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "버려진계정 태도는 뭐 감독직 오래하고 자기 아들뻘처럼 느껴서 .래도 불량한건 인정",
+        "writer": "Ugx6g33JnLSkXcfWSDx4AaABAg.9BUCy22NIf49Ehl3kUCOuG",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그걸 동조하는 출연진도 그렇고 ,",
+        "writer": "UgxTBkOKTASwSmGfBWR4AaABAg.9BP0P3w9Kxe9BUZJ5snRe4",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그렇다고 왜 태어났냐고 하는건 아닌듯,",
+        "writer": "UgxTBkOKTASwSmGfBWR4AaABAg.9BP0P3w9Kxe9BquSgyptv_",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "향연 왜 알려고 하면 안되죠",
+        "writer": "UgxTBkOKTASwSmGfBWR4AaABAg.9BP0P3w9Kxe9BqxiUObSSK",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "문댕아사랑한다 뭔상관",
+        "writer": "UgxTBkOKTASwSmGfBWR4AaABAg.9BP0P3w9Kxe9Br-A0vePZV",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "향연 생존을 위한 번식행위가 안좋은 뜻 이라고요",
+        "writer": "UgxTBkOKTASwSmGfBWR4AaABAg.9BP0P3w9Kxe9Br7E62pN9n",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애초에 편집할게 없음 뭐 제대로 찍은영상이 있어야지",
+        "writer": "Ugy5xe-XNum-VNr_s_x4AaABAg.9BOx8nXZAWN9BjYsZyfaYG",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그때 먹는것도 자연스러웠고 음식들 도 맛있어보였어요대박 날 꺼같아요꼭 채널 구독하겠습니다",
+        "writer": "UgwB1BYVXvB29rCyUWB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몇년전에 올리브tv에서 해외로 먹방로드 하셨던 것처럼 자연스레 먹는 거 찍으시면 될꺼같아요",
+        "writer": "UgxvUj9TdxxRG34O5w94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=45NiVZSBg60",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

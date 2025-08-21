@@ -1,0 +1,828 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001670924",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001670924"
+    },
+    "text": [
+      {
+        "content": "(이름) 괜히 잘하나 요리방송 경험자답다. 아이들방송 ebs 요리조리팡팡이라는 요리프로 출연 경험자답다.",
+        "writer": "Ugz6az_uUicLyKNbwG54AaABAg",
+        "write_date": "2021-10-27",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하 마요네즈 넿어서 구웠더니 짜네",
+        "writer": "UgxNJOObiCJMsPjSNT54AaABAg",
+        "write_date": "2021-05-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 생겼네고구려 미남이다..",
+        "writer": "UgyqkJjlI2asJLE_lCh4AaABAg",
+        "write_date": "2021-02-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 몸에 근육이 숨겨져있다니",
+        "writer": "Ugxp8VMHHCK-R9D0QtV4AaABAg",
+        "write_date": "2021-02-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 왜 이리 이중성 같냐",
+        "writer": "Ugy3G013R_K7Tn3U8Lh4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 형아 머리 멋있어요",
+        "writer": "Ugym0BXM2nFv-HgRYpR4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얘 왜급늙엇어요, 딴사람인줄",
+        "writer": "UgzTI2hUEUNc_LgR4h94AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸넬 왤케 조직두목이 미원이라는 여자 납치해오라고 명령하는거 같냐",
+        "writer": "UgwwdtlW6p81zV5C9_Z4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 잘생겼다",
+        "writer": "UgxsoQkt2mv5jiHad1d4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남성미가 충만해진 나이든 차은우",
+        "writer": "Ugw2cwnJesNC0pxp0i94AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어디서 본건있는데 (비속어)짓 하는것 같늬",
+        "writer": "Ugx27RJYXOTV_IAS-2p4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 한국식 깊은 맛은 미원 다시다가 정점이지.",
+        "writer": "Ugyi_jo1MgPAsQyBLrt4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인상이 차갑고 날카로움.",
+        "writer": "UgxdxyI1KA43YefZw6F4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고기 때깔보",
+        "writer": "UgxX7XD78Fbl-Qy2P9t4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "피부좀 태우면 유럽사람 느낌일듯",
+        "writer": "UgwVqSuTzCkTvXDZDYt4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이분 육식맨 구독자이신갘",
+        "writer": "UgxGaWwt2d5nhN9h2-Z4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머리 기르니까 개멋있네",
+        "writer": "UgygpApBw0Rmaee2n7d4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다른 연예인 썸네일은 그냥 예능분위기인데 이분은 영화에 한 장면 같다, (반사회적용어)범이 이 가루뭐야 했는데 형사여서 (반사회적용어)은 수입 못한다고 미원, 이러는 것 같아,",
+        "writer": "Ugw5_DaIohAl2lnIXS94AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지훈이형 안녕하세요 실제로 봤어요 존멋",
+        "writer": "UgwRHHqIFh7rf-69igN4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸넬 분명 자막 위에 조미료라고 써있는데 나는 (비속어)으로 봤네, 악의꽃 영항이 너모 크다,",
+        "writer": "UgyniTH-mcKHcb5cb454AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "최(이름) 따라하지 마세요 .. 머리스타일 안어울려요",
+        "writer": "UgzFo0njx3qHEyhLyKJ4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뮤지컬배우 같아요 지저스크라이스트수퍼스타 (이름) 같으세요",
+        "writer": "UgzoLPiu8NS8hawHYjZ4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘생겨서 들어와봄",
+        "writer": "UgxRb_rn9-hrW0NTYrl4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가발 티안나는 거도 많드만,",
+        "writer": "Ugyan8pz7jh5dM8KeWt4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예전에 요리교양프로 진행하지 않았음 요리 실제로도 성시경급으로 잘할것 같음",
+        "writer": "Ugz3QYxp57ci6wot_1x4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왕좌의 게임에 나오는 왕자 같이 생김",
+        "writer": "UgxDyA2Aa83PemhV0N94AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미원이 나쁘다생각되면 안먹음되고 괜찮다생각하면 먹으면되지 나가서 사먹으면 어찌저찌 다 먹게되는데 싫으면 평생 삼시(비속어) 만들어드세여",
+        "writer": "Ugy3Q7nH4ZK3qFX6oaJ4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "옛날에는 그냥 그냥 얼굴만 기억하는 형이였는데 요즘은 왤케 꿀잼 순수한형 같아서 이름도 기억남",
+        "writer": "UgyKTfyUKrCSW4kWir94AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 왜 조미료가 월매나 훌륭한디",
+        "writer": "UgwpaAYVVlCGh7F4U-14AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 하시던 방법이네요",
+        "writer": "UgzD7WzSx9r8tuIMQ2J4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "장발에 환장하는 나로선, 너무 환상적이야,",
+        "writer": "Ugx3vlg-Z3wxJEQGFi54AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "차은우 상위버전이야 애들아 차은우 화(이름)면 개쳐발릴걸",
+        "writer": "UgxtYVMiz9EPoMV3nK14AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 미원이 방송에서 나쁜재료마냥 나오는게 싫다",
+        "writer": "UgxZHgz6W8DecguZ5KN4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "육식맨 구독자인가보네",
+        "writer": "Ugz3HrGFPQtyuyeZ6dd4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 오히려 장발이 미모를 더 빛나게 하는 느낌, 예전엔 잘생긴줄 몰랐는데 진짜 외국미남같이 생기셨어,",
+        "writer": "UgwQiF0wiQEF4kFR2VF4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크으 마이야르",
+        "writer": "UgzPPEP6jAH1fiiaBih4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 육식맨 구독자구나",
+        "writer": "UgxQM-HLmL59fXho-DN4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 그동네 왕자들은 좀 하나같이, 음, 요절했던데",
+        "writer": "UgxDyA2Aa83PemhV0N94AaABAg.9HWWZRLhxNJ9Ho-Rg2SnwY",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기서 차은우를 깎아내린다고,",
+        "writer": "UgxtYVMiz9EPoMV3nK14AaABAg.9HSNP4ACtBP9HU-qKTM1Hr",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "차은우도 차은우대로 잘생겼고, (이름)도 (이름)대로 잘생김.",
+        "writer": "UgxtYVMiz9EPoMV3nK14AaABAg.9HSNP4ACtBP9HUsTC4ai6o",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Calm 미원은 음식의 감칠맛을 내고 오히려 소금보다 나트륨 섭취를 줄여 우리몸에 이롭습니다요조미료가 건강에 안좋다는건 (비속어)예요",
+        "writer": "UgxZHgz6W8DecguZ5KN4AaABAg.9HRxf06Y-Gf9HXj0OkDjRn",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그건좀 아가야 좋다고는 안하고 소금보다 나트륨이 적게들어가서 그나마 낫다라고 말한거란다 글똑바로 읽자",
+        "writer": "UgxZHgz6W8DecguZ5KN4AaABAg.9HRxf06Y-Gf9HZDmDJh51c",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소금보다 미원이 더 낫다",
+        "writer": "UgxZHgz6W8DecguZ5KN4AaABAg.9HRxf06Y-Gf9HmtUP1fvBq",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밥줘배고파 무식한 놈 일일이 상대하면 피곤합니다",
+        "writer": "UgxZHgz6W8DecguZ5KN4AaABAg.9HRxf06Y-Gf9HqU8WmVJZm",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Calm 그럼 넌 요리 자체를 하지 말아야겠다",
+        "writer": "UgxZHgz6W8DecguZ5KN4AaABAg.9HRxf06Y-Gf9HqUAPgwt8R",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그건좀 무식하면 용감하노",
+        "writer": "UgxZHgz6W8DecguZ5KN4AaABAg.9HRxf06Y-Gf9Hud47OIFSL",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그건좀 이롭단말은 이익이된다 도움이 된다는 뜻으로, 하 현타오넼 너가 이해를 못하니깐 내가 계속 다 풀어서 답변하게되잖아 아가야 똑같은 나트륨 섭취를할때 더 적게 섭취하게되니깐 이익이 된다고 하잖아 넌 그럼 물건 살때 가격 비교하면서는 왜 사냐 딱 니 외형이 그려지네",
+        "writer": "UgxZHgz6W8DecguZ5KN4AaABAg.9HRxf06Y-Gf9Hw_dY0Zg2b",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)의 레골라스,",
+        "writer": "UgwQiF0wiQEF4kFR2VF4AaABAg.9HQevLke1ce9H_LeMxepze",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "결혼을 한 적이 없는데 이혼이요,",
+        "writer": "UgwtO0Hsr5VU_MIXOf54AaABAg.9HP9lPk_Rct9HPMtWJXj2r",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 뉴스에 결혼 한걸로 나오던데, 그러네. 동명이인이어서 착각했네.",
+        "writer": "UgwtO0Hsr5VU_MIXOf54AaABAg.9HP9lPk_Rct9HPZ8FDnX8m",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 쓰는 팬 제품 이름 좀 알려주새요",
+        "writer": "UgwZImKyH7BQ-U_NDqt4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미 은 독약이나 다름없어요. 몸에 축적될수록 만병의근원.반면 죽염이나 천일염 등 미네랄이 살아있는 천연 소금은 약입니다.꼭 드세요",
+        "writer": "UgxqKTWDaa7K3Tv1Hed4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "444 번역 수정 666 그 수는 숨겨져 너희가 어떠한 예방 접종인 것처럼 받아들이도록 강제되어질 칩 속에 박혀질 것이다. 유럽 카톨릭 예언자를 통해 (이름)께서 전 세계인들에게 주고 계시는 수 백개의 이 예언 메세지들은 전 세계 각국의 언어로 번역되고 있습니다. 이 메세지들은 종교와 상관없이 전 세계인들에게 전달되어야만 하는 수 백개의 긴급 메세지들과 십자군 기도문들로 이루어져 있습니다. (아래 블로그를 클릭하시면 수 백개의 예언 메세지들과 당신을 지켜줄 십자군 기도문들을 보실 수 있습니다) lover_______30141326353 666 will be embedded its number hidden into a chip which you will be forced to accept just as you would any vaccination. Friday June 1st 2012 pm 적그리스도는 이미 중동에서 확산되는 전쟁과 희망이 없어보이는 끔찍한 고통의 때에 자신이 소개할 평화의 계획을 준비하고 있다. 적그리스도는 갑자기 출현할 것이고 암흑의 중심부에서 반짝이는 밝은 보석인 평화의 인간인 듯 세계에 자신을 소개할 것이다. 그자는 모든 시간 중에 가장 카리스마있는 정치 지도자처럼 보여질 것이다. 그는 핸섬하고 매력있고 배려하는 성격으로 대부분의 사람을 속일 것이다. 그는 사랑과 연민이 스며 나올 것이며 그리스도인으로 보여지게 될 것이다. 때가 되면 메시아인 나처럼 그들의 수로 성장하는 많은 추(비속어)들을 끌어 당길 것이다. 그가 모든 민족 사이에 화합을 촉진(반사회적용어)는 것으로 보여질 것이고 전 세계 거의 모든 국가에서 사랑받을 것이다. 그런 다음 그는 초자연적인 능력을 보여줄 것이고 많은 사람들이 그가 (이름)께서 보내신 인류의 구세주인 나 예수 그리스도라고 믿을 것이다. 사람들은 그에게 기도할 것이고 그를 사랑하고 그를 위해 자신들의 삶을 포기할 것이다. 그러나 그는 사람들이 자신을 보지 않는 데서는 그들을 향해 웃고 조롱할 것이다. 이것은 인류 역사의 시간 중에 가장 큰 속(이름)며 그 계획은 나로부터 너희를 떼어내기 위해 너희 영혼을 훔치기 위한 것이다. 그 적그리스도와 거짓 선지자는 베드로 자리에 왕처럼 앉아 비밀리에 하나의 세계 종교로 음모를 꾸밀 것이다. 이것은 사랑을 촉진(반사회적용어)는 그리스도교 형태의 종교인 것처럼 보여질 것이지만 그러나 그것은 서로를 사랑하라고 하신 (이름)으로부터 오는 것이 아니며 대신 적그리스도에게 충성과 사랑을 촉진시킬 것이며 자신 스스로를 사랑할 것을 촉진할 것이다. 그들이 (이름)의 자녀들을 꾀어냈을 때 공격이 시작될 것이기에 그 혐오스러운 것은 멈추지 않을 것이다. 갑자기 충성의 단일 세계 마크에 동의 하도록 요구될 것이다. 모든 사람이 하나로 연합된 단일 세계에 참여해야만 할 것이다. 그것은 너희의 돈과 음식과 삶을 통제할 것이다. 그 규칙들 중 많은 것들이 너희가 포로가 될 것을 의미할 것이다. 너희를 그들의 지배 아래 있게 하는 너희에 대한 (반사회적용어)방의 열쇠는 짐승의 표가 될 것이다. 666 그 수는 숨겨져 너희가 어떠한 예방 접종인 것처럼 받아들이도록 강제되어질 칩 속에 박혀질 것이다. 일단 그것이 박혀지면 너희의 마음과 영혼 뿐만이 아닌 육체 또한 독살할 것이다. 왜냐하면 그것은 전 세계의 많은 인구를 없애버리기 위해 고안된 전(비속어)을 일으킬 것이기 때문이다. 너희는 그 표를 받아들여서는 안된다. 대신 나는 너희가 무엇을 해야할 지 알려줄 것이다. 많은 사람들이 속수무책으로 그 표를 받아들일 것이다. 살아계신 (이름)의 인호인 내 십자군 기도(33)는 너희의 생명줄이다. 내 영원하신 아버지에 의해 주어지는 보호막인 내 인호를 받을 때 너희는 그 표를 받아들이지 않아야만 할 것이다. 너희를 건드리지 못할 것이다. 사탄의 군대에 의해 보여지지 않게 될 것이기 때문에 너희의 집은 보이지 않을 것이고 찾지 못할 것이고 타겟이 되지 못할 것이다. 너희는 몇 년동안 지속될 식량을 숨겨둬야만 할 필요가 있을 것이다. 너희는 작물을 기르고 물을 저장하고 거룩한 성물을 지녀야만 한다. 내 남아있는 교회는 성장하고 확산될 것이며 필요한 경우 피난처를 받을 것이다. 많은 계획이 지금 필요하다. 너희가 행하는 것을 비웃는 저들은 그것이 아니면 설마 너희에게 이를 행하라고 (이름)이 요청하지 않았을 것이라 말하는 것이냐 그들이 필요로 하는 시간에 (이름)이 그를 따르는 자들 모두에게 공급해주지 않는다는 것이냐 내가 너희를 보호하고 안전하게 지켜줄 것이기에 약간의 음식만 있다면 그것은 문제될 것이 없을 것이다. 빵 한 덩어리와 물고기 하나만 있어도 내가 그 음식을 불려줄 것이다. 그 표를 피할 수 없는 사람들을 위해 열심히 기도하여라. 칩을 받아들이도록 강제되는 시점에 은총 지위에 있는 순진 무구한 영혼들은 구해질 것이다. 나머지 사람들은 너희의 가족을 그리고 거룩한 성체 성사와 미사에 대한 너희의 충성을 보호하기 위해 계획해야만 한다. 적그리스도가 모든 종교를 집어삼키려 할 때 적그리스도를 무력하게 만드는 유일한 무기는 거룩한 미사와 그리고 빵과 포도주가 거룩한 성체 성사에서 내 몸과 피로 변화되는 성 변화이다. 나의 미사 성제는 계속 되어야만 한다. 이것을 아는 사람들은 사람들을 모아 준비를 시작해야 한다. 너희는 너희에게 속하는 사람들을 더 증가(반사회적용어)기 위해 너희에게 주는 은총을 더 다급히 모아야한다. 적그리스도 세력들은 새로운 건물로 이루어진 혐오스러운 것을 내 새로운 성(이름)고 말할 것이다. 그러나 이것은 사실이 아니다. 그러나 박해가 끝날 때 내 남은 교회와 내 선택된 사람들은 재건된 성전을 가지게 될 것이고 새 예루살렘은 하늘로부터 내려올 것이고 영광에 둘러싸여 올 것이다. 그리고 천국과 지상에서 동시에 나팔 소리를 들을 것이다. 그런 다음 내가 올 것이다. 내 자녀들은 나의 재림을 알릴 것이고 땅에 주저앉아 구원의 황홀감으로 사랑과 기쁨에 찬 눈물을 흘릴 것이다. 나 예수 그리스도는 심판관이 되어 올 것이다. 그리고 하늘과 땅은 하나가 될 것이다. 새로워진 지구에 영광스럽고 장관을 이루며 나타날 것이고 새 천국은 생명의 책에 이름이 기록된 사람들을 품을 것이다. 반면 죄악으로 더럽혀지고 죽어야 할 옛 지상은 끝이 나고 새 시대가 시작될 것이다. 오직 모든 영혼들의 구원에 초점을 맞추어라. 그것이 너희들에게 가해지는 장애물을 무시해야하는 (이름)다. 박해 고통 악마가 다른 사람을 (이름)여 너희에게 주는 공포 그 모든 문제는 영혼 구원이다. 너희의 구세주 예수 그리스도 살아계신 (이름)의 인호인 내 십자군 기도(33)는 너희의 생명줄이다. ( 기도 번호 33번) 나의 (이름) 사랑하올 아버지시여 나는 (이름)의 (이름) 보호의 인호를 사랑과 감사의 마음으로 받사옵나이다. (이름)의 신성이 나의 몸과 영혼을 영원히 에워싸나이다. 나는 사랑하올 아버지이신 당신께 겸손되이 감사드리고 엎드려 경배드리오며 나의 깊은 사랑과 충성을 바치나이다. 이 특별한 인호로써 나와 내가 사랑하는 사람들을 보호하여 주시기를 간청하나이다. 나는 아버지께 드리는 공적인 흠숭에 영원히 내 생명을 서약하나이다. 나는 (이름) 아버(반사회적용어) 사랑합니다. 나는 이 시대에 사랑하는 아버지 (이름)께 위로를 드리나이다. 세상의 죄에 대한 보속과 (이름)의 모든 자녀들의 구원을 위해 나는 아버지께서 지극히 사랑하시는 당신 아들 우리 주 예수 그리스도의 몸과 피 영혼과 신성을 바치나이다.",
+        "writer": "UgwbKGX9c8ST5T9JbrN4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "새로운 글로벌 예방 접종을 포함하여 그들의 사악한 계획은 또한 전 세계에 질병을 만들어 낼 것이다. 유럽 카톨릭 예언자를 통해 예수 그리스도님께서 전 세계인들에게 주고 계시는 수 백개의 이 예언 메세지들은 전 세계 각국의 언어로 번역되고 있습니다. 이 메세지들은 종교와 상관없이 전 세계인들에게 전달되어야만 하는 긴급한 메세지들로 이루어져 있습니다. 1961년 스페인 가라반달에서 성모 마리아님께서 나타나시어 예언하신 혜성이 충돌하며 땅이 흔들리고 붉어진 하늘에 십자가가 나타난 후 7세 (이름) 전 세계인들이 (이름) 앞에 홀로 맞대면하여 자신의 모든 죄악을 자신의 눈이 아닌 (이름)의 눈을 통해 보게 되고 각각의 영혼 상태에 따라 천국 (반사회적용어) 연옥을 경험하게 되는 양심 조명의 사건인 경고 (대경고)또한 발생할 것입니다. 이것은 전 세계적인 고해 성사의 형태가 될 것이며 기도하지 않는다면 경고의 날 수 많은 사람들이 자신의 영혼 상태에 대한 충격과 공포로 급사하게 될 것이라고 말씀하셨습니다. 그러나 (이름)께서 직접 일으키시는 이 경고가 발생한 후에도 회심((반사회적용어))하지 않는 과학자들은 이 경고가 우주적인 사고 전 세계적 환상(환각 환영)이었다고 말하며 인간의 논리적 설명을 찾으면서 (이름)의 개입을 인정하지 않기 위해 변명하려 노력할 것이라는 사실을 예수 그리스도께서 이 메세지들을 통해 알려주셨습니다. 하지만 이 경고에 대한 예언이 성취되는 순간 거만한 인간의 어떠한 과학적 논리를 대는 변명도 그것은 무의미할 것입니다. (이름)께서는 우리들이 대경고를 준비하도록 하기 위한 시간을 지금까지 이미 수 십년간 주셔왔으며 2000년이 넘는 너무나 오랜 세월동안 우리가 죄악에서 돌이키기만을 기다리셨기에 앞으로의 남은 시간은 길지 않으며 예수 그리스도님께서는 우리 세대에 천사들과 성인들과 함께 구름에 둘러 싸여 다시 오실 것이라 하셨습니다. 새로운 글로벌 예방 접종을 포함하여 그들의 사악한 계획은 또한 전 세계에 질병을 만들어 낼 것이다. Sunday June 17th 2012 pm 세계 단일 통화를 이루려는 프리메이슨 그룹의 계획의 완성이 가까워 지고 있다. 글로벌 예방 접종을 포함한 그들의 사악한 계획은 전에는 결코 본 적이 없는 규모의 고통스러운 질병을 전 세계에 가져올 것이다. 발표되는 그 어떠한 갑작스러운 예방 접종도 피해야만 한다. 그것은 너희들을 죽일 것이기 때문이다. 그들의 사악한 계획은 그들이 얼마나 강력한지 모르는 무고한 많은 영혼들에게는 충격일 것이다. 그들은 은행 정부를 제어하고 있고 중동에서 발생하는 테러 또한 그들이 담당하고 있는 것이다. 그들은 세계의 많은 미디어를 제어하고 있고 소위 (반사회적용어)주의 단체라 불리우면서 뒤에서는 사악한 진실을 숨기고 있다. 슬프게도 그들의 계획을 알고 있는 (이름)의 자녀들은 매우 소수이다. (이름) 아버지의 정의의 손길은 그러한 악마 지도자를 보호하는 국가들에게 갑작스럽고 신속하게 떨어질 것이다. 그들을 전멸시킬 쓰나미와 지진으로 그들은 내쳐질 것이다. 그들은 내 재림 전에 하늘에서 떨어지는 불을 볼 것이다. 바다는 불에 탈 것이고 나를 거부하는 사악한 영혼들 위에 부어질 징벌의 손길을 피할 곳을 열심히 찾으려 할 것이다. 그들은 영원하신 (이름)과 천국의 힘을 끝까지 거부하며 싸울 것이다. 적그리스도에 속한 이들은 너무 늦게서야 그들의 선택이 잘못이었음을 깨닫게 될 것이다. 서민들을 가난하게 몰고가는 대기업과 은행의 리더와 정부의 많은 이들이 경고 체험 후 회심될 것이다. 그래서 경고 체험은 좋은 일이다. 나 예수 그리스도를 사랑하는 영혼들을 악한자들과 악마로부터 분리하는 시간은 멀지 않았다. 회심하기 위한 유일한 많은 시간이 있을 것이다. 내 자비를 가장 필요로 하는 사악한 그룹에 속한 영혼들은 나의 법에 대한 경외심을 지니고 있지 않다. 너희는 그들이 진리를 보도록 기도해야만 한다. 그들의 끔찍한 법률을 통해 그들이 의도하여 발생(반사회적용어)는 고난이 중지 되기를 기도해야만 한다. 히틀러가 일으킨 제2차 세계 대전보다 더 나쁜 그들이 계획하는 대량 (반사회적용어)이 중지되도록 기도해야만 한다. 중세 시대 형성 이래로 가장 큰 사탄의 군대는 적그리스도에 의해 주도될 것이다. 그들은 수 십년 동안 은행을 통제하기 위한 계획을 끌고 왔다. 그들은 음식을 필요로 하는 모든 남자와 (반사회적용어)의 몸에 짐승의 표인 칩을 강제 이식 하기 위해 15년 동안을 계획하여 왔다. 이제 그들의 신세계 통화가 공개될 시간이 왔다. 여기에 단일 세계 정부의 통제를 방지하기 위한 기도문이 있다. 기도는 그들의 계획의 많은 부분을 줄일 수 있다. 단일 세계 정부의 통제를 방지하기 위한 십자군 기도문( 기도 번호 61번) 하늘에 계신 우리 아버지시여 당신의 사랑하는 외아들 우리 주 예수 그리스도의 십자가상 죽음을 기억하시어 적그리스도와 그의 추(비속어)들이 당신의 자녀들을 파괴(반사회적용어)기 위해 계획하고 있는 십자가 처형으로부터 당신의 자녀들인 우리를 보호해 주시기를 애원합니다. 짐승의 표를 거부할 수 있는 은총과 사탄의 길을 따르는 전 세계에 있는 모든 악마들과 싸우는데 필요한 도움을 우리에게 내려주소서. 나는 (이름)의 모든 자녀들을 보호해 주시기를 사랑하는 (이름) 아버지께 간청하나이다. 이 끔찍한 시기에 우리가 일어나서 당신의 거룩한 말씀을 선포할 수 있도록 우리를 강하게 만들어 주소서. 아멘 내 딸아 나는 이러한 사실들을 밝혀야만 한다는 것에 슬픔을 느낀다. 그러나 내 신자들은 무슨 일이 일어나고 있는지 이해해야 할 필요가 있다. 이 메세지들을 믿지 않는 저들은 내가 예언한 것처럼 적그리스도가 자신을 나타낼 때 아무런 의심도 하지 않을 것이다. 너희는 기도로써 전 세계 그룹으로 단결시켜야만 한다. 이를 실행하는 신자들의 수가 늘어날수록 성신을 받음으로써 더 강하게 될 것이고 사탄의 군대는 약해질 것이다. 그러한 박해에 대담하게 직면할 수 있도록 두려움이 없게끔 힘써라. 너희는 내 지시를 따르는 것과 매일의 기도를 계속함으로써 올바르게 준비하고 있어라. 그 시간은 신속하게 일어날 것이다. 언제나 나를 신뢰하여라. 내가 너희의 죄로 인하여 죽었다는 사실을 기억하여라. 나 예수 그리스도만이 너희를 이끌 수 있고 나 없이 너희는 아무것도 아니라는 것을 기억하여라. 너희의 사랑하는 예수 그리스도 lover_______30141466701",
+        "writer": "UgxgHGxhO-pQDOW83zd4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미 이 당뇨병원 원인이란걸 아시길요. 가공식품 뒷면에 L글루타민산 나트륨 향미증진제 이런것들이 다 미원성분입니다.피를 탁하고 끈적이게 만들어 만병의 근원임.미원든 시장 반찬 매일 사먹던 친척인 미원땜에 당뇨가 심하게 걸려 다리 잘라냄",
+        "writer": "UgxyLxicHtF4pvBjQfp4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "운동하시는 모습보고 개 재밋게 봣어요 아니 완전 개그맨이던데요",
+        "writer": "UgwXoqfs0ZAGE4BG9DZ4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무슨 외국배우같다 반지의제왕 레골라스 역 잘어울릴듯 아니면 뱀파이어 서브남주",
+        "writer": "Ugz2QfCQsMmDBEETjnJ4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고기 올려놓고 우우우와 하고 있는데 티셔츠 보니까 hell yeah.. (비속어)조화 아니야티언일치 미침",
+        "writer": "UgwpHRVaxOyGdINbQhp4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "먹어보고싶당 궁금한 맛,",
+        "writer": "Ugzwj8BCQMcLWbCDGQx4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘만든다생각했는데마지막(비속어)원그래도 굳",
+        "writer": "UgwcqWFOssuheHkosBl4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 (비속어)인줄알고 들어옴",
+        "writer": "UgxoAEUvyszcHtYrXTd4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남의 살 굽는거 저렇게들 좋아하다니, 무서운세상,",
+        "writer": "Ugw8Zq4PplKv96mqgxx4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머리기니까 정말 색다르고 잘한것 같다. 머리짧을때는 좀 재미없어 보였는데,",
+        "writer": "UgwdMvNoKCC6u_0NbSl4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 이마 핏줄 저거 단순히 생기는 것이 아니다. 스테로이드 복용 했을 가능성이 충분하다.",
+        "writer": "UgzBnB3SGSZRnvODArF4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Ppl 좀 작작",
+        "writer": "UgyV6YeceUAidsP89L94AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 잘생겼는데 이렇게 가식없고 수더분하고 성격좋으면 너무 짜릿해",
+        "writer": "UgyipZmrmkoPhrgKMLl4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 잘생겼다 힘줄",
+        "writer": "UgwDmMqjxR98_50O7Gx4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크림 파스타를 드셔서 그런가 씔버 벨. 발음이 아주",
+        "writer": "UgyMw_bI4ltTcRAgA_h4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸넬 넘 잘 생겨서 또 들어옴",
+        "writer": "UgyemSlK9OgGyPsG8lp4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미 X 넣구 먹는거",
+        "writer": "UgxPB9lP8v0KMqlhjkt4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "PPL에 걸려들었네",
+        "writer": "UgwZImKyH7BQ-U_NDqt4AaABAg.9HOZ96QU6GF9HmteFC3Zfb",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)좀 하지마세요. 소금 설탕보다 미원이 더 건강에 해롭지 않습니다. 오히려 무해합니다. 논문좀 읽고 말씀하세요 후라이팬이나 오븐에 들어가서 쪄지거나 익혀지게되면 미원의 글루타민산이 나오게 됩니다. 또한 글루타민산은 단백질을 구성하는 아미노산 중 하나입니다. 보통 다시마에 많이 함유되어 감칠맛을 내고 다시마뿐 아니라 고기 생선 등의 단백질 양파와 토마토에도 전부 들어있습니다. 심지어 모유에도 들어 있습니다. MSG는 많이 섭취해도 몸에 축적되지 않고 에너지로 쓰여 사라지고요 우리나라 식약처나 세계보건기구는 MSG의 하루 섭취 제한치를 정하지 않고 있습니다. 그만큼 안전한 물질이라는 설명입니다. MSG를 넣어서 (이름)면 총 나트륨 섭취량을 줄이는 효과도 있습니다. 결론은 님이 먹고 계시는 설탕과 소금이나 줄이세요. 천일염 소금만들때 바닥밑에 까는 판을 갈지 않아 노후화되어 플라스틱조각이랑 같이 섞여나옵니다.",
+        "writer": "UgxqKTWDaa7K3Tv1Hed4AaABAg.9HOLi82cK0I9HS8kh1Setn",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얌얌쩝쩝 여보세요. 미 친척이나 회사 관계자세요 뭔 무지한 소리를 해대시는지. 천일염에서 영양소 다 걸러내고 짠맛만 추출해낸 정제소금이 미네랄없는 독이지 천일염 죽염등 순수 소금 그대로는 필수 미네랄이 있어서 인간에게 필수적인거에요. 님 소금 안먹음 죽어요. 미 안먹어서 죽는 사람 봤어요 미디어에서 안좋다는건 정제소금이지 천일염이 아니에요. 아시겠어요 (반사회적용어) 어따 대고 (반사회적용어)이래.어떤 논문이요 미 원료 회사로부터 뇌물받은 것들의 논문이요 미이 천일염이랑 이스라엘 사해소금이랑 죽염보다 몸에 좋다는 무식한 인간이 우리나라에 있다는게 챙피하네요. 죽염과 이스라엘 사해소금에 미네랄이 많다는 논문은 읽었나요 님 미든 음식 매일3년간 먹고 당뇨 검사해보세요. 다리 안잘리면 다행이지. 저 아는 사람 미 든 시장반찬 매일 사먹다 당뇨가 심해져서 의사가 미 든 반찬 매일 사먹어서 당뇨로 손을 쓸수가 없을 정도로 상태가 악화되었다면서 다리 잘른 후 결국 당뇨 합병증으로 돌아가셨어요. 반면에 죽염은 역사적으로 왜 약이 되었을까요 죽염은 천일염을 구워서 만든건데 천일염이 안좋은거면 미쳤다고 그 많은 돈을 주고 천일염을 구운 죽염을 약에쓰려고 사람들이 사먹나요 환자들이 님이 소금보다 좋다고 쉴드쳐대는 미도 과연 그럼 대나무에 구우면 죽염처럼 약이될 수 있어요 네 그렇게 미이 소금보다 괜찮으면 미으로 양치도 하세요. 옛어른들은 세균을 죽이는 역할을 하는 소금으로 양치해서 치과 한번 안가고 튼튼히 살았는데.미이 소금보다 낫다는 헛소리를 쯧쯧.소금 없으면 인간이 살 수조차 없는데. 물에 죽염이나 미네랄 많은 소금 살짝 타서 마시면 변비도 다 없어지고 소금팩하면 피부도 맑아지고 독소도 다 배출시켜주고 얼마나 인간에게 (이름) 존재인데 진짜 한심하네요. 소금 없이 평생 함 살아봐요. 과연 본인이 어떻게 되는지.식당에서 무조건 시원한 미 많이 넣고 요리하는 실력없는 가짜 요리사들이 만든 음식 먹은 날은 입이 짜서 물이 엄청 먹히는데 미네랄 소금으로 요리한 천연 음식들은 아무리 먹어도 입이 안말라요. 혀에 기분나쁜 짠맛도 안남고요. 천일염보다 미이 낫다는 (비속어) 어디가서 하지마세요. 어휴.가공식품이 자연식품보다 더 좋다고 할사람이네.한심.본인이나 미 많이 드세요 .다른 사람들 죽이지말고.그리구요 설탕도 인간들이 가공해서 단맛만 추출해낸 백설탕을 만들어내서 그렇지 백설탕말고 원당 즉 유기농 사탕수수가루가 본래 진짜 설탕이에요. 전 원당 먹어요. 그게 진짜 미네랄이 살아있는 본래 그대로의 설탕이에요. 미엔 미네랄은 커녕 당뇨병 일으키는 독 밖에 없지.미 이 그렇게 해가 없으면 퍼먹으세요. 죽염을 입에 그대로 털어 넣는 사람은 봤어도 내생전 미 퍼먹는 사람은 당신뿐이겠지만요 쯧",
+        "writer": "UgxqKTWDaa7K3Tv1Hed4AaABAg.9HOLi82cK0I9HSEqg84mbb",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가슴보형물 넣고 (반사회적용어)증 생기는(반사회적용어)녀들 미네랄이없는 독이라뇨 미네랄빼고 그자리에 독넣어놨습니까 미네랄원하면 생식하시던가요 뭔놈의 미네랄이야, 미네랄도 먹고 천일염의 플라스틱판도 저미어 드시던가요 그럼, 그리고 띄어쓰기랑 맞춤법좀 제대로 하세요 읽는사람 눈 아퍼 뒈지겠어요. 아이디 검색하니 기독교믿는 5060대 여성같은데 (반사회적용어)좀 작작하세요 제발. 님이 태어난것도 조작이고 음모라 하실분이네",
+        "writer": "UgxqKTWDaa7K3Tv1Hed4AaABAg.9HOLi82cK0I9HSWLLS7VSN",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가슴보형물 넣고 (반사회적용어)증 생기는(반사회적용어)녀들 좀 닥치세요 미원 몸에 안좋다는 근거 없다고 밝혀졌는데 혼자 (반사회적용어)이세요 요즘 반찬이든 뭐든 사먹는 추세인데 불안감 (이름)지 마세요 님얘기땜에 괜히 찝찝해서 기분만 더러워졌네요 다들 알아서 자기가 조절하니까 좀 헛소리 마시길",
+        "writer": "UgxqKTWDaa7K3Tv1Hed4AaABAg.9HOLi82cK0I9HTmV3FJHxa",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나나야 미 이 화학조미료인건 전세계인들이 다 아는데 본인이나 많이 쳐드세요. 화학 조미료가 몸에 좋다고 (반사회적용어)하며 정의로운 사람을 되려 매도하고 거짓말하는 악한 인간들이 이 세상에 존재하니 음식으로 돈벌면서 장난질치는 사업가들이 많은것. 가공 식품 뒷면에 보면 전부 L글루타민산 나트륨 향미증진제 등의 미 덩어리들.화학조미료 미 들어있는 가공식품 매일 삼시(비속어) (비속어)도 건강하면 가공식품 혼자 매일 쳐드세요. 본인의 거짓말과 정의로운 사람을 매도하는 본인의 악랄함이 본인 자신에게 되돌아올겁니다.반드시.제 댓글 보고 정(이름)도 차리면 다행인데 나중에 본인의 악한 (비속어)와 손가락을 원망하지 마시고 지금이(반사회적용어) 정신차리세요. 그리고 전세계인들이 보는 유튜브에 거짓말로 미 회사와 화학조미료를 미화(반사회적용어)고 있는 것은 전세계인을 대상으로 죄를 짓는 엄청난 죄입니다.당신같은 거짓 집단들이 전세계를 병들게 하고 있는거에요. 본인만 화학조미료 쳐먹지 남들까지 먹이는 악한 인간들.당신 미 엄청 넣는 가공식품 운영자나 최소한 미 이랑 관(비속어) 조금이(반사회적용어) 있는 관계자이니 분노질 해대겠지 정상적인 일반인이 화학조미료 안좋단 말에 저리 (비속어)을 할까.미 으로 전세계인들의 혀를 중독(반사회적용어)고 혈관을 썪게 만들어 당뇨와 온갖 합병증으로 죽이고 병들게 한 죄의 댓가 당신들 집단에게 반드시 돌아갈겁니다.기다려보세요",
+        "writer": "UgxqKTWDaa7K3Tv1Hed4AaABAg.9HOLi82cK0I9HTvRYiyct4",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전세계인이 다 안다지만 미국 FDA에선 위험성 없다고 나왔고, 닉이나 댓글 보면 황금알 중독에 카톡 (반사회적용어) 믿는 말 안통하는 어르신 같은데 그냥 믿으시게 냅둬요,",
+        "writer": "UgxqKTWDaa7K3Tv1Hed4AaABAg.9HOLi82cK0I9HUDvWUXI5Z",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가슴보형물 넣고 (반사회적용어)증 생기는(반사회적용어)녀들 (반사회적용어)이고 나발이고 미원을 소량으로 음식에넣지 통째로 넣고 먹고사는 사람있음 다리를 짤랐다는둥 그딴 찝찝(이름)는 뭐하러함 그렇게 따지면 소금이든 설탕이든 다 먹지 말아야돼 인간아 우리가 평상시에 넣어먹는정도는 문제될거 없는데 왜 (비속어) 하는거야",
+        "writer": "UgxqKTWDaa7K3Tv1Hed4AaABAg.9HOLi82cK0I9HUElq6axaE",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나나야 쯧쯧 난독증까지 있으신줄은. 본인이 하고자 하는 거짓 (반사회적용어)과 주장을 영원히 어떠한 말로도 납득(반사회적용어)질 못할거에요.왜냐 화학조미료 나쁘단건 (반사회적용어)도 알만한 일반적 상식이거든요.님같은 거짓 (반사회적용어)자들 빼구요.끝까지 제가 하는 말을 못알아들으실 것 같으니 내 귀중한 시간 낭비 안할게요.님같은 몇몇 (이름)고 삐딱하게 알아듣는 (혐오표현) 수준의 사람 빼놓고는 나머지 현명하고 지혜로운 분들은 다 알아들었을테니 전 만족합니다.",
+        "writer": "UgxqKTWDaa7K3Tv1Hed4AaABAg.9HOLi82cK0I9HURVVfh584",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "구팡팡 미국 FDA 말을 신봉하니 저런댓글이 나오지. 본인이나 많이 쳐드세요.미 넣어 돈버시는 (이름)이신가 본인만 미 (비속어) 당뇨 생기면 되지 남들까지 병들게 하지마세요. 화학 조미료 홍보 위원회인가 쯧쯧 인생이 불쌍하네요.화학조미료 많이 매일매일 쳐드세요",
+        "writer": "UgxqKTWDaa7K3Tv1Hed4AaABAg.9HOLi82cK0I9HURq1Dp9gw",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "구팡팡 화학조미료 안좋다고 말하는 올바른 사람을 조롱하고 비판하는 인간은 얼마나 (비속어)아인가.",
+        "writer": "UgxqKTWDaa7K3Tv1Hed4AaABAg.9HOLi82cK0I9HURy2FU4XW",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가슴보형물 넣고 (반사회적용어)증 생기는(반사회적용어)녀들 뭐먹고 살래요 닉네임 봐서 드는 생각인데 솔직히 이상해 보여요, 그리고 집밥에도 미원 조금씩 들어갑니다,",
+        "writer": "UgxqKTWDaa7K3Tv1Hed4AaABAg.9HOLi82cK0I9HUsnhRuTzh",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가슴보형물 넣고 (반사회적용어)증 생기는(반사회적용어)녀들 이야 댓글로 싸우신다고 수고하셨습니다. 읽어보진 않았어요 (비속어)라 허허",
+        "writer": "UgxqKTWDaa7K3Tv1Hed4AaABAg.9HOLi82cK0I9HVpDYf9baO",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 전도 하지 마세요",
+        "writer": "UgxgHGxhO-pQDOW83zd4AaABAg.9HOLYF-Z4Yu9HUsrNTsERm",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이야 수고하셨습니다 읽지는 않았어요 호호",
+        "writer": "UgxgHGxhO-pQDOW83zd4AaABAg.9HOLYF-Z4Yu9HVp0a3Kh3M",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "많이 먹으면 그럴뿐이지 소량만 넣으면 맛있는 요리가 됩니다",
+        "writer": "UgxyLxicHtF4pvBjQfp4AaABAg.9HOLWrO6_iX9HUsuAV8WVY",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "운동을 하세요 미원보다 콜라 쌀밥이 더 위험함",
+        "writer": "UgxyLxicHtF4pvBjQfp4AaABAg.9HOLWrO6_iX9HnKRBY-OdY",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크라임씬2 보고 오세요",
+        "writer": "UgwdMvNoKCC6u_0NbSl4AaABAg.9HM-_OHCSW39Ho-EGC_p4d",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머리 짧을때는 샤프하게 잘생겼는데 머리 기르니 섹시한 부분이 더 어필되는거 같음.",
+        "writer": "UgwdMvNoKCC6u_0NbSl4AaABAg.9HM-_OHCSW39Hq7_lBYPEx",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좀 재미없어 보이는거 바로 너드분위기",
+        "writer": "UgwdMvNoKCC6u_0NbSl4AaABAg.9HM-_OHCSW39R8fOlgLU_i",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고기 고대로 구워봤는데 진짜 맛있어요. 자주 애용할 듯",
+        "writer": "UgzlB1JgYUVdljU-72B4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "카레랑 미숫가루인가 , 무슨 가루인지 아시는 분",
+        "writer": "UgxQ9u6476ENVa_iIl14AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고기굽는거 팬 광곤가",
+        "writer": "Ugx6cClVIrdOMrqDGUp4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 좋아 보인다",
+        "writer": "UgxH9KbSPCx9rxkUcHJ4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "버터도 같이 넣고 구워요 아님마요네즈만 넣고 구워요",
+        "writer": "UgzlB1JgYUVdljU-72B4AaABAg.9H9AeVsfBpC9HQxMmOWvcu",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 마요네즈 바르고 구우시면 됩니다 유튭에서 마요네즈 스테이크 육식맨꺼 영상 한번 봐보세요",
+        "writer": "UgzlB1JgYUVdljU-72B4AaABAg.9H9AeVsfBpC9He_hos_y-8",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미원이여 MSG",
+        "writer": "UgxQ9u6476ENVa_iIl14AaABAg.9H8_GjRFIqQ9H8bs2jzHAs",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Dana Park 엥 예상치 못한 답변이네요. 알려주셔서 감사해요",
+        "writer": "UgxQ9u6476ENVa_iIl14AaABAg.9H8_GjRFIqQ9H9N2q-oTsM",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연기를 (비속어)들인다고 기능 말하는거 보면 거의 ppl이라고 보면 되죠",
+        "writer": "Ugx6cClVIrdOMrqDGUp4AaABAg.9H84xJb3CpN9H88Qerkqqz",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저번에 (이름)도 그렇고 팬광고 많이 하네",
+        "writer": "Ugx6cClVIrdOMrqDGUp4AaABAg.9H84xJb3CpN9HJ0BxpSaCp",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혼자사는데 후라이팬에 굽지 무조건 광고여",
+        "writer": "Ugx6cClVIrdOMrqDGUp4AaABAg.9H84xJb3CpN9HQxMwMUBP6",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "욱 옛날부터 방송국들 다 ppl로 먹고 살았는데요, 유튭에서 하도 뒷광고 뒷광고 하니까 사람들이 많이 착각하는 듯 유튭이랑 방송국이랑 달라요,",
+        "writer": "Ugx6cClVIrdOMrqDGUp4AaABAg.9H84xJb3CpN9HWbl8KtSyn",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=IIV0zAYgaTc",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

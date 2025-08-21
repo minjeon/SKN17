@@ -1,0 +1,468 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001662123",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001662123"
+    },
+    "text": [
+      {
+        "content": "수종 호중 님 건강 하시고 행복 하새요 만은 팬분들이 응원 합니다",
+        "writer": "UgySmyHvTrabCc1CUpV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 어쩜 이제봣네요 너무반가워요 (이름) 많이 도와주세요 구독해서요",
+        "writer": "Ugxmrs6sBTrkgXnSEH94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "KBS 감사드립니다.. 김(이름) 사회복무요원으로 근무하셔서 볼 수 없어 넘 보고 싶었는데 이렇게 볼 수 있으니 참 좋아요.. (이름)씨 잔잔한 목소리 짱입니다",
+        "writer": "Ugy-o9T_9QKRcwo9bKx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 너무감사합니다 호중가수힘이되여주셔서",
+        "writer": "UgwB_XNfjKad-mLliBB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 팬입니다 호중씨노래무척좋아해요 많이챙겨주는선배가되어주세요",
+        "writer": "UgzW-Tv9hO5ScCcQes54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리(이름) 바라보기도아까운 우리호중 사랑힌니다인천에서",
+        "writer": "Ugx_drBtcCtlLCFM_v54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 보니 넘 좋네요",
+        "writer": "UgyIKqIhhBMj-dWhKKV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)은 제가 한국에서 No1 으로좋아하는 신 같은 존재입니다. 존경하고 사랑합니다. 호중씨를 많이 아껴주세요.",
+        "writer": "Ugxjy9T7ZHiVUAqMeCp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울 호중가황님. 보물중의 보물인 국보급 가수",
+        "writer": "UgxdddY10wvnF4Ih5Z94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김 (이름) 대(이름) 대박",
+        "writer": "UgzxWPBy-CDcDjOc00N4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)씨 고맙습니다",
+        "writer": "UgzSDjpmPLsKugtZC9B4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 울호증님 꼭인연 되세요 너무너무 보기좋아요",
+        "writer": "UgzKDo6HfolbDdhj4uB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수종님 우리(이름) 동생처럼 챙겨주시면 감사하겠어요 참 여리고 착(이름)님이예요",
+        "writer": "UgxFdbaxpN37ifEkdFl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 전(이름) 존경합니다 우리호중씨 예뻐해주셔서 고맙습니다",
+        "writer": "UgyRDcXVvyyG1NXG83F4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "호중씨잘지키주세요 힘들고있어요최(이름)감사해요",
+        "writer": "UgyNLm86bPw2sCl9jBt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한국인에 노래 의 (이름) (이름) (이름)이 추천하신뷴 새분 착하신분들이세요 행복가득하셨으면 함니다",
+        "writer": "UgyO6lEfexvN9IedfPh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 (이름) 휴대폰 영상으로 만나네요. (이름) 얼른 보고 싶어지네요 그리움만 쌓이네",
+        "writer": "UgyZff488n1ATWe7gYd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은사람 옆에 좋은사람 그옆에 또 좋은사람 모두 행복하세요",
+        "writer": "UgznPQGrqFhkunpJP-54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 님 응원합니다 (이름) 님 화이팅입니다",
+        "writer": "UgzBCyQlRtpbkhoY4794AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시두분 (이름)씨 참으로 아름다운분 우리의 트바르티 (이름)도 정말아름다운분",
+        "writer": "UgzIgSh8f5R3HIB7aXl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 아티스트 처음이다 (이름) 님 친구분도 잘되길 기도할게요",
+        "writer": "Ugx75cCXEspr3iYqWY54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 님 예전부터 펜입니다 반갑습니다 (이름) 님 (이름) 많(이름)해주세요 (이름) 님과 (이름) 님 응원합니다",
+        "writer": "UgzPGkRXLxuexNiy7Zt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 분 눈에는 좋은 사람이 보입니다 (이름) 화이팅 (이름) 화이팅",
+        "writer": "UgxNcZ4XETMcjbM4b0Z4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "KBS는 (이름) 나온 프로 편집건 사과 하세요.",
+        "writer": "UgwWoeO06jWPUGnzdFt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)씨가 (이름)과 통화하는 모습이 우째 요래 사랑스러울까요, 두사람 오래 돈독했으면",
+        "writer": "UgyiYSUZ9L7DyjHJDJh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 님 우리호중 잘부탁드려요 두분행복하세요 사랑합니다",
+        "writer": "UgzniFYZc7ksGyg5u154AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다정스런수종님순수(이름)님하고 너무잘어울려리는것갇아요수종씨 울(이름)좀잘부탁합니다",
+        "writer": "UgxU3EVWOffFWXuGo-B4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 반가워요 우리(이름)위해서 고생 하시는군요 수고많으십니다 (이름) 핫팅",
+        "writer": "Ugx1cOxIzzCrDJHBL6p4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 참 아름다운 이 청년을 사랑하지 않을수 없네요 언제까지나 응원하고 사랑합니다 (이름)씨도 감사드립니다",
+        "writer": "UgzkwNeC-8N_DnZNhIB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이렇게 좋은사람들인데요. (이름)이 있는곳에는 아름다운 사랑스런 사람이 있네요.",
+        "writer": "Ugz1ayU9ElECmUX49jR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 풍경도 좋고 최고예요.",
+        "writer": "Ugw2kse8JdGGnLhGAKV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "호중씨 하고 좋은관계 유지하시면서 좋은노래 많이 부르시길",
+        "writer": "Ugy2AIQh9YhkTeC_b6N4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아직도 정이그리운청년입니다 많이응원해주세요",
+        "writer": "UgzdEtt0LobWsUXKD014AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)씨가 추천햇군요",
+        "writer": "UgwrT44RGOwjlm5JK9t4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)나오는프로는꼭 봅니다 형님처럼 (이름)좀 잘보살펴주세요 (이름)은 항상마음이따뜾해보여요 두분응원합니다",
+        "writer": "UgzuQ9ApI3lpOSgWmBd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은분들의 만남 좋은열매맺으시길,",
+        "writer": "Ugwv_JKYR8vkfIgc5Ud4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리가 넘사랑하는 트바로티님의 고향 울산에서 통화하는모습 보기좋아요. 친동생처럼 앞으로도 많이 사랑해주시고 아껴주세요.",
+        "writer": "UgyEaM2CrPZzvVsOm8l4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "호중씨은 착하기도합니다",
+        "writer": "Ugxf_S5Fcv81okGAU7N4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 사람들이 나와서 너무 행복하네요",
+        "writer": "UgzHlmV014Zcbd7sJ-B4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김(이름)은 배려심도깊고 남을 도와주는 훌륭한 대한의 아들입니다. (이름) 선생님의 한국인의 노래 항상 경청하고 감동받습니다. 김(이름) 지켜주십시요.",
+        "writer": "UgxyuwmR4cpRXs9ARTZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김(이름) 감사 합니다우리 김(이름) 항상 응원합니다",
+        "writer": "UgzxSfZHKHVpXtQdIWh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 (이름)씨 는 마음이 예뻐요 평생 한번 있을까 멀까 한 기회를 (이름) 소개로 새상밖으로 나오개되고 그런 (이름) 이 너무 예뻐요",
+        "writer": "UgzRBg5NKqkr3ScwyKd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "착한 호중씨 (이름) 반가워요",
+        "writer": "UgzBRrU9xxV_Ek2n6Xt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참 착하고 선한인연을 소중히 여기며살아가는 젊은 청년 호중 (이름) 씨 또좋은 인연을 만났네요 이렀게 아름다운 세상 살아가요임(이름) 화이팅 입니다",
+        "writer": "UgzIuE_AgCNG47svu3V4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 선생님 김(이름) 너무 인성좋고 만나면 귀엽고 유머도 있고 마음편하게 해주는 최고에 가수 입니다 많이 응원해 주세요 감사드립니다",
+        "writer": "UgyOhVqAh0sOQ1FJsCF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넘 착한 호중씨 인성 최고 호중씨 사랑함니다",
+        "writer": "Ugz2sI8-uevEVVqHBI14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울(이름)..이함께였으면 더좋았을것같아요",
+        "writer": "Ugwkac7McnYJJsIZk7N4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)..넘넘반갑습니다울(이름)..의추천으로 울산까지 달려가시고 넘넘감동입니다 언제나화이팅..화이팅..을소리높여외칩니다 홧팅..",
+        "writer": "UgwL-sFH9I4u8AU4s1B4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)도 조흔데 (이름)은 더 좋네요.",
+        "writer": "UgyQ9ArDknLdoQLOINF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한국인의노래 정말 좋은프로그램이네요 응원합니다",
+        "writer": "UgzCbKsY0TUZ_GWG-eN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 님 (이름) 님 모두 열심히 사는 좋은 분들의 좋은 인연이 촣은분을 추천 하니 이보다 더 좋을 수 있을까요",
+        "writer": "UgybL0iBTGn1NbByQ394AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 좋아합니다 (이름) 같은 심성을 담은 김(이름)도 응원합니다",
+        "writer": "UgxW5i2hd4EMAYXX91V4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 좋은 노래 많이 찾아들려줘요",
+        "writer": "UgyxJZ8Q0FXe05xRQC94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 두분.",
+        "writer": "UgyAbso9gf8KpdjDcSJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아름다운 (이름)처럼 아름다운 청년 김(이름)을 응원합니다좋은 봉사활동하시는 임(이름)도요",
+        "writer": "Ugx1JHyVrk8zEN2cvO14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "같은생각입니다 응원합니다",
+        "writer": "UgybL0iBTGn1NbByQ394AaABAg.9CjpbjSHf-V9Cwm9tObdZ_",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)씨 목소리 표정 엄청 좋으셔요.",
+        "writer": "Ugx07kdhg4XEe_cSXk14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R92ez-i6zN4",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

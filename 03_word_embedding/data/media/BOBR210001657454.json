@@ -1,0 +1,588 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001657454",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001657454"
+    },
+    "text": [
+      {
+        "content": "양준일 에피소드 재미있어요 많은 방송 활동 기대하고 응원합니다",
+        "writer": "UgwjolDSvRa5wTh31MF4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방송 너무 재밌네요 자주 나와주세요",
+        "writer": "UgwqXT24tZJxhvSCvMx4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나이가 가늠이 안되는 영상이네. 완전 영하심",
+        "writer": "UgwoH2-G79pAhBgaEpB4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모든, 패널들 과 진행자들 홀릭당함. 구여븐 수다쟁이 . 너무나 이쁨 , 저거 참고 어찌 살았대 외모 까장 간지하고 쩐다,",
+        "writer": "UgxBhsIQVXSH6z-gAPh4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "편집자야 적당히 잘라라, 얘기 끝나지도 않았는데 잘라 버리냐.",
+        "writer": "UgwcfuGnCqyCJ3-cEyR4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 입담이좋아서 토크쇼나 예능프로에 잘어울려요 꾸밈없는 자연스런솔직함",
+        "writer": "UgyJorQmnFNj979q6xZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넘재밋다 톡크왕 양준일 또 출연해줘요",
+        "writer": "Ugwe3YiQbe_gdDT5yeB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얘기를 참 맛있게 잘 하시네요. 저도 모르게 얘기 속으로 들어가네요 양준일 님 톡쇼에서 더 많이 보고싶네요.",
+        "writer": "UgzF_Xxo6IiCvOPzYNd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래서 어떻게 됐어요.. 너무 끊는다",
+        "writer": "UgxNcOUcJmNRJLeJr9l4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 젊은시절 진짜 성격 확실했네요 영상을 몇번을 돌려서 밨네요 (이름) 진짜 말씀 잘하신다 짱이에요",
+        "writer": "UgzteiMaCFOwaW81gjl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왤케 재밌으심 따지는 모습 넘귀여웠겠다.",
+        "writer": "UgzzYr1DLLooT67fEed4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미용실 에피소드 재밌어요 할 말 다하는 맹랑한 20대 (이름) 응원합니다...",
+        "writer": "UgxzYW_AnmX8ISR44L14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)은 묘해요 상당이 겸손하시면서도 아닌건 아(비속어)고 기면 긴거고 똑부러졌어요",
+        "writer": "UgyM4HIPXsUQ0j38CdZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 워낙 특별한 삶을 사셔서 에피소드만수르에다가 토크도 블랙홀",
+        "writer": "UgwstqZQHyDJuJXi0U14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 말씀 너무 재밌게 잘하시고 스타일도 최고입니다앞으로 방송에 자주 나왔으면 좋겠어요",
+        "writer": "UgyX_fcuVN8JMSYdASp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "매력적이다 준일오빠...",
+        "writer": "UgxfJe8zTMxO4XdIjTJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "파이팅..양준일 예능대(이름)..아유미 꽃길가즈아",
+        "writer": "UgxvuK3bEd_syzT8mbV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "CF건조기 찍으면 살께요 응원 합니다",
+        "writer": "UgzNkYiehqlUx7F-0hx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해석할께요 내가 정확히 회상하자면 그사람들이 첫 계약에서 2억을 제시 했어요. 그 금액은 그의 (이름)이 그에게 그때까지 들인 돈과 맞먹는 큰 투자금이었죠. 아뇨 안하겠습니다 . 우리는 쟈이가 당신에게 그 만큼의 이익을 내어줄거라 생각지 않습니다. 우리는 그가 우리의 아들이었기에 그렇게 결정을 내렸습니다. 우리는 그를 말렸고 미국으로 돌아갔어요",
+        "writer": "Ugy7RRlfAH5Jve-0_Hh4AaABAg.96nzD-X11s996sHu38gT00",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "토크쟁이 (이름)",
+        "writer": "Ugwe9ZBkO3Psn8UySnZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "말 진짜 잘해",
+        "writer": "Ugw8tC7X_B-SyV9gpoZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 골격, 진짜 슬프다 진짜 너무 하, 그공무원(반사회적용어) 코로나걸려라",
+        "writer": "Ugyhale1Dm2wSg91xFF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "표절가수 양준일",
+        "writer": "Ugzw0Xcq0CXQPJOY0aN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "약간 (비속어)같음",
+        "writer": "UgywEuCn7yKEwASIUql4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사랑스런 수다쟁이",
+        "writer": "Ugz2blMjCiE09EPHndl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언제 어디서나 비주얼갑",
+        "writer": "UgwArG-w_0EWITI-Yyt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어쩜 사람이 저렇게 떼가 안묻으셨을까 자주 나와주세요",
+        "writer": "UgyetOfIVvAcepZE1QN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얘기하는거 웃겨 나이먹어도 옛날 귀엽고 순수한모습 그대로네",
+        "writer": "UgyhnEUBN1YrEgfGdoV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그분 궁금해요. 티비 사람찾기 프로 해주세요. 제목 까먹음 tv는 사랑을 싣고 이거네요. 다시 만나서 화해 하시고 두분 포옹하시길. 포옹은 코로나 땜에 안되나요 어쨌든. 잡지 사진을 미용실 (이름) 얼굴에 갖다대시고 성질 나옴",
+        "writer": "Ugzp7YLoeID2_XS9u_F4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그나저나 그 미용실원장 사람 (비속어)하네 일반인은 무시할듯",
+        "writer": "Ugyq9HvnkBaEgp1iKeB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 말이 너무 길다",
+        "writer": "Ugw8i5y3FR-fy0ZykBZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 분 얘긴 계속 듣고 싶어져요",
+        "writer": "UgyqBJeigMhZd8rsaZp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃기는사람이네 머리나 제대로깍지",
+        "writer": "Ugy4-xuzMaHMMz9WNRV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미용실 얘기는 언제나 들어도 웃김",
+        "writer": "Ugy75GsN8BGUimbhgHF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)은 다좋다 그냥",
+        "writer": "UgxP0xSJuxwg_o4fsnN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 예능 붙박이 하자요 엠씨 전용 프로그램 만들어주세욥임하룡님도 보고싶네요 같이 출연했음 좋겠어요..",
+        "writer": "UgyAUW1Feb8-rkWvQ6B4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 웃겨",
+        "writer": "Ugyhale1Dm2wSg91xFF4AaABAg.96QXYI-qsxW96rTaPTP5JV",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "표절가수아닙니다 잘알아보세요",
+        "writer": "Ugzw0Xcq0CXQPJOY0aN4AaABAg.96QJy6H8cW798aFd-IpGP8",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 (이름)은요 톡의 내용과 방식도 개성톡톡.. 손으로 표현하는 대화위트 신선 재미 세련미에 보는 즐거움까지 사랑하고 축복함니다",
+        "writer": "UgxABOjPMxYnFSykGcJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어깨바바, 얼굴작고 대박",
+        "writer": "UgysSeYX_ZfjLGC5Z5R4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리베카 미용실 에피소드는 들어도 들어도 재밌어요. (이름) 실감나게 얘기도 잘 하시고만능엔터테이너 (이름)...",
+        "writer": "Ugz4Ko2QpUcir9iCAFF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아하 소개해주신분이 임하룡님이었군요.",
+        "writer": "UgxI7UP5oEcS9e6P87d4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주닐오빠 너무 잼나구 웃음이나와용 왜케 잼나요",
+        "writer": "Ugy0eZYb0es-_ScGHOR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 왜케 귀엽죵 임하룡님 보는 안목이 탁월하십니다요",
+        "writer": "UgxgzxgjI0bbiWS50-d4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "팬미팅때 지인의 소개로 만났다고 하셨는데 그 지인이 임하룡님 이시군요 임하룡님 주변 사람들 잘 챙기기로 유명하죠 그 당시 (이름)께 도움도 주셨군요 새삼 감사드려요",
+        "writer": "Ugxg0x9Wyq55asRGSX54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 실수한 그머리 넘 어울리고좋았어요뭔들 안어울렸을까",
+        "writer": "UgwpPyWqFXlX_lFD-vN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엌넘 재밌넼",
+        "writer": "Ugy3qLqhxaJhaQCpB3p4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목소리 진짜 너무 사랑스러워",
+        "writer": "Ugwsb2Y_SBD3s7zYD4h4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "당돌하시고 까도남 이셨네 임하룡님도 만나시면 감회가 새롭겠어요",
+        "writer": "UgxNbnBllO9_Naoc4PZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흐엉 헤어스탈 너므 좋다",
+        "writer": "UgwdT2T8hRlPXEpEk214AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "섬섬옥수에 빠져듭니다 아름답다",
+        "writer": "UgxjaGNZW_AJ9VcgDwd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조리있게 재미있게 말을 잘해 토크왕 양준일",
+        "writer": "UgyifckunQV-tfPoPOR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 예능출연하실때마다 점점 진화하고 계시네요. 해피투게더 몇번이고 다시 봤어요. 솔직한 토크와 표정땜에 빵빵 터졌어요.",
+        "writer": "UgzmIC9IaTeNI1pit8N4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "토크쇼나 예능에서 많이 봤으면 좋겠어요. 너무 재밌어요",
+        "writer": "UgxUptKfPbx-1gD_hHh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머리가 잘어울려요이뻐요",
+        "writer": "UgwMspoh9ldy20Sq2XZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 머리랑 이 머리랑 어뜨케 똑같죠",
+        "writer": "Ugx9pnhBQ8rn84XSkXh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "임하룡씨는 외모로 볼때는 인간미가 별로 인것같은데 정말 인간미와의리는 연예인중에는 .외모도최고입니다",
+        "writer": "Ugxg0x9Wyq55asRGSX54AaABAg.96JOapzBjgj96W8L7WcW_y",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 (이름) 은 말도 예쁘게 해. 너무 멎져 암튼 계속 꽃길만 걸으세요. 항상 응원합니다.",
+        "writer": "Ugxg0x9Wyq55asRGSX54AaABAg.96JOapzBjgj99CDeJ_Q0Qx",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 토크 재미나게 하셩",
+        "writer": "Ugw6w4BkUpVgvrHKhXx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "까칠 준일",
+        "writer": "UgwGLUF8VACSWoI_CsR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그때 계약했으면 좋았을거같은데요 ,인생에서 선택과 타이밍 맞추는게 쉽지않다는",
+        "writer": "UgxvqWQ-IxI8JkmJDYB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리베카 미용실썰은 들어도 들어도 넘 웃김",
+        "writer": "Ugzhvp5-Jpn7P9ltg4B4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 재밌다양준일",
+        "writer": "UgyCX1_IkjRgD6WrxwR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)은 토크쇼에 최적이세요",
+        "writer": "Ugy8i40Xw6mc1Aq-cCp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 뭐야 왜 영상 끊음 풀로 올려주시지",
+        "writer": "UgwKZGbA6pDybl4tG0F4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "할말 다하시는 (이름) 너무너무 좋아요",
+        "writer": "UgxdGRlDniObxksOW8x4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와우 ... (이름) 솔직한 토크 재미있게 보았습니다",
+        "writer": "UgwHkZJ2giMTNTZFJwl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "매력덩어리 (이름).. 모든 해투 mc와 게스트 분들이 (이름)얘기에 푹 빠지신듯하네요,",
+        "writer": "UgxyAvj-1chSyohinsh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양준일 님 옷필 멋진데요 입담 좋고 노사연 님 반가워요",
+        "writer": "UgwvEaMxRzVeIdmb4yt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재력가에 임하룡님 추천이니 신뢰감도 있고.",
+        "writer": "UgxvqWQ-IxI8JkmJDYB4AaABAg.96EJdrx1oUw96Je-8ffRRG",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "계약했어야 됐었는데, (이름)이 베짱으로 계약을 탁해버렸으면 많은게 바뀌었을텐데아까워서",
+        "writer": "UgxvqWQ-IxI8JkmJDYB4AaABAg.96EJdrx1oUw96KmNARynis",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미투 표정이 넘 이뻐요 상황전달 짱 이쁜 쟈이",
+        "writer": "Ugzhvp5-Jpn7P9ltg4B4AaABAg.96EE-OfJvrx9H9ucy-7zu7",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=HPCZUTRMvYg",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

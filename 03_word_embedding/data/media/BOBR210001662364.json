@@ -1,0 +1,820 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001662364",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001662364"
+    },
+    "text": [
+      {
+        "content": "(이름) 씾 너무 감사해요, 우리 (이름) 많이 사랑 해주세요,",
+        "writer": "UgzNKpcSktDop7L8UHF4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "순수함이 이곳에서도 다(이름)함도 멋졌요",
+        "writer": "UgxjGNuk90vOIiN5FJ94AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아무리 봐도 매력이 철철 넘치는 재치덩어리 연구대상이 아닌가",
+        "writer": "UgxERiVc_uufJUsivst4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인간축음기 걸어단이는 명품악기 한국의 프래크 시나트라 명(이름) 의사 신사 천사",
+        "writer": "Ugx2LpZ_09eNKLzUQrR4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다시 봐도 너무 사랑스러운 걸어다니는 명품 악기 (이름) 아버지같이 챙겨주는 (이름)도 고맙네요 순발력 하나는 끝내주는 재치덩어리 (이름) 뭐 625때 잃어버린 마누라가 준 반지라고 푸하하하",
+        "writer": "UgyWHgjy3zGbFfGLvst4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울 (이름) 맛난음식 먹어니 왜이리 기분이 좋은거죠",
+        "writer": "UgxDstH4W_inSHek8et4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "경규아젔가 진심으로 명섭씨를 귀엽고 예쁘게 대견하게 보는거 같아요. 눈에서 애정이 뚝뚝 떨어지네요.",
+        "writer": "UgxaCtBQVy_zOebSmZF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "신경통 반지야 , 6.25때 잃어버린 마누라가 해 준 반지, 에 빵 터집니다 큰아버지 같은 (이름)이 조카 같은 명섭씨에게 손 닦아주는 모습 감동입니다. (이름)선생님 무조건 건강하세요 명섭씨 커 나가는 모습 지켜보시며 응원해 주세요.",
+        "writer": "UgzDdylIZS9auhZ7Y8d4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃겨 죽는줄 알았어요 어쩜그리순수하고 있으신지. 명섭님 이뻐해주셔서너무너무 감사합니다.(이름)님 노래리듬있어요.대박나세요 늘.",
+        "writer": "UgyFUmAWHKyTfcvU83d4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 오늘부터 규라인요",
+        "writer": "UgxzUWHFZtQI7fSsGod4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 청정무구한 모습 항상 간직히시길",
+        "writer": "Ugx92vHe3vA5YmZqETR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울(이름)영상은 수도없이봐도 끝이없이보게됩니다 특히 요영상은 최고의보약입니다 노래도보약 미소도보약 말씀도보약 마누라반지사건 지금봐도 웃음대폭팔입니다",
+        "writer": "UgzFpPkBSpW_WmIeX9J4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "신경통반지야 625때잃어버린마누라반지.우리명섭님재치와위트도뛰어나서예능에(이름)나도안밀리고입담이면입담노래면노래참매력이넘쳐요",
+        "writer": "UgwBIhAA2tAh3pkK0yR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "명섭군 많이 나왔으면 좋겠어요 우리 가족 코로나 블루 안 걸리게해준 1등공신 입니다",
+        "writer": "UgzwAo_qWGQILEMw1_V4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "베사메무쵸 좋아요",
+        "writer": "Ugzq55DJLSUUUpZXcf94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "신이 내린 명섭(이름) 측음기에서 나오는 천상의 목소리 듣고 또 들어도 듣고싶은 노래 최고입니다",
+        "writer": "Ugy4QEVtGy3TIXBfm5N4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) . 유쾌하게 웃었습니다.",
+        "writer": "Ugx-f8OJpJKsPSJCE794AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "6.25때 잃어버린 마누라는 찾았나요",
+        "writer": "UgxfsKY5EBsXEeU9mm14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "말정겨워요 전.애호박.등등등",
+        "writer": "UgxwE2i75A95Ri-ojiZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 영상 볼때마다 저절로 웃고있는 나",
+        "writer": "Ugxpnq3sPMUMkyU6GoV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)존경합니다..울명섭닝 챙겨주신모습아버지같은마음 에가슴뭉클하네요.. 시나트라명섭님열심히노력하시어여러장르에노래들 넘..멋지세요 예능도순수하게매력있게 넘잘하세요 모던지노력하시는모습 흉륭한아티스트가되실거예요 사랑합니다..",
+        "writer": "Ugw2tdV0q5N7o8Z-e5h4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "암만봐도 (이름) 명섭님 두사람 좋은 인연인가 봐요 자꾸보고 싶고 보는 팬들이 행복 하니까요 우리 (이름) 이쁜 손닦아 주는모습 맛난거 먹는 모습 지켜보는 팬으로 넘넘 행복합니다 앞으로도 행복한 모습 많이 많이 보여주세요",
+        "writer": "Ugw6L1mPoz6z-QXBzRJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 명섭씨 손 닦아주는 오습 너무 보기 좋아서 부(비속어)간 같습니다 (이름)이 애기같은 명섭씨 잘 이끌어 주셨으면 감사 하겠습니다 명섭씨의 밝은 표정과 파안대소하는 얼굴보니 보는 사람도 기쁘고 즐겁습니다 두분 오래도록 함께 하시고 건강 하십시오 사랑하고 응원 합니다",
+        "writer": "Ugyc8fguvtjxVa3dCJJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전도있고 호박도있고 초장도있고 경규엉아가 섭님께 손도닦아주시고 끼고있던반지의 비밀도 밝혀지고 아유재미있네요",
+        "writer": "UgzRK7_dWeWlQGvdajt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아너무웃겨 (이름)어르신 섭님마누라반지 너무예뻐요",
+        "writer": "UgxOFpNDNdIx7PJTFyh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "또봐야징 심심하고 지루하다 싶을땐 울(이름)영상 보세요 끝네줘요",
+        "writer": "Ugwd6-TQzVinHpYcPpx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "만나다 초장에 맛있게 잘 먹어요 (이름)군 노래 최고 정처없이 마음을 둘고 곳 없으면 꽃피고 새가 울면",
+        "writer": "UgxqqG9M7AkDyhgeJAN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리(이름) 우리(이름) 보기좋습니다 규랑단이 다시뭉친것 같습니다 앞으로 기대해 볼깨요 우리(이름) 많이 사랑해 주세요 (이름) (이름) 사랑합니다 화이팅",
+        "writer": "UgxleA-MlgGETUu74_p4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 영상 울(이름) 너무 사랑스러워요 자꾸보게되네요",
+        "writer": "UgxgFLCSnUCAAOZ-pR14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내배곱 찿아주우 울(이름) 왜케 웃끼시는지 지금도 넘 웃꺼요6 25때 잃어버린 내마누라반지 개그끼 압권임다 드시는 모습은 귀염궈염 아무진 입매 (이름) 넘 사랑스럽네요 경규오빠 모(이름) 다정한 모습 넘 좋으네요모두 사랑해요",
+        "writer": "UgzEvqf_6c7xKlKWUTR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요영상 배를움켜 지며 얼마나웃었던지 신경통반지나 마누나반지나 마누라반지승",
+        "writer": "Ugy_Nt3fty25MaMnOIp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "명섭(이름) 매력이넘쳐흘러요 노래는 사르르녹아내리고 먹는모습 먹음지스럽게 맛나게도드시고 머리에서발끝까지 사랑합니다 많이많이응원합니다",
+        "writer": "UgwvUFQmOPMM02hGMO14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리(이름)의 귀염손은 타고난것같습니다 먹는것도예쁘고 프로인 (이름)님의 남다른 사랑과 편안함속에서 이끄러주시니 마음것 있는재능을 다하는것같아 (이름)의팬으로서 아주행복합니다 보기너무좋아요",
+        "writer": "UgxrSCzBm_UEM_XysmN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리나라 유명쉡분들 우리 명섭씨 초대하셔서 맛난것 많이 만들어 주셨으면 좋겠네요 요리프로그램에서요",
+        "writer": "UgzoLalnNa8nfK9hrlh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (이름)이랑 재미나게 재치도 만점 625때 읽어버린마누라반지 하하하 웃음 빵빵 명섭님 맛나게 많이드시고 즐거운 모습 행복합니다",
+        "writer": "UgzzgyMj3WWYPkacglV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "먹는모습이 넘 이쁘당",
+        "writer": "UgwfBABYdjwIAa9f2B14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아름다운 청년 (이름) (이름) 편스토랑 에서 나온 울명섭 (이름) 노래 꾳피고새가울면 정말 좋다. (이름) 선생님 과같이 나와서 너무 정감이 갑니다. 아 보카도 . 호박넘 .귀여워요 아보카도 오일은 먹어 봤는데 과일이은 호박 같아요 너무 이쁜 울명섭 (이름) 체취가 대단하십니다 (이름) 선생님 과같이 나와서 쭉쭉 뻗어 나가는 멋진 동역자가 되길 바랍니다 그리고 감사합니다 너무 화이팅",
+        "writer": "Ugz5IW1zY3ivIiuqoDh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 명섭군을 예뻐 해주심 감사들여요 (이름)군 요즘보기 귀한젊은 청년이라서 소중하고 귀한보물 같습니다 (이름)군 인성 심성",
+        "writer": "UgyWlQR75ZVV9c-NmDN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 다정하게 명섭(이름) 대해주시니 넘 감사하고 보기 좋습니다 자주자주 방송에서 두분 보고 싶네요",
+        "writer": "UgysAc-0Y1ABQZ9NaZN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "규리또사러갔는데갈때마다다팔려못샀는데 한번먹고싶어요 규랑단무조건부활시켜 안방에서보여주세요(이름)과 (이름)은 너무 찰떡궁합입니다 배태랑답게프로를이끄시고분위기살리시는건 역신입니다 이렇개서로맞는것도 사살힘듭니다 천생연분 아버지와아들 자연스러워요 관(이름)들 새로운프로젝트로 기획하셔서 대박났으면 좋겠습니다",
+        "writer": "UgwNS-lWDJolrr_nz9J4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전통트롯의 신예 (이름)(이름) 최고 (이름) (이름)",
+        "writer": "UgxBS7Mw8XUyaTZpvVJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "따뜻한 경규옹님고 명품보석 (이름) (이름)때문에 배꼽 잡앗씀",
+        "writer": "Ugx-ongZsYIi4rrCnW94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 우리 명서방이랑 잘 어울려요 응원합니다 사랑합니다",
+        "writer": "UgyBrmpfC8XlIeHQGFJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 너무감사합니다 우리명섭(이름)을 사랑으로 감싸주시는모습 진심으로늣게지내요 너무보기좋코 팬들분들도 행복합니다 감사해요",
+        "writer": "UgwmK05A_uwJxiSN5g14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "명섭님 잃어버린 마누라 찾습니다....",
+        "writer": "Ugx1-pCDPToMZUufH6J4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그러니까말입니다 가수를발굴한건지상업성으로정말징그러워요옛날노래우리명섭이따라들하고있고 우리(이름)우리가보호하고지켜주게요우리팬분들단단히뭉쳐야해야(이름)팬분듥건강하시고화이팅입니다우리(이름)귀요미화이팅사랑해요(이름)화이팅사랑해요감사합니다우리왕차지켜주세요천사예요명섭이는",
+        "writer": "Ugxr7SIbUIPYNiKPSC14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "두 분의 개그가 넘 웃겨유. 외국 음식 이름이 낮선 (이름)이 우리 음식에 빗댄 표현이 정말 그럴듯 해요. 저도 모르는 음식 재료와 이름인데 하물면 (이름)은 더 낮설지요.",
+        "writer": "Ugx0iKc4FcCpoWRxrh54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)존경합니다우리(이름)을그리챙겨주시고손까지닦아주신그사랑눈물납니다 우리명섭이귀요미(이름)두분우(이름)하길발께요화이팅",
+        "writer": "UgyleU1BEzbJ97CqAz14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "두분지금,아주.부담없는,이분위기너무보기좋은것,아시남요 .감사합니다 건강관리들잘하셔요",
+        "writer": "UgyHfs8ti16q9lLNdsd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울명섭(이름) 너무너무 귀여워요 (이름) 넘 즐겁게 받아주고 노래까지 선물 하시니 넘 행복한 시간이었습니다",
+        "writer": "Ugw0V9fOvUI3jbk_OHp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 예능감도 국보급이네요 ,",
+        "writer": "Ugy1ATdvgsD9mJK889N4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "최고 최고 얘기도 재밋게 하고 음식도 맛있게 먹고 넘 이쁘고 깨물어 주고싶네요. 경규옹 감사감사 합니다.",
+        "writer": "UgzIGH8YpYGfe3sfDjV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 개그두 잘하고 노래두 잘하구 못한게 뭔지 참 (이름)은 (이름)이 손두다닦아주고 어린 아들닦아 주듯이 너무사랑하는 모습이 정말보기좋습니다 (이름) 고맙습니다 앞으로 쭉 (이름) 부탁드림니다",
+        "writer": "Ugxf432c9Hhk_GChR8V4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와울 (이름) 넘 귀엽네유 6 25때 잃어버린 우리 마누라 반지 개그도 넘 잘하는 천재가수 (이름) 최고의 연예인",
+        "writer": "Ugxpe4ejDETBXenHjHl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꾸미지 않는 개그본능 (이름) (이름) 홧팅.",
+        "writer": "UgzHMbU3GSEz7Yi8Y3F4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "KBS2TV 편스토랑 화면으로 명섭씨 마누라 찾습니다 자막나가서 찾을거예요. 우리 (이름) 순간재치가 최고예요. 그리고 22살에 잃어버린 마누라라는 말을 어느 누구도 생각 못 할겁니다. 이런 웃음을 주는천재를 방송에서 자주 봤으면 좋겠네요. 완전 힐링.이뻐요.",
+        "writer": "Ugx1-pCDPToMZUufH6J4AaABAg.9AntVyl_avd9AoS5uSmXnl",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이리스 너무 웃기고재밌어요 우리 팬님들도 우리 (이름)닮아서 너무 재밌읍니다 댓글만 다읽어도 너무 재밌읍니다",
+        "writer": "Ugx1-pCDPToMZUufH6J4AaABAg.9AntVyl_avd9AptvCnoVUf",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞아요 재미난 댓글들이 넘많아서 읽으면서 혼자 깔깔 대구 웃구 식구들은 우리(이름) 한데 빠져서 정신 이상해졌나 하구 걱정스런 눈으로 쳐다보구 팬님들 넘재미있구 행복합니다 요즘 웃을일두 없는데",
+        "writer": "Ugx1-pCDPToMZUufH6J4AaABAg.9AntVyl_avd9AycIgueubE",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다시봐도 웃껴죽겠어요섭(이름) 끼쟁이 다른예능 패널들 일부러 웃낄례고 설래바리 치고 애쓰는것보다 울(이름) 가끔하시는 모양 빵터집니다",
+        "writer": "Ugx1-pCDPToMZUufH6J4AaABAg.9AntVyl_avd9B2WTui5XcQ",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "명섭군 마누라찾기",
+        "writer": "UgyCnfsSbS13eLLJMAd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어머머 무슨. 손을 다 닦아주시고. (이름) (이름). 왠 호강. 반지는 625때. 개그에도 소질이 있는가봐요 (이름) (이름)님. 두분 너무 아름다워요.",
+        "writer": "UgzuKmEkgmlVEGGiIqx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저두 이제 부턴 Tortilla 전 Avocado 애호박 Salsa sauce 초장 Guacamole 녹두죽 이라고 할꺼야요",
+        "writer": "Ugyki1T6qsYgmbylTjt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "6.25때 잃어버린 (이름) 이름이 혹시 금순씨 아닌가요 호박 (혐오표현)고 초장으로 루즈 바르고 국제시장에서 헤매이고 영도다리 난간에서 애타게 오빠를 찾던데 못만 나셨군요",
+        "writer": "UgxZsdFPsT50248OFRZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맛나네 표현 너무 사랑스러워요. 6.25때 잃어 버린 마누라 제가 찾아보아야 겠어요. 아핰핰핰 (이름) 우리 (이름)님 손딱아 주시는 모습이 아버지 같아 너무 훈훈하네요. 앞으로 우리 (이름)님 잘 부탁드려요. (이름) 감사합니다. 앞으로 두분이 함께 하는 TV 프로가 있기를 희망 합니다 . 두분께 늘 행운이 함께 하시길 진심으로 기원합니다. 항상 언제 어디서나 응원합니다. 뾰로뽑뽀뿅뿅뿅 감사합니다 .",
+        "writer": "UgyhKhZDNNRiOP016KN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "6.25때 잃어버린 마누라 반지에 이 (이름). 어릴때 강짜 괴짜 말안듣는 마누라 코 삐뜷어 박고 엎어져 있어요 라는 글(이름)이 써서 스타킹 패널들을 웃기더니 (이름) 그 말 인듣는 마누라를 잃어버리었으면 찾지마서이다. 이 (이름)께서 (이름) 손닦아 주실때 한 없는 깊은 사랑을 느껴서 보는 저는 감동받았습니다. 이 (이름). 우리 (이름)에게 아낌없는 사랑 부탁드립니다.",
+        "writer": "UgzQ5hjMr89fP-16ILR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오물오물 먹는 모습 너무 이쁘네요.",
+        "writer": "UgyhUUYxSnwDpGe6Qi14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (이름)씨와 케미가 보기좋습니다 이렇게 인자하게보인적이있나싶네요 참아름답습니다",
+        "writer": "Ugx_OguKag3b_FWgIVt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 어르신( ) 손닦아주는 모습에서 (이름)을 진심사랑하는맘이 느껴지네요 (이름) 이젠 예능에도 프로가 되신듯 농담도 이십니다 (이름) 명섭님 영원하시도록 응원합니다 (이름) 다양한 예능에 자주 출연하셨음하는 바램입니다",
+        "writer": "UgwWrU4akR2Az3-duvN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "볼수록 귀엽고 사랑스럽네요 요즘 참보기드문 귀한사람입니다",
+        "writer": "UgypkqldAxVw3_Iw4cJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "6 25때 잃어버린 마누라반지 웃껴죽음 아보카드 애호박 언듯보면 글께보(이름) (이름) 센스쟁이",
+        "writer": "UgxBR3b-glHSBq8CYHF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 정말 사랑이 여기까지 전해와서 힐링이되네요",
+        "writer": "Ugy4XeUAPyrub2pI0px4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 음식 잘 드시니 정말 좋네요. 살사를 초장맛 난다니 맞는 말 같고 아보카도를 호박 토티야를 (이름) 하시고 guacamole 을 녹두죽이라 하시는 멘트 웃기시느라 하는 말임을, 참 재미있네요. 즉석 라이브로 부르신 꽃피고 새가 울면 잘 들었어요. (이름) 정겹게 잘 챙겨주시니 든든 합니다. 모두에게 감사하고 응원 죽죽,",
+        "writer": "UgwNZymglQK1L2APgeR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘은 맥시코 음식 맛나게 드시네요 손에 Salsa sauce 흘리면서 (이름) 명섭씨 손 닦아주신 모습이 아빠와 아들 너무나 아름다워 저도 모르게 눈물이 흘러내리고 있습니다 항상 아버지 처럼 잘 보살펴 주세요.",
+        "writer": "UgyXP1qCKNv4_n7Wgdp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맛나네 남자가 이렇게 이쁘게먹는거 첨보네요 대박나세요 응원합니다 (이름)",
+        "writer": "UgwthoG1P3nc1fb0K_l4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 명섭님을 이렇게 사랑해주시니 보고있는 펜들이 행복해요 어쩜 이렇게 사랑해 주시는지 너무 좋습니다 항상 아끌어 주시길 부탁드립니다",
+        "writer": "UgzXICtaBhrgOLgCCyh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "경규씨 명섭이를 악의무리들로 부터 잘보호해줘야겠어요 저쪽 미스터트롯 맨들 은 그동안 가수되겠다는 생각으로 아무쟝르나 마구부르다가 인기 없으니 요즘대세 트롯쟝르로 급조해(이름)몰이로 방송사와 똘똘뭉쳐 친목질 상업을 엄청나게 하고 있는데 이렇게 트롯가수 귀(이름)가 그들의질투와 탐욕에 휘둘릴까 걱정입니다 . 명섭군도 탐욕 스런인간들 에게 휘둘리지말고 자기 페이스로 꿋꿋이 더발전 하길 기도 합니다",
+        "writer": "UgzsD7ijRRVM8jag9XJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얼마나 이쁘고 귀여우시면 아빠마음 할아버지마음 담아 닦아주실까요 명섭(이름) 6 25때 잃어버린 (이름) 여기 있어요, . 오늘도 웃으면서 즐거운 하루를 보냅니다 .팬분들도 즐거운 하루 보내세요, 사랑합니다,",
+        "writer": "UgzuKmEkgmlVEGGiIqx4AaABAg.9AmMFKNtyXA9An2Ugx2YbX",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "닦아주시는분이나 손내밀고 가만있는 분이나 정말재밌쪄요",
+        "writer": "UgzuKmEkgmlVEGGiIqx4AaABAg.9AmMFKNtyXA9B1qqjB0wob",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 진짜똑똑해요",
+        "writer": "Ugyki1T6qsYgmbylTjt4AaABAg.9AmJNeIAOFn9Amleai43ZE",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무엇이 무엇이 똑같을까 정말 비교해보니 똑같네요",
+        "writer": "Ugyki1T6qsYgmbylTjt4AaABAg.9AmJNeIAOFn9Amph5c1HH1",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댓글 재미납니다 표현력짱이십니다",
+        "writer": "Ugyki1T6qsYgmbylTjt4AaABAg.9AmJNeIAOFn9AoOE-VVKCU",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제시카 권 님도 센스 만점.. 그런데 다른 영상에서는 guacamole 이 아니고 할로피노 소스더군요. 저도 guacamole 인줄 알고 썼는데요. 중요한건 아니지만 우리 (이름)의 비상한 멘트가 중요하죠. 녹두죽이, ..",
+        "writer": "Ugyki1T6qsYgmbylTjt4AaABAg.9AmJNeIAOFn9AoTAeghRnC",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기발한생각 지두음식점가서 모른척 시켜봐자징",
+        "writer": "Ugyki1T6qsYgmbylTjt4AaABAg.9AmJNeIAOFn9B1rNeQLQ4c",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 창의적인 발상이십니다 와대단해요 역시 명섭(이름) 팬답습니다",
+        "writer": "Ugyki1T6qsYgmbylTjt4AaABAg.9AmJNeIAOFn9Bc19hUui-T",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "센스 만점. 진짜 재미있어요..",
+        "writer": "UgxZsdFPsT50248OFRZ4AaABAg.9AmFwXYV-zb9AoRv747UV2",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜이렇게 웃기세용 넘재미있으신 댓글보구 한참 웃었읍니다",
+        "writer": "UgxZsdFPsT50248OFRZ4AaABAg.9AmFwXYV-zb9AybLZr70-v",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크헉 .............",
+        "writer": "UgxZsdFPsT50248OFRZ4AaABAg.9AmFwXYV-zb9Bc1FmWndDW",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스타킹에서 봤던게 제목 이 마누라 대 소동 얼마나 웃기던지",
+        "writer": "UgzQ5hjMr89fP-16ILR4AaABAg.9Am1ollMO4V9ApMvkrjqN7",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞다맞아요 어찌어린나이에 그런 그럴싸한 곡을 썼는지",
+        "writer": "UgzQ5hjMr89fP-16ILR4AaABAg.9Am1ollMO4V9B1r4YIWgD5",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 솔찍히 (이름)의 글을 아직도 정확하게 이해 못하고 있어요. 죄송하지만, ..",
+        "writer": "UgzQ5hjMr89fP-16ILR4AaABAg.9Am1ollMO4V9MvvV7kk2BU",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Guacamole 이 아니라 할로피노 소스를 녹두죽이라 하셨네요. 제가 색깔이 같은 그린색이라 잘못인식 했네요.",
+        "writer": "UgwNZymglQK1L2APgeR4AaABAg.9Ag3RL4vQ_j9MvugSn_6zj",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어찌 바르게 보는 팬님을 만나 존경합니다 정말 몆계윌 째 하니 식을때도 되어가지요 감사합니다",
+        "writer": "UgzsD7ijRRVM8jag9XJ4AaABAg.9AecY8BL01p9AlxA8gvi-s",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공감합니다 우리가 꿋꿋하게 잘지킵시다",
+        "writer": "UgzsD7ijRRVM8jag9XJ4AaABAg.9AecY8BL01p9Ame-nAYj2V",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞는 말씀 해주셔서 감사합니다.",
+        "writer": "UgzsD7ijRRVM8jag9XJ4AaABAg.9AecY8BL01p9AnOkKp_lqt",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "UCOkKjHfqAB7e5aHFGtUHIkA 어머나 다 그런 생각 이었나요 말도 못하고 일절 보지 않아는데 모두 말없이 지키고 있네요 감사합니다",
+        "writer": "UgzsD7ijRRVM8jag9XJ4AaABAg.9AecY8BL01p9AnPkm1p4uS",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안효순 말없이 공감 합니다",
+        "writer": "UgzsD7ijRRVM8jag9XJ4AaABAg.9AecY8BL01p9AnPvefh8MR",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저두요 항상 울(이름)들 항상 건강하시고 행복하세요 울명섭(이름) 오늘도 화이팅 입니다",
+        "writer": "UgzsD7ijRRVM8jag9XJ4AaABAg.9AecY8BL01p9AnQV6hjRB_",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "명섭 (이름) 응원합니다.",
+        "writer": "UgzsD7ijRRVM8jag9XJ4AaABAg.9AecY8BL01p9Ao-yu0Xbis",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "옳으신 말씀입니다 저쪽 미스터트롯 무리들 가관이 아니더군요. 명섭님께 더러운 오물튈까 심히 걱정이네요.",
+        "writer": "UgzsD7ijRRVM8jag9XJ4AaABAg.9AecY8BL01p9B9wcejRRiv",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Sean kim 맟읍니다 두눈크게 뜨고지켜야지요 갇이응원해 주이소",
+        "writer": "UgzsD7ijRRVM8jag9XJ4AaABAg.9AecY8BL01p9FmR0_B4F3k",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 그쪽은 돌리지도 않습니다 설쳐대는 꼴 보기싫어서",
+        "writer": "UgzsD7ijRRVM8jag9XJ4AaABAg.9AecY8BL01p9HtZ6h4QoYu",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=16jdzpTOL5o",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

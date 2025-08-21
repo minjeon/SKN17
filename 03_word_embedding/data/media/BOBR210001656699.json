@@ -1,0 +1,948 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001656699",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001656699"
+    },
+    "text": [
+      {
+        "content": "(이름) .(이름). 대식가.로봇 체력",
+        "writer": "Ugyrk9Fz1AfJ1gcpD0N4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동은(이름) 보면 자기관리 자극을 많이 받네요",
+        "writer": "UgwApsCTy-rq-z7mkwR4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저렇게 먹어대는 동은이가 체중을 불려야 한다는 아이러니, 세상은 참 알고 있었지만 불공평",
+        "writer": "Ugw777V1_k3hKFaQN6J4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "처묵고 토하나 참 이상",
+        "writer": "UgxZoUWYScWEzcZJ9IB4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 어깨 후면인가요",
+        "writer": "UgwbZOJW4cLEqBRIvPt4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 동은원장같은사람은 몸 어케불림 이미 많이 먹는데 마른거잖아 운동을 끊을수도없고",
+        "writer": "Ugys1ICV2H4KXYc4sol4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 통증을 모르나봐요 아무리 참는다해도 힘든 운동할때 무의식적으로도 힘든표정이 나올텐데 무표정이고 먹을때도 너무 많이 먹고 배부른건도 모르고 감각기능이 둔한 걸까요",
+        "writer": "UgwsMsjQ3HoZ8rkxxah4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 양광장은왜 안하지 다갔이해야지",
+        "writer": "Ugw3XlZUOkvniGupxWR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 타이거즈 팬이구나 나도 타이거팬인데",
+        "writer": "Ugwnsz7KrOuLZd1pMEx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동은봇 의 시작",
+        "writer": "Ugw-k5saPJHYTByybRt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "등 운동 새로 배우고 갑니다",
+        "writer": "UgyNuWJyufxRdJpDKWd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(혐오표현)분들 후면 어깨 운동 아닌가요",
+        "writer": "UgzoPP24J3aEP4_MDQt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저런 트레이너가 있어야 몸이 좋아진다",
+        "writer": "UgwZlkqqfXHoqyowBi54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둥둥둥둥 노래 먼지 아는사람",
+        "writer": "UgxHARqAc_gyi__GlvV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동은 (이름) 먹방방송하시면 되겠어요",
+        "writer": "UgySXEBo9Mgrqir8Jh14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "운동은 뭐만하면 45도여",
+        "writer": "UgyHxgpixhhf7KTR4054AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동은원장 진짜 개멋있다",
+        "writer": "UgxaAOJ85Cyb1ATAuRF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동은(이름) 보면 자기관리 자극 받음,",
+        "writer": "Ugy3N8AlFVtnD5IjgXF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기서 (비속어)좀하지마라 재내는 저게직업이잖냐 하기싫으면 때려치고 딴일하면되는건데 왜니네가 (비속어)이냐",
+        "writer": "Ugw16QOaGucUuzqudVh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해태 7번 유니폼 어디서 구하셧뎅 저거 중고나라에도 없는 극 회귀탬,",
+        "writer": "UgwpaQS6oY3ld1_5zwx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "덤벨이 회전하는 축이 현재는 등이고 등을 뒤로 접는 거 보면 어깨후면에만 집중한게 아니라 등 전반적인 승모 능형근에 가까움 어깨부상 확률 낮음 같은 동작을 해도 등 초점을 맞춘게 무게 치기 쉬움 어깨 후면만 먹일려면 덤벨의 회전축이 어깨후면에 있고 등이 살짝 오히려 말려 있어야 어깨 후면에만 먹힘 무게 치기는 어려움 어깨부상 확률 높음",
+        "writer": "UgwbZOJW4cLEqBRIvPt4AaABAg.9Ga8EHkGpag9ImnFxBBcC2",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그만큼 자기관리를 열심히 하시니까 유지할 수 있겠죠",
+        "writer": "Ugys1ICV2H4KXYc4sol4AaABAg.9Eggyjsc_de9EhwloHyydl",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연필 아니 유지말고 늘리는거요",
+        "writer": "Ugys1ICV2H4KXYc4sol4AaABAg.9Eggyjsc_de9EhylKn56_R",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김핑퐁 그러니까 열심히 유지하시는 거라고요 찌우려면 금방찌우죠",
+        "writer": "Ugys1ICV2H4KXYc4sol4AaABAg.9Eggyjsc_de9Eks80_ddBu",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연필 그럼 동은원장같은사람은 증량하려면 운동을 안해야하는거에요 오,",
+        "writer": "Ugys1ICV2H4KXYc4sol4AaABAg.9Eggyjsc_de9EkssfNZG2Q",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보면 유독 고기 단백질 위주로 많이 먹는데 단백질은 생각보다 살 안 찜 베이글 식빵 떡 이런 탄수화물 덩어리 먹으면 제 아무리 깡 마른 사람도 살 찜 저도 마른 인간 출신에서 헬스로 몸 키워서 암",
+        "writer": "Ugys1ICV2H4KXYc4sol4AaABAg.9Eggyjsc_de9ImmuqTQdIm",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저렇게 후면 레터럴 레이즈 하며 시합나간다고 하면 욕먹습니다. 저거 (비속어)레 아녜요.",
+        "writer": "UgzoPP24J3aEP4_MDQt4AaABAg.98AOliiRR_x98Zz8E3xGzp",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 눈빛",
+        "writer": "UgxzmuWttlFynxWBBFp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "설(이름)도 대단하시네요. 안찡그리려고 주입해도 힘든데,",
+        "writer": "UgxhJpD8kPyGvItzpTd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 배우도 그렇고 트레이너도 그렇고 실력보단 이런 마케팅 방(이름)가 훨씬 중요하다 예전에 숀리가 스타킹 통해서 진짜 큰돈 벌었죠",
+        "writer": "Ugxf2yLSUA13YzRxPjR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제가 알기론 기계가 아무리 좋아도 인바디 70 이상 오차범위가 존재 하기 때문에 너무 밋의면 안되는걸로 알고 있습니다 병원에서 건강검진을 통하여 정확한 내장지방 비율과 체지방 골격른양 을 봐야하는것으로 알고 있습니다",
+        "writer": "UgxO73pL48u5jqQG7id4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 나시티 브랜드 아시는분 계신가요",
+        "writer": "Ugw01-TkDAsjX8GCg3V4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 편집이 대단 한것이다",
+        "writer": "UgwqW2_pCelXNnyMC2N4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 배워보고싶다 (이름)한테,",
+        "writer": "UgyVSF5JiDlQzFP6R554AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동은 동은",
+        "writer": "UgzxJ0hLW8QIS8_qJeF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "로우도 아닌것이 스티프데드도 아닌것이 무슨 운동일까요...",
+        "writer": "UgwhGw82VVCucOoZFfZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 여자분 뭔가 무섭다",
+        "writer": "Ugyr3OQyYii2VUxWTrp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초부터나오는 노래모임",
+        "writer": "UgwQIcxTOKkg6HrYLr94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "통증이 없기는 로봇이기는 참고 인내하고 엄살부려봤자니까 자기직업이까 딴생각안하고 힘드니까 에너지 보충하려고 열심히먹고 웬만(반사회적용어)자보다 정신력강해보여요 내눈엔 참고인내하는거로 보이는데 어떤사람들은 얼굴을 너무 땡겨서 표정이없데요 다른프로그램에서 (이름) 필라테스강의 봤는데 다른사람인줄 얼마나 똑똑하고 카리스마있는지 이프로그램 설정맞아요",
+        "writer": "UgzD2Onns9GR-3-DHfJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저걸들고 저렇게 쉽게하네",
+        "writer": "Ugz6fcvhnIiGDjhpHCV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동은(이름) 매력 어쩔꺼,",
+        "writer": "UgytjbH_niqwOARnkwt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 너무웃겨요",
+        "writer": "UgzcVq8FApxopsr7pZN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해태 (비속어)",
+        "writer": "UgyJFx3Y7J4nvI4B2hd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 운동이 힘든데,",
+        "writer": "UgzvrKaS2MWA5ENIEHB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "설마 저 직원들이 트레이너는 아니겠지 진짜 가서 운동 좀 알려주고싶네 답답하다",
+        "writer": "UgwC2KjVqP2oAIrC7ix4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "타겟이 등인데",
+        "writer": "UgxHoOUUtcruJV_BL8J4AaABAg.94UIyHcqOeQ97Ehm2eCUjN",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자라리 벤트오버라고하지",
+        "writer": "UgxHoOUUtcruJV_BL8J4AaABAg.94UIyHcqOeQ981pnEsGtaq",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헬타쿠 개인적인 의견으로 후면어깨아닐까 싶네요",
+        "writer": "UgwhGw82VVCucOoZFfZ4AaABAg.93RMFfN3B7J93UMFj-SNrL",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "han seo choi 둔부 햄스트링 과 등 내부 (능형 승모 라인)",
+        "writer": "UgwhGw82VVCucOoZFfZ4AaABAg.93RMFfN3B7J93UmcuYDx4l",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "구독 송이요",
+        "writer": "UgwQIcxTOKkg6HrYLr94AaABAg.93JxROtCnr393UmfF-Pbm7",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Pixie Paris 의 Es Rappelt Im Karton 입니다.",
+        "writer": "UgwQIcxTOKkg6HrYLr94AaABAg.93JxROtCnr395VWKHqektx",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어떤 프로그램 보셨어용 알려주세요",
+        "writer": "UgzD2Onns9GR-3-DHfJ4AaABAg.93JHzLVpPEL93NBwXMOtW4",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남을 가르칠때랑 본인운동할때는 다르죠.",
+        "writer": "UgzD2Onns9GR-3-DHfJ4AaABAg.93JHzLVpPEL93NC-V5Gsr7",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "YEJI LEE 유트브에서 성훈 트레이너 라고 검색해보시면 옆구리 팔뚝살관리 영상 있어요",
+        "writer": "UgzD2Onns9GR-3-DHfJ4AaABAg.93JHzLVpPEL93NE4uNhS1d",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)엔강 필라테스 알려주는것도 완(이름)",
+        "writer": "UgzD2Onns9GR-3-DHfJ4AaABAg.93JHzLVpPEL94uZsRpNbHM",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그니까 다 참고하는건데",
+        "writer": "UgzD2Onns9GR-3-DHfJ4AaABAg.93JHzLVpPEL9G2Ci9HL2GP",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "YEJI LEE 요즘엔 (반사회적용어)엔강하고 한것도 있어요",
+        "writer": "UgzD2Onns9GR-3-DHfJ4AaABAg.93JHzLVpPEL9G2CjxuJmv7",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김(이름)만 필라테스 원장이고 나머지는 대회준비하시는 분들일걸요,",
+        "writer": "UgwC2KjVqP2oAIrC7ix4AaABAg.930yQAo1_-z931nndLlrQ8",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전문가 등장..",
+        "writer": "UgwC2KjVqP2oAIrC7ix4AaABAg.930yQAo1_-z936O1rWVUOu",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "글로는 나도 트레이너 될수있지",
+        "writer": "UgwC2KjVqP2oAIrC7ix4AaABAg.930yQAo1_-z93OdQGAt37a",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어떻게든 눈 붉어지게 물어봐야지 어리고 멋진 트레이너",
+        "writer": "UgwC2KjVqP2oAIrC7ix4AaABAg.930yQAo1_-z94i-3av7KkZ",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "트레이너 맞음",
+        "writer": "UgwC2KjVqP2oAIrC7ix4AaABAg.930yQAo1_-z94qQN9wcdli",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엔시티 노래가 웨 나와",
+        "writer": "Ugzi7VPZSRBq4BiS2Ll4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "으, 방송용 오바 너무 하네 저 방송도 일부러 (비속어)같이 찍어내네 사람을,",
+        "writer": "Ugy4991TYNNo1cC0s5t4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)은 약투하셨을까,",
+        "writer": "UgzBOs77Wa7SqWmE9w54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(혐오표현)에도 저렇게 안했는데 방(이름)다고 오버좀 하셨네요, 세트간의 휴식이 중요(이름)닌지 잘 아실텐데 왜 굳이 카메라 앞이라서 저렇게하는(혐오표현),운동 잘모르는 사람이 보면 무조건 많이하고 안쉬면 몸이좋아지는걸로 착각 할거같네요",
+        "writer": "Ugzm5k00BAEB7GIuybV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방송나오면서 옷을 해태, . 저건 아닌듯, .",
+        "writer": "UgzgKgkz1MHTmp7Tlqt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얼굴 많이 땡겨서 다양한 표정 못지음",
+        "writer": "UgwOLoF-0ue2Mt__9gF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "죽여줘, 그냥,",
+        "writer": "UgxDiU15d4tuoEdYK2t4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어우, 다시 할때 진짜 때리고 싶겠다 군대 유격때 진짜 저, 다시 소리만 나오면 줘 패고 싶었는데",
+        "writer": "Ugw5u-vWxVKFBCTng9J4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "paulo D 방송용오바같냐 헬스해본적있고",
+        "writer": "Ugy4991TYNNo1cC0s5t4AaABAg.92z8YztP2wx94ftRc5aK57",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "운알못들 (비속어) 너야말로 헬스한적잇니 방송에서 이영상말고 다른영상만봐도 호랑이관장 컨셉잡을려고 세트할때마다쉬는시간을 10초이내로주는게말이된다고생각하냐 진짜 저렇게 무식하게 때려박는게 좋다고생각해",
+        "writer": "Ugy4991TYNNo1cC0s5t4AaABAg.92z8YztP2wx94xzqZhw0Yt",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "운알못들 (비속어) 너 관련댓글만봐도 사람들 까는댓글만보이는데 왜그러냐 요즘힘들어 인생의답이없나보네 넷상에 숨어서 사람들 시비걸지말고 밖에좀 나가세요",
+        "writer": "Ugy4991TYNNo1cC0s5t4AaABAg.92z8YztP2wx94y-2Im0T6f",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "chan chan 걍 무시하세요 (혐오표현)있는 사람같음 전부 까기바쁘시네 저분 말씀대로 프로필보니",
+        "writer": "Ugy4991TYNNo1cC0s5t4AaABAg.92z8YztP2wx95hEuq9NIvV",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "운알못들 (비속어) 팩트는 보디빌딩하는사람들 운동이라고하지 헬스라고 하는사람 거의없음",
+        "writer": "Ugy4991TYNNo1cC0s5t4AaABAg.92z8YztP2wx981picUrkVW",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "운알못들 (비속어) 공부자극하고 갑니다",
+        "writer": "Ugy4991TYNNo1cC0s5t4AaABAg.92z8YztP2wx98GkZOMofG5",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참 질문 수준이,",
+        "writer": "UgzBOs77Wa7SqWmE9w54AaABAg.92ydQ7iHM_y935KmqAlbkM",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리스트 제 질문이 잘못됬나요, 궁금하지 않나요",
+        "writer": "UgzBOs77Wa7SqWmE9w54AaABAg.92ydQ7iHM_y935ioOAjFL_",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(혐오표현) 약을 했을까라고 말해야지 약투는 나도 약했소. 하고 밝히는걸 뜻하는 겁니다",
+        "writer": "UgzBOs77Wa7SqWmE9w54AaABAg.92ydQ7iHM_y93LyelLG5lr",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "K 아하. 사전적의미 감사합니다",
+        "writer": "UgzBOs77Wa7SqWmE9w54AaABAg.92ydQ7iHM_y93M1lcjb8Mm",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저정도 몸이면,",
+        "writer": "UgzBOs77Wa7SqWmE9w54AaABAg.92ydQ7iHM_y93NCAhLEvyt",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 정도 경력에 저 정도 몸이면 네추럴로 가능한 몸이긴 함. 물론 본인만 알고 있음.",
+        "writer": "UgzBOs77Wa7SqWmE9w54AaABAg.92ydQ7iHM_y95TnBz062n0",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "알아서 하겠죠 월래 하던대로 운동하는거고 그리고양치승관장을 믿으니까 하라는대로 하는거겠죠 감정이입을 너무하신거같내요 그냥 방송은 방송으로",
+        "writer": "Ugzm5k00BAEB7GIuybV4AaABAg.92xqK-k-NFC92yKxTq2Tz8",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "운동에 정답은 없습니다",
+        "writer": "Ugzm5k00BAEB7GIuybV4AaABAg.92xqK-k-NFC92ySpaMGvoO",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "컨셉이겠죠 예능인데",
+        "writer": "Ugzm5k00BAEB7GIuybV4AaABAg.92xqK-k-NFC92zvGFJgH9n",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크로스핏 로테이션보면 경악할 분이네",
+        "writer": "Ugzm5k00BAEB7GIuybV4AaABAg.92xqK-k-NFC93-7DBozDw8",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동네(비속어)형 그래서 부상 많이당하죠",
+        "writer": "Ugzm5k00BAEB7GIuybV4AaABAg.92xqK-k-NFC93-AYy-LT70",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그건 고중량이고 저렇게 해서 체지방태우는건데 아직 거기까지 안해보신거 같은데 태릉가서 5분보면 기절하실듯",
+        "writer": "Ugzm5k00BAEB7GIuybV4AaABAg.92xqK-k-NFC93-Uad53d9b",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동네(비속어)형 운동 목적이 다르죠 크로스핏이나 특전사 서킷 같은경우 운동수행능력이 목적이지 근육의 크기가 목적이 아니죠 강제반복 과 한계까지 가는 것은 운동선수들의 필드위 정신력 군인의 정신력 때문에 하는것이죠",
+        "writer": "Ugzm5k00BAEB7GIuybV4AaABAg.92xqK-k-NFC93-WHcbylmP",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래서 님이 저 (이름) 보다 트레이너 잘함",
+        "writer": "Ugzm5k00BAEB7GIuybV4AaABAg.92xqK-k-NFC9343HVUina0",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)풀 방송에서 얼굴좀 비췃다고 일반인이나 알아보지 이바닥에서는 알아주지도 않아요",
+        "writer": "Ugzm5k00BAEB7GIuybV4AaABAg.92xqK-k-NFC9344T_KFIPi",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "옳은 말씀이긴한데 요새는 초 중수 수준 가르치실때는 저렇게 자극위주로 가는 트레이닝도 선수분들이 많이 기용하시던데요. 근력 부족한 상태에서 자기 최대중량으로 812 하느니 가벼운걸로 세트수 늘리면서 자극 중심으로 하는것도 도움 많이 되는것 같던데. 실제로 요새 배우고 있는 트레(이름)도 비슷하게 가르쳐 주시는 중이고요",
+        "writer": "Ugzm5k00BAEB7GIuybV4AaABAg.92xqK-k-NFC937WTdvYdzy",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "운동 초보때나 그렇게 하는거고 이런타임도 필요한거요",
+        "writer": "Ugzm5k00BAEB7GIuybV4AaABAg.92xqK-k-NFC938MSIAiN7Q",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)처럼 운동도 잘 (반사회적용어)고 예능감 잇어서 티비나오는것도 실력이고 복이라고 봐요 너무 시기질투 하지마셔요",
+        "writer": "Ugzm5k00BAEB7GIuybV4AaABAg.92xqK-k-NFC93M9zbKCNSj",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "트레이너들 말하는거보면 인기스타처럼 잘나가면 꼭 안좋게 말하던데 그러지 말아요 저도 트레이너쪽 공부해보니 다거기서 거기에요",
+        "writer": "Ugzm5k00BAEB7GIuybV4AaABAg.92xqK-k-NFC93MA7527_jC",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대신 일반트레이너들이 재활쪽이랑 같이 하면 좋겟더라구요 관상용 으로 대회나가며 몸 멋지고이쁘게 만드는건 건강에 안좋지만 목적이 다른거고 건강목적용 운동이라면 헬린이 수준이더(반사회적용어) 건강용 운동피티가 좋은거같아요",
+        "writer": "Ugzm5k00BAEB7GIuybV4AaABAg.92xqK-k-NFC93MAKXGSxE8",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "타바타같은개념 아닌가요 고중량치는것도아니고",
+        "writer": "Ugzm5k00BAEB7GIuybV4AaABAg.92xqK-k-NFC93RSa1Ajcn6",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방송이니 그러려니하세요 제발 방송중에 자극점 찾고 천천히하고 고중량에 오만상 스쿼트하고 3분 휴식하는거 보여주면 재미있겠어 막 뭔가 하고있고 못쉬고 힘든거 보여야 뭐하는것같지",
+        "writer": "Ugzm5k00BAEB7GIuybV4AaABAg.92xqK-k-NFC94b42Sxe7Zh",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)풀 팩폭하니 쫄아서 암말도 못하누",
+        "writer": "Ugzm5k00BAEB7GIuybV4AaABAg.92xqK-k-NFC95hF1DB6HvS",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "슈퍼 세트일수도있죠 슈포세트하다가 힘들어도 15초안에만 다시 시작하면 괜찮듯이",
+        "writer": "Ugzm5k00BAEB7GIuybV4AaABAg.92xqK-k-NFC981q2Cetq4V",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해태 왜여",
+        "writer": "UgzgKgkz1MHTmp7Tlqt4AaABAg.92wp0KnJHG892wzFcf7d28",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그럼 나이키입으면 아디다스한테 미안해야하나 본인 자유지",
+        "writer": "UgzgKgkz1MHTmp7Tlqt4AaABAg.92wp0KnJHG892xEI323Pl2",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭔 (비속어)같은소리여 이건",
+        "writer": "UgzgKgkz1MHTmp7Tlqt4AaABAg.92wp0KnJHG893-KZRyz4Q2",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모자이크는 괜히잇냐 알아서해줘야지",
+        "writer": "UgzgKgkz1MHTmp7Tlqt4AaABAg.92wp0KnJHG8931TQWGAzer",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "따른사람도 메이커 입으면서 저정도가리는데",
+        "writer": "UgzgKgkz1MHTmp7Tlqt4AaABAg.92wp0KnJHG893jpYsP8RwA",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그럼 그어떠한 옷도입으면 안됌 브랜드는 서로 신경 쓰여가주고 안되고 시장옷은 시장안에있는 다른가게때문에 안되고 속옷은 속옷브랜드 겹쳐서 안되고",
+        "writer": "UgzgKgkz1MHTmp7Tlqt4AaABAg.92wp0KnJHG895hF9_BTbHo",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "gu Liquid 그냥 저사람이 (이름)거에요",
+        "writer": "UgwOLoF-0ue2Mt__9gF4AaABAg.92vyGTLgUGz935hd4GoJob",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "으 악플러",
+        "writer": "UgwOLoF-0ue2Mt__9gF4AaABAg.92vyGTLgUGz93FZQ-t18G7",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Hyojin Park 이게 악플러임 마녀사냥하냐",
+        "writer": "UgwOLoF-0ue2Mt__9gF4AaABAg.92vyGTLgUGz93GVhFt_SKe",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조군 응 너같은 사람은 제대로 이해못하나바",
+        "writer": "UgwOLoF-0ue2Mt__9gF4AaABAg.92vyGTLgUGz93GiaFhhBJc",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Hyojin Park 응 니생각",
+        "writer": "UgwOLoF-0ue2Mt__9gF4AaABAg.92vyGTLgUGz93GnLL_xy_H",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조군 인생 한심스러운데 밥 축내면서 살고는싶냐",
+        "writer": "UgwOLoF-0ue2Mt__9gF4AaABAg.92vyGTLgUGz94PpDaRr0Y7",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조군 니보다 예뻐서 질투나",
+        "writer": "UgwOLoF-0ue2Mt__9gF4AaABAg.92vyGTLgUGz95Wnf_vD5Rc",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "블루 눈 한번보고 몸 한번보면 그럴마음 싹 사라질듯",
+        "writer": "Ugw5u-vWxVKFBCTng9J4AaABAg.92pA9bsWF9792uhyCAqxsj",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 그렇긴하겠죠 그냥 마음의소리로만,",
+        "writer": "Ugw5u-vWxVKFBCTng9J4AaABAg.92pA9bsWF9792utl6mEZ6Z",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "블루 군대는 강제로 가야하고 월급도 제대로 안주고 그냥 (혐오표현)인데 저기는 제대로 운동 코치해주고 하고싶어서 하는거고 그런거여서 저런선생님같은사람이 좋은것같아요",
+        "writer": "Ugw5u-vWxVKFBCTng9J4AaABAg.92pA9bsWF9792yPxJ40FjP",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "six plq 좋은 의견 감사요",
+        "writer": "Ugw5u-vWxVKFBCTng9J4AaABAg.92pA9bsWF9792yQTCsz8bg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DYnwW2ybOtU",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

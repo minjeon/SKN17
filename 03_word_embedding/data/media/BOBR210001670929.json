@@ -1,0 +1,900 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001670929",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001670929"
+    },
+    "text": [
+      {
+        "content": "우리 영광이가 짱이여",
+        "writer": "UgwOd22qww5iwmqHGCZ4AaABAg",
+        "write_date": "2021-11-14",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 비율이 진짜, 넘사네",
+        "writer": "UgyMGY5Y4KHf6jZFtJp4AaABAg",
+        "write_date": "2021-11-13",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "화장에 헤어에 옷차림 다맞춰주고연예인 세계는 부럽다, 박살난 집도 새로운 신 아파트로 만들어주네",
+        "writer": "UgygvjxEH8JRXf8ZEUV4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무릎에 스프링",
+        "writer": "UgyC_1WWIjWkU0eoY2d4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 (비속어) 잘생겼다 미쳤다",
+        "writer": "UgzqwPIHCbKLymlqf9d4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)처럼 빈티나는 애가 브랜드 옷 입는거 (비속어)이야 시장옷이 어울림",
+        "writer": "UgxU8S7p3Ys3kIsv-ax4AaABAg",
+        "write_date": "2021-05-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우영이 재밌다",
+        "writer": "UgzRu--0pHNfJzlkFY54AaABAg",
+        "write_date": "2021-03-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 리얼 (이름)이 나라다 (이름)이 전부다 진짜 와 그냥 너무 잘 생기고 피지컬 (비속어) 그냥 검은색 티를 입었는데 어찌 저래 와 와 와",
+        "writer": "UgynoB59b42l6zL5bhl4AaABAg",
+        "write_date": "2021-02-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앜 기안",
+        "writer": "Ugxm9upQtn4VgEV_yKh4AaABAg",
+        "write_date": "2021-02-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기안84님 그냥 이렇게 걸으몀 안돼나요 개멋져,",
+        "writer": "UgzXhEvjAUtgczwJeu94AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 섹시",
+        "writer": "UgxW-bcV9rfSD36I8JN4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "교통사고 당하신분 많으시네 다 치인데",
+        "writer": "Ugz0P4TbvRMGL5JAdbF4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 혼자 있어도 잘생긴뿜뿜 이지만 저기에 있으니까 더 돋보인다, 캬",
+        "writer": "UgzIk_Wns9ezyQgBIS94AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재밌는데 말을 안듣네",
+        "writer": "UgydGCe-j7yP3_GBP9V4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하(비속어), 잘생겼네, 아,",
+        "writer": "Ugw1lWZ33r9olA90BIF4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름), (비속어)아, .",
+        "writer": "Ugw-T3OAb05uGUoO6h14AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "빈티라는 단어를 여기도 쓰고",
+        "writer": "UgxU8S7p3Ys3kIsv-ax4AaABAg.9N6BP6XQOFT9RAGp4dvRxN",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 (이름) (비속어)귀여워역시(비속어)재간둥이",
+        "writer": "UgxOruOf75TemiGq_yR4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "후 기안 (비속어) 개답답 (비속어) 중딩이 나이만 먹은 것 같네",
+        "writer": "Ugwfgt56ScbvkTYUzcd4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와중에 화보인쥴",
+        "writer": "UgxLj8QivYVogQBAzqR4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영광님 원래 쌍꺼풀이 있으셨나 ,",
+        "writer": "Ugy2ePyag8OBGcsDuXt4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 기안때매 급웃겨서 심장마비 걸려 (비속어)했네",
+        "writer": "UgzCP7lH2C4uR6C4jNF4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "성훈 (이름)이랑 혼자 표정으로 싸우고잇네견제하는 표정 (비속어)웃",
+        "writer": "UgyM03cjnl9BbqwtJW54AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오빠 이제 수면위로 올라올 때 됐어 너무 겸손하지 않아두 돼 그 정도면 (비속어) (이름) 엉엉 날가져요 밈 울려야된다고",
+        "writer": "UgxK0V09yhl_zKUa_5Z4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 잘생겨서 놀람 진짜",
+        "writer": "Ugzje5fLxaj0BcbpiJV4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 끼부리는거 (비속어)",
+        "writer": "UgyFao3V4i7WyukqlMR4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "충재 성훈 영광 혜진 _",
+        "writer": "UgxxkNxPMOpy1_GjQmR4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모델 클라스, 진짜 멋있다",
+        "writer": "UgxO-kUgMJf3IM50rQ94AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)도 거북목임",
+        "writer": "UgxWVLj2IVuPtI0-OEB4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "성훈 충재도 겁나 잘생긴건데 (이름) 옆에 있으니까 보이지도 않네",
+        "writer": "UgxRGLCE_qWaESXD0Dx4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기안 왜 상견니 남주 리쯔웨이(왕취안성)(허광한) 옷 입고 있어, 나 너무 놀랬어, 좋은 쪽이 아니라 쿨럭",
+        "writer": "UgywU6iQFqZPvpJfpQl4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미쳤나 어떻게 이름도 영광임",
+        "writer": "UgzEwBXRTgIpMNvQfwF4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 뭐여",
+        "writer": "UgyXhYNzkSP__cA0rC14AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우영이 머리 왜저랰 일본 개그맨같애 흑흑 우영아",
+        "writer": "UgwtIdbhxF_1Rm29WL54AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와근데 진짜 김충재, 일반인인데 왜르케 잘생긴거야,",
+        "writer": "Ugy7EyS_engefWeYYpp4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하, 치인다",
+        "writer": "UgxatxA-4LapTYFl4Od4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 왤케 잘생겼어, .",
+        "writer": "UgzneEnu4Y9u4cFPuKZ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 개웃겨 완전 끼쟁이",
+        "writer": "UgysQIKkCoEOletPYx94AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영광인줄 알아라",
+        "writer": "UgxCC74XVHrMzUBR9mJ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김종알님 보는거 거북스럽습니다 감별사의 눈을 갖고계시니 이거원.",
+        "writer": "UgzlMp0n15sr6JhHGmB4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 버거킹 알바하다 왔나요",
+        "writer": "UgwBW2RVDcg1LEPrAld4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 (이름) 좋아하네",
+        "writer": "UgygbxN0aoQ7g_L632V4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방금 와썹맨 카이스트 보고 왔는데 (이름) 보면서도 역시 자기 분야의 (비속어)들은 다 멋있다는 생각을 했다 존멋",
+        "writer": "UgykZmo_rgmKUHL7XcR4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 너무 멋있어 선생님 처럼 완전 대박",
+        "writer": "Ugy4FUE8vNmMWrRFPvd4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "걷는거니까 뭐 조금 연습하면되겠지했는데 잘걷는다는거 모델처럼 걷는다는건 참 많이 어렵구나 진심 느꼈어요 뭐든지 한분야에서 최고이거나 이름을 알린다는건아주 대단한 일임을 또 깨닫는군요 일반인 (이름)과 모델 (이름)은 포스부터 다르더군요",
+        "writer": "Ugx5lukaC299KjCtvHR4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기안84 걸음걸이 심즈에 심들 걸음걸이랑 똑같네",
+        "writer": "UgypIUJ4XUCHAgq-UJJ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (비속어)이라 깜짝 놀램",
+        "writer": "UgykXhrQfQb-92elb-94AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 (이름) 이 끼쟁아 사랑해",
+        "writer": "Ugy7vSyW1B8qePL1zDR4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 워킹 아 웃기네 배꼽빠지게다",
+        "writer": "UgxTNpynzdohhQ4bckR4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영광은진짜 영광스럽네 와",
+        "writer": "Ugy0DUCQn4g9vtZ8x-B4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "걍 키큰 사람이 걸어가는거 아니냐 , 옆에 지디나 태양이 제 아무리 열심히 걸어도 저런건 안되자너 쩝",
+        "writer": "UgynjXLIDYzMs_1T_uh4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 저 키에 몸에 얼굴에, 진짜 오랜만에 런웨이 선다고 겁내 신나서 뛰어가는 것도 귀욥고",
+        "writer": "UgwwzcvLWbRLwBmedjd4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 습관적 하트 (이름)이 막 지긋지긋하다는듯이 말하는 말투도 너무 웃김",
+        "writer": "UgxURvh0MHsYBzsKrgB4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모델들은 진짜 (이름)한테 감사해야돼 솔직히 모델이 후천적 노력 걷는연습 (비속어)말라그래 그냥 피지컬임",
+        "writer": "UgynjXLIDYzMs_1T_uh4AaABAg.9FfLECFOfBd9RA22HY5oZE",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Js y 노오력은 하긴 하겠지만 타고난게 말도 안되게 크다고 봄 nba에서 170대 키로 살아남는거랑 별 다를 거 없는 수준이 아닌가",
+        "writer": "UgynjXLIDYzMs_1T_uh4AaABAg.9FfLECFOfBd9RABMtdj-f6",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흔한현대인들의걸음걸이 웃프다",
+        "writer": "UgxIMMiA7BbyDugC5Ft4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 성훈이 쭈구리가 되버리네",
+        "writer": "UgxWi2zid203t_9HtFJ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왤케 잘생겼어 순간 방심했네",
+        "writer": "UgxOHxlOEChlnoekowN4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우영아 콘서트에서 찐으로 보고싶구나 흑흑 지나가던 핫티",
+        "writer": "UgxkhV_PvZG3-IaUy-R4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "콘서트 하틐",
+        "writer": "UgzTwSVua9zvcGfB2rB4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)없었으면 성훈이나 충재가 돋보였을텐데 그 둘마저 쭈구리까진아니더(반사회적용어) 안돋보이게 만들어버리네 (비속어) 독보적이다 (이름) 진짜",
+        "writer": "UgwPGuXOV3wnSu6SjTx4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃는거 개치인다,",
+        "writer": "Ugw7-R2PX0sPCsyDzIJ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기 방송 볼 떄도 진짜 깜짝 놀랐었는데, 사람이 아니야,",
+        "writer": "Ugyrs0YD3aR_e9o_HVF4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우영 좋아",
+        "writer": "UgzQttfQ96SEVx1R4Dh4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기안 정말 평소에도 저렇게 걸어요 완전 발에 탱탱볼 단줄",
+        "writer": "UgxZK4DiHoRqsTCQWe54AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘했어 기안오빠",
+        "writer": "UgxtMvMCHJsa8sioLOB4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안이는 왜저래 걷노",
+        "writer": "Ugxl8tJp2iJ7kujn7WF4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "되게 피곤해보인다 영광오빠",
+        "writer": "Ugx74RpLjIlYDfPyBp54AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헨리없어서 서운하당,",
+        "writer": "UgwJXgLflSh4kkJnDIF4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다 필요없고 난 여기에 멈춰서 (이름) 얼굴 5분 봤다",
+        "writer": "UgyYPGiKgPh5CEtC3rd4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "습관적 하틐",
+        "writer": "Ugz4Z83TUKWo5_8ZTRF4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영광스럽지 않아요 ,천벌받아요 라고 말하는 깨알센스에 저 개구쟁이 모습 너무 귀여웡",
+        "writer": "Ugy6FvUjat4_MX9NAMB4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 구엽닼",
+        "writer": "UgzxcJ8lCs1iYur8UGt4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐래 성훈이 어디가 어때서",
+        "writer": "UgxWi2zid203t_9HtFJ4AaABAg.9FdfUuqxDlf9FkviAshQq5",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭘 쭈구리야 (비속어)이고만 레알 쭈구리는 니가 거울 보면 나올껄",
+        "writer": "UgxWi2zid203t_9HtFJ4AaABAg.9FdfUuqxDlf9Hu-cHv3XgN",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "원래 쭈구리",
+        "writer": "UgxWi2zid203t_9HtFJ4AaABAg.9FdfUuqxDlf9JnN1XiLiDv",
+        "write_date": "2021-02-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 옆에 성훈 충재는 보이지도 않네",
+        "writer": "UgwPGuXOV3wnSu6SjTx4AaABAg.9Fcn5AguNY_9FfxT-zASvH",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "피지컬부터가 (비속어)게압도적임",
+        "writer": "UgwPGuXOV3wnSu6SjTx4AaABAg.9Fcn5AguNY_9Fp0MVHyauu",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 새삼느끼네 대박이다 얼굴이고 몸이고",
+        "writer": "UgwPGuXOV3wnSu6SjTx4AaABAg.9Fcn5AguNY_9Fs10mAdRpt",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 (이름) 피지컬 쩔어요 전에 실물 봤는데 와, 키 어깨 보고 모델은 모델이다 했네요,",
+        "writer": "UgwPGuXOV3wnSu6SjTx4AaABAg.9Fcn5AguNY_9Fsf_GZ_783",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 너무 우월했음",
+        "writer": "UgwPGuXOV3wnSu6SjTx4AaABAg.9Fcn5AguNY_9FutltMbVA_",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "종아리 감별사 근데 (반사회적용어)는 개빻음",
+        "writer": "UgwPGuXOV3wnSu6SjTx4AaABAg.9Fcn5AguNY_9IWBWO07VZH",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "신짱구 종아리 두꺼운 (비속어) 하나 추가요",
+        "writer": "UgwPGuXOV3wnSu6SjTx4AaABAg.9Fcn5AguNY_9IWwAtN9bjq",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "신짱구 이(비속어) 남잔데 키 160에 90키로여서 (이름)한테 열등감 느끼네",
+        "writer": "UgwPGuXOV3wnSu6SjTx4AaABAg.9Fcn5AguNY_9PMoRTCzcyx",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "신짱구 지 이상형 말한거니까 상관없지 않나",
+        "writer": "UgwPGuXOV3wnSu6SjTx4AaABAg.9Fcn5AguNY_9PRuHcrxtjX",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와울 나만 그렇게 느낀게 아니구나 보고 감탄했다능, 역시 괜히 배우하는게 아니구나 했습니다,",
+        "writer": "Ugyrs0YD3aR_e9o_HVF4AaABAg.9FcN09UBTfP9Fhvb2LKrJM",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 웬 남신들이",
+        "writer": "Ugyrs0YD3aR_e9o_HVF4AaABAg.9FcN09UBTfP9Fi9blWStvJ",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나만 그렁게 아니였어,",
+        "writer": "Ugyrs0YD3aR_e9o_HVF4AaABAg.9FcN09UBTfP9FrjU-eI-6c",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우연찮게 후광이,",
+        "writer": "Ugyrs0YD3aR_e9o_HVF4AaABAg.9FcN09UBTfP9FxOhA4JBSG",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모델워킹한다고 오바한거겠죠",
+        "writer": "UgxZK4DiHoRqsTCQWe54AaABAg.9Fb8HzV21Gx9FsH3s6mL(반사회적용어)",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "티나게 오버",
+        "writer": "UgxZK4DiHoRqsTCQWe54AaABAg.9Fb8HzV21Gx9IACgVJ0ogr",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 본방보면서 이장면 에서 넋놓고보고 찾으러왔네용 충재씨 진짜 잘생겼는데 (이름) 나오니 (이름) 이렇게 잘생겼나 싶었음 평소엔그냥 그랬는데 (비속어)레스",
+        "writer": "UgyYPGiKgPh5CEtC3rd4AaABAg.9Fa3Ih23DYs9FhDKz5W3QR",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이때 카메라 맨한테 넘 고마웠음",
+        "writer": "UgyYPGiKgPh5CEtC3rd4AaABAg.9Fa3Ih23DYs9JTJAcdseTq",
+        "write_date": "2021-02-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 (비속어)",
+        "writer": "UgyYPGiKgPh5CEtC3rd4AaABAg.9Fa3Ih23DYs9JpSYdXS5yJ",
+        "write_date": "2021-02-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 사람 다 똑같네,",
+        "writer": "UgyYPGiKgPh5CEtC3rd4AaABAg.9Fa3Ih23DYs9Kp_ehcE-cH",
+        "write_date": "2021-03-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우영이의 습관적 하트 귀여워",
+        "writer": "UgwUU0iGUNPa18Ww0IF4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우영 어떡해 너무 귀여워 좋아",
+        "writer": "UgzGr3qB7jYlD8u_Qit4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 (이름) 뒤집어지게 잘생겼다, 웃는거봐",
+        "writer": "Ugwuz8MODHGaVZ0Cyfx4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기안은 정말 답이없네요. 일부로 그렇게 걷는건지, 튀어볼려는건지 , 말버룻도 예전보다 별반 고친거 같지도 않고, 좀더 교양적으로 노력해주세요.",
+        "writer": "Ugx9qf8FmesuhGcI3LJ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영광오빠 is really that whole man and no one can tell me otherwise.",
+        "writer": "UgwAPXHfC8KUqRaVx1h4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기안 모델 워킹완전 멋졌어요 그냥 다 떠나서 눈에 띄었음",
+        "writer": "UgzHtGJ1riUR9wrDIZl4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "실전에서 잘했어요",
+        "writer": "Ugx9qf8FmesuhGcI3LJ4AaABAg.9FUUvpESYk-9F_pTF1-PcM",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 원래 걸어오던 걸음걸이가 8자걸음이었는데 이번에 교정한 것 같아요. 말버릇은 모르겠네요,",
+        "writer": "Ugx9qf8FmesuhGcI3LJ4AaABAg.9FUUvpESYk-9Fa0kWXNVtw",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "짧은 시간에 노력해서 실제 무대에선 많이 나아진 모습 나와요 몇분짜리 영상 하나 보고 악플다는 당신 인생이나 돌아보시죠",
+        "writer": "Ugx9qf8FmesuhGcI3LJ4AaABAg.9FUUvpESYk-9FaIOQBpBfe",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좀 더 교양적으로 노력해주세요, 샤론팩님",
+        "writer": "Ugx9qf8FmesuhGcI3LJ4AaABAg.9FUUvpESYk-9FanqZqv8bX",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "교양은 님이 먼저 쌓아야 할 듯",
+        "writer": "Ugx9qf8FmesuhGcI3LJ4AaABAg.9FUUvpESYk-9FaznT7nPEM",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댓글좀 교양있게 달아주세요",
+        "writer": "Ugx9qf8FmesuhGcI3LJ4AaABAg.9FUUvpESYk-9Fc982GwcOB",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "니나 잘하세요",
+        "writer": "Ugx9qf8FmesuhGcI3LJ4AaABAg.9FUUvpESYk-9FcvweDAzPB",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기안 본무대에선 정말 잘했습니다. 옷태도 좋구요",
+        "writer": "Ugx9qf8FmesuhGcI3LJ4AaABAg.9FUUvpESYk-9FfZNPM_W_i",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좀더교양적으로 댓글달아주세요",
+        "writer": "Ugx9qf8FmesuhGcI3LJ4AaABAg.9FUUvpESYk-9FuFfVb9F8h",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 귀여워요",
+        "writer": "UgyEa1kKxsbmkgJTP-54AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3rfawZ-S0V0",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

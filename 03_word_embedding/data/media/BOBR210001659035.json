@@ -1,0 +1,316 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001659035",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001659035"
+    },
+    "text": [
+      {
+        "content": "(이름) 아버지 허세가 심하네 대출하는 문제 아내와 의논없이 하시니 어머니는 많이 속상 하시겠네",
+        "writer": "UgwkzSKZNiSfZ7ncIv54AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cdeIV2kjITY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대출받을만하니 받았겠지 그분이 흥청망청쓸분도아니구만 저아줌마는 왜케잘난척 잔소리 짜증나는스타일",
+        "writer": "Ugz6SA5NSCCOLhUnsMJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cdeIV2kjITY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대출 근본도 안된다고 집에서 해놓고 은행에 가는 이유 너무 방송 을 의식한다 재미없다",
+        "writer": "UgyThAgeqNAM71UzKNl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cdeIV2kjITY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "으따 아버님 어머님 빛이업는집 업으요 . 다 내돈만갖고 사나요. 나라돈 빌려쓰다 갑으면 되죠. (이름)가 일좀 많이 하세요. 아들 잘키워 덕좀 봐야죠 수빈이 새엄니 기분 나쁘지만 좀 도와주세요 (이름)좀 팍팍 밀어주세요",
+        "writer": "UgxbNkt-Ass374RGZPZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cdeIV2kjITY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "원래 자영업 하는게 다 빚지고 하는건데",
+        "writer": "Ugx3LaHLFFmi_f_eAoh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cdeIV2kjITY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "살림남 (이름) 가족 때문에 봅니다, 재밌어요 그냥 우리네 옆집 사람들 같아요, (이름) 말도 넘넘 재밌어요쳐양락씨도 참 재밌어요",
+        "writer": "Ugzvu9D9KIUYVgfDm6R4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cdeIV2kjITY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김(이름)가 열일해서 빚 갚으시면 되져 머 하시는 일마다 잘 풀리길 빌께요 김(이름).",
+        "writer": "Ugy8mGXMaaCJ01xRyP54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cdeIV2kjITY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "결혼하는데 어쩌노 , 그래도 추카합니다 설정이겠죠",
+        "writer": "UgxtMDtAgFmprqwbCMd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cdeIV2kjITY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "죄송한데 엄마는 경제활동도 별로안 하신듯 한데 마치 자신이 번 돈인양 말씀하시는게 어이 없네요 아버님이 버신돈 어머님 계좌로 다 들어간게 아닌지 , 어머님이 돈을 움켜쥐시고 챙기셨지 직접 버신건 아닌것 같은데요 , 가족들 출연료도 몽땅 어머님 계좌로, 아무턴 어머님이 아버님 기를 너무 죽이시는 것 같네요 , 아버님도 열심히 일하시던데 , 너무 그러지 마세요",
+        "writer": "UgwOq9zC6NSozojEw6B4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cdeIV2kjITY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 동생분 방송에서 볼때 고깃집한다고 시식까지 하더니 가게는 (이름)요",
+        "writer": "UgxlIlqIgiDd3hzFWGd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cdeIV2kjITY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대본 너무티날때가 많음, .",
+        "writer": "UgwwlkPAZoh11sOkcWx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cdeIV2kjITY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 이분들이 없으면 무슨재미로 보나요 저는 제 지인들한테 이분들 소문내고 다님,",
+        "writer": "Ugzi3vS5uQsmFyP_XbR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cdeIV2kjITY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "솔직히 나는 이가족들 너무 좋다 연기자들이야 전문가니 그때그때 가상같은 거잣역할에 몰입해야하지만 이분들은 진짜 우리내 사는모습을 대변한다본다 순수함이 너무 좋다 어머니 항상 건강하셔요..... 이집은 옥자어머님 아녔음 어쩔",
+        "writer": "Ugw6UtNRzRKtYXlzhix4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cdeIV2kjITY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 이 아버님 진짜 싫으이 안 나왔음,",
+        "writer": "UgysHv4KC7SfOuazP3d4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cdeIV2kjITY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "드럽게 칙칙하내",
+        "writer": "UgylId3i2R3xTJ9bMT14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cdeIV2kjITY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근디 방송 나오기 전에 돈 안벌고 머했대 승현인 등골뺐나",
+        "writer": "UgyZkGMNNkAZZifkg2h4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cdeIV2kjITY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄마돈이 어딨어 부부가번돈은 공동재산이지",
+        "writer": "UgyzDLJJo6gxkhNpqVJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cdeIV2kjITY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사생활 까지 해야되나",
+        "writer": "UgwCPsLJnxzG_I8IM-54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cdeIV2kjITY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에고 이런 빚이 있구나",
+        "writer": "UgxepNU1q2RAIC_vtUF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cdeIV2kjITY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주식이 중독중 젤심각하다고합니다",
+        "writer": "Ugx2FD5u6zObgrIgvEB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cdeIV2kjITY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여자가 열심히 안 모였으면 다 주식에 날아갔을걸요.",
+        "writer": "Ugz6SA5NSCCOLhUnsMJ4AaABAg.95jej5Z3AJp9IFy2lBMKOZ",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cdeIV2kjITY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공장일도 어머니가 반은거들고 여태 가족들 밥은 뭐 꽁으로 챙겨주는줄아니 그게 돈으로환산해봐라 집안일보다 차라리 나가돈버는게 더낫지",
+        "writer": "UgwOq9zC6NSozojEw6B4AaABAg.93fEFXlJzob9HZ6cLFU7hw",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cdeIV2kjITY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "메뉴도못정하고 우왕좌왕하다가 오픈도 안해보고 문 닫았어요",
+        "writer": "UgxlIlqIgiDd3hzFWGd4AaABAg.93YNzOhhOfm93vy_vJaXlx",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cdeIV2kjITY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하지마세요 장사가쉬운게 아니져",
+        "writer": "UgxlIlqIgiDd3hzFWGd4AaABAg.93YNzOhhOfm95VRM1NVXYz",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cdeIV2kjITY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대본이(반사회적용어) 어떻게 저렇게 자연스럽게 재미지게 하시는지요 예능으로 보세요",
+        "writer": "UgwwlkPAZoh11sOkcWx4AaABAg.93X6li17A1893_8Qi6QRek",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cdeIV2kjITY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 예능도 대본있어요",
+        "writer": "UgwwlkPAZoh11sOkcWx4AaABAg.93X6li17A1893_8dFJEEyD",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cdeIV2kjITY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 대본이(반사회적용어) 잼있잖아요 대본대로 하신다면 진짜 연기 자연스럽게 잘하시는 가족이네요 여기저기 식상한 연예인들 화려한모습 들만 보니까 잼없어요 대본이(반사회적용어) 살림남이 넘 잼있어요 님은 보기 불편하면 연예인들 많이 나오는 채널보세요",
+        "writer": "UgwwlkPAZoh11sOkcWx4AaABAg.93X6li17A1893_9JNV7Lkq",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cdeIV2kjITY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래도 다른거보다 재밌어요",
+        "writer": "UgwwlkPAZoh11sOkcWx4AaABAg.93X6li17A1893pxU-qX6Sa",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cdeIV2kjITY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보지마셈 다른채널 보세요 난 여기저기 똑같은 연예인들 보는거 보다는 훨 위로되고 좋은데요 그냥 스트레스 받지 마시고 다른데 보세요",
+        "writer": "UgysHv4KC7SfOuazP3d4AaABAg.93MqqBTqvhz93_8kAruicv",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cdeIV2kjITY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아버님이 왜요 , 가족을 위해 열심히 사시던데, 어머님이 아버님을 노골적으로 구박 하시니 좀 안스럽드만 ,",
+        "writer": "UgysHv4KC7SfOuazP3d4AaABAg.93MqqBTqvhz93fFFCQQgk6",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cdeIV2kjITY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "새야새야 어머님은 조금은 재미를 위해 대본 이랍니다 그냥 자연스러운 예능 입니다",
+        "writer": "UgysHv4KC7SfOuazP3d4AaABAg.93MqqBTqvhz93frBpI0E-r",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cdeIV2kjITY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜요 열심히 사시고 좋으신데요 어머님이 큰소리쳐도 가만있고,",
+        "writer": "UgysHv4KC7SfOuazP3d4AaABAg.93MqqBTqvhz94lLLdSawnA",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cdeIV2kjITY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 저영감 보기싫음 인상이 쫌샌같아요",
+        "writer": "UgysHv4KC7SfOuazP3d4AaABAg.93MqqBTqvhz983paFzq18x",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cdeIV2kjITY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보지마셈 밝은채널 보세요",
+        "writer": "UgylId3i2R3xTJ9bMT14AaABAg.93KipnNGKsG93_8q_8eYke",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cdeIV2kjITY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 안봐 너많이봐",
+        "writer": "UgylId3i2R3xTJ9bMT14AaABAg.93KipnNGKsG93__5qnUQvb",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cdeIV2kjITY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소미 단미 감사해요",
+        "writer": "UgylId3i2R3xTJ9bMT14AaABAg.93KipnNGKsG93aWDLLJ9yy",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cdeIV2kjITY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞습니다 아버님은 열심히 일 하시고 어머닌 열심히 돈 챙기시고 , 부부 공동재산입니다",
+        "writer": "UgyzDLJJo6gxkhNpqVJ4AaABAg.93H2-KPEfah93fErkrT7Qt",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cdeIV2kjITY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한방은 위험한 발상이에요 아버님 ...",
+        "writer": "UgzX5-gFzJgVIloFRQF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cdeIV2kjITY",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

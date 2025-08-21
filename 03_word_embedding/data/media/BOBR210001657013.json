@@ -1,0 +1,628 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001657013",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001657013"
+    },
+    "text": [
+      {
+        "content": "저런 남자 , 진짜 박(이름) 복받은거 예요, 어남 선생",
+        "writer": "UgyChb1LWPzteAPeUcR4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유튜브 해줘요 요리",
+        "writer": "Ugx2qZMQFxgIYy7N7sB4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동(이름) 유투브 제바류",
+        "writer": "UgwxcDmv54HsTH0sZzN4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "카놀라는 싼데 (이름) 있어요.",
+        "writer": "UgxgjN49Tge5NoglCRh4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 멋있다",
+        "writer": "Ugzc9Pm2_kGq9PUUbj54AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어남선 타고 장보러 가요 채널 기대할께요",
+        "writer": "UgzXtZFMHUfPcPsm0t14AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 유튜브 개설하면 왠만한 요리크리에이터들 (비속어)어먹을 듯,",
+        "writer": "Ugzo_GMdBhGFaOAaxfR4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 어남선선생 매력 터지신다",
+        "writer": "UgzxKJ_dvE337QM6oYt4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "백종원이 젊었을때 이랬을거 아니야",
+        "writer": "UgxufZLXaQwM0U4gORh4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "빠져든다, 빠져든다",
+        "writer": "Ugx3r3b5JxiPXAYBjQp4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "카놀라유는 치매를 유발합니다.",
+        "writer": "UgzbjmvR1rQztgAWEOd4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김(이름)가 진행하는 요리프로에 류(이름) 나온것같다 대박 알짜정보",
+        "writer": "Ugxb2nGGFr_3Hnsu54h4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 유튜브 하시면 안되나요 찐바램..",
+        "writer": "UgxD2YGoLsC7UvhXOJx4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요리하던 친구가 하던말이랑 똑같네요. 비비큐에서 처음에 엑스트라버진오일쓴다면서 2천원씩 가격 올렸을때 저 말했어요. 어짜피 발연점 낮아서 금방 태울텐데 안쓰느니 못하는데 큰차이 없는데 괜히 써서 돈만 더 비싸게 받는다고 욕했었어요.",
+        "writer": "UgyINbv6VktL5DIYpJF4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진심 유튜브 추천",
+        "writer": "UgwXSOq53j_lzVM39oN4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "멘트 하나 하나가 고급진 정보임 흘려 들을만한게 하나도 없는데 위트까지 있고 유머러스 하기까지 뭐냐 저남자 팔면 누구나 소장 하고 싶어 할듯",
+        "writer": "UgyJIR6aodQZq13h_9R4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "류수영 정도면 요리프로 하나 맡아서해도 대박 날거 같은데",
+        "writer": "UgwxtuOKi8j_k6hIDP94AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울집은 감자 껍질째 먹는데 껍질이 쫄깃해서 먹을맛나요.",
+        "writer": "Ugx_2xzNieNXSfZxCnt4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머야 왜이리 잘알아 아줌마 같아",
+        "writer": "UgzW7GScB679JsdAOcJ4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄청 도움됨 유트브 가시죠",
+        "writer": "UgwgfvM6cfzLJUk1KT54AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일반세프보다 현실적이고 귀에 쏙쏙 들어옴",
+        "writer": "UgzxPcHTIoVLzeJ-waV4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어남선님 유툽 체널 구독 신청 바로 할께요.",
+        "writer": "UgyGhaXh0uC5woRdLV94AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "알뜰주간 장보기 보고 싶네요. 간장고르는건 처음알았러요.",
+        "writer": "UgztABqZSEFZihGlmvt4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어남선생 유툽채널해서 요리레시피영상해주면좋케따 편스토랑나왔던 감자탕레시피도 따라해보고싶더라구요",
+        "writer": "Ugz2B9QBfsR0j8xi9oh4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어남선타고 장보러가고싶어요",
+        "writer": "UgzyFnIySYiq9ep8s5x4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어씨가 존재하나요 처음 듣는 성입니다 어남선님의 가족애가 저를 뭉클하게 해요 식용유 발연점 언급할때 진정한 셰프라는걸 알았어요 내멋대로 프로에서도 매력최고였어요",
+        "writer": "UgxdXjnM7UWukq-hPXl4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "카놀라는 gmo 웬만하면 쓰지 않는게 좋아요.",
+        "writer": "Ugzj4o_DIXUJhgY1jrF4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 . 이분 뭐지, 선생님이라고 해야할것 같은데 너무 좋다, 진짜",
+        "writer": "Ugx_GDgCZ2KPPjYjtIx4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유투브채널개설 아니시면 프로그램하나해주시면 안되나요",
+        "writer": "Ugx0bHGX8Ozv8e9AtuJ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "류(이름) 수많은 팬들과 가엾은 요알못 요리 똥손들을 위해 강제 요리 유튜버 명령합니다..",
+        "writer": "Ugxv6GXuZPw2xpfyxRV4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유튜브 하면 대박.",
+        "writer": "UgyrfJmM7y7f3YFgzzF4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나보다도 잘 알고 잘 하신다.",
+        "writer": "UgwfvuMP2oyBSrOQWnV4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "샘표직원입니다 저희회사 간장 드셔주셔서 감사합니다",
+        "writer": "Ugx4LA8UVyBizQy5b1Z4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "류튜브 내주세여",
+        "writer": "Ugy66BxxK0g8gIgMJ7B4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "701쓰시는거보니 찐주부",
+        "writer": "UgzRq68rNpxepzQbqVB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 어남선 팬됐어요",
+        "writer": "Ugz3HqxnO6KFLnQrtY94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 구독 하고 싶다 생활정보 잘 알려줄 거 같아",
+        "writer": "UgwSy1HXpg-SyGYsrVV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유투브추천 매일 만나고 싶네요 류(이름)",
+        "writer": "Ugwoz_V6jbsc_kfLQTx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 그래요 감사합니다 알아봐야겟네용",
+        "writer": "Ugzj4o_DIXUJhgY1jrF4AaABAg.9Gw9LivNLq59LLoVgtPg56",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "간장은 샘표가 최고죠.. 국룰 아닌가요",
+        "writer": "Ugx4LA8UVyBizQy5b1Z4AaABAg.9GTXgVeo5N99Gdsp1TcyF3",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 샘표 진간장S라는거 사서 밥비벼먹는데 501이나 701이 더 맛있나요 그냥 흰밥에 참기름넣고 후라이올려서 밥비벼먹을땐 뭐가 더 맛있어요",
+        "writer": "Ugx4LA8UVyBizQy5b1Z4AaABAg.9GTXgVeo5N99SCtUWNoF4j",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진간장은 가열음식 하실때 쓰세요 밥비벼먹는덴 양조간장쓰시고요 501 701 모두 양조간장입니다",
+        "writer": "Ugx4LA8UVyBizQy5b1Z4AaABAg.9GTXgVeo5N99SDG1vhwELm",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 감사합니다",
+        "writer": "Ugx4LA8UVyBizQy5b1Z4AaABAg.9GTXgVeo5N99SFhUCeEMje",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 (이름)니다",
+        "writer": "UgzJzVfs9ZFdbKbV5hx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뒤늦게 보게 됐는데 류수영 씨 너무 재밌어서 클립 몰아보고 있어요. 매일 끼니는 주부의 애환, 말씀해 주신 정보들 다 요긴하고 정확한데 저는 카놀라유 별로 권하고 싶지 않아요. 요즘 GMO논란이 워낙 많아서요. 그래서 전 주로 포도씨유 써요. 안 태워 먹으려고,",
+        "writer": "Ugx7ybNPZC3HLzl6Tth4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어남선타고 장보러 가요. 채널명 정해졌네요",
+        "writer": "UgzhFCtIl864Eflmvpp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유튜브 하시면 진짜 30만은 기본 으로 가실듯",
+        "writer": "UgzGPQAPLNskNaMBHGl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유튜브 채널 만들면 바로 구독 간다, 정말 대단",
+        "writer": "UgwEAKSV0LsOr_tenfh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "간장 501보다 701이 좋다는걸 알다니 유튜브 고고고",
+        "writer": "Ugx9Z_2iteL8VkgK7qt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마성적인데요 . 장보기 팁 감사합니다 처음 알았어요",
+        "writer": "Ugyvw6s3Owx6PeVYleB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 부럽네요.",
+        "writer": "Ugw1ETgLxupZ_eZhAVx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하아, 진짜 , 핵공감고민,",
+        "writer": "Ugx-qn9_xmxsuJXMuGN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "중요정보가 많네요. 진짜 유트브 하세요.",
+        "writer": "UgyLV3zljljuyBBGD6l4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 류수영 다시보인다",
+        "writer": "UgzgaI1zcZaMwFQkCth4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유튜브 하시면 금방 백만명 되실듯,",
+        "writer": "UgzgJQT-sBNraOFLOkF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "류 (이름) 못 하시는 게 뭔가여, 진심 리스펙트..",
+        "writer": "UgxrFqUKV5RrrwAGKdB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "완젼 멋진남자",
+        "writer": "UgzkiC9J98TykHcxNEN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오뚜기 뭐합니까 빨리 어남선생 안데려가고",
+        "writer": "UgwAuPFAIeWLDo67d8N4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 주부같다가 아니라, . 주부계의 천재, .",
+        "writer": "UgzVhLRNwRlrcNMq0Z54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "올리브유 중 엑스트라 버진 은 샐러드용이고 튀김용은 따로 있어요 아보카도 오일 선물받아 쓰는데 계란후라이 해도 전 느끼하더라구요 포도씨유가 전 좋아요",
+        "writer": "Ugx7ybNPZC3HLzl6Tth4AaABAg.9Fs5JchREFj9FvV1Lw5UiU",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "카놀라유는 진짜 피해야 할 오일 맞는데 포도씨유도 좋진 않습니다. 포도씨유는 화학적 용매과정을 많이 거치는 오일중에 하나입니다",
+        "writer": "Ugx7ybNPZC3HLzl6Tth4AaABAg.9Fs5JchREFj9GviHYaY5uF",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "hanna K 알려주셔서 감사합니다. 저도 더 알아 봐야겠어요.",
+        "writer": "Ugx7ybNPZC3HLzl6Tth4AaABAg.9Fs5JchREFj9H-Rp1Qk5Cn",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 별 말씀을요좋은 식용유 찾기 어렵네요",
+        "writer": "Ugx7ybNPZC3HLzl6Tth4AaABAg.9Fs5JchREFj9H-TrL0MUp2",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "hanna K 근데 왜 파는걸까요",
+        "writer": "Ugx7ybNPZC3HLzl6Tth4AaABAg.9Fs5JchREFj9O5ETENV_0u",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 바로 구독",
+        "writer": "UgzhFCtIl864Eflmvpp4AaABAg.9FmuhpiUqY79G7cwWisLmN",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어남선 타고 장보기 기대할께요",
+        "writer": "UgzhFCtIl864Eflmvpp4AaABAg.9FmuhpiUqY79L-j2NDilWy",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아직 안만드셨나",
+        "writer": "UgzhFCtIl864Eflmvpp4AaABAg.9FmuhpiUqY79O5EDUbiAeu",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "색으로 구분하지 번호는 지금껏 눈에 들어오지도 않았는데 이제 번호가 눈에 보이겠네요",
+        "writer": "Ugx9Z_2iteL8VkgK7qt4AaABAg.9Fm8W-OWOJC9FvUna2rrlv",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 같으면 돈욕심 생겨서 바로 유튜브 팔텐데 , 진짜 남을 섬기는 마음이 진심이니 존경스럽다 진짜 , 욕심을 참는것인가 욕심이 없는 것인가 자기희생 정신이 대단하심 , 반찬 하나 할 때 손가락 무릎 허리 다 아프고 머리고 지끈지끈 , 대단 ,",
+        "writer": "UgzgJQT-sBNraOFLOkF4AaABAg.9FezKa9FYCm9KrhwJw9N5V",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 유투브 대박 각.",
+        "writer": "Ugzjt6Y44u9nl249kM94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 근데 원우는 썸네일에 너무 귀엽게 나왔어",
+        "writer": "UgzeWyUwIb4VpM3qgBp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "류수영 제 2막이 오르네요 그냥 잘생긴 많고 많은 남자 배우에서 진정한 요리 9단 정말 신뢰가는 (이름)와 지적 능력에 요리 실력까지 완전 광고 물밀듯, 조만간 마켓에서 어남선 추천 상품 코너 생기겠네요",
+        "writer": "UgxhFIWDfErq5NKnQgl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다.나.다 .",
+        "writer": "UgxNoxqYqVUfIU0POFR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "심사위원으로 모셔야 할듯",
+        "writer": "UgzHoKVCf-ANJ1XDPUh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "간장광고하셔야 할듯, 그리고 홈쇼핑 출연하시면 대박 나실듯",
+        "writer": "Ugw1WX9z-5o0X4PuKsB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "숙제 같은 일",
+        "writer": "UgwX3rYCAlSBYJv-zBV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하, 이런 남자랑 결혼하고프다",
+        "writer": "UgwKRNgHoIy7zAM4F_V4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=EWQaSPh-7po",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

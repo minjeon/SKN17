@@ -1,0 +1,940 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001690210",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001690210"
+    },
+    "text": [
+      {
+        "content": "섬나라 라고 하니 그 누군가가 떠오르는 건,",
+        "writer": "UgxRZCq11NGPPG5Gm9B4AaABAg",
+        "write_date": "2021-09-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혹시 막심이 푸틴인가요",
+        "writer": "Ugwo2jQ_u60eLK66cxN4AaABAg",
+        "write_date": "2021-07-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다른건 둘째치고 피씨나 훼미니즘 같은게 느껴지지 않아서 좋은거 같다",
+        "writer": "UgxZH8m0SrG0lzclf2t4AaABAg",
+        "write_date": "2021-01-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게 뭔 영화여 재수없어 신보다 더 하잖아 얼굴만 보이는게 아니라 얼굴까지도 보이네 주성치 007북경특급2를 봐봐 옥상에서 수다떠는 무림고수들, 이게 현실이야 이 영상 보고 짜증만 났어 췟",
+        "writer": "Ugxdp6OL-mY2DO8FOol4AaABAg",
+        "write_date": "2020-12-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "막심 미소때문에 보러왔다",
+        "writer": "UgwXbyMtBA2bt5G97rB4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 먼치킨이,",
+        "writer": "Ugx3KHDq1C19L6E7n7N4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "음, 아무리봐도 영화속 등장인물들 모두 (이름)으로 남주에게 외모 몰아준듯,",
+        "writer": "UgwRHF44cwJPJhCa81t4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저런 머리스타일이 어울릴 정도로 얼굴이 압도적이구만.",
+        "writer": "Ugzz6Wg2hY_9BE6MRJZ4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "외모가 힘이죠 요즘세상엔 시리즈 2편 잼나게 봤어요",
+        "writer": "UgwalO5kx-yioR9qvMB4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "매트릭스 느낌도 좀 나네요",
+        "writer": "UgzgHXmYssCwtIgPaCR4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "음 지구인 치고는 너무 강한데 아무행성이나 추락하고 총맞아도 안죽고 기억력은 천재 쌈도 잘해 유전자 조작이 안들어가면 저런 인간이 나올수가 없겟네요",
+        "writer": "UgzRqOB7yyr2F7OEat14AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭔가 red alert 게임 같다.",
+        "writer": "UgyZmSejmK7v1jCNehJ4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왕자가 골룸 같은데",
+        "writer": "UgwdJbXu5ebOB9GSlXV4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막 멘트를 들으니까 뭔가 어세신 크리드 스토리랑 구도가 비슷한 것 같네요",
+        "writer": "UgyBM3EdYq2QUT5-QOt4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "러시아 (반사회적용어) 일본이 아니라 제정 러시아와 혁명 후 러시아 아닌가 섬나라는 영국같고",
+        "writer": "Ugx99TP7Y7QQDEsbJnJ4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남자 잘생겼네",
+        "writer": "UgwFAupaUzE9tL-lahJ4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "결국 지구인이 초사이언이었어,",
+        "writer": "UgxGCqjW5HDCBVKUo494AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 영화네, 대뜸엔딩도 (이름) 말하고 구체적 해결 방안도없이 떠들다가 끝나네",
+        "writer": "UgzbZ3TPb0L7zyDIKi54AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영화 요약 잘생긴 원펀맨과 여자친구의 커플 이야기. (비속어)의 외모지상주의,",
+        "writer": "UgwesTMThAubcBgobkt4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동네비디오방 형 얼굴잘생긴 주인공이 망해서 죽는 영화 좀 부탁해요 지구 망하는거 보다 더 간절해졌어",
+        "writer": "Ugxdp6OL-mY2DO8FOol4AaABAg.9Fp0Go8LXgg9Fp1_7gZEbS",
+        "write_date": "2020-12-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "막심은 갓갓이죠",
+        "writer": "UgwXbyMtBA2bt5G97rB4AaABAg.9FRkhMUzb6u9FTGLmC7RSU",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘생긴 사람은 뭘해도 잘생김",
+        "writer": "Ugzz6Wg2hY_9BE6MRJZ4AaABAg.9DAlYnH2EK59DBC-7GGxbn",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "볼만하셨다면 다행이에용",
+        "writer": "UgwalO5kx-yioR9qvMB4AaABAg.9D-XpBw7QTO9D-gbNk0lah",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 세상엔 없는 신비한 존재",
+        "writer": "UgzRqOB7yyr2F7OEat14AaABAg.9ArFMyUG1jk9ArIdd-oJqL",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어쎄신 갓갓겜겜...",
+        "writer": "UgyBM3EdYq2QUT5-QOt4AaABAg.99PqGN6zZ6399QtIZKVImW",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동네비디오방 앜역시 비디오방님 뭘 좀 아시네",
+        "writer": "UgyBM3EdYq2QUT5-QOt4AaABAg.99PqGN6zZ6399Qtpx5mswY",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 게임은 진리죠",
+        "writer": "UgyBM3EdYq2QUT5-QOt4AaABAg.99PqGN6zZ6399QuRoJQNnJ",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "키도 크고 , 심지어 몸매까지...",
+        "writer": "UgwFAupaUzE9tL-lahJ4AaABAg.98xAcTu0_P098xPrH4aHgg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그러게요 손오공같죠",
+        "writer": "UgxGCqjW5HDCBVKUo494AaABAg.98r-V7osKJ798rcuwOvoBH",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "푸틴 형님도 멋지시긴하지융",
+        "writer": "UgwQC08A9rVEDtjS_q94AaABAg.98YZDN6p2F798YiTLlji7-",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동네비디오방 아 이 리뷰 영상은 잘봣습니다 감사합니다",
+        "writer": "UgzbZ3TPb0L7zyDIKi54AaABAg.98U-tD-Wyy098UjmVq8kpA",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마법사도 나(이름) 아 러시아 영화",
+        "writer": "UgyBmY_Jqi1_6P-sd7p4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "핵터져도 멀쩡하네",
+        "writer": "UgzsrMGGDWPanj0W9nR4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리뷰 보는것 만으로 가슴이 답답해지고, 숨이 턱 막힌다. (이름)를 끝까지 다보고 편집하시느라 힘드셨겠어요 구독 좋아요 누르고 콩콩콩",
+        "writer": "UgwtXfFXOqDSF2kmfBB4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어), 목소리 진짜 멋지네",
+        "writer": "Ugwqjv7EtNJal0lbS6V4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 비디오방가서 여친이랑 보면 여친이 옆을 쳐다보지 않겠군음",
+        "writer": "UgzD47-rfbCyRY9EveB4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘봤습니다, 남는건 얼굴뿐이네요 0 검색해보니 이거찍고 사라진듯 아쉽당",
+        "writer": "Ugw7yfMNsZqw8DqAR_F4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남주 얼굴보고 호기심에 영상클릭 했습니다. 보자마자 (비속어)이라 놀랐고 볼수락 더 잘생겨서 하늘색 산호초 같은 푸른 눈동자와 함께 끝까지 영화에 집중할수 있었습니다. 러시아 언어가 저렇게 멋있게 들리기는 처음이네요. 푸푸풉 여주인공( )은 미안하지만 남주보다 누님뻘로 보였습니다, 어째 한국 드라마 마냥 우연히 만나고 또 만나나 싶어서 피식 했지만 그외 내용은 참신하네요. 이게 10년도 더 된 영화라니 놀랍구료.",
+        "writer": "UgzY6w6WU1Dyweuq8CB4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 (반사회적용어)캐 그래도 영화는 나름 대작같아요 ..",
+        "writer": "Ugzes-ElExZeNekZFnl4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어) 영화 참뽕한 반 전체주의 영화에 얼굴천재를 뭍힌 영화네요.",
+        "writer": "Ugx15_8rRcZY0BczDFh4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "막심이 여친 쭈쭈가 맘에드누.",
+        "writer": "UgxTJU2Vi2SJoKc9pLB4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 (이름) 그냥 (이름)대리고 찍은 정치색깊은 개(비속어)망 영화네요",
+        "writer": "UgyCvWppE87JjdRylTd4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "후편이 있었군요 전편보고 한국영화 자긍심 뿜뿜이었는데 그리고 결말보고 뒤 안 닦은 느낌이었는데, 늘 잘봐요",
+        "writer": "UgyyEWkCufJqgBnHCEZ4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남주 목소맄적응안돼",
+        "writer": "UgxYQdOcKaMMCP1CSn14AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "러시아 영화 처음봄",
+        "writer": "Ugy70jI6PajFitla8QB4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사 합니다. 잘 봤 습니다.",
+        "writer": "Ugx0FXbgsnqO7zJ1XsB4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목소리가 영화속 소리보다 큰거 같아요",
+        "writer": "UgyBg0S2EP8lq9dmJ8J4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "막심 날 닮았어",
+        "writer": "UgxlD-UO2VUnHfRXM_h4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "불곰이 이런 영화를 ,",
+        "writer": "UgyQt5K4AaVE8-iFijt4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웬만한 여주는 남주비쥬얼에 안묻힐텐데 가이도 미남이고 여주도 이쁜데 뛰어난 지구인의 능력과 외모덕에 오징어외계인이 되는 영화 내용보다는 남주얼굴보고 누군지 검색해보게되는 영화잘봤습니다",
+        "writer": "UgyoPOEpYTxpAwZMD_l4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "막심 얼굴이 통행증(이름)그냥 쓱 막심 피흘려도 (비속어)이네요",
+        "writer": "UgyKl3r1GEza9lcPXCF4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마법사 표현이 독특하더라구요",
+        "writer": "UgyBmY_Jqi1_6P-sd7p4AaABAg.97fBOm17FTj97fQeM2qRdx",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 생겼으니까요",
+        "writer": "UgzsrMGGDWPanj0W9nR4AaABAg.97Vi(반사회적용어)o39bW97Vnt1uSbF5",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "막심 얼굴 보느라 힘든지 몰랐어요",
+        "writer": "UgwtXfFXOqDSF2kmfBB4AaABAg.97ApogTqVAq97As86Ortif",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "훗, 감사합니다",
+        "writer": "Ugwqjv7EtNJal0lbS6V4AaABAg.9776WkTA0Ww977ggrU9Ylx",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 저도 찾아봤는데 다음 작품이 없더라구요",
+        "writer": "Ugw7yfMNsZqw8DqAR_F4AaABAg.96pwZshbbsO96qhJrGSqXv",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헉정말요 지금 검색해 보려 했는데",
+        "writer": "Ugw7yfMNsZqw8DqAR_F4AaABAg.96pwZshbbsO98ectx1jyOQ",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누님뻘 여주 왠지 어깨도 좋으시구요 볼만하셨다면 다행입니다",
+        "writer": "UgzY6w6WU1Dyweuq8CB4AaABAg.96n3bpqBu3a96n8dAqs7eD",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헤헿 은근 괜찮더라구요 일단 주인공이 너무 잘 생겼어요",
+        "writer": "Ugzes-ElExZeNekZFnl4AaABAg.96n-wu-htNF96n06uNh3Ka",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "허헣 나중에 보면 얼굴만 기억나더라구요",
+        "writer": "Ugx15_8rRcZY0BczDFh4AaABAg.96XkjHiMPUV96Y-tQ9jpwV",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(뜨끔 )",
+        "writer": "UgyCvWppE87JjdRylTd4AaABAg.96O1rvwojb396OKSGwZgcv",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한국 영화 자긍심 뿜뿜이시라니 러시아 영화 의문의 완패 네여",
+        "writer": "UgyyEWkCufJqgBnHCEZ4AaABAg.96O1ZV6BDyj96OKPx4Zuck",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 생겼으니까 용(이름)실꺼죠",
+        "writer": "UgxYQdOcKaMMCP1CSn14AaABAg.96Nf01lJ75F96NfMJ0SnTV",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동네비디오방 네어쩌겠어요",
+        "writer": "UgxYQdOcKaMMCP1CSn14AaABAg.96Nf01lJ75F96NfyC93pwi",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 잘 생긴 건 최고임요..",
+        "writer": "UgxYQdOcKaMMCP1CSn14AaABAg.96Nf01lJ75F96NgsIDL6ma",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나름 볼만합니다",
+        "writer": "Ugy70jI6PajFitla8QB4AaABAg.96NQIEsALvs96Ne-y9t3rB",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헿헿 감사합니다",
+        "writer": "Ugx0FXbgsnqO7zJ1XsB4AaABAg.96LfypoAlAF96Lm3etQyJj",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다음에는 좀 조절해보도록 하겠습니다",
+        "writer": "UgyBg0S2EP8lq9dmJ8J4AaABAg.96LdgDOp93g96Lm-BNEzwu",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정중하게 인증 부탁드립니다.",
+        "writer": "UgxlD-UO2VUnHfRXM_h4AaABAg.96LVMqXY8sK96n2MJ8UX8t",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주인공 잘 생긴 것만 기억나더라구요",
+        "writer": "UgyQt5K4AaVE8-iFijt4AaABAg.96LA2T9SPMm96LO-5YTwRC",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남주 외모만 기억에 남는 영화죠",
+        "writer": "UgyoPOEpYTxpAwZMD_l4AaABAg.96J_i0gJVVo96KFPpqgEbR",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 생긴 사람은 무슨 상(이름) 잘 생겼더라구요",
+        "writer": "UgyKl3r1GEza9lcPXCF4AaABAg.96JQXjpaBXd96KF4RP8dtA",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이웃 나라는 (반사회적용어) 섬나라는 일본 세뇌 장치는 공산주의 마지막 간부는 구(반사회적용어) 체제로 복귀를 주장하는 이들을 상징하는게 아닐까요 잘 봤습니다",
+        "writer": "UgwV-Kp1rUXLTEjOGfx4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "막심, 다양한 인종 종족 기계까지, 초월한 거부할 수 없는 매력 모두들 반하네요",
+        "writer": "Ugz0o8qR_LRbQAqLKKt4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 이거 후편 나왔네 구독하거 감상 드러갑니당",
+        "writer": "UgwZuvAFrAUwfOqAimZ4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비디오방님도 국가랑 (반사회적용어) 가능",
+        "writer": "Ugz0sPg9cGtc4er-WeV4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭔가 (이름)면서도 재밌네요.",
+        "writer": "UgzJIWQum4b76ylKy8d4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 뭘본(혐오표현),",
+        "writer": "UgycqbVYn7AJLJ_9nsx4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 이번에 퀄리티 왜이렇게 높아졌어요 이제 곧 메이저 같은뎨 대박 사건 10 40 난 후회하지 않아 절대로...",
+        "writer": "UgyyzT-QM5wNWtR5OgR4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남주께서 DNA 전사 RNA 번역 단백질 조직세포로의 과정이 매끄럽게 진행되었군요. (대충 잘생겼다는 댓글)",
+        "writer": "Ugzdpeghuw6BI18p00d4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) (비속어)덜 고만 영화 찍어.",
+        "writer": "UgwI6aN5erXGQs9PV5d4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 영화의 문제 점. 꽃미남 남주만 기억나는 더러운 영화.",
+        "writer": "UgzSz8l6epsIsXjU2UJ4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "원인치펀치같은 장면.",
+        "writer": "UgyimG0jwSLoEmijNtd4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일본하나로 충분한데 영화판에 독을 푸는 나라가 또 있었군,",
+        "writer": "UgwLAT4YutbCChs_Q-h4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "막심이 영웅이네 완전, 크",
+        "writer": "Ugz-RW2nwK2jqvBujOJ4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "러시아도 (비속어) 국가인데 풋. 재미있긴한데 (반사회적용어)국가주재에 저런영화라니 (비속어)",
+        "writer": "Ugz1-ubnl2pX4hjLaPB4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우앙 16분전에 보네요 하하하",
+        "writer": "UgzjW3weUfp8pGH05154AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정보 오류 수정 부탁드립니다. 아무리 봐도 막심은 지구인이 아닙니다. 절대 지구인 일수가 없습니다. 그리고 가이, 막심 (비속어)만 하다가 죽고, 고인의 명복을 빕니다",
+        "writer": "UgwowCZW9Av8x56Blf94AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주변국에 상황이 대충 맞는 것 같습니다. 저는 주인공 잘 생긴 것만 기억나서,",
+        "writer": "UgwV-Kp1rUXLTEjOGfx4AaABAg.96IyG1OQV6G96JC7vMK3PF",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 보셨네요 . 디테일한 부분은 그렇지만 전채적인 맥락은 님의 의견에 완전 공감.",
+        "writer": "UgwV-Kp1rUXLTEjOGfx4AaABAg.96IyG1OQV6G9B_A_mrJYO7",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘나가는 바깥주인 감사합니다",
+        "writer": "UgwV-Kp1rUXLTEjOGfx4AaABAg.96IyG1OQV6G9B_CE0I9ufj",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 적절한듯.",
+        "writer": "UgwV-Kp1rUXLTEjOGfx4AaABAg.96IyG1OQV6G9Czncz39EWp",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "막심 외모면 남자도 넘어갈 것 같아요",
+        "writer": "Ugz0o8qR_LRbQAqLKKt4AaABAg.96Iqbd__d8i96IsopefBQf",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헿헿 감사합니다",
+        "writer": "UgwZuvAFrAUwfOqAimZ4AaABAg.96Indoa6KZC96IsUuyfSmC",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오징어는 웁니다",
+        "writer": "Ugz0sPg9cGtc4er-WeV4AaABAg.96IYeXThyYH96IZ-QxSH7q",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "같이 우시지요",
+        "writer": "Ugz0sPg9cGtc4er-WeV4AaABAg.96IYeXThyYH96JXqOKoFKv",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "볼만 하셨다니 다행입니다",
+        "writer": "UgzJIWQum4b76ylKy8d4AaABAg.96IWQ2boEzn96IXtNEa9PK",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꽃미남 얼굴이요",
+        "writer": "UgycqbVYn7AJLJ_9nsx4AaABAg.96IPAz1XbnW96ITbT3yQRB",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영반님 알러뷰 손 붙잡고 같이 가시죠",
+        "writer": "UgyyzT-QM5wNWtR5OgR4AaABAg.96IOLkww8wi96ITdqaDZtK",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지나가던 문과는 마저 지나가겠습니다",
+        "writer": "Ugzdpeghuw6BI18p00d4AaABAg.96INqlaq2pf96IThYZ7eRY",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞아요 남주 얼굴만 눈에 들어와요",
+        "writer": "UgzSz8l6epsIsXjU2UJ4AaABAg.96II_aSEc2I96IIi1rIXBq",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꽃미남이지만 기억에는 별로 안 남을듯.",
+        "writer": "UgzSz8l6epsIsXjU2UJ4AaABAg.96II_aSEc2I99uHHhgwyFW",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 생긴 사람이 때리면 왠지 덜 아플듯용",
+        "writer": "UgyimG0jwSLoEmijNtd4AaABAg.96IIHjm5ApE96IIbCtKWiw",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래도 한국은 저정도 스케일 sf영화 찍지도 못함 사실 못하는건지 본적이없음",
+        "writer": "UgwLAT4YutbCChs_Q-h4AaABAg.96IIEPJt1dN96JTbxrwFWN",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "티슈 뭐래",
+        "writer": "UgwLAT4YutbCChs_Q-h4AaABAg.96IIEPJt1dN96KbW2mAJSY",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영화판에 독 푸는건 (반사회적용어)외에는 다 잡이지",
+        "writer": "UgwLAT4YutbCChs_Q-h4AaABAg.96IIEPJt1dN99RdNYkszZj",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "티슈 SF장르는 돈을 오지게 꼬라박아야함. 가장 역대급으로 한국영화에서 가장 많이 투자한게 450억 정도의 설국열차임. 그런데 아바타 같은 미 SF영화의 경우 아니 블록버스터 영화만 봐도 기본 2천억임. 일단 그 정도로 투자해줄 기업이 한국에 없음. 그래서 블록버스터 같은 영화들이 대부분 미국 유럽쪽인 이유임. 먼말이냐 하면 SF는 기본적으로 돈을 깔고 들어간다고 봐야함. 근데 돈이 없음. 그렇다고해서 한국이 아예 못만들 능력되냐 하면 설국열차 해운대 들 같은 영화 보면 답이 나옴 . 즉 만들수는 있는데 돈이 없다는 소리임. 일본처럼 만화 애니 원작으로 sF장르를 만들수 있냐 할수도 있겠지만 전세계적으로 일본 SF영화가 망해도 일본 자국내에서 벌어들이는 수익이 많기때문에 가능한 일임. 한마디로 일본은 대충 만들어도 자국내에서 수익이 나는 구조이고 한국은 대충 만들면 자국내에서도 망하는 (이름) 굳이 안만드는거임. 라고 하고 싶지만, 저가 SF영화 승리호가 개봉 예정임,",
+        "writer": "UgwLAT4YutbCChs_Q-h4AaABAg.96IIEPJt1dN9COK4iHoq-O",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "막심 완전 멋져요",
+        "writer": "Ugz-RW2nwK2jqvBujOJ4AaABAg.96IHz8lL9at96IITOe4hJG",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 국가는 소비에트였구요. 소비에트가 망하면서 골수 공산은 사라지고 이제는 (반사회적용어)와 어정쩡한 혼합주의 시대입니다. 그래서 저런 영화들도 나오는거구요.",
+        "writer": "Ugz1-ubnl2pX4hjLaPB4AaABAg.96IHwHPMqnj96III-0iaUn",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오오 추가 설명 감사합니다",
+        "writer": "Ugz1-ubnl2pX4hjLaPB4AaABAg.96IHwHPMqnj96IIPe6SrIV",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 국가 되기 전까지 왕정에 대한 농노들의 반란을 보면 그전까지 수천년동안은 (반사회적용어)나 부당한 권력에 저항했던 민족이라고 볼 수도 있지않을까요 , 그림이나 문자나 생긴후 길고긴 역사를 기록하고 남기는 (이름) 뭐겠습니까,",
+        "writer": "Ugz1-ubnl2pX4hjLaPB4AaABAg.96IHwHPMqnj96IYHZxeXV_",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 얼마나 무식한 덧글인가 모르면 가만히 있던가 자료를 찾아보던가 하자. 언제적 (비속어) 타령인지 너무 한심해",
+        "writer": "Ugz1-ubnl2pX4hjLaPB4AaABAg.96IHwHPMqnj96KbP1czdA8",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Ho9 앗, 공부좀 더 하고 오겠습니다,",
+        "writer": "Ugz1-ubnl2pX4hjLaPB4AaABAg.96IHwHPMqnj96KbhtLPFxH",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헿헿 볼만하셨다면 다행입니다",
+        "writer": "UgzjW3weUfp8pGH05154AaABAg.96IGj3u9mCf96IHK0es_6I",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가이 너무 가엷게갔어요 그래도 막심이 더 좋은 세상을 만들어줬으면 좋겠습니다",
+        "writer": "UgwowCZW9Av8x56Blf94AaABAg.96IGRs5cOIu96IGpKSv9Az",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "막심 외모는 정말 자비가 없네요",
+        "writer": "UgwowCZW9Av8x56Blf94AaABAg.96IGRs5cOIu96IGtQx1MHR",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=_jfYt7t_70M",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

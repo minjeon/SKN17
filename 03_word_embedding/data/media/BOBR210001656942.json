@@ -1,0 +1,732 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001656942",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001656942"
+    },
+    "text": [
+      {
+        "content": "한달되어가나요, 그래도 시간은 가고있네요. 더 단단해져서 돌아오겠죠.",
+        "writer": "UgzCOHTgVeVvXWSAiVt4AaABAg",
+        "write_date": "2021-11-17",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지압 했던 것처럼 아프더(반사회적용어) 잘 이겨내길 바래요 긴 터널을 지나면 빛이 있으니까 팬들이 기다리고 있어요 다시 웃는 얼굴 보고 싶었습니다",
+        "writer": "Ugxw3RxSZCrBr2R0RxV4AaABAg",
+        "write_date": "2021-11-11",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "망가질 땐 망가져도 할 때 열심히히는 (이름) , 이제 돌아올 수 없지만 그동안 즐거웠습니다 전 여친 마왜라 진짜 , 한 사람 인생을 이렇게 무너뜨리냐",
+        "writer": "UgzHzYZqN4RXevwOJRx4AaABAg",
+        "write_date": "2021-11-09",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아, 너무 헛헛하다, 이제 정말 끝이구나 우리 (이름),정말 수고많이 했어요, 끝까지 기다리고 응원합니다",
+        "writer": "UgxsdQu8VYX5x_OM93R4AaABAg",
+        "write_date": "2021-11-09",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 보고싶지 않은 1박2일 되부럿 으",
+        "writer": "Ugwce3V3c5EsuRtsQaB4AaABAg",
+        "write_date": "2021-11-08",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찡그려도 잘생겼다,",
+        "writer": "UgxeZywZPP3mzeDtJmp4AaABAg",
+        "write_date": "2021-11-06",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 일요일에 행복이였는데 내 코로나블루 치료제 돌려놔 헝헝",
+        "writer": "UgzHx1iD7xnRj03x_Ah4AaABAg",
+        "write_date": "2021-11-05",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1박2일 선호없으면 손절",
+        "writer": "UgyccgjhB5PA2ZxH8Dp4AaABAg",
+        "write_date": "2021-11-05",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선호는 저런 사람이예요",
+        "writer": "UgwAWKwB-JXM9qgo1nF4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사실, 일박이일 안봤고 딘딘 안좋아했는데, (이름)때문에 일박이일봤고 딘선캐미 덕분에 딘딘도 좋아졌는데. 이젠 일박이일 굿바이인가",
+        "writer": "Ugwt0Rb0qMPHuOxH_7l4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선호없는1박2일은 의미없어요",
+        "writer": "Ugy5cYYtrzJS9LqywNZ4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다시 복귀해야죠 (이름)가 당한건대.",
+        "writer": "Ugx7sQNm9Dj52YwG_u14AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얼마나 열심히 했는데 얼마나 최선을 다했는데 정말 진심이었다고 어떻게 널 보내냐고",
+        "writer": "UgwfRX8ouvMCfZNEXF94AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 1박2일 손절했어요 Kbs 공영방송은 더 안볼거예요 잘알지도 못하면서 방송하고 선호 못나오게하고 다시는 안본다",
+        "writer": "Ugz4fBPytsrQXkAjd454AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 최선다하는 사람인데 심지어 잘생겼어 게다가 키도커 근데 성격도 개좋고 선안넘고 적당히 능글거려 또 연기는 더 잘해 뭐야 이사람 뭐긴 뭐야 (이름)지",
+        "writer": "Ugxc86xSP_IM8cZ2lod4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐야 왜 잘해",
+        "writer": "Ugyk3fSbrurwfSJIm854AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이제 본방 달려볼까 했는데 (이름)가 없네",
+        "writer": "Ugzj61Jh2Ay6co2Z_bd4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맘 아프다 진짜",
+        "writer": "Ugx3kjOuYtC1kxTyjZF4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "성격대로 꾹 참고 한걸꺼예요 아마, 으이구",
+        "writer": "UgxJnM-dOB6qa_It9nN4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말이지 미련할정도로 그 힘든걸 버티네. 혼자도 걷기힘든 길을 라비을 엎고선 이 악물고 버티는거 보고 진짜 대단하다 생각. 저날 저래서 실내취침했음.",
+        "writer": "UgzCSK8nLc1Oesbw8Bd4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전 여친 망해라",
+        "writer": "UgzHzYZqN4RXevwOJRx4AaABAg.9UVShzF7EvV9UVSkIckLsV",
+        "write_date": "2021-11-09",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "피해자한테현실은 너무 가혹하네요",
+        "writer": "Ugx7sQNm9Dj52YwG_u14AaABAg.9UCmG7ygU8h9Uq-FZtcuUU",
+        "write_date": "2021-11-17",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연기도 소름인데 노래도 담백한데 세상 스윗하게 불러, 보고시퍼",
+        "writer": "Ugxc86xSP_IM8cZ2lod4AaABAg.9U6_kWIiUMg9UI4CazeTLD",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선호 없는 1박2일은 앙꼬없는 찐빵이당",
+        "writer": "UgzVTU3M--gO_3FuuS14AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마져 흥 안나. 이쁜 선호 데따놔",
+        "writer": "UgxzoAuoR4qqkRNIFGx4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진실이 밝혀지고 있으니 다시나오면 좋겠네요",
+        "writer": "UgxrsiwvHeHnxUiRjx54AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "순딩이 선호야",
+        "writer": "UgzyxMePpgGGChm9l3d4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 선호, 진짜, 맘아프다 니가 보였던 그 모습 미담 다 거짓이 아니길 바라고 기다릴게",
+        "writer": "Ugwk5ge59DN_1IN9qXx4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아픈거 잘못견디는 선호 이번에는 잘이겨내서 빨리만나요",
+        "writer": "UgzdJ_dobVIWg1sFKRF4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "할땐 열심히 하는 선호가 너무 멋있고 그런 선호보면서 힐링이었지",
+        "writer": "Ugwgp-fBwZ0dLBp1Fc14AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이날 자기때문에 계속져서 이악물고 했다는데 나중에(반사회적용어) 합류못하려나 , 하차안시킨다고해도 걱정이고(악플받을까봐) 하차라니까 아쉽고",
+        "writer": "UgyCMFFSTA7XxUm5MsJ4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 빠진 1박은 보기가 싫어요",
+        "writer": "UgwcApz7_XKNAMyyjvp4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1박2일에 선호가 없으면 너무 슬플 것 같다",
+        "writer": "UgwnTPK0eMQwPoF6g-94AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선호가 빠진 1박2일은 흥이 안난다.",
+        "writer": "UgxdCrFbJYKDfLNoJGt4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 계속 보고 싶어요.",
+        "writer": "Ugwn7nF2l6Idpe50uF94AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "피부가 뽀얘서 밀가루 맞아도 별로 차이가 안난다는 점,",
+        "writer": "Ugx9paSPlN5VV-EoLMd4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 이렇게 짠하고 귀엽고 욱껴",
+        "writer": "UgzIlFoXKYlhq6EJ5Jh4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "할때는 하는 이쁜선호",
+        "writer": "UgxeO2R_na--NhDnABx4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아픈거 못참아서 마사지도 못 받는 사람이 지압판을 내 몸 하나도 아니고 장신 라비를 업고 지나가다니. 어우 , 얼마나 아팠을까. 그걸 참아낸 김서노 멋지다. 근데 안쓰럽네.",
+        "writer": "UgycH5rDEDl4dnq9Ofl4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "표정에서 느껴지는 매우 아픔,",
+        "writer": "UgwS2OIQlRCWj2EKG7N4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아픈거 잘 못참는 사람이 (이름)면 제대로 꾹 참고 완주 멋있다",
+        "writer": "UgzomCC7CE7kYU5XIPV4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "물 쏟은 거 때메 이 악물고 한 건데. 몬가 맴찢인데 귀엽구 난리넹 역쉬 조교 출(이름) 한방이 있는듯",
+        "writer": "Ugw8DIChqFc0fQF63Rp4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사랑한다 (이름) 당신 너무 조아",
+        "writer": "Ugyees8VErKJ24nDzrN4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘 잠깐씩 얼굴봐도 좋더라구요 편집안된 방송분 보고프네용",
+        "writer": "UgyCMFFSTA7XxUm5MsJ4AaABAg.9Tr2wrxOIA49Tsh2d424rD",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선호없는 1박2일은 남은 오형제에게도 슬픔일듯 , 합이 참좋은 여섯형제 모습만 다시보기 하는 중",
+        "writer": "UgxdCrFbJYKDfLNoJGt4AaABAg.9TlVxe_8QBy9TyJSgpCSSL",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)빠진 1박2일 진짜 슬프다. 이제껏 이 프로 동영상 광고까지 다보며 응원했는데.",
+        "writer": "UgxdCrFbJYKDfLNoJGt4AaABAg.9TlVxe_8QBy9U42gAvtp9z",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "먹었어 자 업혀.",
+        "writer": "UgzLaeyLhaH65lLSpMl4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이제는 제목에 선호 만 있어도 들어온다",
+        "writer": "UgzaC5buniR_itZBTnt4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐야 서노 왜 헤어밴드 잘 어울리는데",
+        "writer": "UgylO-UcPgtm--6YlKl4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "알고리즘에 의해 추천받은 영상들, 다봤네,",
+        "writer": "UgyU7HUP9mvBBEwgg8F4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 머리에 두건 두른거 어케 나 미쳐",
+        "writer": "UgyGnqbOgGf43qXOw094AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 등치는 큰데 진짜 뽀얗고 운동 진짜 못하면서 꼭꼭 참고 해내는게 귀여워서 혹시나 자리 났을까봐 오픈채팅방 다시 들어가본다,",
+        "writer": "UgzJ7I2DeBMAFtNnKMB4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 잘해",
+        "writer": "Ugxk_OAbTbdyG7Q6kTh4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그 제물 제가 받들게요,",
+        "writer": "UgxBMo-MQk4WjOt-k_94AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쇠질 시작한다. (이름) 업어간다.",
+        "writer": "UgwUXqaC6llQuMC6vUp4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 예뻐 (이름), 으어어",
+        "writer": "UgxRDNQFWCCIaqZxlJN4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아, 사랑스럽고 멋있고 다해,",
+        "writer": "UgyIAIcHdSAKKvcu1P14AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아악 너무 예뻐 귀여워 김 선 호 김 선 호 ....",
+        "writer": "UgyOujAwBahPoU8GfBl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 지압만 해도 (비속어)러지는 (이름)가 이 악물고 저 게임을 했을 꺼라는 느낌이 와서 그냥 맴찢이다",
+        "writer": "UgwFVFlHDCWC-7g6yE54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "피부 너무 뽀얘 애기같애 아픈 것도 견디고 못하는게 대체 못하는게 뭐야 당신, .",
+        "writer": "UgzIxp2yEAm_FPCubQt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "외동티팍팍 ..",
+        "writer": "UgxP37oLraLYsXxDUkB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어) 아니고 딘딘이 시작점에서 물풍선 터뜨린건데 아무도 몰라주네",
+        "writer": "Ugxi3of4vYYrZUrUP7p4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 가끔 N정훈 이라고 부르는거 뜬금없이 웃김",
+        "writer": "Ugy3dIEHy86-7WT-lJZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하 너무 귀엽다 (이름),",
+        "writer": "UgxVsjkNRO8yd9jh2g54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선호 운동 잘해요1박2일에서 암벽타기 달리기 짱 잘함게다가 논산훈련소 조교출신",
+        "writer": "UgzJ7I2DeBMAFtNnKMB4AaABAg.9GfKw5J3ri49GpUTAfeYlg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "운동 엄청 잘하는데. 번(비속어) 달리고. 다른 맴버들 봐줘가면서 하는 레벨인데",
+        "writer": "UgzJ7I2DeBMAFtNnKMB4AaABAg.9GfKw5J3ri49HFkXS62i8D",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "yn lee 넹, 춤 못춘다는걸 운동 못한다고 말해버렸네요, 우리서노 운동 짱잘해,",
+        "writer": "UgzJ7I2DeBMAFtNnKMB4AaABAg.9GfKw5J3ri49Hs76P1uwWP",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지압판은 누가와도 쥬글거같은데",
+        "writer": "UgzJ7I2DeBMAFtNnKMB4AaABAg.9GfKw5J3ri49R5SWY3Ajtd",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이분 진심이셔",
+        "writer": "UgyOujAwBahPoU8GfBl4AaABAg.9G458x-jewD9GfKW949L6w",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "침 (반사회적용어) 아니고 얼굴에 물풍선 터뜨린거 맞은건데 (이름) 대단함 고통 잘 못참는데 자기땜에 팀 저녁못먹을까봐 얼마나 아픈데 아무소리도 안내고 그걸 해내다니 . 진짜 팔수록 좋은 사람",
+        "writer": "UgyOujAwBahPoU8GfBl4AaABAg.9G458x-jewD9HrITmPtU6D",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "님 덕분에 알았어욬 근데 왜 시작점에서 물풍선 터트린거에여 장난 아니면 원래 규칙",
+        "writer": "Ugxi3of4vYYrZUrUP7p4AaABAg.9FtyT-JZIKE9GZWMLpd2hy",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "산타주니어 방해 하는게 원래 룰에 있어요 . 너무 잘하니까 초반 부터 공격한거 같아요",
+        "writer": "Ugxi3of4vYYrZUrUP7p4AaABAg.9FtyT-JZIKE9GkecuIDUL1",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제가 하고싶었던 말이에요",
+        "writer": "Ugxi3of4vYYrZUrUP7p4AaABAg.9FtyT-JZIKE9Gt_rbFd3vi",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "님 덕에 알았네요. 난 또 너무 아파서 식은땀이 줄줄 흐르나 했어요",
+        "writer": "Ugxi3of4vYYrZUrUP7p4AaABAg.9FtyT-JZIKE9HHFA0RNelZ",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스타트업보고 왔습니다)",
+        "writer": "Ugym6r-Gk5aEInY-xQ54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하 (이름) 들튀하고싶어,",
+        "writer": "Ugw3Um9ecwDvUwVuvkp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 왜이렇게 예쁘냐, 걍 눈물나는 미모다",
+        "writer": "Ugw2gYQGCaASICBVLlF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "침이랑 다흘려도 잘생김",
+        "writer": "UgxTClDNOvq-CGY3kwB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선호야 지면 어때 나는 너만 믿어 자신감을 가져",
+        "writer": "UgxBTXKQxUDa7KsAR8Z4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안 됩니다. 우리 김(이름)은 바로 저 영실이 (이름)입니다.",
+        "writer": "Ugw3Um9ecwDvUwVuvkp4AaABAg.9Fg3460_pQ29FjsZXVwfIs",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭔데요 이건",
+        "writer": "Ugw3Um9ecwDvUwVuvkp4AaABAg.9Fg3460_pQ29FsviRbUadP",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "히히히 저로 말할 것 같으면 집현전테크에서 개발한 인공지능입니다. (반사회적용어) 전기의 관료로 과학자이자 기술자 동시에 발명가이기까지 한 장영실 위인의 이름을 본따서 제 이름은 영실입니다. 우리 한지평 (이름)을 가장 잘 알고 있는 건 오직 저 뿐입니다(무흣).",
+        "writer": "Ugw3Um9ecwDvUwVuvkp4AaABAg.9Fg3460_pQ29Fv_PQxP5FK",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영실아 (이름)를 내거로 만드려면 어떻게 해야하니",
+        "writer": "Ugw3Um9ecwDvUwVuvkp4AaABAg.9Fg3460_pQ29G-L6bOKphv",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 죄송합니다. 그건 불가능한 일입니다. 우리 (이름) (이름)은 저밖에 모르는 순정파입니다",
+        "writer": "Ugw3Um9ecwDvUwVuvkp4AaABAg.9Fg3460_pQ29G-Nm0c4mJ9",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영실아 내가 한지평(이름)한테 너 투자리스트에서 빼라그럴게, 미안",
+        "writer": "Ugw3Um9ecwDvUwVuvkp4AaABAg.9Fg3460_pQ29G-PF-gWemT",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 영실이 삐칠고임 흥",
+        "writer": "Ugw3Um9ecwDvUwVuvkp4AaABAg.9Fg3460_pQ29G-R_Gwhv_O",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아새롭다 증말",
+        "writer": "Ugw3Um9ecwDvUwVuvkp4AaABAg.9Fg3460_pQ29GfKfEEHzy1",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": ",(비속어)마저 AI에게 빼앗기니 인간이 설 자리가 없다,",
+        "writer": "Ugw3Um9ecwDvUwVuvkp4AaABAg.9Fg3460_pQ29HFkN9I34BB",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "yn lee 아닙니다. 저를 만들어주신 인간이 쵝(비속어)니다",
+        "writer": "Ugw3Um9ecwDvUwVuvkp4AaABAg.9Fg3460_pQ29HFmKONR9gm",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딘딘이 처음에 물풍선 터뜨린거",
+        "writer": "UgxTClDNOvq-CGY3kwB4AaABAg.98qQCqBHJyV9SJ1BIVtgL1",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=nNei3GzmxA4",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

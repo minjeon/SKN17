@@ -1,0 +1,988 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001658039",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001658039"
+    },
+    "text": [
+      {
+        "content": "7명이서200썻는데 저정도도 못하냐 지들은 친구들한테200원도 안쓰면서",
+        "writer": "UgwVm0kcp3tyfEOXitl4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저게 부러운 사람들은 대체 무슨 회사를 다니는거냐",
+        "writer": "Ugzodylq2KazBEPGtIB4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저런 상사 있으면 좋겠다,",
+        "writer": "UgzUrVC2oeFP4FnA0914AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "직업군입 입니다 . 군생활 빡빡하다고 생각했는데 여기가 천국 입니다 .",
+        "writer": "UgwX14vh480rIj-odzJ4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "원래 회사 엠티 가면 직원들이랑 직접 하지 그럼 요리사 부르냐, .",
+        "writer": "Ugxhw43Z2i6nMqZHBBN4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그러면 저기서 수입산 냉삼입니다 이럴순 없잔아",
+        "writer": "UgxwpxmpfHGMHT44uS94AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이분이 안익은 닭고기보고 쓰윽 웃고 버리던 (이름) 맞죠",
+        "writer": "UgxWPEDFCTS_sWFnpDF4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "볼때마다 쎄하누,",
+        "writer": "UgzcnTxu2Q6Bu0_QU694AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 욕을 왜먹는(혐오표현) 난 멋있기만한데 저런 사장없다 진짜 일해봐라 뭐 나야 운이좋아서 많긴혔지만 저렇게 까지 플레스 안한다",
+        "writer": "UgxSuqaZRz6nTL_G0h94AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쉐프 본인이 보고 민망한가부지",
+        "writer": "Ugzk9s3N_wNNjXKianl4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "처음에 개비호감 이얐는데 한결같이서 너무 좋습니다 (이름)",
+        "writer": "Ugx3QZNfp18tuGjuVQd4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "음식에는 칼같고 엄격하지만 그건 업장에서 당연한거고 평소에는 잘 챙겨주는 보스 좋아요. 사실 요식업이라는게 이래저래 다칠 수 있는 요소가 많고 조금만 관리가 흔들려도 맛이 변하는지라, 송훈셰프 참 좋은 상사네요.",
+        "writer": "UgyifyRuK2IAQ_wJ78B4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "편집을 저렇게 하네",
+        "writer": "UgxDbsQzViwGqV_3QkJ4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이(비속어) 억지로 질질짤때 (비속어) 죽을뻔했다",
+        "writer": "UgwpT5fsVizRkh5GV4R4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저런 사장은 내가 전문이지",
+        "writer": "UgzQlOtBlUws-wDcekt4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 고기 끝내준다",
+        "writer": "UgzKDjg2nUwFfCFyFEd4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 생색내는 사람 싫지 않은데 저정도 쐈으면 생색도 내고 잘난척도 좀 하고 그래줘야 맛이거덩",
+        "writer": "Ugzn9F4zagGqJt3yFuh4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 그냥 궁금해서 그러는데, 돼지고기가 저정도에 200만원이나 하나요 아니면 저 정도를 가게에서 파는 가격이 그렇다는걸까요",
+        "writer": "UgzMEdUcgZgmyvrEsCB4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찬(이름)과 미국이야기배틀 보고싶다",
+        "writer": "UgweUHrFlB5hAnxMemd4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "직원들 그래도 밝은데요",
+        "writer": "Ugw5YFVvG1biPOYfkaF4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "송훈셰프가 쓰는 돼지고기는 품종이 달라서 원육 자체가 비싼 것도 있을겁니다. 가격은 아마 식당에서 받는 가격으로 따진 것 같아요. 그나마 상대적으로 저렴한 앞다리살이 많아서 그렇지 삼겹살이나 목살로 채웠으면 더 비쌌겠죠.",
+        "writer": "UgzMEdUcgZgmyvrEsCB4AaABAg.9JA5xi41oUo9JbdTXw2SmN",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "송훈, 이분 참 개념은 밥말아 먹은듯,비호감",
+        "writer": "UgzgvRhhh_330UNK0ZJ4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한돈으로따져도 100은 안넘을텐데 직접 해체하고 갖고왔으면 그반도,",
+        "writer": "UgxKWaJ4le1UdZKtr-B4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대충 낄낄 웃으며 엉덩이를 걷어차주고 싶은 상사 정도니까 저기 나오는 것 (이름) 같은 (비속어) 생각해보셔. 여긴 진짜 관계 좋은 보스들만 나오는 겨.",
+        "writer": "Ugy361Zie5kwUndfakZ4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자기들이 먹을건데 뭐 자기들이 해야지, 편집을 저렇게 하니까 일하는거처럼 보이지 다 저렇게 하지 않나 여행가면",
+        "writer": "UgwwOtxd2sMlzTYwKp94AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고기 도매가 20만원대 짜다",
+        "writer": "Ugy26fBlN-0KjGaEQtl4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "생색좀 내면어때 귀엽구만뭐",
+        "writer": "UgzDxpmNm8TMD7vYrl14AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "송훈랜드 개인방송채널인지 공영방송 정체성 퇴색",
+        "writer": "UgwoQwR9c3zJX3w8xOF4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "송훈세프 좋은사람이네요",
+        "writer": "Ugzk_XghkpdeV-tdy7J4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나만 보면서 부러웠냐",
+        "writer": "UgyWADBoXDcbWw_atLV4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "돼지고기 판매가가 200만원어치인(혐오표현) 원가가 200만원어치가 아니지, 원가는 100만원 될려나,",
+        "writer": "Ugz6rCBWKWQaNmBj69J4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "판매가 이백이라고 판매가 원가가 아니라",
+        "writer": "UgxLnfzO3hMuwPmfUfR4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "말없고 짠돌이보다는 돈내고 생색내는 상사가 백천배는 더 좋다",
+        "writer": "UgxgPzTfp_dkUh24Vct4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그을린거 먹으면 암걸린다",
+        "writer": "UgzFqeWgW0y_5Sw2Fax4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다 월드야.",
+        "writer": "UgzIJfO6JNn7mGpLeN14AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전형적으로 해주고 욕먹는스타일",
+        "writer": "UgxHNfG1U_0I_KtLGHp4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저사람 행동중 절반은 다 작가가 (반사회적용어)는거다 이 돌(비속어)들아. 현주엽도 그렇고 얘도 어느정도 (비속어)기질은 있겠지만 저(이름)는건 대부분 작가가 시킨다. 예능 하루이틀 처보냐",
+        "writer": "UgxwKg5rXyknvKsRhZx4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "회식인하고 모임이 자주하면 안좋지만 가끔 복지차원에서 하면 생각보다 좋음. 직장생활 (이름)고 직원일때는 몰랐지만 그럴떼민 들을 수 있는 말들과 분위기 그런것들이 관리자 입장에는 중요함",
+        "writer": "UgzCKof8cekaS--3Q_x4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "직원들은 당연한줄앎 그래서 직원 까지임",
+        "writer": "UgwAjs3b-QeyfmBpWx14AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "돈 애기는 왜 하냐 으이구",
+        "writer": "UgwhUyKrpJdbCJEdwI54AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밥따로물따로와 함께채식 하세요 건강하고활기찬삶을살아갈것입니다",
+        "writer": "UgwS1780nXaCxKKNnmR4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭔 (비속어)지",
+        "writer": "UgzgvRhhh_330UNK0ZJ4AaABAg.9IbSsB773u79J5UFcO1xok",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "50도 안댐,",
+        "writer": "Ugz6rCBWKWQaNmBj69J4AaABAg.9Hg-t2gvM099IBmmU93okP",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누구 말하는거 같아서 (비속어)",
+        "writer": "UgxgPzTfp_dkUh24Vct4AaABAg.9HZoYw4TYlM9Kx6ER56BYr",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "탄 거 먹어서 암 걸릴려면 평생 먹어도 (비속어)는 연구 결과가 나온지가 언젠데 아직도 이런 소리를 하시는 분이 있나",
+        "writer": "UgzFqeWgW0y_5Sw2Fax4AaABAg.9HYPaKh6iDn9JUbMhrWO5t",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "태욱아(반사회적용어) 압수하기전에 (비속어)라",
+        "writer": "UgwS1780nXaCxKKNnmR4AaABAg.9HI2LCPl8cb9HUNpPTlMoH",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이싸람들아 방(이름) 생색내는게 아니라 원레 저런 사람이야. 자기네 가게 원래 몇억씩 팔아야 할걸 몇천나온다고 죽는 소리하는 사람인데. 생색을 안내는 사람이였음 애초에 방송 밖에서 저렇게해. 자기들 가치는 엄청 높다고 생각하는(혐오표현) 내가 낸데 이정도는 받아야하고 직원들은 직원인데 월급만주면 되지. 이런거 가게 운영 자기 사업 안해본 사람들은 몰라. 좋은 사장은 저런 사람아니야",
+        "writer": "Ugw8srAOGKmP_syVY954AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현주엽 먹방 잼나게 보고있었는데 송훈씨 안나오시면 안되나요 그냥 본인 유튜브만 하시고 현주엽님에는 출연 안하셨음 좋겠네요 같이본는 모든사람들 의견입니다",
+        "writer": "UgxQ2FgALCLlOSmahyl4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쏠거같음 소로하시죠",
+        "writer": "UgwANx8aZJWjlUZMZT14AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "돼지고기 30kg이 어떻게 200만원이냐 제일 비싼 삼겹살이 100g에 2천원 정도인데 10키로 해봐야 20만원이잖아 (이름) 목살은 1200원 하는데",
+        "writer": "Ugy0JwXieY-JbuTZe8J4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 프로그램 솔직히 쫌 사람 깍아 내리는것같아서 개인적으로 별로임",
+        "writer": "UgzFqdZIYnUVLfri2394AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "컨셉인가 자기애 뿜뿜",
+        "writer": "UgwUtKOeePtFv9FZEox4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "송훈 (이름) 겉모습에서 풍기는 아우라가 장난 아닌데 갑질도 안 하시고. 직원들한테 대하는 태도가 넘 보기 좋네요 (이름) 식당에서 일하는 직원들이 부럽네요",
+        "writer": "UgxTfvFQwONZ1bt5bLd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "첨엔몰랐는데 귀여움",
+        "writer": "Ugw7oEb3bDQOY9hBaMF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "송훈쉐프 짱좋아요",
+        "writer": "Ugw-yIVX4hsKuHyItOZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방송 아니었음 소주 까는건데,",
+        "writer": "UgxzNEk70Xgc-l-kcel4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "되게 훈훈하다 보기 좋네 카메라에 비치는것만 보기로는 잘 모르지만 화목해보이는데 왜이리 욕을 하누",
+        "writer": "UgwCFaBcXSD7mmV8wJ54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건강할때 많이들 드세요. 전 오늘부로 못먹네여 삼걉살 그간 너무 많이 먹어(이름) 탈이나서 쓸개 제거함",
+        "writer": "UgwZtqFhm3h66nIDz0B4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "삼겹살 먹으러 가봤는데 진짜 친절하시던데 고기도맛잇구",
+        "writer": "UgxcnCRXb1ME8gs2iDp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "원가 40만원어치를 가지고 생색은",
+        "writer": "UgzwHd3-h5Hi_vj6IXJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 이정도로 욕하는거 보면 댓글쓴 분들은 사회생활하면서 상사가 말만걸어도 몸서리쳤겠네",
+        "writer": "Ugx2-JuKWAgI6Ozraed4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "팩트여기서 송훈 까는애들은 사회생활 안해봤거나 같은 상사를 못만나봤거나 둘 중 하나임 반박시 (반사회적용어) 한달 압수",
+        "writer": "UgyBAvyleETeEY4YYPx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난축맛돈 비싸고 맛있는 고기긴 한데 저긴 공급가에 받으니 그래도 120만원어치는 되겠네요. 판매가로 치면 300만원 정도,",
+        "writer": "UgwJBS5jTpS6jVFW2GB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방송 컨셉이 욕 먹일려고 저러는(혐오표현) 실제로 니네 일하면 저런 대우 받냐 일하면서 밥이(반사회적용어) 제대로 주면 감사하지",
+        "writer": "UgxWCbc72AHdZFXJqq54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 욕을 먹는지 모르겠네. 저정도 직장상사면 갠적으로 좋은데, 편집을 (이름)게해서 몰아가는 느낌인데, 저정도 복지는 다들 있으신가보네.",
+        "writer": "UgzVSOgQTxkXA1xufVl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시장가격 말구 저 고기집 판매가격인가봐요",
+        "writer": "Ugy0JwXieY-JbuTZe8J4AaABAg.9Gv1qtV7pN79JVnOkIcfI6",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "힘내세요 건강이쵝오",
+        "writer": "UgwZtqFhm3h66nIDz0B4AaABAg.9E17_ohhr9f9E3MumOSYGv",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "싸게 사면 원가 4050은 할 수 있겠네. 근데 니는 4050을 니 후배한테 쓸 수 있냐 뷰융신 구내식당 5000원짜리 밥 사줄 때도 손 벌벌 떨것같은데",
+        "writer": "UgzwHd3-h5Hi_vj6IXJ4AaABAg.9DwIyQWqpZf9DzlLksW0Ul",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Cruise Hwang 한명한테 쏘는거 아니고 회식아님 술먹으면 몇백나오는데",
+        "writer": "UgzwHd3-h5Hi_vj6IXJ4AaABAg.9DwIyQWqpZf9Gv2RZTPG1z",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "권학수 저기 모든 비용 송훈이 냈을 텐데",
+        "writer": "UgzwHd3-h5Hi_vj6IXJ4AaABAg.9DwIyQWqpZf9HWs7En56wd",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Cruise Hwang 회식비 다 그정도 나옴 우리는 여의도에서 한우 구워먹엇는데",
+        "writer": "UgzwHd3-h5Hi_vj6IXJ4AaABAg.9DwIyQWqpZf9HWtCCs84fq",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "권학수 그러면 고맙다는 생각은 안듦 당연하(혐오표현) 하면서 가축처럼 그냥 먹음 인생 베베 꼬인 사람들 많네",
+        "writer": "UgzwHd3-h5Hi_vj6IXJ4AaABAg.9DwIyQWqpZf9HZT_x3TUFP",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Cruise Hwang 회식을 해야 단합이 되는거고 내가 회사에 벌어주는 돈이 더 많은데 기본적인 복지지",
+        "writer": "UgzwHd3-h5Hi_vj6IXJ4AaABAg.9DwIyQWqpZf9HZV84oKaU2",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "권학수 니말고도 쓸인재는 넘침 고맙다고하면서 다녀라좀",
+        "writer": "UgzwHd3-h5Hi_vj6IXJ4AaABAg.9DwIyQWqpZf9I-GIj-byUw",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그러게요 저정도면 플레스하는건데 점심값도 아까워하는 사장들이 얼마나 많은데",
+        "writer": "Ugx2-JuKWAgI6Ozraed4AaABAg.9Dm-0aLmMAZ9Kx6N2QiRRa",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)아니고 쪽쪽이압수해야죠",
+        "writer": "UgyBAvyleETeEY4YYPx4AaABAg.9Dk1A5L72RF9HasBxs-sY6",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "말이 반대인듯 틀이아니라 쪽쪽이",
+        "writer": "UgyBAvyleETeEY4YYPx4AaABAg.9Dk1A5L72RF9Kq6CrKBP42",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 저기 직원이 200만원이라는데 뭔 소리 하시는지,",
+        "writer": "UgwJBS5jTpS6jVFW2GB4AaABAg.9DYNEHpSSLt9Da5jsqg8NM",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "yeong g 판매가",
+        "writer": "UgwJBS5jTpS6jVFW2GB4AaABAg.9DYNEHpSSLt9DwZtHnO7pH",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "카와이레너드 판매가 200이라잖아",
+        "writer": "UgwJBS5jTpS6jVFW2GB4AaABAg.9DYNEHpSSLt9IBmtuy7KB6",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "갠적이 아니라 그냥 저정도면 좋은 상사지",
+        "writer": "UgzVSOgQTxkXA1xufVl4AaABAg.9DX9m7l4CrY9L66RdYo33u",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 욕먹는(혐오표현) 직원들이 송훈 무섭고 싫으면 저렇게 대화못하지 않나 다들 즐거워보이는데 왜 욕하는지 돈내고 생색도 못내냐",
+        "writer": "UgyEU1oUoTQ36FbryPB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해줘도 난리시네들 물론 생색이 좀 심한 스타일이시긴 하지만 그래도 괜찮으신 편인 거 같은데",
+        "writer": "Ugx7ATq_up2Oyn-dQTJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 좋은 직장은 저런거 해주는게 아니라 일할때 일하고 칼퇴근 시켜주고 월급 안밀리고 주는게 짱이다 괜히 등산 워크샵 직원들 개고생이다 주말에 쉬지도 못하고",
+        "writer": "Ugw_FHF6QYqppEiRA8x4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "200만원이 판매가였네 낚였엉",
+        "writer": "UgweDsy7-309rLFdbbt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "회식 50만원도 안하는걸로 우쭐하네,",
+        "writer": "UgzaGgiiwpiJG-TsaHd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "짜증나는 스타일이긴 하네, 해주고 욕먹는 스타일,",
+        "writer": "UgwAP5QSULLe926uMjt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "3천이면 되잖아 개멋있네",
+        "writer": "UgyaJf8vkDftlYkXm854AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저러면 사주고도 욕먹는겨",
+        "writer": "Ugxxha2ay0de8iMD40p4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "팔때가격200, 살때가격 50 이라 할라나,",
+        "writer": "UgzBmWwFuIx3GRH17QV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래도 지금까지 나온 보스들중 복지는 상위 1 인듯.",
+        "writer": "UgzQiFt_01sNkSwKYOp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소고기 쏘시지 돼지보고 월클이래",
+        "writer": "UgyI2loluTOU2BeI7sp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자기만 일 안하고 추억이냐 잘못됬다고 봄",
+        "writer": "UgyEU1oUoTQ36FbryPB4AaABAg.9DT3r2yjmDN9F6Gl_n1RMF",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소중한한가닥 대신 돈 대주잖아 그것도 백단위로",
+        "writer": "UgyEU1oUoTQ36FbryPB4AaABAg.9DT3r2yjmDN9F6J7CcEqXU",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소중한한가닥 넌 평생 사장 못함. 직원들 다룰줄도 못할거야",
+        "writer": "UgyEU1oUoTQ36FbryPB4AaABAg.9DT3r2yjmDN9FiwTnrcu0L",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "걍 사회생활 안해본 (비속어)이나 욕하는 거임 송훈 정도면 평생 직장 할거임 저같으면 배울거 많지 인기 스타 셰프지 나같으면 충성을 다했음 저정도 복지 까지 있으면",
+        "writer": "UgyEU1oUoTQ36FbryPB4AaABAg.9DT3r2yjmDN9GrAz-4Byk1",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "직원들에 속마음은 뭔지 암 저럴 시간에.",
+        "writer": "UgyEU1oUoTQ36FbryPB4AaABAg.9DT3r2yjmDN9HOgUwuExW1",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방송 분량이나 대본 연출 같은 것도 생각해야지 일단 시나리오가 있어야 방송 나갈거 아니야 에드워드권 영상 같은 거 봐봐라 직원 월급 같은 걸 방송 출연으로 메꾼다기도 한다더라, 과몰입 자제했으면.",
+        "writer": "UgyEU1oUoTQ36FbryPB4AaABAg.9DT3r2yjmDN9I-s1w_irzn",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소중한한가닥 너도 잘못됬다봄.",
+        "writer": "UgyEU1oUoTQ36FbryPB4AaABAg.9DT3r2yjmDN9IorjEyqcoX",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소중한한가닥 그런거 보고 (혐오표현)근성이라는거야",
+        "writer": "UgyEU1oUoTQ36FbryPB4AaABAg.9DT3r2yjmDN9J3EZ9LcAme",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방송찎을라고 했을 가능성이 더 높고 저거 찎고 송훈이 받아가는 돈이 더 많을 껍니다. 물론 확실하진 않지만. 평소에도 잘해줬음 직원들입에서 저런 소리 안나올듯",
+        "writer": "Ugx7ATq_up2Oyn-dQTJ4AaABAg.9DNm1B8NjYd9DOIC9kZzLR",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "치킨 받을만하니까 받는거고 직원들이 뭐 먹으면서 말도 잘 받아치고 자기 의견 얘기도 하고 하는데 이정도면 좋은(혐오표현) 사회생활 해보면 저런 상사는 괜찮은검",
+        "writer": "Ugx7ATq_up2Oyn-dQTJ4AaABAg.9DNm1B8NjYd9DT4DRjeXAi",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헿헤 중요한건 카메라 꺼졌을때고 저런거냐 말이지",
+        "writer": "Ugx7ATq_up2Oyn-dQTJ4AaABAg.9DNm1B8NjYd9DYc2OODpoy",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "치킨 일상에서도 저정도면 괜찮다는건데,",
+        "writer": "Ugx7ATq_up2Oyn-dQTJ4AaABAg.9DNm1B8NjYd9DYgwqbpl1M",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김에르메스 식당인데요",
+        "writer": "Ugw_FHF6QYqppEiRA8x4AaABAg.9D8KswN6XW09Dp1HpgSN6O",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "월급 제때 못주는 곳도 직장입니까",
+        "writer": "Ugw_FHF6QYqppEiRA8x4AaABAg.9D8KswN6XW09E1MeXH7_Qo",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "못 주는데가 꽤나 많아요 하도층 수주 받는 업계는 어음(쪼가리)받는데도 많구요 어음 기간이 최하1달 길게는 12개월 짜리도 줘요 일주는 업체서요",
+        "writer": "Ugw_FHF6QYqppEiRA8x4AaABAg.9D8KswN6XW09HTonlZ3tbe",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 그건 b2b대금이지 봉급개념이 아니잖아여",
+        "writer": "Ugw_FHF6QYqppEiRA8x4AaABAg.9D8KswN6XW09HTsUiXSdUD",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그르게요 판매가 빵터져",
+        "writer": "UgweDsy7-309rLFdbbt4AaABAg.9D7VcBa-v8s9DHw5VJ3s5i",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "회식한번도안해본 백수(비속어)가 50만원이면 크게쏜거대",
+        "writer": "UgzaGgiiwpiJG-TsaHd4AaABAg.9D40o_bX2vJ9DlcBOXsthZ",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 펜션은 뭐 동네 개집 빈데가서 한거냐",
+        "writer": "UgzaGgiiwpiJG-TsaHd4AaABAg.9D40o_bX2vJ9Dm-CnxpN1G",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "단돈 만원이(반사회적용어) 해줬으면 고마워할줄 알아야지 인성 (비속어) 사회에서 만나지말고 만나면 바로 거른다",
+        "writer": "UgzaGgiiwpiJG-TsaHd4AaABAg.9D40o_bX2vJ9EteqUntlka",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나같아도 저정도 생색은 할 것 같은디",
+        "writer": "UgwAP5QSULLe926uMjt4AaABAg.9CvwbBwGzvG9Dht8Ia6P75",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "욕먹을 일없는데 방송국에서 저래 캐릭터를 만들어서 그렇지, 저정도 사장이면 진짜 직원들 대만족일것 같은데",
+        "writer": "UgwAP5QSULLe926uMjt4AaABAg.9CvwbBwGzvG9DwM9mjRy-C",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저정도면 많이 양호하지 사회생활에서 얼마나 편하길바라십니까",
+        "writer": "Ugxxha2ay0de8iMD40p4AaABAg.9CnveU4Eh9Z9HzXZ8SD0Cy",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "액션가면 네 사회생활부터 하고오세요",
+        "writer": "Ugxxha2ay0de8iMD40p4AaABAg.9CnveU4Eh9Z9I5ISotKJCf",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "박논 네 하고있어요 욕 안먹는게 다행이지",
+        "writer": "Ugxxha2ay0de8iMD40p4AaABAg.9CnveU4Eh9Z9I5IkG0snxE",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "박논 거 초반에 다 안다는듯이 (비속어)지마십시더",
+        "writer": "Ugxxha2ay0de8iMD40p4AaABAg.9CnveU4Eh9Z9I5In0O3a_l",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "액션가면 왜 발끈하지 사회생활 안하는것처럼",
+        "writer": "Ugxxha2ay0de8iMD40p4AaABAg.9CnveU4Eh9Z9IAZr4t5Thc",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "박논 아니 뭐 어디 다니는지 말이(반사회적용어) 해줘야 (비속어)를 닥치실겁니까 그리고 안한다고 하면 님한테 뭐가 있는것도 아닌데 사회생활로 부심부리나",
+        "writer": "Ugxxha2ay0de8iMD40p4AaABAg.9CnveU4Eh9Z9ICAe6QFOUp",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "액션가면 네 새해 복 많이 받으세요",
+        "writer": "Ugxxha2ay0de8iMD40p4AaABAg.9CnveU4Eh9Z9ICB8UMzmop",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 정도 냈으면 생색부려도 상관없지 않나 꼭 지가 다 낸것처럼 말하네",
+        "writer": "Ugxxha2ay0de8iMD40p4AaABAg.9CnveU4Eh9Z9J5UYTsp5iQ",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=E-OXUKabohs",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

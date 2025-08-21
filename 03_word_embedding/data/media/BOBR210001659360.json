@@ -1,0 +1,524 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001659360",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001659360"
+    },
+    "text": [
+      {
+        "content": "숲속에서 신나서 뛰어노는 모습을 보니 힐링이다",
+        "writer": "UgyiPx2vmpYbhnPF1N94AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공주는 윌벤이랑 나이차가 많이 나는것같은데 누굴까요",
+        "writer": "Ugy9DnzOmVrzelktqdB4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀여운 얘들이 아빠랑 나와서 가정의 의미랑 아빠들과 아이들의 훈훈한 가정을 보고 아기들의 해맑은 웃음을 주는곳인데요 (이름)는 엄마고 처음 슈퍼맨이 돌아왔다에 희망이 없게 만드는것 같아요 좀 나오지 못하게 해주세요",
+        "writer": "UgyzZEyPCDq_c2q0ZXp4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 요즘 잘나가네",
+        "writer": "Ugwqsl0aLgew8ASl1nx4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 롤러코스터에서 지었던 코스랑 구조가 비슷함",
+        "writer": "UgxJBBwn6fveAfQ7g394AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 여기 장소가 어디예요 예쁘네요",
+        "writer": "UgznivvO3wvT97DEQcZ4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리윌벤 많이많이나왔으면",
+        "writer": "UgwWko5yckPyysMjMo94AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 넌 너무 섹시 해 난 정말 좋아",
+        "writer": "UgxeiQbGskwLTLVHwhZ4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그만좀 쳐 나와라",
+        "writer": "UgxUci_mTT7u26ywRrF4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 형 올거래 이제 녕이라고 안하네",
+        "writer": "UgwSyuQTJh_mOGs9Y9l4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어) 사랑해",
+        "writer": "UgzMcIYB3S6db_PbodN4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "숲속의 (이름) 앞에서 부끄러운 벤(반사회적용어)",
+        "writer": "UgweRwVw8ktNkcyDIe14AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 리엄이 점 점 멋져지네 형아미 뿜뿜",
+        "writer": "UgwrtnMPkhXo-_A1fWp4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 이번에 어깨춤으로 데뷔한 (이름)양이면 캐스팅 잘하셨네요 귀엽고 사랑스러운 아기천사들과 (이름) 동화속 한 장면 같아요 무조건 본방사수 합니다.",
+        "writer": "UgwCyNxdBa6FsvNbvXl4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)은 (이름)(이름) 이에요.",
+        "writer": "Ugxekop5rI6KNo2koI54AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쓰렉이 너자신 거울 보고 얘기했군",
+        "writer": "UgxUci_mTT7u26ywRrF4AaABAg.9OktNXjiW469OktfXItfHg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하류 잉여인간",
+        "writer": "UgxUci_mTT7u26ywRrF4AaABAg.9OktNXjiW469OoXXPBA9dp",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 계정 새로 판 나은건후 팬이더만 (혐오표현)같은 팬질하느라 욕 본다 수준 하고는,",
+        "writer": "UgxUci_mTT7u26ywRrF4AaABAg.9OktNXjiW469TTwHeXG_ki",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 사랑해 오랜만에 슈돌 (이름) 덕분",
+        "writer": "Ugwe4mYiSwCBcsbJkIF4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울 토리 신나서 네 할때 넘 사랑스러워",
+        "writer": "UgyEjMR6UFDFx6E0mHJ4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번주 결석할 가봐서 걱정했는데 우리 윌벤 출석하네 세상에서 제일 이쁜 이가들",
+        "writer": "UgwXlYazGiljFfB_yjR4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어) 처음 본 누나한테 존댓말도 잘해요",
+        "writer": "UgzxrJ_4w3pi6DDRsnZ4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저기 장소가 어디에요",
+        "writer": "UgwxTt1GZ0YtymqO3T14AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "황금망토 윌 벤 기사님들 과연 슾속(이름)을 구할수 있을까요 근데 샘아(비속어) 당 떨어진다니까 어디로 떨어지냐 묻는거 진짜웃기다.",
+        "writer": "UgyrIXXdJNf0pHnTTGN4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오구 울애기들 신나쪙",
+        "writer": "UgzWI25aRylc6zUr25J4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 (이름) 되고 싶어요 그럼 윌벤져스 (이름)들이 맛나고 오겠죠 요번주에도 심장 부여잡고 봐야겠어용",
+        "writer": "UgwJaRDyzvyvP6kQ(반사회적용어)N4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 형 올 거예요벤은 말을 넘나 이쁘게 해요",
+        "writer": "UgyoicJUe9CGh5_90i14AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 누군지아는데, (스포주의) 미스트롯2 (이름) 입니다.",
+        "writer": "Ugy_RboXRqryGqwycf54AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 아닌가",
+        "writer": "Ugz9APzIl574zukYe6R4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)은 에블린인가",
+        "writer": "UgxOrAmTqZ8h118udQR4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어우 스케일이 엄청나네, 재밌겠다 (일요일 밤 9시 15분까지 존버 가즈아.)",
+        "writer": "Ugz16-QlSAE0wA0Zr8t4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동두천 놀자숲이라고 하네요",
+        "writer": "UgwxTt1GZ0YtymqO3T14AaABAg.9Oh20Z6nEQs9PJcokTiCOK",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤이 즐거우면 나도 즐거워",
+        "writer": "Ugyh4jDKW-0YMf13rMh4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어)는 (이름)이지",
+        "writer": "Ugy1JUMM_uAyiwvOqpR4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사랑스러운 우리 윌벤 이번주에도 넘 귀엽다 너희들 웃음소리에 스트레스가 다 날아가 버렸네 근데 (이름)은 혹시,",
+        "writer": "UgxndjXzJSIoAKTZ6854AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤토리 (반사회적용어)",
+        "writer": "UgxoF4CKonKpEvw5H6p4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나의 사랑 울 윌벤이 누구를 만날까 일요일까지 설레야지,",
+        "writer": "Ugyzk7lSQvEDbVgBiiR4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 사랑스런 윌벤져스 이제 자주 만나자.",
+        "writer": "UgzszAVzeVwo3EVTGZh4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어) 가족 제주도 여행 갔더라 재미나게 보내고 와",
+        "writer": "UgyfYZfAJPLSapcLnIR4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마스크 없이 뛰어 노니 보기 좋다",
+        "writer": "Ugy4yws3rdGP4WGxah94AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아중아중 입뽕",
+        "writer": "Ugxp5xqJuymAZXPFTA94AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공주 (이름) 같은뎁,",
+        "writer": "UgwFokQ-ApWEO87REQ94AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어) 유쾌한 목소리 사랑해요",
+        "writer": "UgzXIRGmyUl4tU9mW8J4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 앞에서 수줍어 하는 벤(반사회적용어) 귀엽도다",
+        "writer": "UgwVBcl0jRwGAVLMEa54AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀여운 소미동생 또나왔네",
+        "writer": "UgxbcXMBQwmjoKRMzat4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이 귀여웡벤",
+        "writer": "UgxxyCN5NfF6LZFRgkp4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘 오캐이 광자메에서 윌벤져스 나옴",
+        "writer": "UgzszAVzeVwo3EVTGZh4AaABAg.9OgZ1dBWBqr9OlnKq0OR2Z",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 벤의 얼굴에 모기를 물어요 핳하하하핳하하하하핳하하하하하하핳하하핳",
+        "writer": "Ugwd3z7WkRwz3vk-Vrd4AaABAg.9OgRC-TEd9H9OgVqYiv1MV",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주재현 im sorry i cant read hangeul D",
+        "writer": "Ugwd3z7WkRwz3vk-Vrd4AaABAg.9OgRC-TEd9H9OgYtUGAAp0",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주재현(Joo Jaheyn) translated your comment in Korean.",
+        "writer": "Ugwd3z7WkRwz3vk-Vrd4AaABAg.9OgRC-TEd9H9OgbNw8S2kN",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바다 한국어를 번역",
+        "writer": "Ugwd3z7WkRwz3vk-Vrd4AaABAg.9OgRC-TEd9H9Ohjb0AtuJJ",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "dea putri 한글을 읽어요",
+        "writer": "Ugwd3z7WkRwz3vk-Vrd4AaABAg.9OgRC-TEd9H9Ohjf6p88mv",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번 주도 나와줘서 고마워 윌리엄이랑 벤(반사회적용어) 행복하게 크는게 이모 소원이야",
+        "writer": "UgwIZ7TjmfpMlJ5TASR4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번주도 벤(반사회적용어) 보니까 행복하다",
+        "writer": "UgwGjNk-6StPLpsnMN54AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어) 아이 이쁘다",
+        "writer": "UgzaAT5pRKNnf4uGKQt4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번주도 너모 기대되는뎅 우리 윌벤져스",
+        "writer": "Ugzwyv2KmLoOixDaOiF4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사랑스러운 벤(반사회적용어)",
+        "writer": "Ugx98gd2xdtDCiytstZ4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌벤 하트",
+        "writer": "UgwczualnoL67hv5Pb14AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어) 이마에 모기 3방 귀여워나의사랑 힐링 윌벤",
+        "writer": "UgzQBmdtGUyvy4eJpix4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둘다 너무너무 귀여워",
+        "writer": "Ugw8_UP8r-pUG_d2G8V4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번주도 안나올까봐 불안했는데 나와서 다행입니다 윌벤져스네는 무조건 매주 나왔으면 좋겠어요.",
+        "writer": "UgwIZ7TjmfpMlJ5TASR4AaABAg.9OgMohAVCnj9OgigwZzR0s",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나나나 요",
+        "writer": "UgwIZ7TjmfpMlJ5TASR4AaABAg.9OgMohAVCnj9Oo-T9QCzmy",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번주도 안나올까 불안했는데 다행히도 나와서 행복해요",
+        "writer": "UgwGjNk-6StPLpsnMN54AaABAg.9OgMHE_R12F9OiU8u6mzy9",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 저도요",
+        "writer": "UgwGjNk-6StPLpsnMN54AaABAg.9OgMHE_R12F9OvchJ9L3Bi",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=O8BoHVnX17A",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

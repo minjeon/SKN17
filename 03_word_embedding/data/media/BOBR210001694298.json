@@ -1,0 +1,900 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001694298",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001694298"
+    },
+    "text": [
+      {
+        "content": "학교 급식알바 해주세요.",
+        "writer": "UgwZVXkty7STpLC_Knd4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애견카페 해줘요",
+        "writer": "UgyUwUh1MtH4I7a2ykB4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "옥 3분전",
+        "writer": "UgztzJ_8dsBBFACPiFl4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나온지 1분에 1만뷰",
+        "writer": "UgzMOQyM_ROk--rMAxh4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (비속어)",
+        "writer": "UgwnQlRd50FcLnI6lyJ4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유니폼 제공도 아니고 사입으라니,",
+        "writer": "Ugwvy8_l6RME5pht_wp4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부터 니가와 형이 와 (비속어) 뭐냐곸",
+        "writer": "UgyJRr6C_Tc8becblW94AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언제 옷가게 올 줄 알았음 옷성규",
+        "writer": "Ugw0oDA6OtbjjnK0C7l4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 올린지 2분됐는데 4분보는 사람 무엇",
+        "writer": "Ugw4f9dgRqzsXiBKxEJ4AaABAg.90Vm1yBNreZ90Vm54MS-re",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어녀응 어쩌라고요생뉸아",
+        "writer": "Ugw4f9dgRqzsXiBKxEJ4AaABAg.90Vm1yBNreZ90VpWzHCM4z",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "베플되려고 발악하는",
+        "writer": "Ugw4f9dgRqzsXiBKxEJ4AaABAg.90Vm1yBNreZ90WDDc3mCKt",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정작 따봉하나 못받죠",
+        "writer": "Ugw4f9dgRqzsXiBKxEJ4AaABAg.90Vm1yBNreZ90WDGVI80Oe",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어녀응 어니비",
+        "writer": "Ugw4f9dgRqzsXiBKxEJ4AaABAg.90Vm1yBNreZ90YQldK50uI",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "악 1분전",
+        "writer": "UgztzJ_8dsBBFACPiFl4AaABAg.90Vm1AJgjm590Vm38GKL8T",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "배보다 배꼽이 더큰 알바 알바생들 다왜이리웃김 소싯적 칼좀썼데",
+        "writer": "UgyoJnoDE_8MsDSefTJ4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 올라온지 1분만에 조회수 천 넘어가버리네",
+        "writer": "UgxPTFua3xgQiVuxRmF4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아, 알람",
+        "writer": "UgxYqH47BMJz-NNTjXh4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "눈치싸움 장난 아니네",
+        "writer": "Ugyt-agcGV-6k9e9G814AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "배댓 되는법좀 알려주세요",
+        "writer": "Ugy26IkYoK9Mae_eT0F4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우성아(이름)오늘도 (이름) 드립력 인정",
+        "writer": "UgyCeb3zURmVuMlThNJ4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 재밌네",
+        "writer": "UgwksWKh5m4U6eOupGB4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우왕아 일찍왔당오늘두 재미있게 보고갈게여",
+        "writer": "UgyluLzWeY_Yt21Tk4p4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐냐 1분전인데 1.5천회야 역시 슈스",
+        "writer": "Ugw1ugca-xCVHb3eWAJ4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인기 급상승 1등",
+        "writer": "Ugyz5RIcW6Lh2DLg9Al4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에뛰드 아직 존버한다",
+        "writer": "Ugw-lYFGfdKa0i678tx4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리가 더 많잖앜연예인이라고해서 얄짤없는 워크맨",
+        "writer": "UgwnEMKV8kZSQVIRUNh4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 왜 일주일에 한 번 해요 날마다 영상 올리세요...",
+        "writer": "UgwzcokeiC2xtq_Yw-d4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우연치 않게 일찍온 job것",
+        "writer": "UgwPLJWhWMjUZMI807t4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "알림 뜨자마자 왔는데 조회수 1000 실화",
+        "writer": "UgyN3nHLdFZfdCQAv-Z4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 실화야",
+        "writer": "UgxrMYxKpD9d86KIQh14AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)는 뭘해도 재밌다",
+        "writer": "UgweWgTzFva1QtbxIhR4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 진짜 다이아 가나요,",
+        "writer": "Ugz7O1HegPZgB6jZmIl4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기다렸다 워크맨",
+        "writer": "UgwPTz6Pl4_2JGeVi0x4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 빨리왔다",
+        "writer": "UgwFsOG5HHzFZ74_K9N4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시작부터 뭐하는데 둘이 밀당하냐고",
+        "writer": "UgyUXjjxoJYflOKJMfV4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이이이잉 다들 1분만에 덧글 140개 뭐야",
+        "writer": "UgzyaHQFDlUXeLBWslR4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "워크맨 보다가 장(이름) 나오는 다른 영상들 타고 가서 보다가 관련없는 영상들까지 보다보면 3시간 순삭",
+        "writer": "UgzAr3uCIlwK0wkWMbB4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "퀵서비스 알바해주세여",
+        "writer": "UgxPsQ-s6lvsB83aSsl4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이사람들 몇분만에 보는겨",
+        "writer": "UgzoDzYnzMon1QbkIrR4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "편집자분들이 대박이시네요",
+        "writer": "Ugyvh3N1GruGM4uW8894AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "라면 회사도 가서 직업 체험하시는게,",
+        "writer": "Ugym5Icd0Eh_Bf2Nbyl4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조회수가 11인데 조아요가 300개양",
+        "writer": "UgxBXJJzf8r0lIYeZxx4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "성규오빠 짱이예요 사랑해요 (이름)",
+        "writer": "UgxCIG7_3cSYUTL5PN54AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조회수 11 근데 좋아요는 302",
+        "writer": "UgypAzkBVLXjzBG7KGB4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "워크맨 하이",
+        "writer": "UgwX5LYEYftZPWaoOgZ4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제바루 .. 에뛰드하우스 해주세용",
+        "writer": "UgzOlSis4abjkpAsakZ4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "금욜 기다리는 사람입니다",
+        "writer": "UgwHYdcNVa1wj3mPyPZ4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조회수11개 좋아요338개",
+        "writer": "UgzKHBw5I4WnhPd8AKB4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다들 빠르시네",
+        "writer": "Ugy9tXtPbUxyP2fjQlV4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이제 워크맨 자막 다른데서 많이 따라하던데 얼굴로 자막하는거",
+        "writer": "UgwkGEfZB4-wOh3cc4x4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "먼저 선댓이다 하지만 꿀잼 예약이다.",
+        "writer": "Ugw3nYjrbXWuK-aArVx4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조회수 5, 좋아요 200 댓글 81 나도 이제 레전드인가,",
+        "writer": "UgzPYxBC0kCh_(반사회적용어)-4Ot4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "장(이름) 에뛰드 가즈아 기모노",
+        "writer": "UgwhQJ6b3ioqYN5SuJR4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜너무 웃기네",
+        "writer": "Ugwtnjsw9ezmhbSgSXJ4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조회수 5회인데 댓글이 81개네",
+        "writer": "Ugx5DIhnqe-YVEVwV4J4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일주일 기다리는라 목 빠졌어요 책임지세요",
+        "writer": "UgxtmoNo6j0DUgVASPZ4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아싸 나 일등",
+        "writer": "UgxpdLrnc9ollxIlf354AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 그거 백종원 채널이 젤 첨에 한 거 아님",
+        "writer": "UgwkGEfZB4-wOh3cc4x4AaABAg.90Vlv9Bbnt890VmXvR8Elb",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 씀",
+        "writer": "UgwkGEfZB4-wOh3cc4x4AaABAg.90Vlv9Bbnt890VmfCHPeCx",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그거 진짜 누가 처음임 양팡도 하고 백종원도 하고 암튼 근데 유튭에서 먼저 시작하고 티비에서 따라하기시작하",
+        "writer": "UgwkGEfZB4-wOh3cc4x4AaABAg.90Vlv9Bbnt890VmjNYvQL1",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시초는 개그맨 (이름) 그 분 아님",
+        "writer": "UgwkGEfZB4-wOh3cc4x4AaABAg.90Vlv9Bbnt890Vmkh-T3R0",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 (비속어) 이 댓글 계속 다시 하니까 좋아요 1식 올라 가넼",
+        "writer": "UgwkGEfZB4-wOh3cc4x4AaABAg.90Vlv9Bbnt890Vn5VRBdL4",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누가 처음한것이 중요한가 그냥 요새 편집 트렌드가 그런갑지",
+        "writer": "UgwkGEfZB4-wOh3cc4x4AaABAg.90Vlv9Bbnt890Vn6GjUDUy",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "원래 있던거임",
+        "writer": "UgwkGEfZB4-wOh3cc4x4AaABAg.90Vlv9Bbnt890VnDXWdJza",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "장이끼 찐이네,",
+        "writer": "UgwkGEfZB4-wOh3cc4x4AaABAg.90Vlv9Bbnt890VnFXNYT_t",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "장이끼 하겠음 임",
+        "writer": "UgwkGEfZB4-wOh3cc4x4AaABAg.90Vlv9Bbnt890Vnfcl1SN6",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "본인들이 처음 본 곳이 다 시초라고 하네",
+        "writer": "UgwkGEfZB4-wOh3cc4x4AaABAg.90Vlv9Bbnt890Voz5ONTWQ",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "sh j 삼시(비속어)에서도 봄",
+        "writer": "UgwkGEfZB4-wOh3cc4x4AaABAg.90Vlv9Bbnt890Vp30TDvSZ",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "장이끼 뭐가 나 만한데",
+        "writer": "UgwkGEfZB4-wOh3cc4x4AaABAg.90Vlv9Bbnt890W3r1yFq2H",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "핵노잼방송 님 나만 장이끼 댓 사라진것 처럼 보임",
+        "writer": "UgwkGEfZB4-wOh3cc4x4AaABAg.90Vlv9Bbnt890WE1C0uppD",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Hjw 저는 보이는데요, 제 폰이 이상할수도 있고 님폰이 이상할 수도 있겠죠",
+        "writer": "UgwkGEfZB4-wOh3cc4x4AaABAg.90Vlv9Bbnt890XImFmLNMs",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "핵노잼방송 그거 말고 님한테 뭐라한거 너만 하겠냐 이거요",
+        "writer": "UgwkGEfZB4-wOh3cc4x4AaABAg.90Vlv9Bbnt890XKaXoYCJJ",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Hjw 그거 보여요",
+        "writer": "UgwkGEfZB4-wOh3cc4x4AaABAg.90Vlv9Bbnt890XOvPsLHVM",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "핵노잼방송 나만 안보이나,",
+        "writer": "UgwkGEfZB4-wOh3cc4x4AaABAg.90Vlv9Bbnt890XPStcizG6",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "sh j 엣지도 예전부터했음",
+        "writer": "UgwkGEfZB4-wOh3cc4x4AaABAg.90Vlv9Bbnt893P7Sd1kFnM",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나만 와썹맨이 처음인줄알았냐",
+        "writer": "UgwkGEfZB4-wOh3cc4x4AaABAg.90Vlv9Bbnt894pHQdCfjF4",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오프화이트를던져버리는당신은 (이름)",
+        "writer": "Ugx2LTaPvIyWenpoGsx4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "될때까지한다 에뛰드알바 만약 에뛰드가 거절하면 형 핱투달아줘",
+        "writer": "UgxUQ-Ko95RanjPGnkB4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 역시 잼있어",
+        "writer": "UgwHke3NhIySJ6P39OZ4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "편집자와 도른자가 만나서 더 도른 예",
+        "writer": "UgxCg5Ze7iuAfy7vjWJ4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일주일동안 다른편 보면서 기다린 사람 모여보자",
+        "writer": "UgzGyXl-JQ_B4lid4wp4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "33초전 (비속어)",
+        "writer": "UgxYzBQ9mcULn1jdzlV4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와 여섯시에 딱 올라오네여 아주좋아",
+        "writer": "UgwJIasRdeKKmSerGRt4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무당집 알바해주세요 무당집.....",
+        "writer": "UgwHDhwu6ir3EvgqFzR4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금 달면 베댓인데 머라쓰지,",
+        "writer": "UgxpNcssTeaGeIy0uY54AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "으아아아아앙아아아아아 일빠 놓쳤다 어어어어아아어엉어어어어어어어어어어",
+        "writer": "UgyTDTbtndAqbB0-pJx4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형, 네셔널 안 어울리는 사람 처음봐,",
+        "writer": "UgzOZ6j77d-4FlL0Asl4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "빨리 왔다",
+        "writer": "Ugx3Ftx9lsXFawFyEEl4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "성규형님 옷도 비싼거 입으셨네용",
+        "writer": "Ugy2m9nZs4cKUE8QHXN4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유튜브 딱 들어오니까 영상올라오네",
+        "writer": "Ugx3RAH0i0DR1rFkSZ54AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앙 기모딱..",
+        "writer": "Ugynsrqx_kXKullo9Np4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어 그래 오늘도 일하자 일",
+        "writer": "UgxBC8b-J_Duz1hCmTh4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앗 쥐은이다",
+        "writer": "UgzOZ6j77d-4FlL0Asl4AaABAg.90VlqxANhgL90Vp_AOnp8t",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "성재 임 그리게여 오프화이트",
+        "writer": "Ugy2m9nZs4cKUE8QHXN4AaABAg.90VlqZjQXMq90Vnj8Yf8Uv",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마이너스는 처음이다",
+        "writer": "UgyKV_HPTLxnQqi9mKJ4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오프화이트 클라쓰",
+        "writer": "Ugyo1RR_hdv_iHCff9Z4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거만 기다렸음",
+        "writer": "UgxFgi7z2uPR7Hufq7Z4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 새로 올라올때마다 구독자 50만씩 늘어있는듯얼른 다이아가자.",
+        "writer": "UgyEkL7F6X4KOU7TepV4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 첫리플이다.",
+        "writer": "Ugw7kRhNKq6wfVmV0gN4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바로올라왓네 타밍굿",
+        "writer": "UgykDCARB61BJnBfV2F4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 잼나게 보겠습니다",
+        "writer": "Ugw5WBCHi23LAkaHTB94AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) (비속어), 재밌음,",
+        "writer": "Ugz9Vk0RnRaUf1UIcvh4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "더존비즈온 가",
+        "writer": "Ugy4iL3C_4dFPDBj42B4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바로 들어왔다 오늘도 입덕하러 왔습니다",
+        "writer": "UgwaW7bCP1awbOhHOpZ4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앗 발견",
+        "writer": "UgwRXc0ePNC3xR-v-UV4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내 밑으로 댓글을써라",
+        "writer": "UgxvHc3LQhlpQOOND1N4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이렇게 빨리 보다니",
+        "writer": "UgzaavF-Rl9umLa6jmN4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 최고다.",
+        "writer": "UgwYhdFfyhSvQ71zi6J4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 6시에 딱 올리네",
+        "writer": "UgwktMIiLnqBOOXKedR4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "알림 뜨기도 전에 왔당",
+        "writer": "UgwJvhLTDYvW1ocZ-214AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얍 1빠",
+        "writer": "Ugw37ALnKuqnfxPpftt4AaABAg",
+        "write_date": "2019-11-08",
+        "url": "https://www.youtube.com/channel/UCwx6n_4OcLgzAGdty0RWCoA",
+        "parent_url": "https://www.youtube.com/watch?v=jEA3p1ekzSw",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

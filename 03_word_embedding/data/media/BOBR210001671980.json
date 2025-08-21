@@ -1,0 +1,572 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001671980",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001671980"
+    },
+    "text": [
+      {
+        "content": "몰랐는데 손담비 가슴 크네",
+        "writer": "UgzCpzYZDS4WctNUmnB4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하찮은 하는데 웃음 퐉.. 취저 하찮은 미천한 삼류, 내 마음의 영원한 넘버원 예능인이십니당",
+        "writer": "Ugwq2UEAoOKBq2AYVEN4AaABAg",
+        "write_date": "2021-02-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김(비속어)님 최고입니다.",
+        "writer": "UgwmMT4ZZ4rJB8zfilp4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무도이후에 유일하게 방송시간이 기다려지는 프로 놀면뭐하니",
+        "writer": "Ugw8zaVapky6MLgmNDp4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가식떠는 연예인들보다 가식없고 시원시원한 (반사회적용어) 김(비속어)가 더 좋음",
+        "writer": "Ugy9Im8HMj2KAvtkert4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현미경으로 봐도 전혀 (이름)",
+        "writer": "UgzeTMoP3um1_sxouud4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김(비속어) 아직도 삿대질 하나 이건 예능 문제가 아니라 인성 문제인데",
+        "writer": "Ugx1B6LuNu4FydlzLkt4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김(비속어) 올해의 예능인상이 대체 몇 개일까",
+        "writer": "Ugy34WZluQW8yXImKqp4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댓글 (반사회적용어) (비속어) (반사회적용어)들은 안보던가 하면될걸 굳이쳐보고 악플담 예능은 예능으로봐야지 (반사회적용어)들은진심 다큐나쳐봐라 징징대면서보기불편하다말고 (비속어)",
+        "writer": "Ugz89O2fXAPeT53We8V4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진심 김(비속어)가 멋지다",
+        "writer": "Ugxp68Y3vYPyFnUaMQd4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가식적인 얘들보니가최고다 힘내라 넌진짜라믿는다",
+        "writer": "UgxhNKUOUmwi41kRnWF4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김(비속어) 씨 화이팅",
+        "writer": "Ugy0bA7v5t90wW7mdql4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사과해서 해결되는게 있고 사과해도 용서 안되는게 있다 자극적인 언행으로 인기 얻겠다고 위안부 할머니 팔아먹고 동료 연예인 약점 파먹으면서 살던 (비속어) 같은 인간은 후자 이다.",
+        "writer": "UgwAIvobNjW6aWfi1ul4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)형은 진짜 호감이다",
+        "writer": "Ugyp2KjigJ2ZgX7x4m54AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(혐오표현) 폐지 한다고 (비속어)철 갈때 (혐오표현) 시청율이 현재 라스 시청율임. 이제 그만 폐지해라 라스",
+        "writer": "UgzNtIhArNcv7rKTaKN4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꼴보기싫다, 진짜",
+        "writer": "Ugyn5hqZ-lcSG6JvQzx4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그 후에 몇 십년동안 위안부 할머니들 도와드리는 거 보면 그 부분은 놔줘도 되지 않을까 싶다 나는 물론 용서는 위안부 할머니들이 받아들이시는 (혐오표현)만",
+        "writer": "UgwAIvobNjW6aWfi1ul4AaABAg.9IAzloaYV-p9ICVZ-kdb9C",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "위안부 할머니 망언과 관련해서 방송활동 쉬고 봉사했었고 감사패도 받음. 그 뒤에도 지속적으로 봉사 중 남희석이랑 관련됬을 때 연예인들이 쉴드쳐준거보면 너보다는 잘 살듯",
+        "writer": "UgwAIvobNjW6aWfi1ul4AaABAg.9IAzloaYV-p9J66_fe0wlY",
+        "write_date": "2021-02-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "규모가 달라요 이사람아,",
+        "writer": "UgzNtIhArNcv7rKTaKN4AaABAg.9IA1tnfrCfb9J66KqIEnAF",
+        "write_date": "2021-02-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아아아이 뭔 규모 이사람아",
+        "writer": "UgzNtIhArNcv7rKTaKN4AaABAg.9IA1tnfrCfb9LcPqs9E6nj",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크라운베이비 운영하는 사람수",
+        "writer": "UgzNtIhArNcv7rKTaKN4AaABAg.9IA1tnfrCfb9MRE4wsSkkf",
+        "write_date": "2021-05-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "프로(반사회적용어) 겁나보기좋은디",
+        "writer": "Ugyn5hqZ-lcSG6JvQzx4AaABAg.9I9vINQzFqA9IH2_7hxohM",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)형은 가식없이 사이다맛에 보는것 같다",
+        "writer": "UgxCHrVXJZteXl3HAMN4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 올해도 또 맞췄네",
+        "writer": "UgyFc6w7T_dUCJApaA94AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김(비속어) 씨 난 정말 좋아요",
+        "writer": "UgxA7xeHZ6EyvLM8dvx4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그와중에 손담비 왜케 이쁨 나이들었나 했더니 드레스입으니",
+        "writer": "Ugxu0hQdfz777TNtRKF4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이젠 국민급mc 아닌가",
+        "writer": "UgwwuwHzn_pZj2qHSed4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)씨 왜 상받는가요, 상대 깎아내려받는상인가봐요, 참 말많네",
+        "writer": "UgzhMn6EzbisHGZ2NL54AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김(비속어) 내 최애 예능인",
+        "writer": "UgzEW1sOzdX2FhnDmKJ4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연예대상의 남자 시원한 분석 굿",
+        "writer": "UgwxkCXG3MnDTvjavBl4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "광고 주렁주렁이라고 하는데, 무한도전때에 비하면 절반 수준밖에 안되보임. MBC 뿐만 아니라 공중파 전체가 총체적 난국인 상황. 그중에서도 MBC가 가장 심각한데, 어떻게 이 난국을 헤쳐나갈지, 답이 안보이니 더 놀면 뭐하니 에 매달리게 될듯.",
+        "writer": "UgxNbzT6rpSRMvGBjW94AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "놀면뭐하니 . 200억 수익이에요",
+        "writer": "UgzsH2YIzIeBcpK7t0d4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "돗자리 까셔야겠네",
+        "writer": "UgxeE3iKIX1fl6W2Dmp4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저(비속어)는 뭐하노.",
+        "writer": "UgzXzw_g6Pxm-6U_a6R4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 시상식의 남자",
+        "writer": "UgwV_GnNJEgb2Xspxxp4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기까지만 봐도 됐었음 결과 다 맞았으니",
+        "writer": "UgxvBlrAxnhB6yRNwhd4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이사람 정말 그만 봤으면",
+        "writer": "UgyMpmBd4HONjuLZEcN4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜, 유재석,(이름)피디, .. 놀면뭐하니 너무재밌었어요, 역대급 프로그램,",
+        "writer": "Ugx7OpHStWyTCeSCQSF4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "클라스는 영웓하다",
+        "writer": "Ugxu0hQdfz777TNtRKF4AaABAg.9I34LRYtajP9OoKk0PzHyf",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "프로그램 많이한다구 국민 칭호는 아니죠 급 수준이 틀려요 호불호가 심한",
+        "writer": "UgwwuwHzn_pZj2qHSed4AaABAg.9I1ydpnFTmx9I9n_T4YzoL",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 국민이죠",
+        "writer": "UgwwuwHzn_pZj2qHSed4AaABAg.9I1ydpnFTmx9IFTWBWsBtt",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혹은 그냥 엠씨",
+        "writer": "UgwwuwHzn_pZj2qHSed4AaABAg.9I1ydpnFTmx9IG1HQkVrOl",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 수준높은 mc들 중에서도 헤드급mc는 맞지만 국민mc라기엔 호불호가 많이갈려서",
+        "writer": "UgwwuwHzn_pZj2qHSed4AaABAg.9I1ydpnFTmx9LW_ZiOZbhi",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "효임이 (비속어)랑 똑같네",
+        "writer": "UgzhMn6EzbisHGZ2NL54AaABAg.9I1JMdt2j1c9I1i61MCERi",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "본인 이야기를 굳이 적으셨네",
+        "writer": "UgzhMn6EzbisHGZ2NL54AaABAg.9I1JMdt2j1c9I39jEC7ejz",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이고 그만좀해라",
+        "writer": "UgzhMn6EzbisHGZ2NL54AaABAg.9I1JMdt2j1c9I5niEtDCEV",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋아하는 사람이 더 많아서 어쩔래",
+        "writer": "UgzhMn6EzbisHGZ2NL54AaABAg.9I1JMdt2j1c9IB57GPXmCZ",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "니가 왜",
+        "writer": "UgzhMn6EzbisHGZ2NL54AaABAg.9I1JMdt2j1c9IDMh8PpxD1",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐눈엔 뭐만 보인다고 뼈아픈 말 듣기 싫어하고 그런 말 들으면 본인 스스로 아는데 남이 말하니 기분 뭐같고 그러죠",
+        "writer": "UgzhMn6EzbisHGZ2NL54AaABAg.9I1JMdt2j1c9IEOMTp5qk1",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예능을 다큐로보는것들때문에 예능이 (비속어)되가는중 동물의왕국이나보던가",
+        "writer": "UgzhMn6EzbisHGZ2NL54AaABAg.9I1JMdt2j1c9IH2qfhNBO8",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "mbc올해 천억 적자 예상한걸 흑자전환 했고 거기에 놀면뭐하니 영향이 컸다는데 무도절반은 아닐듯",
+        "writer": "UgxNbzT6rpSRMvGBjW94AaABAg.9I0Fom-ncxK9IB4_PfEu6y",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모두를 만족시킬 수 없으니 정 불편하면 그냥 채널 돌리던가 출연 방송 보지 마세요 징징거리지 말고",
+        "writer": "UgyMpmBd4HONjuLZEcN4AaABAg.9Hs2z57xt869HsErVH2ywC",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "볼껀다보고 이런글 왜 남기나몰라",
+        "writer": "UgyMpmBd4HONjuLZEcN4AaABAg.9Hs2z57xt869HsqD2f568P",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "볼껀다보고 이런글 왜 남기나몰라",
+        "writer": "UgyMpmBd4HONjuLZEcN4AaABAg.9Hs2z57xt869HsqDUsRSWI",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 좋은뎅",
+        "writer": "UgyMpmBd4HONjuLZEcN4AaABAg.9Hs2z57xt869HubGxm9S2V",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이사람 모든 영상에 악플다네,",
+        "writer": "UgyMpmBd4HONjuLZEcN4AaABAg.9Hs2z57xt869HxwEtf6gdf",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "징징거리지마 괴팍한",
+        "writer": "UgyMpmBd4HONjuLZEcN4AaABAg.9Hs2z57xt869I18rW72Mjn",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "당신에겐 채널선택권이있어요",
+        "writer": "UgyMpmBd4HONjuLZEcN4AaABAg.9Hs2z57xt869I1d1A5SWuA",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너같은 (반사회적용어)때문에 예능이 다큐된다",
+        "writer": "UgyMpmBd4HONjuLZEcN4AaABAg.9Hs2z57xt869I1p86hHHFf",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예능은 좀 예능 대로 봐라 꼬우면 다큐 쳐 보시던가 (비속어)아",
+        "writer": "UgyMpmBd4HONjuLZEcN4AaABAg.9Hs2z57xt869I3L_9Of_ms",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 지 손으로 클릭해서 봐놓고 이런글 적는건 무슨 심보일까",
+        "writer": "UgyMpmBd4HONjuLZEcN4AaABAg.9Hs2z57xt869IAZrxWAwVC",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "님 뜻대로 되기엔 많이들 찾고 잘 나가쥬 님 인성보니 님 찾아주는 사람들은 1명이(반사회적용어) 있을지, 배 많이 아프신가봐요",
+        "writer": "UgyMpmBd4HONjuLZEcN4AaABAg.9Hs2z57xt869IC8Obz2T60",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "당신을 그렇게 생각하는 사람도 많아",
+        "writer": "UgyMpmBd4HONjuLZEcN4AaABAg.9Hs2z57xt869IDMmaWmCed",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)은 진짜(비속어) 굳이 유튜브로 또보고 그만봣으면 이란다 노이해",
+        "writer": "UgyMpmBd4HONjuLZEcN4AaABAg.9Hs2z57xt869IH2etoV6qr",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "니가 안 보면 되잖아 니 보기 싫다고 다른사람도 다 안봐야되냐 지능 수준 진짜",
+        "writer": "UgyMpmBd4HONjuLZEcN4AaABAg.9Hs2z57xt869IMa0A4miTf",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 댓글에 너가없으면",
+        "writer": "UgyMpmBd4HONjuLZEcN4AaABAg.9Hs2z57xt869IgXDTxch92",
+        "write_date": "2021-02-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 평가가 많으니 광고 주렁주렁 달리고 100억 찍을만 한 프로그램인것 같네요",
+        "writer": "Ugx7OpHStWyTCeSCQSF4AaABAg.9HrsvwlAl3q9HsEiwJPtYW",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전혀 없는데요,",
+        "writer": "Ugw4U7mAwc62IwHhW0d4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "100억, 미쳤나봐 정말 미워도 마냥 밉지않다",
+        "writer": "UgxiT0cSEtehpqRpChl4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "200억이에요 . 기사에 200억이라고 나왔어요 김(비속어)님이 조금 헷갈리셨나봐요",
+        "writer": "UgxiT0cSEtehpqRpChl4AaABAg.9Hrbj-yRwjG9I-QpCdXigs",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=cARmI3lBccA",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

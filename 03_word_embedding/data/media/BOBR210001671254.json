@@ -1,0 +1,508 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001671254",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001671254"
+    },
+    "text": [
+      {
+        "content": "(이름) 닮았다",
+        "writer": "UgwFPNt_QBZw9-lG2M14AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얼굴(반사회적용어)각 귀염뽀짝 좋아좋아",
+        "writer": "UgwZagdd00qsWGCzK-h4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뉘집아들인지 자알생겼다 나도이렇게 태어났으면 다른 삶을 살았을텐데 부럽다",
+        "writer": "UgxVCOZGes6NUkRpHxN4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)연기 잘하네요 화이팅",
+        "writer": "Ugy6cVFPIz-ShVi-BVJ4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대박 나세요",
+        "writer": "UgxhoCrY5tWGNj-3yxp4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대박나세요 끼도 많고 예능감도 좋고",
+        "writer": "UgyZqNZNmcqBm27p20V4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "춤 잘추네요",
+        "writer": "Ugzk0P0CtVxsQfIobA94AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)연기 정말잘하네요",
+        "writer": "UgwS1Yji7EWdI97rHAh4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 (반사회적용어)인줄.",
+        "writer": "UgxPN6cWjTfpcFLToQB4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어) 연기가 색다르네요",
+        "writer": "UgwCSXgBsvEwDxBdF6J4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와멋져요대박 춤잘춰요",
+        "writer": "UgyumtDO5pPfHWSHcNt4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어) 연기 리얼하게 잘하십니다.",
+        "writer": "UgweaOvhDQXz6j8Mu9J4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋아요 존비 연기 잘 하네요",
+        "writer": "UgxJY3RyruRWv2z_Z8h4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "춤 섬세하게 치시네요",
+        "writer": "UgxQi77w9IsVaF_5X654AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "춤 잘치시네요",
+        "writer": "UgyoB5LfaeMXbtjjTRl4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어) 연기 쵝오...",
+        "writer": "Ugx5h3rjUsTNdKJqgfx4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대박 잘생겼네요 남자가 걸그룹춤을우와 데뷔데뷔 (반사회적용어)도대박",
+        "writer": "UgwVPOxi3nZsfiQC0qd4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "춤이 너무 여자같이 잘하네요 여자아니에요",
+        "writer": "UgxkSnD-uCDn40zKt-Z4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 (이름) 빼달맛네요",
+        "writer": "UgyiC4nu_vnTIDLa4zh4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리얼 그 자체 훌륭함다",
+        "writer": "Ugwp-fFo0A6aTWdZJyh4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "춤 여자춤이네요",
+        "writer": "UgzG02IyaR_mCRgPWj54AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예능좋고 잘생기고 춤도 잘추네요 화이팅 하세요",
+        "writer": "UgwKOb-q3kojp8MJIQJ4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남자가 (반사회적용어)연기가 색다르네요",
+        "writer": "Ugymm2UGqQiLjGAhW1l4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "멋져요 이미 팬",
+        "writer": "UgyyYRg44SHex1QF2K14AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "멋져요 이미 아이돌",
+        "writer": "Ugy1xxeUpSh4_ROBKH14AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뉘아들인지 잘났다",
+        "writer": "Ugxqm--yrILL8R__wzJ4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이미 아이돌. 완전 멋져요",
+        "writer": "Ugz0OLpbdmCknLqH5AV4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조아종아 잘한다",
+        "writer": "UgyAQBbElkz_dSZmDxh4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 잘생김, 데뷔하시면 팬될듯",
+        "writer": "UgzRj1wtojmYOhPdiwt4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "끼가 다분하세요,",
+        "writer": "UgzZgH-Fd5MK7W4Mjcp4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 잘생겼당 짱짱짱",
+        "writer": "Ugy_U0zsPhPL-NoQH3t4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 되시겠네요",
+        "writer": "UgxySm-T8Rw4UVLK-g14AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "최고 연기 (반사회적용어) 최고,",
+        "writer": "UgyMxUhxIvBUsbP02Ex4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 너무좋아요 예능개성 넘멋져요",
+        "writer": "UgwIw52GBhwyQSuPMr14AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "응원할게요 멋져요",
+        "writer": "UgyIhD3UO_kwk0cD7KJ4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘생겼어요 기대가되요.",
+        "writer": "UgxRS2eBfk-pJORvqIB4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개성넘치고 멋짐",
+        "writer": "Ugzk_5Kgdv099-h6Q-F4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 잘생기셨네요..",
+        "writer": "UgwvFjszzj_sTqrC1bB4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연기도잘하고 (이름)도좋네요",
+        "writer": "Ugzj1l3-f4j_wd_3ABB4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넘치는끼와재능이 무척 기대되네여",
+        "writer": "Ugy_Ogszej6VJY2DtCN4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대박 나시겠내요.",
+        "writer": "UgzeJSa1dB8V-GGutpZ4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연기를 잘하시네요 귀엽기도하고 얼굴도 잘생기고 탤런트기질이 최고입니다.",
+        "writer": "UgzQgP8-vZkvk2jDJ3F4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 연기력이 대박이네요 (반사회적용어) 하셔도 될거 같아요.",
+        "writer": "UgyuTBD2XFu0rF-DIIV4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윤재 공주 왕자 둘 다 하자..",
+        "writer": "UgwsqxT07IFGlQk7ZLh4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "완전 공주같아요.",
+        "writer": "Ugzu4M6L-EQL0a9H6UZ4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 생기셨네요",
+        "writer": "UgwcsiIeRUAnMwcRHmV4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 진짜 이목구비 뚜렷하시다,",
+        "writer": "UgyIS0QeIPGzYvsQ1Px4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와 잘생겼당",
+        "writer": "UgwbWp54eI1jgLY7_oJ4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "짱윤재 화이팅 .",
+        "writer": "Ugz4gULOHJUU11MY71l4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "훤칠하시네요 대박나세요",
+        "writer": "UgyflCp_9E68bGQW4lZ4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "끝에 웰케 귀여워용",
+        "writer": "UgyyKVtZvKHM87-I9s94AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재미있고 멋있어요",
+        "writer": "Ugxva2SfEEbrPG9o-lp4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우왕 멋져요",
+        "writer": "Ugy3Da6z0WWNpbyw0Sx4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "끼가 있네 잘 되길..",
+        "writer": "UgzuCmcp_kYd_jQ_3wR4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쏴피야픽 나윤재. 데뷔하자 화이팅",
+        "writer": "Ugx1yrzjIMChhgm1oW54AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "데뷔각이다 매력 대박",
+        "writer": "UgwjcwsMOa0KDOHiF-B4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댑악, 응원합니다",
+        "writer": "Ugyhylk7LyJcuc2amFh4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "매력있네요 화이팅.",
+        "writer": "UgySYFtIIKphkGLRCh54AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 분 대박나시길,",
+        "writer": "UgzjS461VPUUBuzgJ6x4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 분 잘생김 데뷔하면 대박날듯",
+        "writer": "UgwyPp8o7zrgXLnn2p14AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얼굴도 (비속어) (이름) 닮았당... (반사회적용어)연기 (비속어)네",
+        "writer": "UgwEmnNM3lwLniDpKhh4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "젤 잘생겼다 13호.",
+        "writer": "UgzUURSCL8ahc3_SyXR4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=qhKXNmHKBnM",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,628 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001655566",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001655566"
+    },
+    "text": [
+      {
+        "content": "디 니 랜드 가고 싶다,",
+        "writer": "UgxETm-lw8c-1cGgmnZ4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1.5에서 오타남 공감인데 동감이라고함",
+        "writer": "UgwUMBiM8ABTbeV0FIl4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "4기가 지니는 없나용",
+        "writer": "Ugxb-JE_YH49HmhN7qJ4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "4기 강이 강이 쉿",
+        "writer": "UgwRe3YF3uvUaTOGwmJ4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "4기 강이 젤 웃기네",
+        "writer": "UgyEFEchRi2Ir-zYpZ54AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "디즈니 크루즈 여기에서 우리 삼촌 데리고 갔는데",
+        "writer": "UgzFofLrFCnaCNqHoFB4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "강이 역시 친오빠",
+        "writer": "UgwMlA9XD5_VP8tJa-Z4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "간도윤 기 다 리 사 랑 같이 갈 때 마다 달라 아 근데 진짜 시간 되면 다시 한번 확인 후 바로 그",
+        "writer": "Ugwrq14ULKsOCufY9ml4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이때 강이 잘생겼었어",
+        "writer": "Ugyn0O8T62tfhE1bx1p4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "첸님이랑 포카님 진짜 잘어울린다",
+        "writer": "UgzlQ9q4DfSnVHtJWmd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 저 회사 들어가고 싶네요",
+        "writer": "UgxxVuf2qw9hIuCP5-l4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막에 누구 때문에 스트레스를 받았는지에 대한 자막 나오는데 (이름) 얼굴을 띄우냐곸",
+        "writer": "Ugyocgfu_kZM0FL_mmJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "디즈니 랜드 한 도시처럼 엄청커서 하루만에 돌아보긴 힘들듯,",
+        "writer": "UgxZ93MMiuRzM3VrCBh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "4기 강이",
+        "writer": "UgyFAiQn_3irvmljplx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 살찐게 나은데,",
+        "writer": "UgyHaVn4XKuv_AZ2Q2x4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "첸님 옆분 찐으로 놀란 것 같은데",
+        "writer": "Ugw--0qJnI-9hz7lEV94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "물론 직원분들 도 당연히 좋았다고 할것 같구요",
+        "writer": "UgwASi82YmvTy2DY0nB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헤(이름) 직원 생각 엄청하시고 아끼시는것 같아요 최고.....",
+        "writer": "UgzB3zkNspq9UCAweup4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 답을 말하시오 어때어요 직원 조, 좋았어요... (이름) 정답......",
+        "writer": "UgxzqtnQWMqIIfuCM714AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마저마저 그래서 강이 못알아봤는데 드디어 알아보겠네요,",
+        "writer": "Ugy3rFfy2ZLhkZI-ptp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 뭐든 잘생김, 이건 킹정 아닙니까,",
+        "writer": "Ugze_MNWqZGkNgYCt4p4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "디즈니 크루즈 미키가 크루즈 여행할떼 탔던건데 실제로 있었구나,",
+        "writer": "Ugxiek0mxaWnt7uV1tt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 4기 강이",
+        "writer": "Ugxpj-15sqcQIUWHdcp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엇 (이름)이디",
+        "writer": "Ugy8Gf3_E8ROMweVStp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "빨간 머리 분 (이름)이신가 ,",
+        "writer": "UgyDwBHI1xszcrryaRx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헤(이름) 너무 (이름)고 재밌어요 키즈컨텐츠 회사 내부( ) 볼 수 있어서 좋아요",
+        "writer": "UgyFOY1v5EyxA3q_c3J4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그 당나귀 사원들 한명씩 다른회사 사장 밑으로 가서 1일체험도 재밌을듯",
+        "writer": "Ugyo3nHtpZS0bJ_K_hF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 디즈니쿠르즈 갔는데",
+        "writer": "UgwJMY45uPb7f4dTwbN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐야뭐야 첸님이랑 옆에분 옷색깔이 같아 어머",
+        "writer": "Ugy7bnEf1qvoki_uXSN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 회사 나중에 가고싶다 (이름)이 받아줘야지,",
+        "writer": "UgzuRqZMUqAEaU2DYs54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제 생각에는 행복한 살 같은데",
+        "writer": "Ugye3VKyBk1-YRzIPmd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 퇴근하고 즐거운 시간을 가지셨나본데",
+        "writer": "Ugx3wK2TQdYn3OpzIdp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초에 솔직히 2번 외국인같음 거의",
+        "writer": "UgzLMI5kLDhSyAQ3mxl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 기부하라는 댓글 있는데 얘들아 1000만원 기부했어 뭘더 바래",
+        "writer": "UgwXRl4paiD3K8Lr2yp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 다시 1기로 돌아오길",
+        "writer": "Ugy65PobWSeod4JZ_pl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다른 사람이 기부하면 좋은(혐오표현)만 그게 당연한건 아닙니다,",
+        "writer": "UgyS1q2Wmku7Kk6IweJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인정 금 지금사장이 얼마나 귀한지 알겠지",
+        "writer": "Ugyo3nHtpZS0bJ_K_hF4AaABAg.96pVRH18fh898oMuigmTFZ",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "빈대 입니다",
+        "writer": "Ugyo3nHtpZS0bJ_K_hF4AaABAg.96pVRH18fh899Bx8MlQYnb",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "특히 첸님",
+        "writer": "Ugyo3nHtpZS0bJ_K_hF4AaABAg.96pVRH18fh89G6KgZJ6i11",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그게 왜요",
+        "writer": "Ugy7bnEf1qvoki_uXSN4AaABAg.96m5K4fwa349KWvSXw9XF1",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꼭 저런 애들이 10만원도 기부 안해본 애들",
+        "writer": "UgwXRl4paiD3K8Lr2yp4AaABAg.96PV4cFR3AO9DDbnfk5Jx_",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 검은 옷 여자분은 삼겹살 고추장 절대안찍어 먹고 쌈장에 찍어 먹는 분이다",
+        "writer": "Ugx9FmjpZAkANVrVbIZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요즘 어려워 좋든 싫든 잘 붙어 있어야해",
+        "writer": "Ugxv_QMoYDM9_D4vPW54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "당나귀귀에 헤(이름)는, 맞지 않는거 같, 크흡, 전체적인 연령대를 좀 고려해주시길,공감대 제로에 가깝군요",
+        "writer": "Ugw0pWT0ur_IEgVjXeV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기부는 자기 마음이지 왜 안했다고 인색하다 어쩌다 하는거야, 그리고 기부 몰래 할수 있잖아, (이름) 사람이 참, 많구나, (이름)도 기부했는데 꼴랑 100만원 했냐 하더니 , . 그러지마 니들 좋으라고 하는게 아니야,니들이 뭔데, 그렇게 상처되는 말을 하는데 나중에 똑같이 돌아와",
+        "writer": "UgyVlW4UcX07QWyYaIF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왘(이름) 오랜만에 영상볼때 어 ,(이름) 분위기가 달라졌다 뭔가 달라진거같당, 이랬는데 살쪄서 그렇군욬",
+        "writer": "Ugy1N8WKUuY9EQ5CLf54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사장이 나름 직원생각 많이하네",
+        "writer": "UgyePd-phiUPiK27li14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사장의 질문에 직언",
+        "writer": "Ugx5Ek4osiGstwxlvJ14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃는거 매력있네,",
+        "writer": "UgzRZCg5RKoeulH5KsR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정심이가 (이름) 소리해서 댓 달아요 헤(이름) 코로나 기부했어요",
+        "writer": "UgzYgUchP5_WC9eYLOZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "삼겹살을 고추장에, 찍어먹나요",
+        "writer": "Ugx9FmjpZAkANVrVbIZ4AaABAg.96N0upBEWX89DDbtHCKiu3",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Marco Yoo 그럴 수도 있죠 헤(이름)가 고추장에 삼겹살 찍어먹어요",
+        "writer": "Ugx9FmjpZAkANVrVbIZ4AaABAg.96N0upBEWX89HOQFGOvA2q",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 뒤에 은 왜 붙이시는 거죠 비꼬는 말투인가",
+        "writer": "Ugx9FmjpZAkANVrVbIZ4AaABAg.96N0upBEWX89HOQJ1-40MU",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둥둥 세상밖으로 나오세요 집에만 있지말고 세상은 참 따듯하답니다",
+        "writer": "Ugx9FmjpZAkANVrVbIZ4AaABAg.96N0upBEWX89HOS3yOeDuX",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건드리면문다 님 너무 재미있으시네요 그래도 험한말 하지마세요 오잉은 (반사회적용어) 같은데반사회적인격장애",
+        "writer": "Ugx9FmjpZAkANVrVbIZ4AaABAg.96N0upBEWX89HOSWOv3MPR",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "옥바리 워워 오잉 손 (혐오표현) 대는 소리 들린다요",
+        "writer": "Ugx9FmjpZAkANVrVbIZ4AaABAg.96N0upBEWX89HOSs8VpjDY",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둥둥 비꽈도 님을 꽈배기처럼 꼬울순 없으니까요.",
+        "writer": "Ugx9FmjpZAkANVrVbIZ4AaABAg.96N0upBEWX89HOT5aWa-N_",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그 할매가 더 안맞음",
+        "writer": "Ugw0pWT0ur_IEgVjXeV4AaABAg.96M-MPEbb-a96P-x1dnpNs",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그런 걱정도 있었지만, 저는 오히려 신기했는데. 어른 시선의 지니모습은 어떨까 하구",
+        "writer": "Ugw0pWT0ur_IEgVjXeV4AaABAg.96M-MPEbb-a96Q0SgZ3jzS",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 재밌는디",
+        "writer": "Ugw0pWT0ur_IEgVjXeV4AaABAg.96M-MPEbb-a96jsqDzw6u6",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헤(이름) 싫어함 댓글마다 빼라마라야 보기 싫으면 본인이 다른거 보면 되는거임",
+        "writer": "Ugw0pWT0ur_IEgVjXeV4AaABAg.96M-MPEbb-a9DDc0leR1y0",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "심지어 1000만원 기부했는데도 기부하랍니다,",
+        "writer": "UgyVlW4UcX07QWyYaIF4AaABAg.96Ls9MDVgwg96PVEAEJmma",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니근데진짜 페이커",
+        "writer": "UgyVlW4UcX07QWyYaIF4AaABAg.96Ls9MDVgwg96QcxfgB0aC",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정작 지들은 만원도 기부못하면서",
+        "writer": "UgyVlW4UcX07QWyYaIF4AaABAg.96Ls9MDVgwg96URTD27yOI",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니근데진짜 그래서 팬이랑 같이 또 다시 모금해서 3천만원 이상 냈다는데 지들은 마스크 가격 2천원에서 4천원만 되도 부들거리고 안내면서 남한텐 100만원이 돈이냐 1000만원이 돈이냐 하고있네",
+        "writer": "UgyVlW4UcX07QWyYaIF4AaABAg.96Ls9MDVgwg96X_h7PVuHR",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기부는 양이 중요 한게 아니라 마음이 중요합니다",
+        "writer": "UgyVlW4UcX07QWyYaIF4AaABAg.96Ls9MDVgwg96_9fTHP0Ug",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서현 개당 500원이니까, 2000000개,",
+        "writer": "UgyVlW4UcX07QWyYaIF4AaABAg.96Ls9MDVgwg99-eIZWX5AC",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "설플림 2000개 아니에요",
+        "writer": "UgyVlW4UcX07QWyYaIF4AaABAg.96Ls9MDVgwg9APlaV1kbDU",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "설플림 뭔 계산을 어떻게 한 거야",
+        "writer": "UgyVlW4UcX07QWyYaIF4AaABAg.96Ls9MDVgwg9J4rYcsLi8w",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 미안, 나도 무슨 정신이었는지 모르겠다",
+        "writer": "UgyVlW4UcX07QWyYaIF4AaABAg.96Ls9MDVgwg9J4zqI3rHv5",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자기들은 기부 못 하면서 다들 저격 하지 마세여",
+        "writer": "UgyVlW4UcX07QWyYaIF4AaABAg.96Ls9MDVgwg9P_2Xo-O7ni",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "코바 초 그게 아니라 (이름)이 직원 분들 생각을 많이 한다는 거에용",
+        "writer": "UgyePd-phiUPiK27li14AaABAg.96LiePBJWup996ZP17OhUd",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정심이님이 누구에요",
+        "writer": "UgzYgUchP5_WC9eYLOZ4AaABAg.96Gr3AOdc4o96LkUi6Pusw",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "레드벨벳사랑해 댓글 내리다보면 있어요",
+        "writer": "UgzYgUchP5_WC9eYLOZ4AaABAg.96Gr3AOdc4o96LlQycKd4c",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정심이가 누군가했네욬 난 헤(이름) 좋은데 ,",
+        "writer": "UgzYgUchP5_WC9eYLOZ4AaABAg.96Gr3AOdc4o96PFuiY8UWl",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정심이가 누구에요,",
+        "writer": "UgzYgUchP5_WC9eYLOZ4AaABAg.96Gr3AOdc4o9951SIcn73v",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앗 깜짝아 정심이 우리 큰고모이름이여서 깜짝놀랐네",
+        "writer": "UgzYgUchP5_WC9eYLOZ4AaABAg.96Gr3AOdc4o9JvLbqMOuvy",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=dZenn6yc8fA",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

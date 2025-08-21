@@ -1,0 +1,772 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001671997",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001671997"
+    },
+    "text": [
+      {
+        "content": "헐 이불이라고요 금손이네",
+        "writer": "Ugx9opjPMDtO7JmzGbl4AaABAg",
+        "write_date": "2021-05-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이불 드레스 이쁘세요",
+        "writer": "Ugy20CMqnlen5vk5fkt4AaABAg",
+        "write_date": "2021-03-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사랑해여 언니",
+        "writer": "UgxHmBX-vg_090rN0YF4AaABAg",
+        "write_date": "2021-03-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방문 탁 닫고 등장하는것부터 (비속어)",
+        "writer": "UgwMPF6Uxq8tnWjseC14AaABAg",
+        "write_date": "2021-02-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이쁘다 효리",
+        "writer": "UgzoVpE1MbUxXPbUBT54AaABAg",
+        "write_date": "2021-02-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 쎼(비속어)야",
+        "writer": "Ugxn0RPvyirUtBYUv-Z4AaABAg",
+        "write_date": "2021-02-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "로마서 네가 네 입으로 주 예수를 시인하고 또 (이름)께서 그를 죽은자들로부터 살(반사회적용어) 것을 네 마음에 믿으면 구원을 받으리라. 위대하신 (이름) 아버지 저는 (반사회적용어)에 갈 수 밖에 없는 죄인입니다. 저의 죄를 (반사회적용어)하오니 용서하여 주십시오. 저는 (이름)께서 (이름)이시며 저의 모든 죄를 위하여 십자가에서 피 흘려 죽으시고 장사되셨다가 다시 부활하신 사실을 믿습니다. 저를 (반사회적용어)으로부터 구원해 주셔서 감사합니다. 주 예수 그리스도의 이름으로 기도합니다.",
+        "writer": "Ugz0bn1aCfPHB4eZfMF4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 항상 느끼지만 너무 센스 넘치는 연예인중 하나 (이름)... 예전에 효리네 민박 하실 때부터 응원했어요 방송에 더 자주 나와서 재미있는 방송 많이 많이 해주세요. 앞으로도 응원할게요 파이팅..",
+        "writer": "UgwROxZvhphYFn-J-754AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 진짜 이불드레스 진짜 (이름)는(이름)다 찰떡",
+        "writer": "Ugy1rsVe-38Dnm5ciFx4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이불을 둘러도 고급 드레스로 보이게 만드는 클라스",
+        "writer": "UgwDQKGRXucBdjJ1qqh4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 왜 눈물나지",
+        "writer": "Ugzv1mWTCtT04xGBYER4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "축하하고 응원합니다.",
+        "writer": "UgwQWoQJubvvqzlFFxd4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저거 생방으로 봤을때 역시 (이름) 드레스도 잘어울리네 이러고 있었는데 이불이였음",
+        "writer": "UgycgXKOXdu8A4mO_Ah4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "명품 드레스같아요 역시 효리언니",
+        "writer": "UgyHSRJh7YZhAw9hqC94AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 연예인의 연예인이다 이불을 둘러도 귀티가 나네,",
+        "writer": "Ugxcdsoj_4PCMJ3Aw4F4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)는 이불드레스 난 싫더라 말도 함부로 하고 시댁서도 그랴",
+        "writer": "UgywI9uoIrHhQqCxgKF4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 (이름)",
+        "writer": "Ugy6g9f8p5CjS5VsWGd4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서울mbc는 포항mbc의 기사 월성원전 방사능누출 보도하라 매우 심각 국민의 알권리다",
+        "writer": "UgxI0GuETAmezvRxHqB4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스님인줄 알았어욬",
+        "writer": "Ugzp2CUkVZISQ7gfoIB4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 느끼는 (혐오표현)만 옷이 문제가 아니였어, 내 인생 너무 슬프다",
+        "writer": "UgzKKBgO4dk0sgWBdsZ4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "L9JPWjnaBTQ 틱톡 10초만에 7 000원 벌기 출금까지 11초 (단 28일까지 신규 한국인한정) 폰인증 X bb",
+        "writer": "UgwMYD6ZsZ0gAHh7mP94AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와 뭘 입어도 너무 아름다우세요. (이름)니 저런 수상 영상도 고퀄처럼 보이네요.",
+        "writer": "UgyhwXTMNv4h-QyRlzt4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대단하다 (이름) 이불 드레스라니 큰 웃음 주네요",
+        "writer": "Ugxj6Oe1SzlSF4DEJBl4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역쉬 이(이름)",
+        "writer": "UgzFAQ8jDIIycqU6mot4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이뿐 효리는 당장 스타일리스트부터 바꾸세요",
+        "writer": "UgyeDka46QDzqfFt0wB4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 진짜 말 안했으면 이불인줄 몰랐을거같음 오 드레스 이쁘다 이생각했는데,",
+        "writer": "UgwUGQhGD3e3-7liEn94AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이불 디래스",
+        "writer": "UgyJuGaN50Zoc-MBc4V4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찐 (이름) 축하드려요... 넘나 찐팬이에요..",
+        "writer": "UgyJfNQrAyt1n4ZhPYt4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜웃기다 (이름) 이불드레스가 머야 몸매가 워낙 바쳐주니 뭘입어도 이쁘네 눈섭사이 코가운데 점만 찍으면 미스(반사회적용어)인줄",
+        "writer": "UgybnCos7frbeDmCPdR4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이(이름)의 센스는 (비속어)요 지리지요 보고 빵 터졌어요 멋진 이(이름) 앞으로도 응원하겠습니다",
+        "writer": "UgwXO0wa5_61RgXkO3J4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 왜 시상식에 못온건가요",
+        "writer": "Ugx00nuhUGfEaIA13-94AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "효리씨는 이런게 넘넘 매력있어요 항상 건강하세요",
+        "writer": "UgzvO4QuUgyy_1gVpB94AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "순심이, 많이 울었던 것 같아, 짠하다 축하해요 나의 효리",
+        "writer": "UgzyDY5Ge_wAdhVNptd4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좌 파나라말아먹는것들",
+        "writer": "UgyymPXkUwHKjgYXent4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)는 모든 연예인이 부러워 할듯. 어딜가도 안좋은 댓글 몇개는 있는데 이렇게 칭찬만 있는거 보는것도 (이름)다_( ) 연예인 of 연예인",
+        "writer": "UgxD_bfpdRhxYbibYEl4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한참을 웃었다. 너무 센스있고 (이름)네요.",
+        "writer": "UgyxIS2AfrwesHz_8xF4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)만한 연예인은 앞으로도 없을듯 다림질도 안한 이불로 드레스를 만들어 입어도 예쁘다니 당신이 짱인듯",
+        "writer": "Ugyn3B-K75E-HdSi0Dl4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "올해 횰언니 당연히 받을만한 상 이였지 나오기만해도 슈퍼스타 (이름)",
+        "writer": "Ugx6YNCioinJY0Rz(반사회적용어)F4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 멋지네요",
+        "writer": "Ugx2NK2rUuf3EZ4PgVJ4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "순심이 보내고 엄청슬퍼서 얼굴이 많이 부은듯",
+        "writer": "UgyXAJCLDRdfhXIWVLB4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜예능감 쩐다이불로 드레스 만들어 입어도 (혐오표현)쁘다",
+        "writer": "Ugw3UGIokoYgaZLBb3F4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "멋지다 (이름). Cool하고 Hot한 (이름).",
+        "writer": "UgyRf9K8WvJISSM57nF4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시(이름) 짱이예요",
+        "writer": "UgwDJBH4XaiP91R53mR4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 축하드립니다 (이름)도 고맙습니다. 횰 사랑합니다",
+        "writer": "UgwJAoEfX079vA-s8qx4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "갈수록 멋지기 힘든데 갈수록 멋져지는 몇 안되는 연예인",
+        "writer": "UgzQNavhmGuN9bdlHkd4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울어서 눈이 퉁퉁 부어 있네요, , .",
+        "writer": "Ugyt7gialIdS1lWfWS54AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이불드레스 정말 멋지네요",
+        "writer": "Ugz6CuIpGxpO1F31iU54AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 언니센스 미침, 태어날때부터 연옌이었던거 아닌가요",
+        "writer": "UgwUvVuZTR-ucc4WRIh4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜인지 효리언니 다음해에 아기 생길거 같아요. 아니구나 올해네.",
+        "writer": "UgwD4fOSKvw5rU_y9Jx4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 시대 진정 최고의 스타",
+        "writer": "Ugx8VGjalA3E4ovBTmN4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 효리",
+        "writer": "Ugx949lSCE98rj1a2AN4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무나 받을만한상이었고 그영상소감마저도 (이름)였음 본인이 힘들어도 시청자들에게 재미와 얘깃거리를 만들어 주는 천상연예인 상 너무 축하하고 얼른 또 보고싶어요.",
+        "writer": "UgyJHZu4DMKBs3rYkw94AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은소식 기다릴게요 그 소원 이루어지면 더 완벽 해지겠지요",
+        "writer": "UgzWhjKQ-3N7B6p3dph4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맘이 얼마나 아플까",
+        "writer": "Ugyt7gialIdS1lWfWS54AaABAg.9I2bhLahku19I6JT4TN6QM",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 센스는 저세상 센스 , 진짜 우리가 상상하는 이상을 보여주는 연예인 중 한 명인 거 같아요. 출연하지 않아도 화제성 만드는 연예인 , 누나 세상에서 제가 가장 좋아해요 변치않을게",
+        "writer": "UgzQAkGihjr4KVga6Gx4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에휴 시상식이 장난이냐 넘들은 진지하게 차려입고 귀한시간 내서 참석했구만",
+        "writer": "UgxJBpLAXaoJHl-hEYt4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연연해하지않아 더 아름다운 효리. 배울 점이 많아 더 좋은 듯. 변함없이 선해서 더 아름다운 모습 오래 간직하고 건강하게 친구같은 스타로 시대를 함께 살아주길",
+        "writer": "Ugx5qJns9rWw7gASHjt4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "외 (이름) 센스 정말 ....",
+        "writer": "Ugz85f7qoZs7Zg7acTh4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영원한 아이콘 효리 언니 축하해요",
+        "writer": "UgySYYcafWLvlRYxemh4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이불 드레스",
+        "writer": "UgynfxlXLCliQjY4I2p4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참 아름다운 사람,",
+        "writer": "Ugwxue-Xn7xYl-eXXy14AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)인 모나리자 느낌이 좀 있다",
+        "writer": "Ugynq_uVcPWAYY1ZPHd4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "장난인건 니 인생이고",
+        "writer": "UgxJBpLAXaoJHl-hEYt4AaABAg.9I-GXr0Tg2U9I0NuCIhOmY",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너나 니 인생 제대로 살아라 이딴 댓글 달지 말고",
+        "writer": "UgxJBpLAXaoJHl-hEYt4AaABAg.9I-GXr0Tg2U9I0fR5a1R78",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "할일없나 그냥보지마 ,",
+        "writer": "UgxJBpLAXaoJHl-hEYt4AaABAg.9I-GXr0Tg2U9I0qCEEDPTc",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 패버리고싶네",
+        "writer": "UgxJBpLAXaoJHl-hEYt4AaABAg.9I-GXr0Tg2U9I2Dou8tD0Q",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)(비속어) 확때려불까 말을 저따구로해, (이름)니까 가능한건데",
+        "writer": "UgxJBpLAXaoJHl-hEYt4AaABAg.9I-GXr0Tg2U9I5R9u27liJ",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누나 이불 뭐 써요 왜 고급져 보이지",
+        "writer": "UgylfZiG6GRoN4nVx7Z4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 편안해보임",
+        "writer": "Ugz3UFs2Yxtw4D_iiFV4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 이제껏 본 드레스 중 제일 섹시하다.",
+        "writer": "UgzpNVwibmKNV95zJrR4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "효리씨 어떻게해요 자식같은 숨심이가 화면에 효리씨 눈이 퉁퉁부어있다숨심이가 효리씨 자녀로 다시태어날것 같아요 힘내셔요",
+        "writer": "UgzoZ8a8FVU14tFASPV4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "올 한해 효리씨덕분에 행복하고 너무즐거워어요 재석씨랑 공동 대상 수상자입니다 멋있는사람",
+        "writer": "UgwMRcso9BpaMF-xMXR4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "횰언니 완전 축하... 올한해 언니 덕분에 즐거웠던것같아요. 매주 놀뭐보는 재미로 살았네요. 진심 넘 감사.",
+        "writer": "UgxWJGwEHCuIHF3IofB4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참석은 왜 안했죠",
+        "writer": "Ugz2_QFuK-lbc2xTvph4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "효리 효리 효리 짱짱짱짱짱 입니다.....",
+        "writer": "Ugz3ggp7Q_Lz6OqVT3t4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이불드레스 진짜 (이름)다 저것마저도 고급스럽다 진짜 립스틱만 발(반사회적용어) 연예인이구나",
+        "writer": "UgzI8x1htS76bUOvJXl4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 이불드레스도 언니가 입으니까 명품같네",
+        "writer": "UgyRXLY8IfggPl6CQ814AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "효리 언니 (이름)상 너무 축하드려요.. 이불드레스를 입은 언니 모습은 어떤 드레스를 입었을 때 보다 눈부시고 아름다웠어요. 순심이가 하늘로 가서 많이 속상하셨을텐데 그래도 이렇게 밝은 모습 보여주시니까 너무 감사해요. 올 한해 언니때문에 얼마나 많이 울고 웃었는지 몰라요. 작년까지는 홀로 울적할 때 효리에 민박으로 위로를 받았는데 이번년도는 코로나로 사람을 만나지 못해 외로울 때 놀면뭐하니에서 언니 모습보며 힘 많이 받았어요. 상순오빠랑 효리언니 진짜 늘 건강하시고 새해복 많이 받으세요. 유튜브 댓글에 너무 진지하게 달아서 죄송합니다. 내년에는 직접 팬레터 작성해야겠네요. 아무튼 언니 사랑해요",
+        "writer": "Ugzw8gGZI4GFO0IuQX94AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이불 드레스, 센스 뿜뿜 효리짱..",
+        "writer": "UgzDnzH7T94iinVkLr54AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "효리 언니 설마",
+        "writer": "UgwFCFggb64x6PaZ3wl4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이불 드레스로 이제는 올해의 베스트 드레스상까지 거머쥐겠는데요",
+        "writer": "Ugw8PgPk52c2O75BIHZ4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번엔 인정할만 한 수상자들이네. 축하해요 효리언니는 수상영상에서도 웃음을 주시네요이불을 걸쳐도 예쁜 횰언니 )",
+        "writer": "UgyKIgNsUdneUJ7dvoN4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "순심이가 무지개 다리 건너서 그런 거래요,",
+        "writer": "UgwFCFggb64x6PaZ3wl4AaABAg.9HrZzmOO0C19HvKYyl5R6K",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이불에 벨트만 해도 멋지다",
+        "writer": "UgzZN2lP6PgMGiWgSxV4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 언니 눈부은거봐, 순심이도 엄마 상받아서 행복할거예요",
+        "writer": "UgxO7uBTUFj_trSvmkd4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "효리는 천생 연예인인가보다,",
+        "writer": "UgyODorskvSw32utJR94AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭘입어도 이쁘네",
+        "writer": "Ugy3Jq7Q-Q5lM_Bnhyd4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "키 순서가 도레미파",
+        "writer": "UgyyguIq65qDLQp78T54AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "입가에 훈훈한 미소가 지어져요 ) 효리언니 편안한 모습이 넘 보기 좋고 안정감을 주네요 언니 축하드려요.....",
+        "writer": "UgyWzBVuiu1q4m3OOWF4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이불드레슼 (이름) 그냥 사랑합니다 수상 축하합니다...",
+        "writer": "UgzK2FlmJa_T2uZgcnd4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "횰 언니 gorgeous...",
+        "writer": "Ugzabebsvpf8dR6sUK54AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "순심이 무지개 다리 건넜어요",
+        "writer": "UgxO7uBTUFj_trSvmkd4AaABAg.9HrQ8vNEu0Y9HsseCdbX5Q",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래서 효리언니 연예대상시상식 못간가였군요",
+        "writer": "UgxO7uBTUFj_trSvmkd4AaABAg.9HrQ8vNEu0Y9I1RNKl1l8S",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이불 드레스 너무 찡.. 린다G 언니 축하드립니다",
+        "writer": "UgyoJ2QzNut5b2gnlfF4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 예뻐",
+        "writer": "UgxAva6pBjpcwNC_O5h4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=e7fY9L4W9GY",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

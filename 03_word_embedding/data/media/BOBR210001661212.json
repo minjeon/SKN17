@@ -1,0 +1,836 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001661212",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001661212"
+    },
+    "text": [
+      {
+        "content": "진심 지니네 회사 들어가고 싶다, 입사 개마려움 나도 저런 분위기의 회사 원해, 막내(반사회적용어) 좋아, 심지어 청소부(반사회적용어) 좋아,",
+        "writer": "UgyYfERuzl-uhPkVKyh4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "약간 학교에서 1교시에 공부 안하고 애니메이션 보는거랑 비슷하려나,",
+        "writer": "UgxFFHTl10GESX5ow-t4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헤(이름) 헤(이름)",
+        "writer": "UgzajyE7GfnKQSq0uYB4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "구독자 진짜 대박이다",
+        "writer": "UgzGWggZO_6C7iFJsHt4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이것이 꿈의 회사인가",
+        "writer": "UgwO--j6RlFoIQHLuXB4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "더 일찍 태어나서 저 회사 들어가고 싶다",
+        "writer": "UgwE08ZQxIo7pq9jkEV4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "신도림 시네큐인가",
+        "writer": "UgyrGTh3l-6jcki5aaZ4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니 나 2학년이양...",
+        "writer": "Ugzk86wbLKXq-CIVNqJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이분 보면 볼 수록 되게 이쁘시다",
+        "writer": "UgymA1rBdUat3lGoIah4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 일곱살이야 언니..",
+        "writer": "Ugw6i4qD6zqdBvaiPHh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저거나름대로 함들순있지만 진짜 친구들끼리 재밌게 노는거같닼",
+        "writer": "Ugxill3EYXbQMHUOycZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 이 회사 입사히고 싶어, 근데, 청소년,",
+        "writer": "Ugx96PM7UE3Av_AVDgZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나두 크면 저 회사 다니구 싶다,",
+        "writer": "Ugzefv54vAb5qu9TG414AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "5학년인데 지니를 보고 있다니,",
+        "writer": "Ugy-eGVO6y1VHFbPNad4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제일 특별한 회사는 핫도그 아닐까 싶어",
+        "writer": "UgzgfsJQw1knaMjbslh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밤에 술먹으면서 사회생활 하는 회사보다는 백배 천배 더 낫지 이 회사는 진짜 친구들이랑 노는 느낌",
+        "writer": "Ugxmi0ozuHSaGdR8nXF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "직원들 저녁에 칼퇴근 (반사회적용어)려고 아침회식 하는건가,",
+        "writer": "UgyJUIp1H1WK6C27VSt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 지니언니.",
+        "writer": "Ugw9AJ0EQagfUd0Adq14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니 제 소개할게요 일학년이에요 언니 계속 좋아하고 있어요 중 , 1 이에요 그래도 언니 좋아요 사랑해요 언니",
+        "writer": "UgzS0_x4UZDLY9hxO7F4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그건 그런것같아 영상편집이 중요하니까 다양한 영상을보면 아이디어가 떠오르고 그러니까, 좋은것같아요",
+        "writer": "Ugz_Y6PTdBYVFCLTZkd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지니, . 너무 귀여웡",
+        "writer": "UgwFGYSgok10ovp4G7F4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지니언니 예뻐요",
+        "writer": "Ugxi6MFWXw3zELqXqtx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다들 아침에 원하는거 겁나 다른거 왤케웃기냐고",
+        "writer": "UgzDHE6fk9TJE0k81V94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 입사하고 싶어요 (반사회적용어)는거 다 할 자신 있어요",
+        "writer": "Ugwf7LS2MyCPi7ICvod4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지니언니 6년만 기다려주세요, 꼭 입사할게요 언 ,",
+        "writer": "Ugz-yG3OtB4Bobcqk0d4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 회사 입사하는 방법 아시는분,",
+        "writer": "UgyzFt6avgEcRlcZhNB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지니언니 저도 입사할래요.",
+        "writer": "UgwQWFEsqO08XsacnjF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜이리 귀엽지, 누나 사랑해여. 고딩이지만 아직 누나 영상봐요",
+        "writer": "UgyygbULRWg6CAlwUPN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니 저 9살이예요 요즘 언니 많이 보고있어요...",
+        "writer": "Ugyaix5uzhMKC3jdgd14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지니 귀여웡 ..",
+        "writer": "UgxOCXfAExFfIfYL6U94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "첸씨는 옷이 저거밖에없나",
+        "writer": "UgzJOk3OzqNrxkoLEy94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맨날 술마시는회식말고 이런 영화보는회식 하고 싶닿",
+        "writer": "UgwO5K5yPmiVlKE02G14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저런 회사 재미있겠다",
+        "writer": "UgwJUtEbi9mx1a7ZcCJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "캐릭터 저작권은 어떻게 하려나 영상 몇개보니까 알라딘 지니도 나오고 디즈니 캐릭터들도 나오던데",
+        "writer": "UgyizxDqkKtljdExqeJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)가 모닝 술 어떠냐니깐 얼굴에 화색도는거보소 개귀엽네",
+        "writer": "Ugw1S4-i6WNF6j4wmFZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지니 언니 너무 상큼하고 귀여워요 대학교 3학년 입니다 가끔씩 헤(이름) 봐요,",
+        "writer": "Ugyd2WcErVQYeWqMn0F4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니 사랑해요 저 일학년이에요)) 중학교 일학년",
+        "writer": "UgxDIJi6REbUyK_FTP54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공부하든 회식이든 그걸 오전 근무시간에 돈주고 (반사회적용어)잖아. ...저녁시간 안뺐고.. 저런 회식이면 완전 찬성이지......",
+        "writer": "UgzT5-HzprjWEmyRBd94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 지니와 직원들 어린이 놀아주는 언니. 오빠 같다 다들 귀여워",
+        "writer": "Ugz7gTvIc1drnIgYnd14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와 재밌는 회사다 저런 회사에서 근무해보고싶다 계획한거 다 하면서 아침마다 같이 친목도모겸 놀 시간도 있는 그런 회사",
+        "writer": "UgwUluBUZkGxgxZ3m0B4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저기 우리 동네 영화관인데",
+        "writer": "UgxEMt7Pg4Y4uxXmm6l4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모닝술에 얼굴표정 바뀌는거 너무 귀여우시자나요진짜 넘 좋앜",
+        "writer": "UgxhC30SUDLNSUs2IeZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지니언니 사랑해요",
+        "writer": "Ugyh1nspmzysdSWLnKN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나두 언니 구독자에요",
+        "writer": "UgwlcKWfnhVPjQNN4IJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니 저도3학년이에여 중3,",
+        "writer": "UgyeY0p2M6Y5CmzAJPt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니 나 6살이야. 사랑해 예순여섯.",
+        "writer": "UgzNBaErEbKw4XuWvbR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 진짜이쁘다 웬만한 연예인같음",
+        "writer": "UgyPL-tU-X7CGA1c5_N4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 3학년이야. 3학년 2반, 서른 둘,",
+        "writer": "UgyfK4jIixLWpKByfV54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조조보고 무한리필가서술마심 다같이좋은거구만",
+        "writer": "UgytMEFnzCNeUI61Tkh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시대를 앞서간 회사다우리나라 (비속어) 사회에서 저런 회사 찾아보기 힘들지",
+        "writer": "UgzioKWa3aMUyox9gj94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모닝회식 최고다 부담도 없고 술먹는것도 아니고 영화 보는건데 최고지 최고",
+        "writer": "Ugxov7DH2wt455S1Rwt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나두 언니 구독자구 3학년이에염 중3",
+        "writer": "UgwzIbz-pc3W7tVf-D14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근무시간에 하는 회식인데 대찬성",
+        "writer": "UgzT5-HzprjWEmyRBd94AaABAg.96WGFZD2hrP96lyFc5e0dK",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기출변형으로 훅들어왔넼",
+        "writer": "UgzNBaErEbKw4XuWvbR4AaABAg.96SYK7iE4ms96TFBz0MRK8",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 프사아 으악",
+        "writer": "UgyPL-tU-X7CGA1c5_N4AaABAg.96SX7K1Ez0o9Fg3lTk3y79",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "배우같음 머리풀고 웨이브, 와,",
+        "writer": "UgyPL-tU-X7CGA1c5_N4AaABAg.96SX7K1Ez0o9G1SQXmfefF",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전 초3",
+        "writer": "UgwzIbz-pc3W7tVf-D14AaABAg.96OYlhhDZPS9IzElxGv5vf",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "채니나물 chaeny namul 잼",
+        "writer": "UgwzIbz-pc3W7tVf-D14AaABAg.96OYlhhDZPS9Q-e2kF6Q4E",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 회사, 격하게 입사하고 싶다,",
+        "writer": "Ugw4wBV2UF6IvvnmHTN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누나 나 3학년이에요.. 30살이긴 해 ,",
+        "writer": "UgxNfLrBCVrvwdfrpK94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니 나 2학년이에요 사랑해요 대학교2학년",
+        "writer": "UgyIc3HNnIF1vWPtWt54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 귀욤귀룜한 목소리로 일 예기 하니깐 보스베이비 같아요. 지니 언니 귀여워요",
+        "writer": "Ugww7HaQpS91e6pWF3d4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니 나 3학년이야 지니언니 사랑해요, 고등학교긴한데,",
+        "writer": "UgzejRPH5vb4vML6FwB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "파이어 님은 말을 왜 그따구로 말을 해요 인성으로 어디가서 일이나 할수있음 걍 그립이잖아요 아유 (비속어)의 (혐오표현)",
+        "writer": "Ugw4wBV2UF6IvvnmHTN4AaABAg.96NkUCLc6eb96WGJPhhiTe",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가은이 TV LOVE 미안합니다 너무 진지했습니다",
+        "writer": "Ugw4wBV2UF6IvvnmHTN4AaABAg.96NkUCLc6eb96WH1xZSELe",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "파이어 저도 갑자기 화가나서 죄송합니다",
+        "writer": "Ugw4wBV2UF6IvvnmHTN4AaABAg.96NkUCLc6eb96WHLLIfPvq",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "파이어 , 진지한게 아니라 초면에 저건 예의가 없는건데요,",
+        "writer": "Ugw4wBV2UF6IvvnmHTN4AaABAg.96NkUCLc6eb96YQ61kFLbn",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "파이어 님은 뭘 할 수 있어요",
+        "writer": "Ugw4wBV2UF6IvvnmHTN4AaABAg.96NkUCLc6eb96bILSS0uc2",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "파이어 개 무례하네",
+        "writer": "Ugw4wBV2UF6IvvnmHTN4AaABAg.96NkUCLc6eb96ePFenCKxw",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "파이어 님은 사회생활은 가능한가요",
+        "writer": "Ugw4wBV2UF6IvvnmHTN4AaABAg.96NkUCLc6eb97OzLHCpIBl",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김알란 죄송합니다 반성하겠습니다, .",
+        "writer": "Ugw4wBV2UF6IvvnmHTN4AaABAg.96NkUCLc6eb97QXcaEP0YC",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 미안합니다, .",
+        "writer": "Ugw4wBV2UF6IvvnmHTN4AaABAg.96NkUCLc6eb97QXd_QJfD7",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "알래스터 (비속어) 잘생겼다 (비속어) 미안합니다, .",
+        "writer": "Ugw4wBV2UF6IvvnmHTN4AaABAg.96NkUCLc6eb97QXfxd0U8z",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "닉닉 미안합니다 반성하겠습니다, .",
+        "writer": "Ugw4wBV2UF6IvvnmHTN4AaABAg.96NkUCLc6eb97QXhJXHRT2",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무슨 일 있었나요",
+        "writer": "Ugw4wBV2UF6IvvnmHTN4AaABAg.96NkUCLc6eb99JNKNR0Z10",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요하메 대학교 이학년",
+        "writer": "UgyIc3HNnIF1vWPtWt54AaABAg.96Lp2arvUQO96N3Qf7Z2Q1",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐야 초중등 생각했는데",
+        "writer": "UgyIc3HNnIF1vWPtWt54AaABAg.96Lp2arvUQO9AD-DBQ_p-m",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재밌는 분이시네요",
+        "writer": "UgzejRPH5vb4vML6FwB4AaABAg.96L4_w6jsGu96LGMChzNWh",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "캄미 KAMMI CAMP",
+        "writer": "UgzejRPH5vb4vML6FwB4AaABAg.96L4_w6jsGu96L_DoG3Ysr",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전 2학년 6반",
+        "writer": "UgzejRPH5vb4vML6FwB4AaABAg.96L4_w6jsGu96LwQVKjOv2",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 2학년 , 대학교",
+        "writer": "UgzejRPH5vb4vML6FwB4AaABAg.96L4_w6jsGu96N085n36cl",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나이가뭔대수에요 걍좋아하면되지",
+        "writer": "UgzejRPH5vb4vML6FwB4AaABAg.96L4_w6jsGu96NzCwZtLHV",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기 왜이랰",
+        "writer": "UgzejRPH5vb4vML6FwB4AaABAg.96L4_w6jsGu96OG4qKvjCc",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 오렌지주스 뱉었자나요 책임져요.",
+        "writer": "UgzejRPH5vb4vML6FwB4AaABAg.96L4_w6jsGu96Q-ckYdua0",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어) (반사회적용어) 생각했는데,",
+        "writer": "UgzejRPH5vb4vML6FwB4AaABAg.96L4_w6jsGu96Qrr0iINwn",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니 난 1학년이야 지니언니 사랑해요 대학교1학년이기는한데, . 내동년배들 요즘 집에서 지니언니 장난감 언박싱영상본다",
+        "writer": "UgzejRPH5vb4vML6FwB4AaABAg.96L4_w6jsGu96UwMB7LilC",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "노인대학3학년 올해로79세 이올시다",
+        "writer": "UgzejRPH5vb4vML6FwB4AaABAg.96L4_w6jsGu96XnvwWj_AM",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 2학년이야, 대학교긴한데",
+        "writer": "UgzejRPH5vb4vML6FwB4AaABAg.96L4_w6jsGu96jsLrCYdWR",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앜 전 중1인데 좋아옄",
+        "writer": "UgzejRPH5vb4vML6FwB4AaABAg.96L4_w6jsGu96pI2Uiessq",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저기 테크노 마트 인것 같은데",
+        "writer": "UgzejRPH5vb4vML6FwB4AaABAg.96L4_w6jsGu975c91ecuM3",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 3학년1반인데 31살",
+        "writer": "UgzejRPH5vb4vML6FwB4AaABAg.96L4_w6jsGu99IZyKL21sM",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기 영상 보지 말라고 댓 달라그랬는데 반전이네",
+        "writer": "UgzejRPH5vb4vML6FwB4AaABAg.96L4_w6jsGu9BwvL7FgXce",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "2학년 8반 28",
+        "writer": "UgzejRPH5vb4vML6FwB4AaABAg.96L4_w6jsGu9BxMnsfAaJR",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아, 하하",
+        "writer": "UgzejRPH5vb4vML6FwB4AaABAg.96L4_w6jsGu9CWdibgWWi8",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "캄미 KAMMI CAMP 헐.",
+        "writer": "UgzejRPH5vb4vML6FwB4AaABAg.96L4_w6jsGu9CWdjm_gWji",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이제 좋아여",
+        "writer": "UgzejRPH5vb4vML6FwB4AaABAg.96L4_w6jsGu9CWdmmfPsf0",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 2학년이에요 아 물론 고등학교 2학년,",
+        "writer": "UgzejRPH5vb4vML6FwB4AaABAg.96L4_w6jsGu9F6n-WczMww",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "_하찌 앜케",
+        "writer": "UgzejRPH5vb4vML6FwB4AaABAg.96L4_w6jsGu9H3xdzz5DLh",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전 대학교, 은근히,끌리더라고요,",
+        "writer": "UgzejRPH5vb4vML6FwB4AaABAg.96L4_w6jsGu9PeX8Os2ioS",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "살어리랏다 yeah but i am not saying her real voice but her children voice over",
+        "writer": "UgzgUC-lnoEQWkHa3KN4AaABAg.96BbvR8fvsf96EJhV4NiBY",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그럼 쳐 보(반사회적용어) 마",
+        "writer": "UgzgUC-lnoEQWkHa3KN4AaABAg.96BbvR8fvsf96I5CrjSHzG",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그럼 왜봐요",
+        "writer": "UgzgUC-lnoEQWkHa3KN4AaABAg.96BbvR8fvsf96N7Ch_LXJg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예로 댓글 작성자분은 그녀의 목소리는 짜증나고 크다 라고 하셨어용 .",
+        "writer": "UgzgUC-lnoEQWkHa3KN4AaABAg.96BbvR8fvsf96PjHUXxLkM",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1Wq3f2Z8JBI",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

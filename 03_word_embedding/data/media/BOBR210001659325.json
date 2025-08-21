@@ -1,0 +1,812 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001659325",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001659325"
+    },
+    "text": [
+      {
+        "content": "월리엄 아빠 샘 세월갈수록 얼굴이 행복해 보이질 않아요 애들과의 행복도 중요하지만 아빠 본(반사회적용어) 성취하는 일이 있어야 행복감이 들텐데 직(이름) 사업이든",
+        "writer": "UgxdFLFRw_AC5Czrukd4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은이는 어쩜 저럴까, 이쁘고 귀여운 아이이자 듬직한 누나이자 모성애 강한 엄마같다, 벌써 인생 (비속어)한거같음. 커서 어느분야로 가든 성공할거같다.",
+        "writer": "Ugwmqp0ESoSYZ2fpQRl4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참이쁘게 자란다 나의 최애돌..",
+        "writer": "UgzetN6C6GGuTATtn814AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 슈돌 찐 팬이에요..",
+        "writer": "UgyIBZjOGvtTCi-NGDV4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후 (반사회적용어)소리 내는 거 너무 귀여워",
+        "writer": "UgwbKsCJsbYrlfFizKp4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤 이젠 어린이 구낭 다큰거얌 안돼는디 힐링 벤 아가인디",
+        "writer": "UgwwIuW5oMDTkkAjl6V4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 나은이는 너무 착해",
+        "writer": "UgwtMZ1rfy9Rhx2ycsV4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우 덩치 컸구나 화면서 볼땐 쪼꼬미 얘긴줄만 알았는데 발목부터 빅사이즈네",
+        "writer": "UgxRG7ljafClXPFKh_N4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "멋진 벤(반사회적용어)",
+        "writer": "Ugx3wdQW0ZUh1_Nh2MN4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어) 친구들과 재미있게 놀다와",
+        "writer": "UgzkyKtevSBk0CRWY1N4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우 덩치 정말 크네, 하연이가 2개월 누나인데 덩치는 진우가 5센티미터는 커보인다",
+        "writer": "UgwdRdPCAW8mQ7C30R54AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우 키 커보이네요",
+        "writer": "UgzQySl3PqI4NEF0r2B4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와아 진우는 점점 잘생김 뿜뿜 건후 애가때 같네여",
+        "writer": "UgwcAo_3ra3bIQfA6tt4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꺄 일요일만 기다려지네요 이젠 찌누와 함께 아하하핳 진촤 귀여워",
+        "writer": "UgxSd0WyZbQZaQrMtnd4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 너무 스윗해",
+        "writer": "Ugy79Ha9ak05j5wIycF4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 세은이네 젠네 퉁투이네는 안 모여요",
+        "writer": "UgymotLJ4-LdfsZiTIt4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후 벌써 한글 읽네.",
+        "writer": "Ugxv53A2vXQe_lnXSe94AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후건후건후건후 내눈은 건후만 따라다녀 건후 건강하게 똑똑하게 멋있게 잘자라줘서 고마워",
+        "writer": "Ugw83apnRb_BAWOHyfl4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하연이 넘 귀여워",
+        "writer": "Ugz6y3aP3LtFnt3G3yt4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우 완전 어린이 다 됐당",
+        "writer": "UgyoF0fLK13Rs5IFgQp4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "러블리 찐건나 파추호아빠랑 친구 동생들이랑 존추억 만들렴 사랑해 박트리오",
+        "writer": "Ugz5jTNSiCJJ4p28Qrh4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찌누 키가 엄청 컸네 하연이 옆에있으니 오빠같넼",
+        "writer": "UgyRp4msNZJTpUYrihl4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "착한낭니 말하는거봐 다리 꼬우고있음 키 안큰다고 하연이 잘챙기네 오구 예뽀",
+        "writer": "UgzTUbsQ6VRoX_FitzF4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찌누얔하연이가 친구로 보이나봐 넘귀욥하연아 손좀 잡아주렴",
+        "writer": "UgwCTsYcYf(반사회적용어)4B5wjHl4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "슈돌 400회 축하해요 애기들 건강하게 잘자라렴",
+        "writer": "Ugzjb5vxP3AyZpZbYe94AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후 과자 쏟아지니 어쩔줄 모르는 표정봐괜찮아 거누야",
+        "writer": "UgyE8w6xcTgVMJST2ah4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우랑 윌리엄 많이 컸네",
+        "writer": "UgxmFt-xqN6-hG0j3xd4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤 (비속어)",
+        "writer": "UgxJuW3VUbJDcrhl_tR4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 없는 KBS를 응원합니다.",
+        "writer": "UgzNFwBXl7QY0mxHOrJ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 귀여워 빨리 보고싶다",
+        "writer": "UgxYSnfAIq0Njx94M5t4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내 최애아기 진우 넘 이뻐요",
+        "writer": "UgxxTAYlEXLuxmAzpQx4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벌써 400회라니",
+        "writer": "UgzA4FXa8wI02LYzX014AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우 낯가림 심해서 소극적일줄 알았는데 의외로 엄청 적극적이네",
+        "writer": "UgxDqkSeDT39ZUZfY0p4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이걸 봐야되나 안봐야되나 난 찌누네만 보는데",
+        "writer": "UgzE7itCAIADLiemyfZ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 벤(반사회적용어) 이번주 슈돌에 너무 잘 생긴 거 아니야, 너무 잘 생겼어요.",
+        "writer": "UgzDHe4mIM98mqufoFF4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌벤져스 너무 이뻐",
+        "writer": "UgwgOBeb-4Pfm5YjAK54AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "삼촌들 쳐다보는 거 제가 옆에 있었다면 귀여워서 박수 쳤을 것 같아욬",
+        "writer": "UgyE8w6xcTgVMJST2ah4AaABAg.9SfR86ib16w9ShQd20Gxwp",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Avocado Gunhoo 네 저도요울거누 넘 귀엾고 사랑스럽죠",
+        "writer": "UgyE8w6xcTgVMJST2ah4AaABAg.9SfR86ib16w9ShYKzEUTpb",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우 머리 묶은거 왜이렇게 사랑스러워엌... 건후가 보이기도 하고 나은이가 보이기도 하고 귀여워 증말",
+        "writer": "UgyMyBdGR3Gwa_uZgwl4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우 진짜 크네요.. 하연이랑 잘 놀면 좋겠는데",
+        "writer": "Ugw8jkv_mhnGa04euZN4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "새 슛돌이 2기",
+        "writer": "Ugw-gtONLmKpocuDm1t4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어) 목소리귀엽네",
+        "writer": "Ugxusrzt-6Cm_-mhsFp4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어) 언제봐도 커엽",
+        "writer": "UgypAujvUGRGw0yV6sR4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나의 사랑 벤(반사회적용어) 5세 친구들과 신나게 놀다 오렴",
+        "writer": "UgyE5S9qlH1MFTFc4614AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤토리 너무 예뻐 진짜",
+        "writer": "Ugy8zHpx0oCxkN2GluZ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하준이 넘 잘생겼네 나은이 정말 동생 잘 본다",
+        "writer": "Ugwh9LOXtJp4UOyU2654AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찐우야 ......",
+        "writer": "Ugya0NWnkpLrHjBDA1V4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후 (반사회적용어)소리 리얼한데",
+        "writer": "UgxIfGtIVOsaZePX2CZ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우가 손잡으려하닌깐 눈커지는 (이름)",
+        "writer": "UgwLhzylARhRxFjd-WN4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "멋진 벤(반사회적용어)",
+        "writer": "UgyEzk0NnN4Snr6h-qV4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "패티맨 (반사회적용어)야 너무 사랑스럽다, 내가 제일 사랑하는 최애 아가들 윌벤져스",
+        "writer": "UgyJiw_g4BICTTLvVbJ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 건후 멋져",
+        "writer": "Ugxa3CtMFfFaQl_FkIt4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어) 최고 잘생겼네",
+        "writer": "UgydlXmYoEN-F2wQD1p4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 찌누가 이제 19개월이라고 외모만 보면 거의 유치원 갈 어린이 같은데 역시 박남매 중에 발육이 제일 남다른듯",
+        "writer": "UgxCc5d6jnkHxGuuac54AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤토리 어느새 다 컸네 이젠 (비속어)이다",
+        "writer": "UgzPU9UgAs8mKkdjjnN4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울벤의 독보적 외모는 탄생과 동시에 지금 은 (비속어)러 완성 형 으로 진화 중. 팬으로 써의 무조건 적인 칭찬 이 아니라 제 주위 팬 이 아닌 분들께서도 슈돌 엔 관심 없어도 울 벤 handsome 함 은 아시고 인정 함.",
+        "writer": "UgydlXmYoEN-F2wQD1p4AaABAg.9Sdit77v6Ez9SemOx1XgSd",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후가 자기꺼 말고도 벤(반사회적용어)가 선택한 강냉이 묶어 놓은 포장도 풀던데 막 섞어서 편집 말고 모두 다 보여주세요. 특히 건후꺼 편집 노.노.",
+        "writer": "UgzvcxXDm3rNtnq35lp4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌리엄벤(반사회적용어) 아웃핏 완전 멋지고 역시 잘생겼어",
+        "writer": "Ugy78ux7QM_7hMQrKmJ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌리엄 벤(반사회적용어) 최고",
+        "writer": "UgxE3sj-eEDx8Wd-Qe54AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이제보니 진우 많이컸네",
+        "writer": "UgxWv0BWRGmGyhNQsmJ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후야 사랑해 귀요미",
+        "writer": "UgzyiFsdtyOpnWkuCxt4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울 찓거나블리 이뻐이뻐 울진우 뒷머리 늘 덥지않을까 했었는데 드뎌 꽁지머리 아공 이뻐라 나은인 등생들 케어하는게 정말 잡인가봐 나은아 글케 이뻐 이뻐죽네 착(이름) 울건후 차분한데 실수하네 이모가 과자 주워 담아줄까나 멋지고 잘생긴 울건후 울삼남매 사랑해 슈돌 모든 애기들도 어쩜 다들 예쁜지, 건강히 자라렴...",
+        "writer": "UgxHp2LNFsHbI-E-ixt4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)흉내도 잘내고 건후 너무 예뻐",
+        "writer": "Ugx3HTPWWcTi7EmDwkx4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리진우에게 봄이 왓어요",
+        "writer": "UgztfdKvJ0l0hFRqRc54AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은이 여동생있으면 더 좋아했을것같다",
+        "writer": "UgyujIYTYHrIioCocnB4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우보다 하연이가 생일이 빠르지 않나 진우가 하연이보다 훨씬 크네",
+        "writer": "Ugwj294QRl-cU6BU2lB4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후 너무 귀여워",
+        "writer": "UgwhHxuEyLa8jwlC6C54AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무념무상 벤(반사회적용어) 귀엽다",
+        "writer": "UgxNlPsiVymN4ryMLYl4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "400회 차 축하드려요 0 게하오 가끔 보여주시던데 같이 출연하였으면 좋았을걸 벤(반사회적용어) (이름)x 건후나블리 기대됩니다",
+        "writer": "UgxGCS1Og3g3E3G45cd4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어) 하고 건후 오랜만에 같이 있는거 보네요",
+        "writer": "UgwNvvx35zUEJR4Luzp4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은이 본(반사회적용어) 애긴데 애기 귀여워 하는게 진짜 사랑스럽자나 진우 머리 묶으니까 완전 건후자나 우리 건후는 아이쿠하는게 미쳤네 하준이도 귀엽고 하연이도 윌벤도 귀엽 근데 진우 왜캐 큼 빨리 크지마",
+        "writer": "UgwpDoxAiTDjhgQ4X_p4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후랑 벤(반사회적용어) 애기였을때 만난게 엊그제같은데 벌써 5살이되어서 다시만났네 사랑둥이들",
+        "writer": "Ugztug5DBjRkAL3kbWx4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우가 키가 크네. 건후랑 진우 저 미모 어쩔.",
+        "writer": "UgwOEj-iyJ-KiyzldQl4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어) 친화력 완전 좋아",
+        "writer": "UgxMmpp0jQuD0-q4ScJ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어) 착하고 멋있었어최고",
+        "writer": "UgyJpKAaBeJj51chmXF4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌벤 스웨그",
+        "writer": "Ugwb_m_-bHdKVndVr4V4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌벤 역쉬 멋져",
+        "writer": "Ugxyo15Pzh3W-XL9aF54AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와우 벤(반사회적용어) 보러 왔다",
+        "writer": "UgyZY1kfHKeCLaoskjd4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내눈엔 건후네만 보이는데,",
+        "writer": "UgydIThvxqEG9QsH7l94AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 너무 기대된다",
+        "writer": "UgyW_mLaPBdB8KwQDz14AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌벤 선글라스 쓴 거 멋지네",
+        "writer": "Ugwg7hGruam68AV2dMR4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 진우가 크긴 크구나,",
+        "writer": "UgyHpFT2aet-pCgDsbh4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윤삼이들 언제 볼수있나욤",
+        "writer": "Ugy20fE6jDItGYiwlPp4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후 아쿠 왜 이리 귀여워 글고 (이름) 직진남이었구나",
+        "writer": "Ugz_FoJDVnewDeFyoX94AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요즘 슈돌 가족이 혼혈 가족이네",
+        "writer": "Ugw-C78fy0RCm97bE494AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘은 유난히 진우가 건후 닮았네 나은이 하연이 이뻐하는거 보소",
+        "writer": "UgwpwdPncJd2yJoRdG94AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어) 친화력 짱",
+        "writer": "Ugxlri2JL58Ob-4qBft4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벌써 슈돌이 400회,",
+        "writer": "UgyRHJvYJ7rhP7gUVtN4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은이 하연이 귀여워아",
+        "writer": "UgyW0A6L8d-pyQVWm-B4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와아아 하연아 보고 싶었다",
+        "writer": "UgzID6JEJaoKiiHhoqZ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번주는 사랑스러운 건후를 볼수있다니",
+        "writer": "Ugx7GSmCa8CUZ-yGKLB4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "슈돌 귀요미들이 다 모였네",
+        "writer": "Ugy7V0dOu9ajv5yTyy94AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찐건나블리끼리 있을땐 몰랐는데 진우 진짜 크구나 귀여웡",
+        "writer": "Ugw9IxGI_L7EOdTkIj54AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌벤져스 사랑해",
+        "writer": "Ugz70Udwc4t7PQv2Wgd4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은이는 역시 아가를 좋아해 너도 아가야 진우 크다고는 생각했는데 두달 빠른 하연이 보다도 확연하게 크구나 오빠미 뿜뿜 우리 건후는 다 코따 창도 읽을 줄 알고",
+        "writer": "UgxEyAGHjKpcE41RExB4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "슈돌이 벌써 400회나 됐네요, 축하드립니다. 세상 다정한 울 나은이다리 꼬고있으니까 키 안큰다고 펴주고,천사나은이다. 찐우 머리 묶음 너므이뻐",
+        "writer": "UgxPReSmL510GgeA8gd4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찐건나블리 너무너무 좋아요 감동이에요 힐링천사들",
+        "writer": "UgynWvVzkznGMli-pR54AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찐건나블리랑 윌벤져스 합방 좋아",
+        "writer": "Ugz_X0BFrkI1HJnvLYV4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우 크다.",
+        "writer": "UgyuoPKSzGdB8aqqSBF4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "큰 게 맞군요. 아직 두돌도 안 됐는데 뛰어다니고, . 말도 빠르고, 그래서 놀랐어요.",
+        "writer": "UgxEyAGHjKpcE41RExB4AaABAg.9ScvMgS-7qJ9Sd6GvQpcB5",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=W327dJcapkU",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

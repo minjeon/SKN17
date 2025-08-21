@@ -1,0 +1,660 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001659805",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001659805"
+    },
+    "text": [
+      {
+        "content": "집에 있는 걸로 대충한 수준이 상다리가 휘어지네요, 요리도 잘하시고 (이름)도 곱고 예쁘시고, (반사회적용어)엄니 좋아요.",
+        "writer": "UgxnYWb2hUR9njPiscJ4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어머님의 찐사랑",
+        "writer": "Ugww-Rcp7t7-FXGrio14AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현준씨는 좋은 부인을 만나셨어요",
+        "writer": "UgzV5HdbeFvCYs0K24t4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어머님 사랑해요",
+        "writer": "UgwsrSevZwHKc43K3zJ4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "두분이 서로 잘하시네요 보기좋아요 애리씨가 사랑받을 짖을하네요",
+        "writer": "UgzljRt_iatWoSoVzVl4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "눈물나요, 어머님 멋있으세요...",
+        "writer": "Ugx2cN6DMDqscXNYJpt4AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이건 찐사랑이네요 부럽습니닷",
+        "writer": "UgykNiMX__fGgqr8pP94AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는 시어머니가 며느리 이름 불러주는게 젤 좋아",
+        "writer": "Ugz1-p8QCrxR31v7LkF4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "행복이 피어 오르네요.",
+        "writer": "UgzS80s8WbH3WkmzzLZ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잔짜루 현준씨어머님(이름)가넘아름다우시네요 며느리사랑 결혼잘하신것같아요 서로가 행복하시기를 늘 이가족 영원히",
+        "writer": "Ugw6MZvYl0XwjffvsOR4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양(반사회적용어)어머님이 복을 부르시네요. 지나가던 좋은 운들이 어머님덕분에 집안 곳곳에 턱턱 들러붙겠네요. 예쁘게 살아주셔서 고맙습니다. 늘 건강하시고 행복하세요.",
+        "writer": "Ugwib_U2hHHJtKz2tWF4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시어머니(이름)가좋으신가봐요 마음이너무따뜻하세요 늙으면솔직히하기싫어지고맛도변하더라고요 요즘은귀찮아서나가서하는데정말정성이대단하세요 고부사이가아니라딸보다도더좋아보여요 평생행복하고며느리사랑하고(이름)래사세요 보는사람도흐뭇합니다",
+        "writer": "UgyaHOf2cAjUdEX1WOB4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아버님 몫까지 효도 받으세용. 정말 어머님은 건강하게 (이름)래 사세요.",
+        "writer": "UgwmXjyGKnmmUP7kfux4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)루보내세요감사합니다수고하셨어요 즐거운주말되세요",
+        "writer": "Ugxnl2NfIhOzhOjQQ6p4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시어머니 너무 훌륭하세요. 누가 시어머니로 보겠어요",
+        "writer": "UgzEtL0o_pCTTU2okoV4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 (반사회적용어) 시어머니라면 친정엄마처럼 진심을 다해 잘해드릴거 같네요",
+        "writer": "UgwZ_mHh0Q1lmzK-gb14AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 시엄니 넘 부럽네요이런 시엄니 계시면 난 매일 업고 다니고 싶네요",
+        "writer": "UgzErx4EO8MmdnbP-4J4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애리씨 시어머니 사랑듬북 받고 계시네요 항상 행복한 가족분들",
+        "writer": "UgyR5dMmOOXsye1C7XZ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시어머니 멋지십니다 행복해 보여요",
+        "writer": "UgyDmCvh7isjlcqhKvt4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 (이름)씨는. 저렇게 어머니께서 잘해주시니까요 어머님께서는 나라에서 시어머님 상아주시나. 모범 시어머니셔요 복많이 받고. 어머니 살아생전 효도많이 해즈리세요 정말로 보기좋은 가족이에요 응원합니다",
+        "writer": "UgwZ_mHh0Q1lmzK-gb14AaABAg.9TVofeY-51u9TVw6BtJ2B5",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 팝핀 현준 천생연분 넘 이쁘다 (이름)래어머니모시고건강하게 효도하면서 사서요 파이팅 이다 시어머니가 보배다 애리 애리 사랑스런애리",
+        "writer": "Ugw0SsWhu3FZd3sJttx4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄니 최고...",
+        "writer": "Ugy_ELQE6pEY0sYA6Vd4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어) 엄마 너무 사랑해요",
+        "writer": "UgwgwN2LFQuBQgmHfMN4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세상에 이런 시어머니만 있으면 효부 며느리도 많을듯 오는정 가는정 너무 아름답습니다",
+        "writer": "UgyXKyFvHjXDfnWIiUp4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무궈여운 팝핀 현준엄마.",
+        "writer": "UgwzdytsNocwLJEn0dh4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애리씨 전생에 시어머니 딸이였지 않았을까",
+        "writer": "UgyX27QUXTqjFhA2yVl4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 가정 처음 방송 기억난다 현준씨 엄청 성질 부라고 애리씨 엄청 속상하고 어머니한테 엄청 짜증부리고 했는데 모든게 바뀌었다 브드럽고 사랑이 넘친다 너무 보기가 좋다 현준씨 교수편은 정말 감동이었다",
+        "writer": "UgzwoHYKP21WxcOspiB4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세상에 없는 시어머니 존경 합니다 고맙습니다",
+        "writer": "UgzbmYuwWKhLiVXeGSh4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)어머님 좋다.",
+        "writer": "UgwFqg_pjfPyW7xC6w54AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)어머니 얼굴도 고우시고 맘도 고우시도 현준씨는 복이 넘치네요 훌륭한 어머니 현명한 아내 예쁜딸 다 갖췄네요",
+        "writer": "Ugwuq86YrSJNuJXkgwF4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양(반사회적용어) 어무니 쵝오.",
+        "writer": "UgwwjDjHFrb6O7pMY0h4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 예쁜 가족이네요,",
+        "writer": "UgyLGaU8MV60yeqSANR4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어머니 이 시대에 장금이 십니다 요리연구를 하셨으면 유명하셨을것 같아요",
+        "writer": "Ugzbv9LlNLfNi0od6pB4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 식재료가 많으신 모양",
+        "writer": "UgzY9pd7jZ5gu4MSALd4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어머니대단하시고 현준(이름)은 집안에큰소리안나게 참(이름)게 만드는 대단한 내도가있는것같다. 요새보기드문 여자인것같다. 현준이만 철들면 만사형통,",
+        "writer": "Ugw39h8IAB1929eE9ml4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 좋습니디",
+        "writer": "Ugz1pypEFOdkcL2HS554AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)씨가 며느리여서 시어머니가 더욱더 행복한가정을 이룬것같네요.",
+        "writer": "UgySUQjH2kTZ2K9xejh4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세상에서 제일 착하고 존경합니다 시어머니 건강하세요",
+        "writer": "UgyTXZLB4PQY3CRUtvh4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어른 다운 어른의 모습입니다 나이듬의 여유 나이듬의 미학 저런 어른들만 계시면 세상이 달라졌을텐데",
+        "writer": "UgyRzchiCaDY16sHDuV4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)언니 정말좋으신분이네요 부렵습니다",
+        "writer": "UgxAGQSeDZvcQ04p_3V4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 진짜부모 양가를떠나서 찐 부모마음 존경을넘어 천상의마음이라 생각합니다",
+        "writer": "UgyWUcXMTz_vHUWCidR4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감동스럽네 부럽다",
+        "writer": "UgxA1YxejDrDmMdaWn94AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참 좋은 시어머니네요 음식 솜씨도 대단하시고 (이름)씨 복도 많네요",
+        "writer": "UgwEtbQVDV_E2P8gTGt4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "신랑이 귀여우시네요",
+        "writer": "UgxnR8n0gZMbVHgtoiR4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세상의 모든 시어머니가 저런분만 계시다면 시집보내고 싶다",
+        "writer": "UgwhO6daG_Q8iLoVQlx4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 이집 며느리이고 싶다.",
+        "writer": "Ugx4b6IB_wPu8xEamPl4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "존경하는 어머님 역시 어머니가 (이름)가 좋으니까 며느리도 복덩이가 되네요부러워요 전 대우만 바라는 부럽사옵니당",
+        "writer": "Ugwz1I0FVMhvlkbe1s14AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)은 시어머니를 넘잘만니셨다 어머니한테잘해주셨어야겠어요 어머니건강하세요",
+        "writer": "Ugw9DNOJf25IMbATg314AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)가복받은건지 시어머니가복받은건지",
+        "writer": "UgzeFAQlWdkvbjUI5_p4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애리씨 부러워요",
+        "writer": "UgzvJ2CiwM00idS83hJ4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "박(이름) 부러워요생일상 나두 생일밥상 먹고싶당 너무부럽네요 복가득이네요",
+        "writer": "Ugz30Ql5mhfruu9W7qN4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "며니리와 시어머니가 환상궁합",
+        "writer": "Ugz07ESZzrbrGb5G_uB4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "음, 시어머니는 결코 아니고 친정엄마도 아니고 하늘에서 보내준 천사 엄마.",
+        "writer": "UgwubQUK8GeajEFOHZd4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 그냥 좋은 목소리다. 둘다 좋으니까",
+        "writer": "UgzYdjgLgPimvvn0tOx4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)씨 원피스입으니 여성스럽고예쁘심",
+        "writer": "UgxPiRGRVoa7b4puNRJ4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)씨 넘착해",
+        "writer": "UgzO_quPoiqQDRHRaXh4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저런 시어머니가 어딨냐 , 물론 애리씨도 진심을 다해 잘하겠지만, 며느리를 진심으로 챙기고 위하니 며느리도 잘하고 가족도 화목하고",
+        "writer": "UgziJ5CZK3RnIKQ3do94AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시어머니 (이름)를 완전 바꿔주시네요. 보는 우리도 감동입니다",
+        "writer": "UgxfD7m489TC2hF912J4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미모도 고우신데 맘은 더욱 더 멋지고 고우시네요최고의 고부간 부럽고 복받을겁니다",
+        "writer": "UgwPabnnFzlXV2G75jB4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 그아들 그 며느림 아고 훌륭한 어머님",
+        "writer": "UgzgKPfG-qLuV1880gh4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)씨 시어머님 진심 며느리사랑하는 맘 느껴지네요, 이 가정볼때마다 제가 흐믓하고 행복한건 뭘까요",
+        "writer": "Ugy_jBCWI05qXDeZSmd4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시어머니 너무 좋으시다 며느리를 진정 친딸같이 생각하시네요.",
+        "writer": "UgzpBHdGmR19FnyjJZ54AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시어머니도 대단하고 며느리도 대단하다. 저 음식을 준비하려면 이틀은 걸리겠다 아름다운 광경입니다.",
+        "writer": "UgxxSYV15GLhJUmeFft4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보기 좋아요",
+        "writer": "UgzA54hBJrPMaV-49sd4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "복많이 받으셔요",
+        "writer": "UgxmdbMENKsHamB14n14AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 넘넘 행복한 아침 생일날밥상이네요 시어머님 참 잘만났어요 서로가 잘만나셨지요 늦었지만 생일축하합니다",
+        "writer": "UgyK0Jw4DWvoFzGdrTF4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나두 매일먹고싶다, 부럽네요",
+        "writer": "UgyDqmjOyxuD6XFgWD94AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "솜씨좋은 (반사회적용어)님 배우고시뽀요 넘 부럽 부럽습니다",
+        "writer": "UgwK1uU0pb_7EhSNqwV4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "늘 화목해 보여 넘 좋아요",
+        "writer": "UgymgGnPOIXH9qpqJmZ4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한 것도 없는데 반찬이 많네요 산적에 갈비에 ABC 부럽다",
+        "writer": "UgyU1JY38U9B7a7btZx4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "멋진 시어머님 이시네요 존경합니다",
+        "writer": "UgwEgzBPMlwti09d7dB4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 시어머님이라면 빨리 결혼하고파용 사랑을 서로 드리고 또 받을 수 있는 그런 가정",
+        "writer": "UgxKBH6kEk0PwDcPpAN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조금한게 한상",
+        "writer": "UgzK4LtoRXAxAs6V5oN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)씨 부럽네요 어머니 최고",
+        "writer": "UgxLe5Pi0aeBE-HIPF14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "팽 (이름) 너무 남편보고 당신도 나한테 저렇게좀 해봐라고 자주 말하니 진짜 질리네요.",
+        "writer": "UgwrF6yjm_R8Ut7COnp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 보기 좋은 가족이에요.",
+        "writer": "Ugzt3rKZ6oVcUpN7iuJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어머니 너무 너무 아름다우세요 (이름)도 최고 시고요 존경합니다",
+        "writer": "UgyErcpocEXwy2gey8d4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 가 복이 넘친거네요",
+        "writer": "UgwrF6yjm_R8Ut7COnp4AaABAg.9EKYDY3kA7_9Hit4ZZDD02",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시어머니 넘 아름다우세요 새해에는 더욱더 건강하세요",
+        "writer": "UgwrF6yjm_R8Ut7COnp4AaABAg.9EKYDY3kA7_9HitgN3Boxh",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대단하시네요 며느리를 귀하게 여기시고요, 맞아요 저런시어머님 어디계세요, 애리씨 복받으셨네요",
+        "writer": "UgyErcpocEXwy2gey8d4AaABAg.9E7w0NCzvuW9Tgm8wenEwe",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맛있겠어요생일 축하드려요",
+        "writer": "Ugy7Qab8qemZLZfLpGl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=_YhyBufA-Z0",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,620 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001637056",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001637056"
+    },
+    "text": [
+      {
+        "content": "(이름)x(이름) 공통점 둘다 수지 (혐오표현)음 (비속어)동서",
+        "writer": "Ugx0-_f0FOXNU3C31694AaABAg",
+        "write_date": "2021-02-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)도 넘사지만 꽃남준표가 (이름)이여도 대박일듯",
+        "writer": "UgwjUYFETH8LJaHmFuV4AaABAg",
+        "write_date": "2021-01-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김(비속어)가 언급한 세 배우 다 수지랑 작품활동도 하고 사귀기도 하고그랬네 수지가 진짜 탑이긴해, 심지어 여기 나오는 (이름)까지 접점있고, 수지 삶 멋있다",
+        "writer": "UgzXnCtOLf7uahP0uQN4AaABAg",
+        "write_date": "2021-01-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엠씨두분이 진짴환장의 조합이네요, 내가 택시를 저래서 잘 안봤지, 만석쒸나올때만 쫌 보고. 저럴거면 걍 동욱배우가 혼자토크하는게,",
+        "writer": "UgzyBOB6oLnNblejTsh4AaABAg",
+        "write_date": "2021-01-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다들 조용히 해 ..... 다 모르는 척 하라고 .....",
+        "writer": "Ugz-7hcCt-wFu-Js3-Z4AaABAg",
+        "write_date": "2020-12-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "옆에 여자 진짜 짜증나네 , 계속 말 끊어",
+        "writer": "UgzgWjth5YY_2jcKdnd4AaABAg",
+        "write_date": "2020-12-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 수지 전남친들이랰",
+        "writer": "UgyG0AC2E9dV32-GX0B4AaABAg",
+        "write_date": "2020-12-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 왜저래",
+        "writer": "Ugz9SUfjA_KQ2OpDLER4AaABAg",
+        "write_date": "2020-12-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "훈훈한 얘기하고 있구만 갑툭케이블카 얘기 멍미",
+        "writer": "Ugy0o_2VmiO5_S8c8g54AaABAg",
+        "write_date": "2020-12-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (이름) (이름) (이름) 내가 네명 다좋아하는데,",
+        "writer": "UgyFm6BpP44iVSEv2px4AaABAg",
+        "write_date": "2020-12-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 (이름) 같은 오(비속어) 있었음,",
+        "writer": "Ugy8HNJUhFUwv0lLZkh4AaABAg",
+        "write_date": "2020-12-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "옆에 여자는 누군데 게스트 얘기하는데 말 자르질않나 액수를 물어보질 않나 개 별로다 진짜",
+        "writer": "Ugx2xvU6tL0lcmnJsXJ4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인생은 알수없는거군요 나나 남이나",
+        "writer": "UgzacWG22s5OnhrKAhh4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수지가 부러운건지 (이름) (이름)가 부러운건지, 수지 능력 대단하다",
+        "writer": "Ugw7JrqvEcZ3vaT0ybN4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "똑살 보다 온 사람 손",
+        "writer": "UgxUHElRXbYLiMCj2jJ4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)는 날티 나는 연예인들과 달리 참하고 진중하네요. 근데 이제는 외적인 무게감과 함께 인문학적인 지식도 같이 쌓으면 나이 먹을수록 사람이 빛날 것 같아요",
+        "writer": "UgyTqrCIqzqpVvZIWpx4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혹시 너 광수니,",
+        "writer": "Ugz-7hcCt-wFu-Js3-Z4AaABAg.9H5gB5ois-_9TyY2OgUhIN",
+        "write_date": "2021-10-29",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 (이름) (이름)가 더 부러워요",
+        "writer": "Ugw7JrqvEcZ3vaT0ybN4AaABAg.9FgLpIwU6Do9GYyIrCt6pq",
+        "write_date": "2020-12-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수지가 부럽다 난, (이름)랑 처음에 사귄다 했는데 읭하면서 놀랐었는뎈와,",
+        "writer": "Ugw7JrqvEcZ3vaT0ybN4AaABAg.9FgLpIwU6Do9H7X_FBxRXY",
+        "write_date": "2020-12-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무순 소리야 (이름)도 입는 교복을, 그때 좀 입어주지",
+        "writer": "UgxQOVwr9y0sNajCyyZ4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 여자분 누구에요 뭔가 별로임 액수를 묻질 않나 말하는데 자르질 않나",
+        "writer": "UgzfimfBsC_jtq5GeBZ4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래서 그는 저승사자을 만나게 됩니다,",
+        "writer": "UgyN7AMurKlkA9p9a-N4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름), (이름)이 말하고 있는데 왜 자꾸 케이블카 언급하면서 두 번이나 말 짤라먹지",
+        "writer": "Ugxp062HEwnKK63xL3t4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금이 훨씬 멋있는 배우",
+        "writer": "UgyfBQf6Ei3ATN0F-PR4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "광고인줄 알고 킵언제뜨지하고 눌렀는데 안눌러져서 당황,",
+        "writer": "UgxVi1aSxUNxanjVXVB4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 가까이에서 보니 몸이 좋구나 어께가 드라마 화면에선 마른모습으로 나오던데",
+        "writer": "Ugyny5y1bC-EsW5zfL54AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스탭 150명에게 운동화를 선물하다니 정말 대단. 돈 많이 번다고 다 이렇게 하지는 않는다. 그만큼 함께 일하는 사람들이 고생하는 걸 알아서 그 고생을 조금이(반사회적용어) 덜어주고 싶어하는 (혐오표현). 외모뿐 아니라 인성까지 좋은 (이름) 참 멋진 사람.",
+        "writer": "UgwGtHxPjbeOMJU-rZN4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수지의 전남친들이라고, 수지가 이쁜건 알지만, 부러운건 못참는다, 난 이미 태생부터 졌다,",
+        "writer": "Ugzk-Gzc_ToHI68NtrZ4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둘 친한게 가능해요 둘다 수지랑 사귀고도 , 헐리웃 삘일세",
+        "writer": "UgzszDWqZEUV2Ieak9t4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기 둘이 작품찍어달라는 댓글이 많네, 상상만해도 머쓱해지는건 나뿐인건가, 내가 수지가 아닌데도 괜히 머쓱해짐,",
+        "writer": "UgwRYc7VFSaWoGqv8T94AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "액수를 왜 물어봄,",
+        "writer": "Ugyw0gdCRzQFSVgSU9V4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 멋지당",
+        "writer": "UgyD3xbUSiugfmJAFwF4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "말나온 김에 둘이 같은 작품 하나만 찍어줘, 냉미남 x 온미남 얼굴합 최고다 이건 된다 물론 둘이 한자리에 있는거 내가 생각해도 좀 어색해쿸큐 상상만 해도 머쓱하고 숨막히넼 그래도 보고싶다 둘이 얼굴합 채고되는데, 작품을 위해서 머쓱함정도는 조금만 참아조 당신들, 물론 엄청 머쓷할 것 같긴 한데 아 아니 뭐라고 말을 못하겠네큐큐 둘이 찍은거는 보고싶고 둘이 한자리에 있는거는 상상만해도 미치겠고쿠큐큐쿠",
+        "writer": "UgxtqU3SfKxDMWY2lSp4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둘이 작품 하나 하면 좋겠다",
+        "writer": "UgxpE0LSZk5T4VN1oYp4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진행 참 뭣같네 남자나여자나 저런걸 엠씨라고 에휴",
+        "writer": "Ugy1O0F9vG2ekv1x(반사회적용어)54AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (이름) 너무 좋지",
+        "writer": "UgyH0PuSPYrytV2ZS1B4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어후 할말은 많지만 , 유준상이형 힘내세요",
+        "writer": "Ugyr43_UkwzszDSwueR4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앵희Angryhee (이름)가 34살이고 이 영상은 1개월전 맞아요",
+        "writer": "UgzszDWqZEUV2Ieak9t4AaABAg.9EXyH0iOj019FaaWWOA6kG",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앵희Angryhee 그 반대(반사회적용어) 소름 아닌가요 친한 동생의 전여친과 사귄거잖아요",
+        "writer": "UgzszDWqZEUV2Ieak9t4AaABAg.9EXyH0iOj019Gxoz4p6hBR",
+        "write_date": "2020-12-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "sj 보면 그 이무기 (이름) 아닌데요,",
+        "writer": "UgzszDWqZEUV2Ieak9t4AaABAg.9EXyH0iOj019IZB8SDtl1k",
+        "write_date": "2021-02-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 수지랑 사귀기 전인데 애초에 (비속어) 옛말 영상이구만",
+        "writer": "UgzszDWqZEUV2Ieak9t4AaABAg.9EXyH0iOj019PAD-5Vzul9",
+        "write_date": "2021-07-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "생각만 해도 뻘쭘,",
+        "writer": "UgwRYc7VFSaWoGqv8T94AaABAg.9EOhhRaKfFi9FE45yf2z1M",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머가뻘쭘 공과사 구분못하면 배우생활어떻게하지 수지랑 둘다 헤어진상황인데 그거때매 작품안한다고 하면 (비속어)아닌가",
+        "writer": "UgwRYc7VFSaWoGqv8T94AaABAg.9EOhhRaKfFi9GHsTk7F2_c",
+        "write_date": "2020-12-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (이름) 둘이 친해진겨 수지 흉보다 친해진겨",
+        "writer": "UgwRYc7VFSaWoGqv8T94AaABAg.9EOhhRaKfFi9LcVsRr9zrb",
+        "write_date": "2021-04-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이리스 이때는 둘다 수지 사귀기전임",
+        "writer": "UgwRYc7VFSaWoGqv8T94AaABAg.9EOhhRaKfFi9MPIkwKw2mf",
+        "write_date": "2021-05-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "SM G 니네엄마시킬라고",
+        "writer": "Ugy1O0F9vG2ekv1x(반사회적용어)54AaABAg.9EBAzAXTpYL9EpxI13AXg0",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "SM G (비속어)",
+        "writer": "Ugy1O0F9vG2ekv1x(반사회적용어)54AaABAg.9EBAzAXTpYL9G3ry4OhkPX",
+        "write_date": "2020-12-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "SM G 부들대는거 재밌누니네엄마 진행 잘하더라 궁디팡팡해줌",
+        "writer": "Ugy1O0F9vG2ekv1x(반사회적용어)54AaABAg.9EBAzAXTpYL9G3vi8nqws0",
+        "write_date": "2020-12-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "SM G 응 그래",
+        "writer": "Ugy1O0F9vG2ekv1x(반사회적용어)54AaABAg.9EBAzAXTpYL9G3xSi7ToZl",
+        "write_date": "2020-12-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수지의 구남친덜",
+        "writer": "UgyH0PuSPYrytV2ZS1B4AaABAg.9EALdN70RCQ9EBDlo894v9",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "럽럽 (이름) 무슨 말을 했는데요",
+        "writer": "UgyH0PuSPYrytV2ZS1B4AaABAg.9EALdN70RCQ9RAI5bx7qMQ",
+        "write_date": "2021-09-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "말을 참잘해.",
+        "writer": "UgyBpUWYCa2CjarRl9V4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수지 전남친들,",
+        "writer": "UgwKeHHYu8ELkpmU-PV4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둘이 수지썰 풀면 레게노",
+        "writer": "UgwlDnMAxLRrXmQRt2x4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)(이름)라니, 누가 좀 만들어주세요",
+        "writer": "UgybQJWA7wAzhQ6ag294AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꺄 (이름)x(이름) 둘이 한 작품 나오길 존버중. 내가 느무 느무 좋아하는 미노랑 동우기 늘 응원해",
+        "writer": "UgzMhE38y-mzU2l70op4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수지가 버림받은지는 모르는(혐오표현) (이름) (이름)가 먹버했을지는",
+        "writer": "UgxOgKwHs1dq2C3NyA54AaABAg.9E6nxBSiKOu9EB-9n82-R4",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아리까리 딱 봐도 수지가 찬듯 수지끼가 워낙 좋아야죠",
+        "writer": "UgxOgKwHs1dq2C3NyA54AaABAg.9E6nxBSiKOu9EK2Kgp2lxc",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "샤샤샷 그걸 왜 그쪽이 판단하시죠 각자 서로 안 맞으니까 헤어졌겠죠. 그리고 누가 먼저 차고 고백하는게 중요합니까 서로 좋아서 사귀다 안 맞아서 헤어졌을텐데. 연예인분들은 참 피곤하시겠네요, 아직도 이런사람들이 계서서, 아무것도 모르시면서 이렇게 말 하지 마세요.",
+        "writer": "UgxOgKwHs1dq2C3NyA54AaABAg.9E6nxBSiKOu9EKuPmZ0MVI",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "먹버라니 9",
+        "writer": "UgxOgKwHs1dq2C3NyA54AaABAg.9E6nxBSiKOu9EO2C6ljzV5",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아리 아오 말하는 수준봐라 진짜",
+        "writer": "UgxOgKwHs1dq2C3NyA54AaABAg.9E6nxBSiKOu9EX_8C4f4fi",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아리까리 글은 그 사람의 생각과 가치관을 반영하는데 댓글 참 천박하군요. 익명이라고 함부로 말하지 맙시다. 읽는 사람까지 불쾌해집니다.",
+        "writer": "UgxOgKwHs1dq2C3NyA54AaABAg.9E6nxBSiKOu9F1yZpPjGzX",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아리까리 (비속어)(이름)랑은 3년 사겼는데 먹버를 3년 동(이름) 하냐상식 좀 갖고 살아라",
+        "writer": "UgxOgKwHs1dq2C3NyA54AaABAg.9E6nxBSiKOu9F8ZDx1JLeK",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아리까리 숲엔터 고소 잘하는거 알죠 생각좀 하고 삽시다",
+        "writer": "UgxOgKwHs1dq2C3NyA54AaABAg.9E6nxBSiKOu9FBcZzq2ATD",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아리까리 못 배운 티 (비속어)내네",
+        "writer": "UgxOgKwHs1dq2C3NyA54AaABAg.9E6nxBSiKOu9JXHQl5N_B3",
+        "write_date": "2021-02-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그얘기 왜없나했다",
+        "writer": "UgwKeHHYu8ELkpmU-PV4AaABAg.9E6NEI4xfxE9F0pSVofg57",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다들 얼굴이랑 피지컬이 미쳤다는 공통점이있음",
+        "writer": "UgwKeHHYu8ELkpmU-PV4AaABAg.9E6NEI4xfxE9F62zkWQ_Ks",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수지 부럽",
+        "writer": "UgwKeHHYu8ELkpmU-PV4AaABAg.9E6NEI4xfxE9FA_NBsxYGC",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 그러네,",
+        "writer": "UgwKeHHYu8ELkpmU-PV4AaABAg.9E6NEI4xfxE9FsWpGH_onV",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한명은 그 (이름)가아니다 (비속어)야",
+        "writer": "UgwKeHHYu8ELkpmU-PV4AaABAg.9E6NEI4xfxE9Fwa1nSNF-C",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "생각못했는데 그런 접점이",
+        "writer": "UgwlDnMAxLRrXmQRt2x4AaABAg.9E6KzYW6Sh19E6M0kd9Zi5",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 그생각하면서 들어옴",
+        "writer": "UgwlDnMAxLRrXmQRt2x4AaABAg.9E6KzYW6Sh19E6RcEuA_yB",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수지 가운데 두고 3각관계 하이퍼 리얼리즘로맨스물 가즈아",
+        "writer": "UgybQJWA7wAzhQ6ag294AaABAg.9E6G8SAIqqC9F9F6afo6m6",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)mbti BHC 닉네임 (비속어)웃겨욬",
+        "writer": "UgybQJWA7wAzhQ6ag294AaABAg.9E6G8SAIqqC9G3z8ZDlGcZ",
+        "write_date": "2020-12-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둘이 (이름)리만치 닮았음",
+        "writer": "UgzMhE38y-mzU2l70op4AaABAg.9E6FfH6GN9d9FiL0eiFhBO",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래서 제가 이 둘을 너무너무 좋아하나봐요 (이름) (이름)기 가 제 최애 배우에요 미노 더킹에 이어 동우기 구미호뎐 보면서 즐겁네요",
+        "writer": "UgzMhE38y-mzU2l70op4AaABAg.9E6FfH6GN9d9FiOFtj_Y_X",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=T3NPZgppDyM",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

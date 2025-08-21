@@ -1,0 +1,932 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001670499",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001670499"
+    },
+    "text": [
+      {
+        "content": "근데 배구 선수들 외모가 다들 훈훈하네요. 피부들도 좋고,이쁘심..",
+        "writer": "UgymA1j-G4ggfT_zje54AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름), 기안,잘해결되길",
+        "writer": "Ugy7iP2hT_Zv741_F_p4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "속이 다 시원하네",
+        "writer": "Ugz6u_mQdMSAK_nbgqJ4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "편집 개웃곀",
+        "writer": "UgxnnOYjSOFuXZJoctF4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 인성좋은선수들이 은퇴해도 협회서일을해야하는데 (혐오표현)것들이 너무많은 배구협회 쏵다 바꿔버려야 한다",
+        "writer": "UgyHG1R4jSYpkA12ZHt4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (비속어) 진짜 보기싫다",
+        "writer": "UgxcV9Et72vByrMkivx4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "국셔틀 단한마디도없고 니들이 칼(비속어)보다 더하다. 사회보는 키작은 여자나 출연진이나 그냥 방송이 (비속어)이네.",
+        "writer": "Ugy-iuCk5QlFbAhVTVl4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "월클에게 잔소리 들을 기회 있으면 열심히 들어서 자양분 삼아야지. 어디가서 듣겠냐고 그 잔소리를, 귀하다 다시 생각해도 터트릴꼬얌 인가 대단,",
+        "writer": "Ugy3ppEaNfFOT90BpKR4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "옘뱅씨에 나혼자는 1순위 똥통",
+        "writer": "UgxxiYSYkqHn1hJxei14AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "키가 크니까 옷빨 죽이네들",
+        "writer": "Ugz7vSpIVRwcycckXMt4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)사건은 종료 된겨",
+        "writer": "Ugy8e61bKKnBTlQ7B_F4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "효진언니 남편 쌈 잘하냐고 물어보려했는데, 이번 생만 봐준다 ,",
+        "writer": "UgwBiw2N0OO7qCzjEK54AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저선수분들 보고싶었는데 나혼자에서 나오넹 나혼산 (비속어)라...",
+        "writer": "UgwZLP9QlgOnIaVarVZ4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참 생각할수록 기가찬다, 나같으면 옆에서 연경언니가 이렇게 해라 저렇게 해라 하면 감사할거같은데, 그 쌍둥이들은 그동안 옆에서 얼마나 아무도 지적을 안했길래, 터뜨릴꼬얌 이러고 있고,",
+        "writer": "UgxwMoMyirlLV0OWMT94AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양, 효 ,진이요 하고 둥둥두둥둥둥",
+        "writer": "UgyrL5-s3BiEsX-jtS14AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)를 보기위한 희진언니의 바쁜 눈동자",
+        "writer": "UgwUgINYmvqTPS4ur0V4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가끔 나오는 박냐라 목소리도 듣기 싫으넹",
+        "writer": "Ugy3M_vQLFuv3YuKMf54AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "식빵굽는데 인성좋다고 하긴 좀 웃기지않음,",
+        "writer": "UgyHG1R4jSYpkA12ZHt4AaABAg.9SSAgC3TPTw9SZDotiyQMw",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 귀여워 큐",
+        "writer": "UgwUgINYmvqTPS4ur0V4AaABAg.9SOAyAInpvM9SQRpUcoc3S",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무슨일이고 아직 (이름) 나오나",
+        "writer": "UgzXRX3-ylFMoBFTEEp4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 (이름)가 아직도 나오네",
+        "writer": "UgzXOPkom-HmEgg-70J4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 굉장히 원칙 느낌",
+        "writer": "Ugz9Rg6H_OkKF8Bajqh4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)저거 이제는 목소리만들어도 오바이트쏠리네",
+        "writer": "UgyEImwXzO7_ekoeFSV4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저런 잔소리 못견디는 터트릴꼬얌은 결국 나락을 갔고",
+        "writer": "UgxXKVe8lWHz8CiytPt4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "불안한게 나중에 (이름) 왜 논란터질것같지 이영상보고 불편하다는사람나올까봐 무섭다",
+        "writer": "Ugwki-NVSbiCbDAlcjV4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)는 그냥 리액션기계네 멘트마다 뻔한말에 영혼1도없어보임",
+        "writer": "UgxI93xeGV8R45m3yEN4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "4인집합 금지매도 차에서도 마스크를 착용하지않았고 명백만 방역 수칙을 억겼으니 형사 처벌 을 받아야합니다",
+        "writer": "UgwsJIJ3BYYj5Zynw9p4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "올림픽 선수(반사회적용어) 방역 수칙을 억겼습니다",
+        "writer": "Ugzip2zMSLlw3Y_qodR4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "4인 방역 수칙을 어겹는대 처벌이 안되는건가요",
+        "writer": "UgyrNfWfYzpD6UjUcx54AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의자에 누워서 앉은키 측정해도 박내래보다 큰듯",
+        "writer": "UgxCnAPjBySpsaL17Q54AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "심지어 연경선수 통화할때 나오는 효진선수 모습은 분주하게 움직이는 모습임 콩트같아요",
+        "writer": "Ugzvaxah907lyw5_AFJ4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 흥해라",
+        "writer": "UgzVFxObWaMxul80Ap94AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "박자이크 좀, 범죄자급임 나래는",
+        "writer": "Ugwp_fYUuGwGAWJSYm14AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양효진선수 최고.",
+        "writer": "Ugwy6aRbvx97LOMyynF4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 젤재밌음.",
+        "writer": "UgxD9DFJPkjWon1aE3l4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)좀 그만보고싶다 진짜, mbc한테 로비했냐 왜 하차안함,",
+        "writer": "Ugz2_SmlHDq80ntHfBl4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 제천 언제왔어",
+        "writer": "UgxqtscYVMijzmC67Dx4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하, 찾았다. 내말이, 언제 안나오나 , 나혼산 못보고 있음 꼴보기 싫어서",
+        "writer": "UgzXRX3-ylFMoBFTEEp4AaABAg.9SNgj5SjTEa9SPqVR3GRtZ",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방송에서 다 허락맡고 한거임 불편하시면 자세고쳐앉으셈",
+        "writer": "UgwsJIJ3BYYj5Zynw9p4AaABAg.9SMDbC_3X3m9SQHYMaBHNP",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양환서 기안한테는 방역수칙 때문에 안된다고 했었는데",
+        "writer": "UgwsJIJ3BYYj5Zynw9p4AaABAg.9SMDbC_3X3m9STPCNWOIrw",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제천 3단계아닌가요 4인까지허용인데요",
+        "writer": "UgyrNfWfYzpD6UjUcx54AaABAg.9SMDMgJO-s-9SNOskz-xIm",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그리고 선수들 모두 2차까지 백신맞았어요",
+        "writer": "UgyrNfWfYzpD6UjUcx54AaABAg.9SMDMgJO-s-9SNP2PWeVcP",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제작진이랑 친해져서 제작진이 커버해주는듯, 인맥 무시못하죠",
+        "writer": "Ugz2_SmlHDq80ntHfBl4AaABAg.9SL00mM-PaU9SNOfDdd5jA",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) MBC",
+        "writer": "UgyqtxxnOXP4yMnp6ZF4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여자배구 사랑해요",
+        "writer": "UgxuQbEDkN10hU88VyR4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 여배팀 사랑해요",
+        "writer": "Ugw4Cy0juZsIlHmbDMB4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 남편분과 통화할때 (이름) 부러워히면서 배아파하는 표정 잼고 귀여웠음",
+        "writer": "UgxHBoJGGZZRRWost_54AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막 감사합니다 열중쉬어 , 거의 뭐, 와 감탄이다,",
+        "writer": "Ugw0LpELLMZ64uRzbVl4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "원하는 답을 못듣자 빠른손절 아........귀여워..............",
+        "writer": "UgxG5eQyLU5079X25Kt4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양효진 선수 이름 모르시나봐 (이름)",
+        "writer": "UgzMB2KxU5RF7TZpU214AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "곰돌대쟝 (반사회적용어) 따라서 눈동자 움직이는것봐",
+        "writer": "Ugw6LnuThFLtExh-Y_B4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)좀 모자이크해라",
+        "writer": "UgxkfTU-cr1Ai1MFlnx4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 그사람은 아직도 나오네 뻔뻔하네",
+        "writer": "UgwjL8WxY7hl0Jrq6QZ4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사회적 물의를 일으킨 (이름)를 자숙기간도 없이 끝까지 지키면서 나혼자산다 구해줘홈즈 비디오스타에 고정출연(반사회적용어)는 MBC가 인권과 성평등 인식개선에 노력하겠다는 것은 전혀 말이 안됩니다. MBC가 상식적으로 이해가 되는 공영방송이 되기를 기원합니다.",
+        "writer": "Ugwv9qGNUH0qT9GGxcl4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "막걸리 나발 부는게 넘 웃겼는데",
+        "writer": "Ugx0fnCppg8Gv0BOIQx4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부럽습니다 찐친들만이 가능한 대화와 행동들 연경신 지인들은 얼마나 행복할까요",
+        "writer": "UgyvVxaUchXuCkGg2a14AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "갓연경 사랑해요",
+        "writer": "UgwENxfBukpxd_iwFxN4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 아직도 나오네",
+        "writer": "UgwuQDdH_67kdEwaatl4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남편말고 아내는 어때,",
+        "writer": "UgynS2wNrqVHv8PEQ754AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나래는 제발 모든프로에 나오지마라 욕나온다 쌍",
+        "writer": "UgyZmXG3Y7CoVsx8LUd4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 확실히 운동선수들은 몸이 특히나 건강해야 해서 관리를 꾸준히 하다보니까 다들 웬만하면 잘 마실 듯",
+        "writer": "UgzG50ZDyZkVYtOwurZ4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수고들 했어요",
+        "writer": "UgxDV75KBWNMt7XYLtZ4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막에 감사합니다 할때 자세가 딱 각잡혀있어서 넘 멋짐",
+        "writer": "UgyCW1VL_hphiJBCzVZ4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아오 답답한(비속어) 남자가돼갓고",
+        "writer": "Ugwv9qGNUH0qT9GGxcl4AaABAg.9SIxI1Sykg09SJEMJv3jpI",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아직도 이러고 다니세요,",
+        "writer": "Ugwv9qGNUH0qT9GGxcl4AaABAg.9SIxI1Sykg09SJJuymUcxY",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "불매운동 하던가",
+        "writer": "Ugwv9qGNUH0qT9GGxcl4AaABAg.9SIxI1Sykg09SKt4X6A4AD",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아직도 이러고 있네 백수색기, 불매를 해, 이렇게 조회수 올려주고 다니지말고 (비속어)야",
+        "writer": "Ugwv9qGNUH0qT9GGxcl4AaABAg.9SIxI1Sykg09SL1Fj_ezLv",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여긴 여성이 장애인 보다 점수를 더받는 비상식적인 유일한 국가 아님 군대간걸 캠핑간걸로 알고 지들이 우대받는걸 당연한줄 알고있음. 여성 할당에 무조건 우대받는 유일한 국가임.",
+        "writer": "Ugwv9qGNUH0qT9GGxcl4AaABAg.9SIxI1Sykg09SQ1Ap0ehx2",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1011 군대 안가는게 우대임",
+        "writer": "Ugwv9qGNUH0qT9GGxcl4AaABAg.9SIxI1Sykg09SQ65923DDg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1011 또또 가짜뉴스 퍼트린다 이대남은 날조없인 한 마디도 못하노",
+        "writer": "Ugwv9qGNUH0qT9GGxcl4AaABAg.9SIxI1Sykg09ST_AYWQGrQ",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건강관리하면 술을 잘마시나요, 그냥 여자배구분들이 체격이 워낙 크니간 기본으로 마셔도 잘 마시는 겁니다 대부분 보면 덩치나 키가 크고 체격이 있는분들이 기본으로 잘 마십니다",
+        "writer": "UgzG50ZDyZkVYtOwurZ4AaABAg.9SIP4I7WA7h9SQhF-mLReb",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다 고분고분하게 듣긴하지만 할말은 하는 동생들(이름)",
+        "writer": "UgxkZqBjzE9H_ITofPx4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어) 날아다녀서 움츠러든 곰돌이 재질",
+        "writer": "UgyM8-3ThmeW4ajE0q94AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다 좋은데. 비호감 한명 있어서 보기싫어서 본방 안보는데, 유튜브에서도 으하하하, 저걸 꼭 봐야하나,",
+        "writer": "UgzlGEGM1kmNAtRIN_l4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재질 (비속어)다",
+        "writer": "Ugzse7Yyj7YAZBmZxQ14AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연경신이 유일하게 우울해질 때다근데 언니 부인이랑 남편 후보 겁나 많은거 알죠, 나도 거기에 있는데 언니는 고르기만 하세요",
+        "writer": "Ugz6dsUdgKptNuD_Mgd4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "막걸리 2병에 에이 하시길래 2병을 어떻게 혼자 마셔요 하실줄 알앗능뎈 너무 당연하게 그것보단 더 마시죠라니, 개쩐다 근데 주량은 희진선수 옛날 인터뷰도 진짜 웃겻엇음 주량이 어떻게되세요 한 병이요 아 뭐로 한 병이요 앱솔루트 한 병이요",
+        "writer": "UgzNL_3FUrUfNfpnxBh4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양효진은 쌍수 안했을때가 예뻤음",
+        "writer": "UgyxItTAKxXqzf3ppd14AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여배대표팀 라뷰",
+        "writer": "UgxvtIDVxnE9zrQJsvx4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 보기 싫다",
+        "writer": "Ugx3sjChcc9Ubc9nco94AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이딴 방송에 출연하는 게스트도 다 한심하다",
+        "writer": "Ugx-1HAyLllgx68s7y94AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니 남편 제가 할래요",
+        "writer": "Ugws2xLYPtEq01i9zcB4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "식빵언니 정말 욱끼네. 식빵언니 나오는 방송들은 다 욱끼고 잼있슴",
+        "writer": "Ugwttg8ZTyO0jNrVY7l4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 장난기 넘치는 표정이 너무 좋음",
+        "writer": "UgzOQrLLQfH8S9Q3aZR4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저렇게 잘 지내면 될것을 쌍둥이 자매는 지 엄마 엄마친구들 빽 믿고 지들이 한 못된직 까먹고 (비속어)가 역풍 맞았죠. 조금이(반사회적용어) 겸손하게 다른 팀원들 배려하면서 함께 생활했었더라면 진짜 (이름) 선수랑 함께 더 많은 인기와 사랑을 받았을텐데, 쌍둥이 엄마의 자식교육이 잘못되었고 그리고 배구연맹의 내지인 자식 감싸기 식의 평등하지 못한 선수 관리 배구연맹의 비리등이 쌍둥이가 오만방자한 선수생활을 하게끔 만든거임.",
+        "writer": "UgxkZqBjzE9H_ITofPx4AaABAg.9SHHr1qkosJ9SSYdoupC6Z",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아오 내말이요..",
+        "writer": "UgzlGEGM1kmNAtRIN_l4AaABAg.9SGnW3D-Wuu9SPqZmQFaRG",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재질이 뭐에요",
+        "writer": "Ugzse7Yyj7YAZBmZxQ14AaABAg.9SGakuDGu9d9SIYt-chhhO",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그것도 큰 앱솔",
+        "writer": "UgzNL_3FUrUfNfpnxBh4AaABAg.9SGIx6JRkk69SIxg60qqXi",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "확실히 (반사회적용어) 본인들 쭈구리라 못 하고 사는 삶에 대한 환상이 있는듯괜히 한국에서 신데렐라드라마가 유행한게 아니구만",
+        "writer": "UgzNL_3FUrUfNfpnxBh4AaABAg.9SGIx6JRkk69SZDl3vGbNe",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 진짜 (비속어)",
+        "writer": "UgzNL_3FUrUfNfpnxBh4AaABAg.9SGIx6JRkk69SaMzs0FZVh",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "WY S 얜 뭔데 와서 시비야",
+        "writer": "UgzNL_3FUrUfNfpnxBh4AaABAg.9SGIx6JRkk69SqF-tgn8A_",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "WY S 그건 니 인생아니고",
+        "writer": "UgzNL_3FUrUfNfpnxBh4AaABAg.9SGIx6JRkk69TOZOID12rZ",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이쁜데요 왜",
+        "writer": "UgyxItTAKxXqzf3ppd14AaABAg.9SFOQFBLBu49SFglB90LA8",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞어 인양 한거 이쁘다해줘요 다시 붙일수도 없는거슬",
+        "writer": "UgyxItTAKxXqzf3ppd14AaABAg.9SFOQFBLBu49SFxw60Fx7N",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "님한테 예뻐 보이는 말든 관심 없을 듯",
+        "writer": "UgyxItTAKxXqzf3ppd14AaABAg.9SFOQFBLBu49SHKOU4Tby4",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금이 훨씬 예쁜데",
+        "writer": "UgyxItTAKxXqzf3ppd14AaABAg.9SFOQFBLBu49SHL_nX7hjj",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안했을때도 예뻤긴 했어요",
+        "writer": "UgyxItTAKxXqzf3ppd14AaABAg.9SFOQFBLBu49SHsPODxjO9",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한게 20배는 더 이쁨",
+        "writer": "UgyxItTAKxXqzf3ppd14AaABAg.9SFOQFBLBu49SI85N0D9Yj",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둘다 이쁜데,",
+        "writer": "UgyxItTAKxXqzf3ppd14AaABAg.9SFOQFBLBu49SI_MH1joKN",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금도 이쁜데 뭔소리..",
+        "writer": "UgyxItTAKxXqzf3ppd14AaABAg.9SFOQFBLBu49SKcqPlTMRg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 보기 싫음요 근데 너무 이곳저곳 많이나옴",
+        "writer": "Ugx3sjChcc9Ubc9nco94AaABAg.9SFD6XPohfH9SHsaj14p4y",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "빨대를 여러군데 꽂아놨나봄 사라지지가 않네",
+        "writer": "Ugx3sjChcc9Ubc9nco94AaABAg.9SFD6XPohfH9SIs-U2nxin",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐가 그렇게 맘에 안들어",
+        "writer": "Ugx-1HAyLllgx68s7y94AaABAg.9SCPb3IyRPp9SFdhCN0yEZ",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 이렇게 화가난거야",
+        "writer": "Ugx-1HAyLllgx68s7y94AaABAg.9SCPb3IyRPp9SG-FqTkc5f",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래도 배구국대한테는 뭐라하지 맙시다",
+        "writer": "Ugx-1HAyLllgx68s7y94AaABAg.9SCPb3IyRPp9SG3ABkIRA4",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너도 굳이 왜 보는거냐",
+        "writer": "Ugx-1HAyLllgx68s7y94AaABAg.9SCPb3IyRPp9SGH-kKHBWu",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댓글 넘웃김요",
+        "writer": "Ugx-1HAyLllgx68s7y94AaABAg.9SCPb3IyRPp9SHsVZ5nhbU",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "니는 왜봄 게다가 굳이 댓글까지 단다고 (비속어)놈",
+        "writer": "Ugx-1HAyLllgx68s7y94AaABAg.9SCPb3IyRPp9SIE5SclwGP",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "출연진 제작진이 문제지 게스트까지 몰고가는건 무슨 (비속어)(비속어)같은논리",
+        "writer": "Ugx-1HAyLllgx68s7y94AaABAg.9SCPb3IyRPp9SITfk1AX4z",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너도 참 (비속어)이다",
+        "writer": "Ugx-1HAyLllgx68s7y94AaABAg.9SCPb3IyRPp9SIbHBsDptd",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너 키우는 니네부모가 더 한심하지 답도없는데",
+        "writer": "Ugx-1HAyLllgx68s7y94AaABAg.9SCPb3IyRPp9SJcAGYBcRa",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댓글다는 니따위가 더한심하다",
+        "writer": "Ugx-1HAyLllgx68s7y94AaABAg.9SCPb3IyRPp9SKcwwKrQG4",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "니인생이 더한심하다...",
+        "writer": "Ugx-1HAyLllgx68s7y94AaABAg.9SCPb3IyRPp9SKd-M-4Yji",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 부인해요",
+        "writer": "Ugws2xLYPtEq01i9zcB4AaABAg.9S98dT2zZJr9SIhv57Suno",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜요, 장난기 머금은 표정 너무 좋아요",
+        "writer": "UgzOQrLLQfH8S9Q3aZR4AaABAg.9S726I-loUx9SGRe0FG_e1",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=ovYbJ_EeW3o",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

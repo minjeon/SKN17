@@ -1,0 +1,1764 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001636901",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001636901"
+    },
+    "text": [
+      {
+        "content": "피디(비속어) (이름)랑 뭐있었나 반말 겁나 강조하네",
+        "writer": "UgxJauZ6avBX6MU-7ll4AaABAg",
+        "write_date": "2021-09-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와(비속어) 63키로면 (혐오표현)센데",
+        "writer": "UgxZkCAoSPx8-5SXAd94AaABAg",
+        "write_date": "2021-08-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 이걸 진짜 시켰다고",
+        "writer": "Ugy9Fkhym2dIooOrv2Z4AaABAg",
+        "write_date": "2021-08-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방(이름) 노동법 같은것도 적용 안되고 진짜 쌩으로 걸었네",
+        "writer": "UgxetAm5tt-LXyNQmv54AaABAg",
+        "write_date": "2021-07-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1박2일 시즌1 무한도전 원년멤버 음악의신 시간탐험대는 꼭 다시 해줬으면 좋겠다.",
+        "writer": "Ugz1-_0_RYyDieHRMK54AaABAg",
+        "write_date": "2021-07-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다시 해라..",
+        "writer": "UgwxuEAEvMA-28FPTEd4AaABAg",
+        "write_date": "2021-07-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저게 콘크리트 바닥을 밟는거라 더 피곤하고 아플것 같다",
+        "writer": "UgymFveatn3Ek4BSy8Z4AaABAg",
+        "write_date": "2021-07-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 당시 길도 셋길에 산엔 야생동물에 호랑이까지 흔하던 길을 한양에서 (반사회적용어) 섬까지 그 당시 사람들 정말 개고생 사는게 (반사회적용어)이네",
+        "writer": "UgxhmDliNobFxGVauqJ4AaABAg",
+        "write_date": "2021-05-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와, 고생한 거에 비해서 너무 화제가 안됐어",
+        "writer": "UgwnUXuQ8flJmLkcSwJ4AaABAg",
+        "write_date": "2021-05-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 골때리네",
+        "writer": "Ugz5dbHK5smcvr7iSJV4AaABAg",
+        "write_date": "2021-05-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "피디가 미쳤나 출연진 제작진 다 고문하고 있네",
+        "writer": "UgywmG9yxjPjeqP8ALx4AaABAg",
+        "write_date": "2021-04-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이프로가 다시안하는이유 출연진을 구할수가 없어서",
+        "writer": "Ugw68mmB5I_fo35PLlJ4AaABAg",
+        "write_date": "2021-04-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자막에 반말 또 반말은 왜 쓴거냐",
+        "writer": "UgyTYnnFbb7SZPe3lpx4AaABAg",
+        "write_date": "2021-03-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "60km면 걸어서 약 13시간",
+        "writer": "Ugx8tqsChYs_kGuwf_h4AaABAg",
+        "write_date": "2021-02-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "길 알려주신분 반말한건 잘못되었어도 나름 친절하게 알려주고 기분나쁘게 그런건 아닌거같은데 굳이 자막쓰면서도 또 반말 이런식으로 악의를 넣을 필요가 있었을까 저 장면을 쓰(반사회적용어) 말든가 그럼 얼굴까고 나오는 시민입장에서도 이 프로 볼텐데 저런 자막보면 기분별로일거같음,",
+        "writer": "UgxWBJqilbkhuMV41FR4AaABAg",
+        "write_date": "2021-01-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 행군",
+        "writer": "UgzJC1xSJICAkoz-dkN4AaABAg",
+        "write_date": "2021-01-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 진짜 (비속어)힘들겠다",
+        "writer": "Ugw33mD1dKv3a32H0ft4AaABAg",
+        "write_date": "2020-12-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "생각해보니 저때 산에 호랑이 표범 반달곰 시라소니 맹수들 살때인데 산길을",
+        "writer": "UgwKvTxukFNjUyDpDDd4AaABAg",
+        "write_date": "2020-12-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 조합이 제일잼있다",
+        "writer": "UgxGIEORkMfhoiTT6BV4AaABAg",
+        "write_date": "2020-12-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "tv n 이 프로 겁나 재미지네",
+        "writer": "UgxlP3G5RRrB5ci7KH14AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "또 했으면.",
+        "writer": "UgzSE_SQJshsiRdPKsF4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "중간에 (이름) 나오실때 또반말",
+        "writer": "Ugx2cfjrHosANowM3PZ4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 출연진도 고생했지만 동행한 제작진들도 대단하다 생각한다, 저 무거운 카메라와 조명장비들 들고 160리를 같이 걸었다니,",
+        "writer": "Ugw8OqF2g9P9VJr4yyx4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "약과 어릴때 부터 좋아했데. 넘 웃기네요.",
+        "writer": "Ugy8KwQFmsyv_xvvfXN4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 저건 길 물어보는데 왜 반말 찍찍해대냐 .",
+        "writer": "UgyflYVZpacL8BAiZ9R4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "62키로를 진짜 걷게하네 (비속어)",
+        "writer": "Ugw3qBPC1FB8tgBTeo54AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제작진이 (비속어) 들인가 개 웃기네",
+        "writer": "UgxMDeQl0MhSWQyvRBh4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제작진 진짜 미쳤네",
+        "writer": "Ugz2J6F6tWGsjVtVAOh4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "말이 집(이름), 신발이 짚이야,",
+        "writer": "Ugw-f8z4vrbpJGRNfax4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미쳤어 목에 무거운 칼 채우고 짚신신고 군인들도 힘들어하는 행군하네",
+        "writer": "UgziirXNXf01oPYAgPp4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "글을 모릅니다요 센스 대박",
+        "writer": "UgwczrkkbfWXEWZVGup4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시간탐험대 다시 만들어주세요.",
+        "writer": "UgwUx_YFG7FJukOnnOJ4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "촬영팀이 제일 고생했겠다. 카메라 짊어지고 백스텝으로,",
+        "writer": "Ugy5LA358DzfThlBCNt4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "발이 진짜 아프겠다",
+        "writer": "UgwhiBkV8ZhYPUa8ifV4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마라톤보다 먼 거리를 저걸 지고 짚신으로,",
+        "writer": "UgxduB1IqucxDrDPFEx4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "레알참트루 힘들것다 와 정말 걸어가네,",
+        "writer": "Ugxd6L3hYkG8VA8HHMh4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "48시간도 아니고 밤에출발해서 담날 12시까지도착이면 이게 물리적으로 가능한가",
+        "writer": "UgwOafTl1raQSTfHuZ54AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쟤 유기견임",
+        "writer": "UgyxMwYi2bk3bvSLihN4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그것도 평지도 아니고 산을 와,",
+        "writer": "UgxduB1IqucxDrDPFEx4AaABAg.95a1DBcIhgK95a1NJCaxYF",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방송작가들 다시 이프로 만들자 넘재밋다",
+        "writer": "UgzMIJcF2TH1VmMGrdF4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요즘 예능은 설렁설렁. 노가리 깜,실전 같은 예능이 최고로 재밌어요,",
+        "writer": "UgwuyBlQLUOfcOmTUwl4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김(이름) 어떤 활동 보다 가장 인상 깊은 명작이라고 생각합니다.",
+        "writer": "Ugz293HKlgGpaJ5gNEJ4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동현이형 저때만해도 덜 (비속어)같았네 순둥순둥한데 얼굴은 지금보다 무서움",
+        "writer": "Ugw2sA6p8CLbSblkWW14AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목디스크 걸리겠네",
+        "writer": "UgwHl3pwKjsezeknh4F4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "채희선이 아녀",
+        "writer": "UgzjGYX4Vq0kaFhEH0d4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "원년맴버로 새 시즌해주세요.제바루",
+        "writer": "Ugz3q7v9-pVLmcz3z_F4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 너무 했음 제작진 의도는 알겠으나 넘어갈껀 넘어가지 출연진 카메라 (이름) 복지가",
+        "writer": "UgzKE_oeE2vxsSnJQNZ4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서울에 달 음악도 개그하신다",
+        "writer": "Ugx-sQmkW9qoaF4O8Md4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 짚신이 말이안됨. 옛날사람들 발하고 요즘사람들 발이 같지가 않은데. 양말에 좋은 신발에 익숙해진 발하고 옛날 (반사회적용어)사람들 발하고 똑같냐 무식하면 용감하다는 말이 참",
+        "writer": "UgxszwS8QxN8_ph8X394AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 어떻게 칼차고 다녔냐, 진짜 대단 제작진들도 개고생함 방송장비 개무거운데",
+        "writer": "Ugy5vItOC2MMhHIO-el4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저건 (비속어)거아니야, 예능이라지만,",
+        "writer": "Ugw8zMB9VzlM-i8lrQZ4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 칼이 진짜 앞뒤 균형이 안맞아서 지대로 애물단지네 (비속어) 불편해보인다",
+        "writer": "UgyMyrFbmbJGjaHpnUd4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 저거 촬영하는 사람도 개고생이었겠다 카메라맨도 고생했시다",
+        "writer": "UgzSHS8rbHthOhRvSnt4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역적보다 간통범이 더큰 처벌 받음",
+        "writer": "UgxeBtu4PZwbesfZo_x4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)랑 외국인 아이돌 나오고부터 재미없었는데 다시 촬영할거면 (이름) (이름)이 필수임",
+        "writer": "UgyCySRIZ0epq4sXTAx4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "글을 모릅니다욬",
+        "writer": "Ugww9fzrM0dkhi7cupR4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런게 리얼예능이지",
+        "writer": "Ugw9Wf-QTdOgtHPG89B4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "카메라팀, 조명팀, 개헬이었겠는데",
+        "writer": "UgxpuY7O9YgYUvY7WHN4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "출연료 이천은 받았겠다.",
+        "writer": "UgzG2oAhC-QA-i11W7J4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "월클이네 대화 없이 웃겨버리네",
+        "writer": "UgzzOvybGddEbKOERZB4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이걸 진짜 걸어",
+        "writer": "Ugx_XO2U93I2HN00bDB4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 이거 왜 올레tv 모바일엔 없는거죠, tvn 아무리 찾아봐도 없음,",
+        "writer": "Ugx9ekD8JcJ6WZ_kvKl4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "광양에서 촬영하셨네.",
+        "writer": "UgwBbj8_XlHg294lIkt4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저게 말도 안되는게 현대 인간이랑 17세기 인간이랑 신체의 단련도가 너무 큼 특히 발바닥 같은데는, 그리고 바닥이 아스팔트라 발바닥 아작남",
+        "writer": "UgyhJPLgjp5p5xeTVEN4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제일 어려운게 적당히 이지만 이건 너무 과했음",
+        "writer": "Ugyh3BjtjRmawUOr8th4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "칼 차고 가는게 진짜 힘들겠다 나무 도마 들어봐도 무거운데 그걸 목에",
+        "writer": "Ugx-rUaVzTuHQjL2oSt4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "매미킴이니까 하는(혐오표현) 시즌3 출연진 데려다가 놨으면 가관일듯",
+        "writer": "UgxtlFEybjOiJPlvUoh4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누가 이프로에게 리얼리티를 논할것인가 텀스업 ...",
+        "writer": "UgxIYyZIZtDIsNLfCeh4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "같이 촬영하는 카메라팀들은 더 힘든거 아닌가 무거운 카메라 들고 하는데,",
+        "writer": "UgwvfLofoVLEN7zSWU14AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "처먹는거 애(비속어)들 (반사회적용어)관찰 이딴 예능 그만하고 다시 리얼예능좀 해라.",
+        "writer": "UgypakQf6qq5sphUHgJ4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 아니었으면 저게 가능했을까",
+        "writer": "UgyTJsJlGi5yPJ7PmpZ4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)도 나왔었네 (이름) (비속어)희 등등 다 나오고 요즘 일없어진 연애인들 출연시켜도 될꺼같은데",
+        "writer": "Ugxp5J2gZcN3VWsvlHx4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "10리 약 4.0km",
+        "writer": "Ugy9nRviRgziSOPFhll4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "산보고 놀라는거 겁나웃기네",
+        "writer": "Ugwk2gGeKmvrx8oELYF4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 시즌1 1박2일보다 빡센예능아님",
+        "writer": "UgyAwZ5i3zWIgDbPfc54AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목디스크까지 있는걸로 아는데",
+        "writer": "Ugzib17W5Tfa0ECcsXh4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저거 몸상하지않나",
+        "writer": "UgwutaGhfm4jnYwuHI94AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 프로그램 부활해라",
+        "writer": "UgzCx5C2mW6TgUwjCvJ4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 더 힘들듯 9키로 칼들고 짚신신고댕기는더 짚신그냥 맨발급임",
+        "writer": "UgwvfLofoVLEN7zSWU14AaABAg.8wSvGKaM6Uq8xHFlicOZnm",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "최고 예능중 하나 역사공부는 덤",
+        "writer": "Ugy4R1HOF7LLWP3UQsR4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스텝들도 불쌍타, 카메리들고 뒤로 걸어서 산타면서 찍을텐데",
+        "writer": "UgzEZw8Q4nX0iQBRfUJ4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울 조상(이름)도 유배온 사람이라는데",
+        "writer": "UgzURRaV_uNAwC0c7a94AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "경기력에 지장있게 돌려서 (이름)이가 망한겨",
+        "writer": "UgzzqOjaapxFp2wIUwt4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 이거 진짜 리얼 (비속어) 이프로 다시 나와야데",
+        "writer": "UgwVKLayexzVARpr6YJ4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 프로그램 망한 이유 좀 잘나간다고 아이돌 (이름) 이런애들 부르기 시작하고 마지막 시즌엔 뭔 (이름)이니 뭐니 부르고 야생성 다 없어지고 핵(비속어)되고서 끝남",
+        "writer": "UgwDZneQtvj-I46xeBN4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 리얼로 걸었구나,",
+        "writer": "UgzAcayQ8I-c0B9FIZZ4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 디스크 있는디",
+        "writer": "UgwqU3TY84wsgp6QjPR4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 인성 짱이다",
+        "writer": "UgzBzuR8Ro-SmnqFa5t4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "글을 모릅니다요 센스",
+        "writer": "UgyQJN9bMCl-QC10BXF4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "옛날에 동현이형한테 맞은적 있는거 아냐 어케 이래",
+        "writer": "UgyGPSr-aXuWAtQHsH14AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양배추 살빠지겠다",
+        "writer": "UgzWclkIhAVixH8VNoF4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 당(이름) 반말하시네",
+        "writer": "UgxVEpaATpyqSaahsmx4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "39년 인생 중 가장 힘든었던 하루,",
+        "writer": "UgxfLWwUgRu_kvscO-54AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "160리면 몇키로인가요 진심 궁금하네요",
+        "writer": "Ugwq-7JlCEOjvB-o4T94AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "두번 다시 안나올 희대 역대 (비속어)대 예능",
+        "writer": "UgyyhSk3xSUowbV6mBx4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "운동 되겟다",
+        "writer": "Ugws3TCqF0yIWHs2Ew14AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시간탐험대 다시해라",
+        "writer": "Ugwy7_cMoFHYLLJkMKp4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "응 채희선 무엇",
+        "writer": "UgwgTZAsvnkLIMSCUdZ4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인격 갑 오헌석 중령 대대장 하실때 본인 중대장하셨다고 31대대오셔서 우리해병 모두 싸인해주고 가시고 항상 흥하십쇼",
+        "writer": "Ugx3b7T_wII-iDbJLoV4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)까진 괜찮았음, (비속어)이긴 했는데 몸 사리는 (이름)가 고생하는게 재밌긴했는뎈",
+        "writer": "UgwDZneQtvj-I46xeBN4AaABAg.8wHpGLurgL89G7ZMMmWRgX",
+        "write_date": "2020-12-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오월 (이름)는 엄살 정색 화내는 감정표현이 보는사람이 불편하게함 개그맨들이랑은 근본적인 표현이 다름 안어울리는게 맞음",
+        "writer": "UgwDZneQtvj-I46xeBN4AaABAg.8wHpGLurgL89HaVhFGxjLk",
+        "write_date": "2021-01-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저거 (이름)가 말았겠냐 그 뒤로 신인개그맨 짜르고 배우들 데려와서 (비속어)화 급격해지고 조용히 망한(혐오표현)",
+        "writer": "UgwDZneQtvj-I46xeBN4AaABAg.8wHpGLurgL89Hbs7y7lM0g",
+        "write_date": "2021-01-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가즈아공기업 (이름)는 다시보니 선녀같은(혐오표현) 선녀는 아님",
+        "writer": "UgwDZneQtvj-I46xeBN4AaABAg.8wHpGLurgL89HbtoN-QDhL",
+        "write_date": "2021-01-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "매미킴 TV 헐 본인등판",
+        "writer": "UgxfLWwUgRu_kvscO-54AaABAg.8wG9cpJ3edg8wGA5U64I_F",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 아직도 이거 한번씩 보시나 보네 전 자기전 이거 항상 틀어놓고 잠 고생하는 소리 들으면서 자면 꿀 잠 잘수 있음",
+        "writer": "UgxfLWwUgRu_kvscO-54AaABAg.8wG9cpJ3edg8wGO6njCYFb",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다들 힘들었겠지만 싫은 소리 한마디도 안하고 목에 칼까지 차고 걸은 (이름) 선수가 제일 힘들어 보이고 대단해 보였습니다.",
+        "writer": "UgxfLWwUgRu_kvscO-54AaABAg.8wG9cpJ3edg8wGUefjfzGE",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 실시간으로 보네 영광이다",
+        "writer": "UgxfLWwUgRu_kvscO-54AaABAg.8wG9cpJ3edg8wGVd3OC8oQ",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 요즘 댓글 맛들렸죠 여기저기 매력 흘리고 가시네",
+        "writer": "UgxfLWwUgRu_kvscO-54AaABAg.8wG9cpJ3edg8wGd2xXpoJV",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재입대vs재시즌 매미의 선택은",
+        "writer": "UgxfLWwUgRu_kvscO-54AaABAg.8wG9cpJ3edg8wGldBjoUHv",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 다시 제작하면 또 출연해주세요",
+        "writer": "UgxfLWwUgRu_kvscO-54AaABAg.8wG9cpJ3edg8wH5EUeOPK6",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 근데 9kg로 짜리를 목에 걸고 64km,",
+        "writer": "UgxfLWwUgRu_kvscO-54AaABAg.8wG9cpJ3edg8wHRlaa69Qv",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "갑자기 등장",
+        "writer": "UgxfLWwUgRu_kvscO-54AaABAg.8wG9cpJ3edg8wH_rB0SeR2",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 (비속어)시간전에 댓글 다셨네 레전드",
+        "writer": "UgxfLWwUgRu_kvscO-54AaABAg.8wG9cpJ3edg8wIBn09kh3d",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이제는 저 약과맛 안 나실 듯",
+        "writer": "UgxfLWwUgRu_kvscO-54AaABAg.8wG9cpJ3edg8wIaFSXTqer",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얼마주길래 이렇게 열심히하는건지.",
+        "writer": "UgxfLWwUgRu_kvscO-54AaABAg.8wG9cpJ3edg8wIfbsxq4XG",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다음에 매미킴tv 벌칙 이거해주세요",
+        "writer": "UgxfLWwUgRu_kvscO-54AaABAg.8wG9cpJ3edg8wKJynyXB30",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보는 제가다 짠합니다",
+        "writer": "UgxfLWwUgRu_kvscO-54AaABAg.8wG9cpJ3edg8wMaDTIenml",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형님엌레전듭니다 엌",
+        "writer": "UgxfLWwUgRu_kvscO-54AaABAg.8wG9cpJ3edg8wPZ-hk-IY_",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 다시 부활하면 재출연 하실꺼죠",
+        "writer": "UgxfLWwUgRu_kvscO-54AaABAg.8wG9cpJ3edg8wQgyzVWgos",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "또 찍어주세요",
+        "writer": "UgxfLWwUgRu_kvscO-54AaABAg.8wG9cpJ3edg8wTq_ReB4TQ",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 본인 등판 넘나 반가워서 댓글 남깁니다. 진짜 인생 프로그램이였는데 종영해서 넘 아쉽구요 진짜 즐겁게 봤었습니다. 시간 탐험대의 (비속어)잼 포인트가 저런 어이없을 정도의 당황스러움과 오도방정과 버럭버럭을 하면서도 해야할 일과 역할을 끝까지 해냈던 출연자들이였죠. 과거로 돌아가서 현대인 취급받으려는 신규 출연자들 나오면서 개(비속어)되었다고 생각합니다. 한둘이 아니라. 막판엔 (비속어) PPL까지, 그게 진짜 아쉬웠어요. 파일럿 때 제외하곤 1기 때부터 같이 하신 (이름)이 처음엔 무슨 운동선수가 방송에, 했는데 보면 볼수록 매력있고 또 열심히 자기의 역할을 하시는게 멋졌습니다. 요새 유튭 여서서 방송하시는것도 잘 보고 있어요 응원합니다.",
+        "writer": "UgxfLWwUgRu_kvscO-54AaABAg.8wG9cpJ3edg8wUAc0tT4I_",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자다가 꿈에나올듯 방송사pd 안죽은게신기",
+        "writer": "UgxfLWwUgRu_kvscO-54AaABAg.8wG9cpJ3edg8wYUNNKAdUz",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아침일찍 번갈아 가면서 찍는게 아닐까요",
+        "writer": "UgxfLWwUgRu_kvscO-54AaABAg.8wG9cpJ3edg8wZYVWwIxSl",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "강권모 누구장창따라댕기던데요",
+        "writer": "UgxfLWwUgRu_kvscO-54AaABAg.8wG9cpJ3edg8wZapoxwbMW",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아침일찍 아",
+        "writer": "UgxfLWwUgRu_kvscO-54AaABAg.8wG9cpJ3edg8w_ZMOkQn3l",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "칼에 짚신에 굶주림에",
+        "writer": "UgxfLWwUgRu_kvscO-54AaABAg.8wG9cpJ3edg8x5xqE6viSd",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 덕분에 꿀잼 이였쬬",
+        "writer": "UgxfLWwUgRu_kvscO-54AaABAg.8wG9cpJ3edg8xAROvli0P6",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가야산에서 시작하신건가,",
+        "writer": "UgxfLWwUgRu_kvscO-54AaABAg.8wG9cpJ3edg8xEGJtbmw0k",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "또 찍어주세요",
+        "writer": "UgxfLWwUgRu_kvscO-54AaABAg.8wG9cpJ3edg8xQ-AHNbgiR",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 멋있다. 몸에 부담이 갈텐데 군말없이 방송 진행하는거보면 덕분에 재미있게 봤습니다",
+        "writer": "UgxfLWwUgRu_kvscO-54AaABAg.8wG9cpJ3edg8xjT-BA9QVd",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에휴 고생하셨어요",
+        "writer": "UgxfLWwUgRu_kvscO-54AaABAg.8wG9cpJ3edg8yMVZ192XEi",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하루에 30km만 운동화 신고 걸어도 허리아픔",
+        "writer": "UgxfLWwUgRu_kvscO-54AaABAg.8wG9cpJ3edg8yXoK_Od131",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "레전드를 남기심",
+        "writer": "UgxfLWwUgRu_kvscO-54AaABAg.8wG9cpJ3edg8ydXO2hnNAX",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앜 (비속어), 이댓글 뭐에요",
+        "writer": "UgxfLWwUgRu_kvscO-54AaABAg.8wG9cpJ3edg8yoVQOk7axt",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내 인생에서 가장 재밌었던 예능..",
+        "writer": "UgxfLWwUgRu_kvscO-54AaABAg.8wG9cpJ3edg9-6-jAaTd_4",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "촬영하실때 광양시 광영동 지나가는거 봤어요",
+        "writer": "UgxfLWwUgRu_kvscO-54AaABAg.8wG9cpJ3edg91cKkIrjXbk",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 너무 재밌었는데 또 출연해주셨으면 하는 바램",
+        "writer": "UgxfLWwUgRu_kvscO-54AaABAg.8wG9cpJ3edg91sigtREDAb",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형님 시간탐험대 시즌3 다시 한번만,",
+        "writer": "UgxfLWwUgRu_kvscO-54AaABAg.8wG9cpJ3edg98fp9rJPPuC",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "최애 예능입니다 요즘도 계속 봅니다 계속 했으면 좋겠어요",
+        "writer": "UgxfLWwUgRu_kvscO-54AaABAg.8wG9cpJ3edg9DPzIm8_K5k",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넘 잼있어요 최고최고",
+        "writer": "UgxfLWwUgRu_kvscO-54AaABAg.8wG9cpJ3edg9G2EwJWgTdd",
+        "write_date": "2020-12-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진심 인내심 쩌내요 타고난 운동선수네요",
+        "writer": "UgxfLWwUgRu_kvscO-54AaABAg.8wG9cpJ3edg9Jp3FXhJwjR",
+        "write_date": "2021-03-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "옛날 분들 삶 자체가 고통이네. 특히 힘 없는자",
+        "writer": "UgxfLWwUgRu_kvscO-54AaABAg.8wG9cpJ3edg9NBkAlSKPfq",
+        "write_date": "2021-05-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저때까지 그래도 순한맛이었는데, 지금은 그냥 (비속어)맛 라바 화이팅..",
+        "writer": "UgxfLWwUgRu_kvscO-54AaABAg.8wG9cpJ3edg9QqYHo3Plut",
+        "write_date": "2021-08-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "늦었지만 10리가 4키로니 64키로네요",
+        "writer": "Ugwq-7JlCEOjvB-o4T94AaABAg.8wFrkwt3vuG9GgPzURFCsD",
+        "write_date": "2020-12-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "생긴거랑 말투랑 아주 어울린다",
+        "writer": "UgyyhSk3xSUowbV6mBx4AaABAg.8wFnGS5q9OC9GkqL349_lt",
+        "write_date": "2020-12-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 적어. 태(반사회적용어) (이름) 글을 모릅니다요",
+        "writer": "UgxOaiRcKZ2GO4mtIi14AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "카메라맨이 더 힘들듯",
+        "writer": "UgwIwm1lCnzVSBEVc4p4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "군화신고 40km걸어도 발톱빠지고 물집 잡히는데 짚신신고 칼메고 저게 가능한일인가",
+        "writer": "Ugw-phvFey-DxrNIw9N4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 개웃긴데 시대를 잘못태어났나 왜 이걸 이제 알았지 아 상어 조작 사건 때문인가 봤구나 내갘",
+        "writer": "UgxXG7dW26oN2YG5SnZ4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 출연진도 출연진이지만 이거 찍은 영상팀도 같이 걸었다는 거에 진심 개존경",
+        "writer": "UgwUyzkaKXpWNW-F--J4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 웃겼는데,",
+        "writer": "UgzpHRtWUd1xV_Jz3pd4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 너무하긴 하네",
+        "writer": "UgwkmKiNEkbT2jaGxzZ4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시대를 앞서간 희대의 명작예능 다시 했으면 좋겠다",
+        "writer": "UgxzrknFNmZeJRFhThl4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "국가대표 파이터를 저딴 프로그램으로 몸혹사 (비속어)노 생각 (비속어)없네 몸으로 먹고사는데 몸좀 사리자",
+        "writer": "Ugwq-T2iHBjgBC2tEsR4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 이 프로 보면 진짜, (반사회적용어)시대에 안태어난게 다행이란 생각이 듦, 진짜 (비속어)으로 태어나는거 아니면 진짜 평생 고생만 하다 뒤지는거임,",
+        "writer": "UgxaAAHVsfiQF8VfrMx4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "야, 그래도 칼은 좀 빼주지, 칼을 목에 걸고 60km를 어케 가냐",
+        "writer": "UgwdfYSFS3_PeMYLp1d4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게 모하는거야 적당히 하지",
+        "writer": "UgxvIq6yERHC4A_CuKx4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제작진은 카메라 들고 뒤로 걸어가면서 찍은거임 제작진도 사람이 아니네",
+        "writer": "UgzmebKKrkFG-ysz53B4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이건 너무했네, 재미는 없고 불쌍하네.",
+        "writer": "UgwrXmR8Mnb9GRBOmEt4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "카메라맨이 진짜 그 무거운걸 들고",
+        "writer": "Ugw3ek7rGZB4PCSN0P14AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "설마 리얼로 60키로 걸었겠음 그냥 중간중간 차타고 갔겠지",
+        "writer": "Ugwb-0xPmuemrFMs27t4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 시간과 정성과 노력 제작비 대단하다 재밋다",
+        "writer": "UgwEimlV0RDGxm9wvGd4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찍는사람은 뭔죄여",
+        "writer": "Ugx7lUj5k3uT4SWOyth4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "류찬규 군장매긴하잖아요 . (이름) 선수면 칼쓰고 군장메고 맨발로도 충분하실 듯.",
+        "writer": "Ugw-phvFey-DxrNIw9N4AaABAg.8wEtr_Q8j8h8wPMY4hT7a1",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지근은 다른 근육이라 저리 장거리면 운동하든 말든 (비속어) 힘듬",
+        "writer": "Ugw-phvFey-DxrNIw9N4AaABAg.8wEtr_Q8j8h99Cjtho9hAT",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "카메라가 무겁긴 한데 그사람들은 운동화 출연진은 칼에 짚신",
+        "writer": "UgwUyzkaKXpWNW-F--J4AaABAg.8wEIcHeKzps9GeJQTtE6v6",
+        "write_date": "2020-12-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "sip it 근데 카메라는 같은자세하고 있어야해서 어깨 빠지셨을듯",
+        "writer": "UgwUyzkaKXpWNW-F--J4AaABAg.8wEIcHeKzps9HNTLwveH9s",
+        "write_date": "2021-01-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상팀은 바통터치해가면서 갔을듯 카메라 용량한계때문에",
+        "writer": "UgwUyzkaKXpWNW-F--J4AaABAg.8wEIcHeKzps9HQ8Ao-eBfO",
+        "write_date": "2021-01-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "카메라맨들 영상찍을때 뒤로걸어서 더힘듬",
+        "writer": "UgwUyzkaKXpWNW-F--J4AaABAg.8wEIcHeKzps9OPRUI9AwdE",
+        "write_date": "2021-06-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제발 다시 해라",
+        "writer": "UgxzrknFNmZeJRFhThl4AaABAg.8wDyKEJouej98H6h_dvqY0",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말요 진짜 좋은 프로였는데,",
+        "writer": "UgxzrknFNmZeJRFhThl4AaABAg.8wDyKEJouej9Mzow1ppgO9",
+        "write_date": "2021-05-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "문제는 출연자가 거부함.",
+        "writer": "UgxzrknFNmZeJRFhThl4AaABAg.8wDyKEJouej9RIHECymMLl",
+        "write_date": "2021-09-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몰덕이 (비속어)이 5프로인가 그랬음 걍 90프로(이름) 평민아니면 노비들임",
+        "writer": "UgxaAAHVsfiQF8VfrMx4AaABAg.8wCobS7jqtn8wEScPaIQJu",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "se hwan park 그니까여. 태어나면 분명 평민으로 태어났을텐데, 너무 끔찍하고 싫네요.",
+        "writer": "UgxaAAHVsfiQF8VfrMx4AaABAg.8wCobS7jqtn8wETNycxNMb",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몰덕이 노비로 태어나는걸 배제하면 안됩니닼 요즘시대에 태어난걸 다행으로 만족하면서 살아야겠어요",
+        "writer": "UgxaAAHVsfiQF8VfrMx4AaABAg.8wCobS7jqtn8wElsCnCARH",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "se hwan park 노비로 태어나는건 상상도 싫죠. 노비는 사람이 아니라 재산이라 인권 자체가 없었는데, 진짜 (비속어) (비속어) 하지만 지금이 훨씬 낫죠,",
+        "writer": "UgxaAAHVsfiQF8VfrMx4AaABAg.8wCobS7jqtn8wEmfOFjMb0",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그리고 그 (비속어)도 34대가 공무원시험 합격못하면 평민으로 강등된데요 (비속어)집이 괜시리 잘사는게 아님 어중간하게 생업종사하면서 공부하기에는 공부량도 너무많고",
+        "writer": "UgxaAAHVsfiQF8VfrMx4AaABAg.8wCobS7jqtn8wHG1JAwjCJ",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이명릉 과거급제 하는게 쉬운일은 아니죠. 고작 3년에 33명밖에 안뽑으니, 근데 (비속어)으로 태어나면 돈만 많다면 매관매직도, 아무튼 확실히 평민이나 노비보단 나은 삶을 살겠죠. 근데 또 상사가 세종(일만하다 과로사로 뒤짐) 연산군(말 한마디 잘못하면 목숨 날라감) 이면 또, 아무튼 (반사회적용어)시대에 안태어난게 다행이에요.",
+        "writer": "UgxaAAHVsfiQF8VfrMx4AaABAg.8wCobS7jqtn8wHJWXjrWtV",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "se hwan park 노비는 주인한테 성관계도 해야했음",
+        "writer": "UgxaAAHVsfiQF8VfrMx4AaABAg.8wCobS7jqtn93ZHjdAcjqQ",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어) 후기에는 너도나도 납속책 공명첩 족보조작해서 (비속어)이 70퍼 그리고 (비속어) 쉬운줄 아나. 시간표 보면 아침 9시에 자서 새벽 3시에 일어난 다음 그때부터 공부 (이름) 문안 공부 연속임 참고로 과거 합격자 평균 나이 35세(이것도 초시진사시 생원시)기준임 그러다가 3대 내에 진사 생원이(반사회적용어) 없으면 양인되는거 그렇게 잔반된 사람들도 많았지. 물론 생원 진사 선달(무과)은 임진왜란 이후에는 돈주고 (반사회적용어)친거 많아서 너도나도 진사 생원 선달 했지만",
+        "writer": "UgxaAAHVsfiQF8VfrMx4AaABAg.8wCobS7jqtn98fpaAuoMLn",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "MiaSanMia93 와 (비속어) (비속어)이네 아침9시에 자서 새벽3시에 일어나다니 하루에 15시간을 자빠져자네",
+        "writer": "UgxaAAHVsfiQF8VfrMx4AaABAg.8wCobS7jqtn99T9o0sL6Lx",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모던타임 저녁 9시 잘못침",
+        "writer": "UgxaAAHVsfiQF8VfrMx4AaABAg.8wCobS7jqtn99TA8oVFAlK",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 극한직업 카메라맨,",
+        "writer": "UgzmebKKrkFG-ysz53B4AaABAg.8wCRXXK4KnQ8wDiRwyEjjv",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방송국 알바했었는 교대해요,",
+        "writer": "UgzmebKKrkFG-ysz53B4AaABAg.8wCRXXK4KnQ9C3ZTugVHiT",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜갓다고 라됴스타에 썰풀엇음",
+        "writer": "Ugwb-0xPmuemrFMs27t4AaABAg.8wBy0zcWPla8wDwS(반사회적용어)EzQZ",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어이가 없었는데",
+        "writer": "UgwjOGAEV12MhgtPlBV4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거는 너무 리얼해서 출연진 불쌍하면서도 웃기긴 했었는데",
+        "writer": "UgyC3XrQjljBNCyfw9d4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 약과 챙긴거 대박이네. 인품이 느껴진다",
+        "writer": "Ugzeg1Xydg5n9hbJU594AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "카메라맨 뒤로 걸어야해 에바야,",
+        "writer": "Ugy8LPa2NRK-Z0i6F0l4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게, 재밌냐 피디, 출연자들고생만(비속어)고,아무리 리얼이래도,피디넌 60키로 걷기시도해봤냐 그것도저나무목에차고",
+        "writer": "Ugxrg5C0LcxNGq7b3FZ4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 좀 살살해서 길고 얇게가지, 짧고 굵게 가부럿누",
+        "writer": "UgyWNUZnwOWnZSbcGlh4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 진짜 저 때 같았음 가다가 그냥 호랑이밥 행이었겠는데,",
+        "writer": "UgyX47S1q5zKnUaYpjd4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "카메라맨도 힘들겠다 카메라 들고 저거 걸으려면",
+        "writer": "Ugxak-S7YuMn6NqGVeZ4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "별걸 다 (비속어)네",
+        "writer": "UgyWYWu5hGxvW-6Kh1F4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방송이 완전 끝까지 가네",
+        "writer": "UgxPDo17sCwhZDS0ZyV4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "본방 볼 땐 재밌었는데 지금 보니 너무한 거 같네",
+        "writer": "UgwUIX4HZmGL72G7kJd4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 아무리방(이름)도 미쳣네",
+        "writer": "Ugx6O7arGeeKxUscidZ4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 심하다 (비속어) 사람 합법적으로 조지는거 관찰하는 방송 적당해야지 (비속어)",
+        "writer": "UgzcWiZXZgjzUExWbpB4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "출연진들도 고생했지만 제작진들도 엄청 고생함요 오죽했으면 정글의법칙안가고 시간탐험대 선택한걸 후회할정도니",
+        "writer": "UgyC3XrQjljBNCyfw9d4AaABAg.8wAzhbOcRgG8wIuA_mjGoy",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Dongwon Kim 카메라맨들이 제일 (비속어)갈듯",
+        "writer": "Ugxrg5C0LcxNGq7b3FZ4AaABAg.8wAnBIu98mJ8wBL2blQbIX",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 심했네요 목 다 슬렸을거 같은데",
+        "writer": "Ugxrg5C0LcxNGq7b3FZ4AaABAg.8wAnBIu98mJ8wBPq05OkHB",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Dongwon Kim 신발빼고 다른것도 없고 출연진들은 돈이(반사회적용어) 많이박지",
+        "writer": "Ugxrg5C0LcxNGq7b3FZ4AaABAg.8wAnBIu98mJ8wBb7dGf7UN",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 재밌던데 고증도 열심히 하는 거 같고",
+        "writer": "Ugxrg5C0LcxNGq7b3FZ4AaABAg.8wAnBIu98mJ8wBz7cC16Jp",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다 돈주니 저것도 하는(혐오표현) 맨날 연예인들 해외여행 쳐가는거 보는 것보다 훨 재밌다",
+        "writer": "Ugxrg5C0LcxNGq7b3FZ4AaABAg.8wAnBIu98mJ8wC8IgFlXoy",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(혐오표현)으로 면제라 행군해본적 없대요",
+        "writer": "Ugxrg5C0LcxNGq7b3FZ4AaABAg.8wAnBIu98mJ8wDl-Hl6gG9",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엥엥 재밌는데엥",
+        "writer": "Ugxrg5C0LcxNGq7b3FZ4AaABAg.8wAnBIu98mJ8wDl2itWxl5",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리나라 역사를 제대로 고증한건데요 그리구 개재밌었어요",
+        "writer": "Ugxrg5C0LcxNGq7b3FZ4AaABAg.8wAnBIu98mJ8wE6NSAD0nC",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맨날 처먹는예능보다 3만배는 재밌었음",
+        "writer": "Ugxrg5C0LcxNGq7b3FZ4AaABAg.8wAnBIu98mJ8wEQtUc6LRy",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "응 연예인 관찰 연예인 친구 관찰 연예인 엄빠 관찰 연예인 자식 관찰 연예인 조카 관찰 연예인 이모 이모부 관찰 외국인 관찰. 관찰관찰 거리는 예능보다 이런 리얼리티가 훨씬 더 나. 그리고 그만큼 의미가 있는데 너가 뭔데 이래라 저래라",
+        "writer": "Ugxrg5C0LcxNGq7b3FZ4AaABAg.8wAnBIu98mJ8wGYpwK-ffV",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "60키로는 군대가면 다 걷는거고, 정작 (이름)보다 힘든게 카메라맨 스테프임,",
+        "writer": "Ugxrg5C0LcxNGq7b3FZ4AaABAg.8wAnBIu98mJ8wHduaXOGZE",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그러네 진짜",
+        "writer": "UgyX47S1q5zKnUaYpjd4AaABAg.8wAQEXXT7yw8wBCB1zu6pW",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "실제로 호랑이밥 되는 경우도 꽤 있었다고 함.",
+        "writer": "UgyX47S1q5zKnUaYpjd4AaABAg.8wAQEXXT7yw8wC3KBBzB5C",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "카메라맨이 젤힘들겟지",
+        "writer": "Ugxak-S7YuMn6NqGVeZ4AaABAg.8wAOA9Quk_T8wDcqHOxsdp",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "복숭아 카메라가 우리가 생각하는 카메라가 아님 (비속어) 가벼움",
+        "writer": "Ugxak-S7YuMn6NqGVeZ4AaABAg.8wAOA9Quk_T8wESrSANZDn",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고화질일수록 카메라 무거운데,",
+        "writer": "Ugxak-S7YuMn6NqGVeZ4AaABAg.8wAOA9Quk_T8wGRcXZXG1Z",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "키메라맨들은 뒤로 걷고 찍을라고 먼저 뛰어가서 앞에서 찍고 더 힘들죠",
+        "writer": "Ugxak-S7YuMn6NqGVeZ4AaABAg.8wAOA9Quk_T8wGUQxU7BtP",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "didas 촬영용풀세팅하면 몇십키롭니다 갠히 삼각대들고찍는게아님",
+        "writer": "Ugxak-S7YuMn6NqGVeZ4AaABAg.8wAOA9Quk_T99xbhBUbczS",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 (이름) 찬물세수하는거 진짜 빡, 개웃겼는데",
+        "writer": "UgwUIX4HZmGL72G7kJd4AaABAg.8wAEbTtaP_O8wFEZ5A9jD-",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "솔직히 너무했지 이건",
+        "writer": "UgwUIX4HZmGL72G7kJd4AaABAg.8wAEbTtaP_O8wWDcLE3pXp",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=mMKB5qgCnus",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

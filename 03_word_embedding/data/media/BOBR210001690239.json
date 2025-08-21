@@ -1,0 +1,708 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001690239",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001690239"
+    },
+    "text": [
+      {
+        "content": "바비때문에 매일 밤마다 (비속어)달래느라 오른손 헐크될듯 _ 진짜 하루에 휴지 3통씩쓴다",
+        "writer": "UgwB3guWqyTc4nK_TXV4AaABAg",
+        "write_date": "2021-04-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 재밌는 영화 많네 감사합니당 덕분에 제 하루가 너무 빠르게 가버리네요",
+        "writer": "UgykI60QOxYK9aIkZ2F4AaABAg",
+        "write_date": "2021-02-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 될 사람인가, 아닌가,휴",
+        "writer": "UgzGcEdT8u2RNp-dQXd4AaABAg",
+        "write_date": "2021-02-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지구야 망하자",
+        "writer": "UgzWuZ43n7kO5z32zTJ4AaABAg",
+        "write_date": "2021-02-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사실 저는 수십년살면서 연애를 해본적이 단한번도 없었지만 그래도 저런 소재도 보면 재밌기는하네요. 그래도 전 여친과 새로운 여친을 다 갖게되면 밸런스가 처참하게 파괴되니 새로운 여친하고만 잘되는걸로 밸런스를 맞춰주었군요.",
+        "writer": "UgyPL7mvAKP9JC2cCKl4AaABAg",
+        "write_date": "2021-02-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수고하셨읍니다 늘 감사합니다",
+        "writer": "UgyyOmH8DQ3REzHk1ax4AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어디서 다운받아 볼수 있나요",
+        "writer": "UgwRABdkzanEny_SVNN4AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "클럽 (이름)캐릭터가 참 웃겼는데 안나오시네요",
+        "writer": "Ugy2rN7dJjB45QArmbt4AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "친구 캐리",
+        "writer": "Ugym7eiMQ2T8K48hvDh4AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진심은 와 닿는다",
+        "writer": "UgzswkL0DkPZzRfzNjt4AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스펜서 입술이 헐신 섹시 하구만그 친구보다",
+        "writer": "Ugx0Ux9FVLiIgrRONGJ4AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "플로리다 에서잘보고있어요.",
+        "writer": "UgyCsJy59O5RKjtsB3N4AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 영화 왜 들고 오는거야 형 이거 말구 지구 망하는데 솔로만 살아남는 그런거 있잖아, 커플만 죽는 그런영화 없나 보고싶다",
+        "writer": "UgynBFTeakqpqRiqRIJ4AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영화제목이 먼가요",
+        "writer": "Ugyh3mWkJ4ClRlekh714AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "거 동네 비디오방 (비속어) 이러면 곤란해",
+        "writer": "UgwpwAU99_1QNugfRhR4AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래서 여기 어디냐, 나도좀 가보자",
+        "writer": "UgzX7CTHUSv3mVL43uN4AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 오랜만에 댓글합니다",
+        "writer": "UgwaDYpeDckm2_LWNiF4AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "볼만하셨다니 다행이에용",
+        "writer": "UgykI60QOxYK9aIkZ2F4AaABAg.9JQqMKwYkBZ9JRyB6TvEtK",
+        "write_date": "2021-02-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "솔로 만세... 솔로 쵝오...",
+        "writer": "UgzGcEdT8u2RNp-dQXd4AaABAg.9J3Zev-3eq59J3e66oLDvP",
+        "write_date": "2021-02-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오지망이 갓갓이긴하지융.",
+        "writer": "UgzWuZ43n7kO5z32zTJ4AaABAg.9IOnlxcNdwH9IP6egEq8Xg",
+        "write_date": "2021-02-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하지만 저렇게 고생하는것 보다는 솔로가, 솔로 쵝오...",
+        "writer": "UgyPL7mvAKP9JC2cCKl4AaABAg.9IK7ko9JAc09IKVohLXL2m",
+        "write_date": "2021-02-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네이버에서 다운받아 보실 수 있습니다",
+        "writer": "UgwRABdkzanEny_SVNN4AaABAg.9HnG6YUBeiP9HnbBSQenK3",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앗 보셨군요",
+        "writer": "Ugy2rN7dJjB45QArmbt4AaABAg.9HiVuP1YZPO9HiaSolvf0V",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 친구를 뒀지융",
+        "writer": "Ugym7eiMQ2T8K48hvDh4AaABAg.9HfvfbyRX8H9HgI1petM2f",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앗 해외시군요 플로리다는 안가본 곳인데 어떤가요 앞으로도 많이 예뻐해주세용",
+        "writer": "UgyCsJy59O5RKjtsB3N4AaABAg.9Ha0l-V9LYn9HaN_zSgQ0-",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동네비디오방 추웠다. 따듯했다,(이름)온 비도많았고요,",
+        "writer": "UgyCsJy59O5RKjtsB3N4AaABAg.9Ha0l-V9LYn9HaO3o8uBX6",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다음엔 그렇게 할게융",
+        "writer": "UgynBFTeakqpqRiqRIJ4AaABAg.9HZ5m3p2xHg9HZONk08JhQ",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "심의상 19단어라 네이버 검색을 (비속어)코치 요",
+        "writer": "Ugyh3mWkJ4ClRlekh714AaABAg.9HYQS1stRHg9HYxYXOn0j1",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동네비디오방 헐 알겠습니다",
+        "writer": "Ugyh3mWkJ4ClRlekh714AaABAg.9HYQS1stRHg9HZYPlXCcTx",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이렇게 지구는 망하고 커플(반사회적용어)이 된건가.",
+        "writer": "Ugw_upltqYY2WNYV9cx4AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사는데가 일단 천국이구만.",
+        "writer": "Ugzg35DySFkqPR0y3Cd4AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭔가 더 야한데",
+        "writer": "Ugzzw7bVpxwZz7Gj7it4AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지구가 망하기를 간절히 바랐던 건 오늘이 처음이넼",
+        "writer": "UgxVtZ39S-u_4vj_fs94AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어흑, 지구는 어트케 (반사회적용어)려고 저러나 했는데 그냥 로맨스 영화였어",
+        "writer": "UgyAMAa-i4SV18-3ggd4AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "커플(반사회적용어) 솔로천국.",
+        "writer": "UgzhpBpU6s4vVWKO9vl4AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지구가 망하길 간절히 바라긴 이번이 처음입니다.",
+        "writer": "Ugzl-shIOcSfkUuNAlt4AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기도 뽀뽀하는 더러운 영, 아 여기가 아니네",
+        "writer": "UgzI4aKyGxOad7TUuWd4AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 장면은 맨날 혼자만 봐",
+        "writer": "UgxH4ZsfKU5nMNmpbft4AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오지망이 생각나는 영화네",
+        "writer": "UgwaCUqE3ZRlQCBd8GN4AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기본적으로 잘생긴 얼굴만 있으면 되는거였네요 맙소사 왜 여태 이걸 몰랐을까 지금 당장 다음생을 준비하러 가야겠네요 인생은 스펜서 친구처럼 잘봤습니다",
+        "writer": "UgxjXaahXQS0guyElVZ4AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니야 아니야.. 이 채널이 이럴리가 없어..........",
+        "writer": "UgzxPhqcFCvz1PyyEwd4AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 너무 부럽잖아요,",
+        "writer": "UgwDzKWdrYn3fID1q6J4AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "코크같은 인생 살고싶다,",
+        "writer": "UgzVm2BmBgMY3pENYPZ4AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재밋당 명언을 남겨주네 될놈만 된다,",
+        "writer": "Ugy-hUPa8ZmhxXkpIIp4AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "음, 나하고 큰 관계가 없는 영화네요.",
+        "writer": "UgxzWKwCbsB-O5Poagh4AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초반 부터 (비속어),",
+        "writer": "UgxGa7aC68ZBtvt53HV4AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수학공식 맘에 들어",
+        "writer": "UgzNHyo8mqu2HJ3bO2N4AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 영화의 결말이 궁금해서 봤는데 이번만큼은 썸네일이 먼저. 그리고 마지막 코멘터리가 진찌 새드엔딩이네요",
+        "writer": "Ugy1yHqPj38Hz_6XbWR4AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "커플(반사회적용어) 오예",
+        "writer": "Ugw_upltqYY2WNYV9cx4AaABAg.9HVYUtTlgtB9HWA7JgRZsl",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래도 달팽이가",
+        "writer": "Ugzzw7bVpxwZz7Gj7it4AaABAg.9HUiBA0_2Ln9HV1DFXYJVf",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄흐낭 다음주 업로드 예정입니다",
+        "writer": "UgxVtZ39S-u_4vj_fs94AaABAg.9HUd6kA8J9y9HUemXZRkMn",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헤헷 오지망은 다음주 업로드 예정입니다",
+        "writer": "UgyAMAa-i4SV18-3ggd4AaABAg.9HUaJAyd7ty9HUeVLAEoeI",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "솔로 쵝오....",
+        "writer": "UgzhpBpU6s4vVWKO9vl4AaABAg.9HUY3qIljJg9HUeCB3aAiz",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다음주에 업로드 예정입니다",
+        "writer": "UgzV1ASN0dgkgeS78xJ4AaABAg.9HUXnFuCM3F9HUY64dFLNM",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앜 다음주에 업로드 예정입니당",
+        "writer": "Ugzl-shIOcSfkUuNAlt4AaABAg.9HUXOUDloL29HUe9nRR2pk",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유트브 알고리즘이 허락을 안하더라구요",
+        "writer": "UgxH4ZsfKU5nMNmpbft4AaABAg.9HUL2-_Bpja9HUM7BWPK6S",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "솔로가 망했습니다",
+        "writer": "UgwaCUqE3ZRlQCBd8GN4AaABAg.9HUEvOnw2sj9HULvQrumMH",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "커플 앙대 앙대",
+        "writer": "UgwDzKWdrYn3fID1q6J4AaABAg.9HU69S-ZQsQ9HULNM-h9A8",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "새드엔딩 인정 인정",
+        "writer": "Ugy1yHqPj38Hz_6XbWR4AaABAg.9HTqueZLzXW9HU2IIye86s",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "타이거 콘푸라이트를 먹었나봐욤. 그리고 가버리다니,오케이티는,호피무니 원피스네욤 착한생각 아 사과하고 싶어서 사과를 가지고 온지 알았더니. 곧 크리스마스인데, 솔로천국 커플(반사회적용어)이 아니군욤, 커플 만세",
+        "writer": "UgyeyKbzvQx1_XfPcCR4AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "훈훈한 결말이라 만족",
+        "writer": "UgwFgqc_bDTw8TCR3bV4AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 이거 새드엔딩인가요",
+        "writer": "UgxiHcO9zqyu8roZGQ14AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 영화의 장르는 판타지군요. 아니 sf인가",
+        "writer": "UgyG8omCnFQT__4_WcF4AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안될놈은 안된다 슬픈 교훈",
+        "writer": "UgwDHMXUkoET5I9SK354AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 세상엔 여자는 없습니다,",
+        "writer": "UgwvH4oii-SJmJ9tOH54AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래서 어쩌라규, 힝,",
+        "writer": "UgzgEsxHwM4-TOUan2Z4AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "첫짤 해파리보고 외계생물의 습격인줄 아침부터 웃고 시작합니다",
+        "writer": "Ugx4bPdWzpy5RI3KYlR4AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 너무 슬퍼지잖아 될놈될,",
+        "writer": "Ugxs2ixObllAx0uCX3Z4AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미국 마인드",
+        "writer": "Ugy5kgljOJovQdcffa14AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 보고 갑니됴",
+        "writer": "UgwUgJqSpyX1dIHKNE94AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내일 시험...",
+        "writer": "UgztZJ9b9v10ugso5ud4AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "5분전은 못참지",
+        "writer": "UgyOa1Jx_6FiZ2IYaIt4AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재미있게 보고가요",
+        "writer": "UgwlnSkJVutNlHE3pXR4AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1분전은 못참지.",
+        "writer": "Ugw9fD758HXQno32u8J4AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 아침입니당",
+        "writer": "UgycvZQM8_8lAvn6r5B4AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엉엉 울면안되는데",
+        "writer": "UgyeyKbzvQx1_XfPcCR4AaABAg.9HTqEObLBsB9HTqShw0C54",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여자가 말한것을 기억하고 사과를 가져온 주인공이 너무나 순수해보이즁",
+        "writer": "UgwFgqc_bDTw8TCR3bV4AaABAg.9HTnb8nS4yR9HTqHH4R6cu",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "새드가 맞습니다",
+        "writer": "UgxiHcO9zqyu8roZGQ14AaABAg.9HTnIeAPo6O9HTqDqmTzgq",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지구 망했으면....",
+        "writer": "UgxiHcO9zqyu8roZGQ14AaABAg.9HTnIeAPo6O9HkdSXND4bw",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "판타지 크킄",
+        "writer": "UgyG8omCnFQT__4_WcF4AaABAg.9HTmfLu79jK9HTqAGsnCuA",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흑흑 결국,",
+        "writer": "UgwDHMXUkoET5I9SK354AaABAg.9HTikwzKcgI9HTq584VOH6",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앗, 흑흑",
+        "writer": "UgwvH4oii-SJmJ9tOH54AaABAg.9HTiIvnA2i09HTq1ZKV6CF",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헤헷 즐거운 주말되세용",
+        "writer": "Ugx4bPdWzpy5RI3KYlR4AaABAg.9HTgTzhQMEK9HTp6rEjFsY",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "될넘은 됨,",
+        "writer": "Ugxs2ixObllAx0uCX3Z4AaABAg.9HTftKQIHlO9HTp4Qu8CYt",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참으면 안되쥬",
+        "writer": "Ugw9fD758HXQno32u8J4AaABAg.9HTcQK4t1aN9HTedjRFjEO",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "즐거운 주말되세요",
+        "writer": "UgyUgCLy48(반사회적용어)TAbGMVl4AaABAg.9HTcI9LUW7T9HTefIzGObe",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넹넹 좋은 아침이에요",
+        "writer": "UgycvZQM8_8lAvn6r5B4AaABAg.9HTcI0QXmfQ9HTegx_vO7J",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=o11NrQGN4Y0",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

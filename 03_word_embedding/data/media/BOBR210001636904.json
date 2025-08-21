@@ -1,0 +1,844 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001636904",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001636904"
+    },
+    "text": [
+      {
+        "content": "그가 보는 경(이름) 세계,",
+        "writer": "UgxQ4JdUPnQSSEvmH594AaABAg",
+        "write_date": "2021-05-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가위 보 바위였네 가위 바위 보로 풀었는데",
+        "writer": "Ugx39IyP2OP5dPjtAvx4AaABAg",
+        "write_date": "2020-12-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래 이제 슈트입고 (비속어)라",
+        "writer": "UgyXRUY9jAG9rYBi8x94AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 여자 멘사 맞냨(비속어)",
+        "writer": "UgxiE4r1wPFcApO8PN94AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 나만 두 번째로 작은 숫자의 중복 횟수 인 줄로 알았나,",
+        "writer": "Ugy6QD3E21DI38B6XqZ4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "큰숫자의 반복횟수도 되서 1도 되는듯",
+        "writer": "Ugzy_IVcW_ADSMKi92h4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "묵이어야해요 바위여야하잖아",
+        "writer": "UgwOz_jp9TlP4Ovyqm54AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "두번째 문제는 이해도 못하겟네",
+        "writer": "Ugy8DWtFlPuGPn4P4YZ4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "손놋코 바라보는 박경 내가 남자인걸 잠시 이젔다",
+        "writer": "Ugx_M4Lhm54GeNc6fRF4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 문남 보고 박경 입덕하겠다,",
+        "writer": "UgyYuuJUZ0btiwQoKJJ4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "첫번째 문제는 분명 박경이 두번째로 정답이라 외치고 답할차롄데 (비속어)하고 정답이라 외치는 (비속어)없는년이 멘사라고",
+        "writer": "UgyjEaKbwYEFbROuyo14AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기서 다머리 좋다고 나오는데 아이돌이 저렇게 똑똑하면,",
+        "writer": "UgyL14wL_lPxFvVjLvB4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 멋지시다",
+        "writer": "Ugwlo1VN5lwhLxaS6sZ4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쉬운데 멘사 테스트 한번 쳐볼까",
+        "writer": "UgxzxLcg8muWXeRu3mx4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "박경 부럽다 내가 절대로 못보는 걸 자기는 다 볼 수 있잖아",
+        "writer": "Ugwi-kBc1b96ipNKYLV4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "m o 저도 비슷하게 생각했는데 그렇게하면 2433이 2가 아니라 1이라 성립이안되네요",
+        "writer": "Ugzy_IVcW_ADSMKi92h4AaABAg.9AocK2WaRHC9Ar3yrsHOw3",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "m o 곡선을 포함하는 가장큰숫자의 반복횟수로 하면 모든식이 성립하네요",
+        "writer": "Ugzy_IVcW_ADSMKi92h4AaABAg.9AocK2WaRHC9Ar4Bd_wh7u",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 표정 자주 지음 아마 박경 본(반사회적용어) 아는듯, (알지만 저도 볼때마다 심쿵인건 함정)",
+        "writer": "Ugx_M4Lhm54GeNc6fRF4AaABAg.9AJaOW8ageV9B2iuUWBj0b",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크리스티안만봄 경이포터BBC 그렇게 했다고 한다",
+        "writer": "UgyYuuJUZ0btiwQoKJJ4AaABAg.99aBTYiDmsd9DmXrZ0TEqc",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 뭐야 나는 B3 에서 시작해서 계속 보자기면 다음에 가위 나와야되는건줄 알고 그렇게 풀고있었는데 뭐야",
+        "writer": "UgyfhD6CY47ZDewGa814AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 레전드 멘사 문제래",
+        "writer": "UgyN8c7LwWBuWYNRzPB4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 문제는 c1에서 d2로 가야만 한다는 것을 아는 순간 쉽게 풀 수 있습니다",
+        "writer": "UgzJoGo-M1JguiwlV094AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 맞췄어요..",
+        "writer": "UgwNtERKd2sDdA_hK8N4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아직안봤는데 3번째숫자가 들어간 갯수아닌가요",
+        "writer": "UgyKExWhjle--GfPTPF4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방탈출 잘 하겠다, 부럽",
+        "writer": "UgzEgi3HKoDQIl1Wo6F4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1분 안에 중복된 갯수인건 알았는데 1121에서 막혀서 아닌가, 하고 그냥 포기하고 다른거 찾았는데 역시 똑똑이들은 뭐가 이상할까하고 다시 생각해보는구나",
+        "writer": "Ugy-l-wElxisHKiAulR4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "게스트 밉상이다",
+        "writer": "UgyxyRJzgi801oyJ_zN4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 박경 너무 좋아",
+        "writer": "UgyN8c7LwWBuWYNRzPB4AaABAg.96viEIMjN8L96viOlo7Luo",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앵쯔 맨날 안보고 맞추겠다고 뻐기다가 계속 못풀고 들어가는 나에게 (비속어)나서 15분 버려서 풀었다 (비속어)마라",
+        "writer": "UgyKExWhjle--GfPTPF4AaABAg.93ANDuzXJdz9B2wMxkJgod",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "생억지만 부리고 맞는건 도없음",
+        "writer": "UgyxyRJzgi801oyJ_zN4AaABAg.9-X-kJ3hlWq9AF7-FBiyeP",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "본방에서 저 멘사여자분 엄청 잘난척하시고 문남분들께 되게 예의없게 행동하셔서 문남분들도 참으시다가 살짝 맞대응한다는 느낌으로 저렇게 견제하고 그러신 것 같아요.",
+        "writer": "Ugy2ReSDloO5H2DAO0V4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "멘사 별거없네 나보다 못맞추네",
+        "writer": "UgzQxkqp4rJaimEgzW14AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "토나온다 타일러 짇짜",
+        "writer": "UgzzecS1swLzXddJ-g54AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 여자분 언니 저싫죠 그 예원임",
+        "writer": "Ugzszg8F7PB34P7NM2R4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 문제 나옴 일단 (비속어) 숫자부터 세어봄",
+        "writer": "Ugy8iO31iIcxhB39-Fx4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번꺼 넘 쉬운데,",
+        "writer": "Ugzgmoz-ABaDf6uKzdF4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "장원 화난 것 같은데, 다른 분들 행동도 그렇고 게스트분이 방송에서 많이 예의없게 행동하셨나요",
+        "writer": "UgyKRucMQwBmFPqoS6p4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그 국제수학올림피아드 여자애 빼고 그냥 박경 밑으로 줄 서야함",
+        "writer": "UgxDcwntXAOD3C9eDgN4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그니까 두번째는 (반사회적용어) (비속어)(혐오표현)",
+        "writer": "UgzlMcFP2c_2cnX2NI94AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 각 4자리수 중에서 가장 큰수가 중복된걸로 풀어서 1나왔는데 아니내요,",
+        "writer": "UgwVzRROWhYAyXddj1B4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 (이름) 뭐임 그냥 감탄만 나오네",
+        "writer": "UgyMU8_W8dH2BcjbP-t4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여자 (비속어)할듯 정답은 빨리 외치는데 (이름)테 개털림",
+        "writer": "Ugytc45ZN5OLXVj1ke14AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "멘사 회원 한명 가지고 여러명이 잡으려고 계속 견제질 하는거 추해보임 나이 먹을거 다 먹은 (비속어)이 뭐하는거임",
+        "writer": "Ugy2Q3Xb1NA5jGHpEdx4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다들 잘난 척 많이 했다고 하는데 그런거 없었고 옥스퍼드 vs 문제적남자 대결구도라 대결구도에서 늘상 하는 뭐 실수 하나 하면 꼬투리잡기로 대응하는 장면일 뿐입니다. 살짝 맞대응한다는 느낌도 보통 게스트가 출연하면 뇌풀기로 게스트 실력 검증을 하는 게 문남들의 재미 중 하난데 저 뇌풀기 대결구도 전에 여자분이 선정한 옥스퍼드 입시문제를 문남들이 풀어보게 하면서(물론 여자분은 안 풀고 설명을 담당) 오히려 게스트한테 검증 당하는 느낌이다가 뇌풀기로 들어가면서 이제야 본격적으로 옥스퍼드는 얼마나 잘 푸나 보자 하는 느낌.",
+        "writer": "Ugy2ReSDloO5H2DAO0V4AaABAg.8zra7tc_ci_926WtRs6jaH",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기 문제가 멘사 문제랑 같다고 생각하지 말고 이 영상에서 나온 문제 잘 푼다고 옥스퍼드 대학 가는거 아니고 멘사 회원 되는거 아님 어떤 식으로든 님보다는 저 게스트분이 똑똑함.",
+        "writer": "UgzQxkqp4rJaimEgzW14AaABAg.8zOCv_nNAYi9604grBrDge",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 안 본 사람들은 타일러 보고 그러는줄 알고 오해하겠어요",
+        "writer": "UgzzecS1swLzXddJ-g54AaABAg.8yKACcTwyMU9B2j292hUN-",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "설명 부탁드립니당, 유튜브 클립으로만 봐서",
+        "writer": "UgzzecS1swLzXddJ-g54AaABAg.8yKACcTwyMU9DTUPVJQouL",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "456 123 요",
+        "writer": "UgzzecS1swLzXddJ-g54AaABAg.8yKACcTwyMU9DUXwsRH8z8",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 감사합니다",
+        "writer": "UgzzecS1swLzXddJ-g54AaABAg.8yKACcTwyMU9DUjAeOlETR",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "욱간지 전 대칭",
+        "writer": "Ugy8iO31iIcxhB39-Fx4AaABAg.8y7N4gh3Yok8y88rb9WiYc",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동현 그냥 평범하신데,",
+        "writer": "UgyKRucMQwBmFPqoS6p4AaABAg.8xyLLH3adJa96nym8EcfXD",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비트겐슈타인 (이름)이라고 (이름)님 친구분 있는데 그분이 탑임",
+        "writer": "UgxDcwntXAOD3C9eDgN4AaABAg.8xwI4WTGWFT8y25A4JQZgk",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "림마 (비속어)쉰",
+        "writer": "UgxDcwntXAOD3C9eDgN4AaABAg.8xwI4WTGWFT8yEXFZot5jb",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니요 바위 만나면 90도라는 조건 때문에 (이름)는 루트가 있어요. 예를들어 A3의 가위는 위아래 바위가 없고 b2의 주먹 즉 대각선 밖에 없기 때문에 b2의 주먹과 이어지는 다른 하나도 대각선이어야 하죠 90도여야 되니 c3으로 확정 그런데 c3인 보는 양 옆 가위랑 이어질 수 있는데 여기서 또 바위랑 만나면 90도 조건을 생각해보면 c3이랑 이어질 수 있는 건 b3밖에 없어요. 제가 그렇게 풀었는데 아마 박경씨도 똑같이 접근하신 거 같아요. 혹은 직관으로 시작하셨거나",
+        "writer": "UgzlMcFP2c_2cnX2NI94AaABAg.8xp3IUoRxJm92u3mIgQiP0",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 그런줄 알았는데 마지막에서 2 번째 (2433) 2 가 아니라 1 이 나와야해요",
+        "writer": "UgwVzRROWhYAyXddj1B4AaABAg.8xeUcPJXUaV8xiDl-dtSDF",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "온갖 똑똑한척 다하는데",
+        "writer": "Ugytc45ZN5OLXVj1ke14AaABAg.8wHez364BkC9AF6xAB_OBO",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "hazard edna 앜 이요",
+        "writer": "Ugy2Q3Xb1NA5jGHpEdx4AaABAg.8wFF-oh6v4T8yISgNAOtuW",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "원래 저 프로가 저런식으로 했어 그럴거면 당신 혼자 보다가 끄던가 별걸다 불편해해",
+        "writer": "Ugy2Q3Xb1NA5jGHpEdx4AaABAg.8wFF-oh6v4T9-PPSOZGYqb",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예능 시어머니질 오졌고",
+        "writer": "Ugy2Q3Xb1NA5jGHpEdx4AaABAg.8wFF-oh6v4T91ly-SAgMKC",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "박경 정답 외치고 머리 긁는거 개섹시하다",
+        "writer": "UgyfWaM7fwqTjw44y2p4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "6월 9일 14시 32분",
+        "writer": "UgzumlDmOhw4rIXkfFt4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그리고 그는 멘사회원이 됩니다",
+        "writer": "UgwNfnbdFVfMkWV4Bhh4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "솔직히 이거 힌트나 보기 있죠",
+        "writer": "Ugy1xguJKveK6lNIfQV4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "각 숫자의 2번째로 작은 숫자의 중복개수로 해도 풀리고 1나오네요,",
+        "writer": "UgzJdv26g7kead212fB4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머이리 잘품",
+        "writer": "UgzD2hvTCKV9bn0ZmnZ4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "원래 문제적 남자에서 머리 좋은 거 믿고 겸손하지 않으면 개털림",
+        "writer": "Ugwfj-O56zkBWSV6eZd4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "경오빠 잘하는건 너무 좋아 근데 문남사람들 게스트한테 왤케 뭐라고함, 다른 게스트에게 하던거보다 더하네,",
+        "writer": "UgzwazQoySBFLnITRGZ4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 케스트한테 왜케 뭐라고 그래 본방에서 저럴만한 (이름) 있었나요",
+        "writer": "UgxzRgkwopsIp6r85ct4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "턱 괴고있는것도 좋고 맞았다고 좋아하는것도 좋고 그냥 다좋다 다좋아",
+        "writer": "UgzPqsI--7BNYUzLFi94AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 잘생겼다,",
+        "writer": "UgxD3_rbezLVXagsnZB4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "7월 13일 21시 07분",
+        "writer": "UgzumlDmOhw4rIXkfFt4AaABAg.8vx3JJjyb9J9B2jT63PO2D",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 프로그램 그런거 없음 문제 다풀때까지 촬영 안끝냄 힌트도 안줌",
+        "writer": "Ugy1xguJKveK6lNIfQV4AaABAg.8vXb5qdfRli8w9KOn9gaUY",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그럼 2022는 어떻게 설명하죠",
+        "writer": "UgzJdv26g7kead212fB4AaABAg.8vPHUX_z-Bt8vozbKc1_y0",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 2022에서 제일작은수0 두번째로 작은 수2 니까 3나와요.",
+        "writer": "UgzJdv26g7kead212fB4AaABAg.8vPHUX_z-Bt8vt6pNA-jRW",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 0000은요",
+        "writer": "UgzJdv26g7kead212fB4AaABAg.8vPHUX_z-Bt8vt7jvynGbS",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 다 0이니까 2번째로작은수 또한0이니 4나오겠죠.",
+        "writer": "UgzJdv26g7kead212fB4AaABAg.8vPHUX_z-Bt8vtBS121Pil",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 그렇게 하면 안되죠. 0은 0보다 작지 않을 뿐더러 그렇게 치면 1020의 2번째로 작은 숫자는 0이니까 성립이 안 되겠네요.",
+        "writer": "UgzJdv26g7kead212fB4AaABAg.8vPHUX_z-Bt8vw_ZEuIojz",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 음 0000과 같이 네 자리의 숫자가 다 같을 경우에만 0은 제일 큰 수이면서 제일 작은 숫자이다. 가성립하니까 2번째로 작은 수라고 해석될수 있지 않을까하여 덧붙인거에요. 그러니까 1020같이 네숫자가 다 같지 않을땐 일반적인 경우 1로 봐야죠. 그래도 제 논리가 완벽하진 않아서 영상의 답이 더정확하겠네요",
+        "writer": "UgzJdv26g7kead212fB4AaABAg.8vPHUX_z-Bt8vxQnp-5zOt",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 두번째로 작다는 것은 그것보다 큰 숫자가 1개 존재한다는거죠",
+        "writer": "UgzJdv26g7kead212fB4AaABAg.8vPHUX_z-Bt8zjf9_SmTsk",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예외는 (이름)씨겠죠 자(이름)중시하는 천재,",
+        "writer": "Ugwfj-O56zkBWSV6eZd4AaABAg.8v6d5sUQ8kj8zxFdFhnwIU",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 7",
+        "writer": "Ugwfj-O56zkBWSV6eZd4AaABAg.8v6d5sUQ8kj94UNwFJJaJD",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "멘사 컨닝했누",
+        "writer": "Ugwfj-O56zkBWSV6eZd4AaABAg.8v6d5sUQ8kj9AF74Eh97KK",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무식이들 이해는 하니",
+        "writer": "Ugwfj-O56zkBWSV6eZd4AaABAg.8v6d5sUQ8kj9JDgibWVB1z",
+        "write_date": "2021-02-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘난척이 심하거나 예의가 없거나 그런게 심하면 심할 수록 막대합니다",
+        "writer": "UgzwazQoySBFLnITRGZ4AaABAg.8uogkE4uJBs8w44lBP65mI",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "원재현 그것도 그렇지만 이번 분은 그렇다할 자랑이 없었던거 같아서요 잘난척도 별로없던데,",
+        "writer": "UgzwazQoySBFLnITRGZ4AaABAg.8uogkE4uJBs8w46EtEz_j3",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여보세요 저 프로그램 문제맞추는 채널이 아니라 예능입니다 당연히 여자분도 장난으로 받아들이죠, 딱히 선넘은장난도 없고만",
+        "writer": "UgzwazQoySBFLnITRGZ4AaABAg.8uogkE4uJBs8wHewQV-fEK",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "디고 예능은 맞는데 문제맞추는 프로그램도 맞지",
+        "writer": "UgzwazQoySBFLnITRGZ4AaABAg.8uogkE4uJBs8zUuYeII8mj",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 제 말은 문제적남자 라는 프로 장르가 뭐냐고 물어보면 예능이라고 한다는겁니다. 저거보고 다큐나 시사교양이라고 할 순 없잖아요",
+        "writer": "UgzwazQoySBFLnITRGZ4AaABAg.8uogkE4uJBs8zs5GlRD9ft",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "디고 저 여성분이 본방에서 예의가 정말 없었다고 하네요,",
+        "writer": "UgzwazQoySBFLnITRGZ4AaABAg.8uogkE4uJBs9-86Jj9Aser",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘풀리는집 본방에서 보면 좀 그렇던데",
+        "writer": "UgzwazQoySBFLnITRGZ4AaABAg.8uogkE4uJBs9-PP5ECzbu9",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 개인차로 그럴 수도 있죠 근데 저는 유독 이때 게스트한테뭐라고 하는거처럼 느꼈어요",
+        "writer": "UgzwazQoySBFLnITRGZ4AaABAg.8uogkE4uJBs9-PRHKQHv5m",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘풀리는집 유독 게스트분이 잘난척 심하시고 문남들 얕잡아보셔서 그런 거죠, 제가 봤을 땐 다른 게스트분들보다 더하면 더했죠,",
+        "writer": "UgzwazQoySBFLnITRGZ4AaABAg.8uogkE4uJBs921NnqoR2Jq",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 개인차로 그렇게 느낄 수도 있지 욕까지 하는 사람들은 뭐지 생각이 다르면 서로 이해를 하는거예요. (반사회적용어)다고 (반사회적용어)하고 욕 하는게 아니라. 일상에서는 부디 그러지 마시길",
+        "writer": "UgzwazQoySBFLnITRGZ4AaABAg.8uogkE4uJBs921QNk95X4x",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘풀리는집 이거 풀버전 보신건가여",
+        "writer": "UgzwazQoySBFLnITRGZ4AaABAg.8uogkE4uJBs92u2QfAHZZm",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제가 답글 달아놓은건 보신것인지. 본인의 생각에서 괜찮았다면 그대로 지나가주시면 좋겠습니다. 풀버전 봤습니다.",
+        "writer": "UgzwazQoySBFLnITRGZ4AaABAg.8uogkE4uJBs92u8ZDJLZZQ",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘풀리는집 시비 걸려고 한 거 아니에요 제가 풀버전 못봐서 궁금했을 뿐입니다",
+        "writer": "UgzwazQoySBFLnITRGZ4AaABAg.8uogkE4uJBs92uAEZ_8kXK",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하도 뭐라고 하는 분들이 많아서 감정적으로 답글 달았네요. 개인적으로는 풀버전에서도 여자분 입장이면 기분이 나빴겠다라는 생각이 들었습니다. 물론 사람마다 다르니 오히려 문남입장에서 기분이 나빠보일지도 모릅니다. 그래도 회차 자체에는 흥미로운 점도 많고 재밌게 봤습니다. 시간 나실때는 풀버전으로 보시는것도 추천드려요.",
+        "writer": "UgzwazQoySBFLnITRGZ4AaABAg.8uogkE4uJBs92uG_QUwJ98",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "joshua jung 저 게스트가 본방 보는데 예의 없게 행동 잘난척 엄청하고 그러니까 그러치",
+        "writer": "UgxzRgkwopsIp6r85ct4AaABAg.8undr4B4Pw_8uojPLNFRhI",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벼는 익을수록 고개를 숙이는 법",
+        "writer": "UgxzRgkwopsIp6r85ct4AaABAg.8undr4B4Pw_8w8a7xAU4QR",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "물멍이 문남들도 다른 문제에서 풀어보려고 매직으로 칠하고 그랬는데요 정답이라 생각하고 칠한건데 그게 문제라고 해버리면,",
+        "writer": "UgxzRgkwopsIp6r85ct4AaABAg.8undr4B4Pw_8wIxgrehHhN",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "hello 다큐로 보고있는게 누군데 (비속어)아 예능은 예능으로 좀 (비속어) 예의없는건 몰(반사회적용어) 말도안되는 트집까지 계속잡는데",
+        "writer": "UgxzRgkwopsIp6r85ct4AaABAg.8undr4B4Pw_8y4E4XXr2-G",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "hello 드립도 (비속어)(비속어)이다 그냥 평생 불편하게 살아라",
+        "writer": "UgxzRgkwopsIp6r85ct4AaABAg.8undr4B4Pw_8y5kdbYyicd",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "hello 지가 다큐로 보고있구만 (반사회적용어)에서 거른다",
+        "writer": "UgxzRgkwopsIp6r85ct4AaABAg.8undr4B4Pw_8yuZtcGG5ES",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 믓지다 브끙",
+        "writer": "Ugzn6sjy3DwpmYsfrf94AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=SajVUZwTNb0",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

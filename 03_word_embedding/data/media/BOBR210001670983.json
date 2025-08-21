@@ -1,0 +1,708 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001670983",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001670983"
+    },
+    "text": [
+      {
+        "content": "첫 출연때도 드립력 있었네 이 회차가 온오프에서 초대박 쳐서 그런지 이번 411회차는 오히려 후니형 본연 힐링 혼행 잔잔해서 나름 잘 봤음",
+        "writer": "UgxkvzkbPmtU2nIDqRt4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "허훈, (이름) 닮았네,",
+        "writer": "UgwIcWym-DX8NEh_0Hd4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 패완얼이야 저렇게 입어도 귀욥네 아 근데 (이름) 멘트 진짜 찰떡이네 진짜 너무너무 잘한다 (이름)",
+        "writer": "UgwTP9rmO3x9i5eIKHp4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리둘째 아들같애.",
+        "writer": "Ugxk7cOgMM_YyN2sPl94AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "코삼부자 최고 허재 허웅 허훈 짱 멋찜",
+        "writer": "UgzjSWQHpOFXHgMBn9d4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 솔직히 (반사회적용어) 아님",
+        "writer": "UgzFAzefycDo7Y1YcTp4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 귀엽네 진짴",
+        "writer": "UgyGK_yKkD8Ab4J01Ml4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어깨넓고 팔두껍고 근육이 많으니 저옷이 엄청 편하게 느껴졌나보다 일반옷들보다 근육많은 김(이름)도 나시에 바지는 사계절 반바지좋아하신다고 불편한가봐요",
+        "writer": "UgxK10goLlIuTu69Rmh4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 향수에바자나",
+        "writer": "UgxDHBPtmuG42kB5qLN4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "패션 정말 다좋은데 옷에다 향수 많이뿌리면 옷감상할수도있는데",
+        "writer": "UgyzoVZlvvrgLnBkT3J4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "옴므플리셰 모델가즈아 옷잘입는건데진짜",
+        "writer": "UgxBrH_Az47DIWF-Nwp4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 아주 유니크하고 모델삘인데 뭐가 (이름)(혐오표현) 저들 중에서 제일 독보적인디",
+        "writer": "UgyiwAUDCpAYNwQ4GLd4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "훈이 이즈 뭔들 얼굴이 잘생겨서 뭐 골(반사회적용어) 입던 뭘입던 다 멋있는게 우리 훈이지",
+        "writer": "UgxxGfmjFrpQFIwHj754AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "골지 갠춘한딬 너무좋아",
+        "writer": "UgylT12AxGue3rl3ErB4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앜 저런남자 너무좋아 잘생기고 덩치좋은데 옷 못입는남자 완전 이상형",
+        "writer": "UgxQxb_d_6B3rn-Cavd4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "운동복입을때가 제일멋지네 호날두보는것같음",
+        "writer": "Ugygfa7NVklaBVbe5914AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "편션 코라입고 그모습이 기여워서 크크크 크크크",
+        "writer": "UgxH-DdHNIlBOYkEyFd4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사람 너무 좋아보여 참 괜찮네",
+        "writer": "UgzaJ2sc7SPIRvArkgZ4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 훈이는 뭘해도 이뻐요 웃음소리는 왜이렇게 이쁠까요",
+        "writer": "Ugzt0e8Lv6plwjrBdKV4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공유랑 닮았다 쥬토피아 나무늘보상",
+        "writer": "Ugy_o8sXMqrZcdhj2Lt4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혀엉 누비도 좋아하시나욥",
+        "writer": "UgyhU-aRZIBc-aDHtwd4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인싸패션말투 (비속어)다",
+        "writer": "UgxGbhQYnPs3VA_jDcB4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 향수로 샤워를 하네요 매력 쩐당",
+        "writer": "UgxE--vE3rBfHUmY_V54AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무귀여워 잘생기고 몸짱인데 귀여워 향수 샤워",
+        "writer": "UgwHBSFdc2xcAvl5Xxt4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 그냥 조용히 시청했으면좋겠어요.",
+        "writer": "UgxxA-DHhir-ly5jYPN4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바짘바지 저런게 다있냨",
+        "writer": "UgwivmJTXqaCW1oA-Ih4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "골지는 좋은데 노랑 파랑 골지는 너무 자주 입는다",
+        "writer": "Ugz_sVAH4NPrzApPnHt4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얼굴이 열일하시네여",
+        "writer": "UgzosOrqxu0sBGFjnp14AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 안티팬 아닌데날라리 형님패션같아요. 옷만보면 느끼 귀여워요. 월요일 예능 방송 기다려져요",
+        "writer": "UgzfMRW5AS7TUvKUJZ14AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오빠 골지든 쫄쫄이든 상관없어 오(비속어) 입으면 뭐든 좋아,",
+        "writer": "Ugy3C4SWuQS9czy94dV4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "골지에 진심인 훈",
+        "writer": "Ugy7GnVxS2_QdC2ZSZN4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형제간에 우애가 남다르네요 부럽습니다 (이름)께 효심도 지극하시고 멋지세요",
+        "writer": "UgzrLSvkNQ_WaxIL1jh4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "당당한 모습이 보기 좋네요 KT연고(반사회적용어) 수원으로 옮긴것을 환영합니다 반갑습니다 수원에서 자주 뵙게되기를 기대해봅니다 밝고 건강한 모습으로 멋진 활약 부탁드립니다",
+        "writer": "UgyZqTjoWNcBdmYesU94AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현무현무 여윽쉬 (이름) 멘트로 꽈악 채웁니다.. 기안84 말도 맞지 20대 골지로 끝나지",
+        "writer": "UgyVl9YyBkLe-nn69Lh4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 이쁘기만 하구만 허훈 홧팅...",
+        "writer": "UgwrCrWdipCrVXJep_l4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "골지후니 넘귀여버",
+        "writer": "UgyIns9O-zxbpM48mmp4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "코디 좋구만 왜들 그랴요게스트를 좀 품어줍쇼",
+        "writer": "Ugz7wvt9s3pmS8gJLi94AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘생인데 옷에 신경 안쓰는게 더 더 멋짐",
+        "writer": "UgzheZ2ffR1dZ7h2wAd4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "페브리즈처럼 쓰는 향수",
+        "writer": "Ugwr9T71T8IGLU2Ry5V4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "훈선수형제는 진짜 골지패션 너무 잘어울린다... 그회사 모델 확정....",
+        "writer": "Ugy1YF-WeZ3nV4XzfDd4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아후 너무 웃겨 패션 자신감도 재밌고 완전 만화 캐릭같다 저 가방 난 맘에 들어",
+        "writer": "UgxTmD1XPAH_A9nau1J4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "훈이씨 패션 좋아하고 많이 입어본 거 같아요",
+        "writer": "Ugw5XQMlMl_X4ZBWl8h4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 옷 진짜 잘입으시는거같아요 아니면 패완얼인가 멋있어보이네요",
+        "writer": "UgztfbXDXA8m_nBb1iN4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 우리 훈이형털털해 근데 패션 진지하게 괜찮은데,",
+        "writer": "Ugw9gaOhBa_AKZQjudN4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "본인이 저렇게 행복해 하는데,",
+        "writer": "UgyZ4wMUfywxPKxXbQh4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 옷진짜못입는다",
+        "writer": "UgxZbXk2PlZR_xZUvNB4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데내가(이름)걍 다어울리고존멋",
+        "writer": "UgxWPU8wAE2hmIkF0rp4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "훈아 얼굴 잘생겨서 봐줄께대신 세트말고 위아래 하나만 입어줘골지 사랑 기여워",
+        "writer": "Ugygub0IcGpnJ5QF1DZ4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무웃기넼 근데 역시 패완얼 패완몸인가,",
+        "writer": "UgwjCbE9M4RyBXKc02t4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아무렴 어때 허훈인데",
+        "writer": "Ugzl-15EHawv6X5b23V4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "훈이 귀여워왜 나 안티팬 만들어",
+        "writer": "Ugy-W7zK_GD8sdMMTf54AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 훈이 귀욤뽀짝 귀여워",
+        "writer": "Ugym71L8WyzDhyiHYs94AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "신경 겁나쓰는 것 같은데요",
+        "writer": "UgzheZ2ffR1dZ7h2wAd4AaABAg.9Ouse4RNWXU9OwNa1wCUpm",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나름 많이 쓰는건데 보편적이지 않은 취향이라 인정을 잘 못받는것 같아요",
+        "writer": "UgzheZ2ffR1dZ7h2wAd4AaABAg.9Ouse4RNWXU9P4iOt_zUqP",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얼굴이 열일하니깐 골지사랑 허훈취향 받아드리겠어",
+        "writer": "UgwYVY9yaZGv78W2Qlt4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다 어디서 본 골지들웅선수랑 돌려입기 그래도 후니 좋아",
+        "writer": "UgzvdNZ_cUXdE-5ZePx4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근육 뿜뿜 허훈에겐 펀한게 최고.... 패션은 자기만족이지",
+        "writer": "UgyHenwDVFRi7jVHaSl4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사실 허가네 4인 가족 중 패션간지 원탑은 아버지 허재 웅이도 간지는 아버지 못따라가지. 모친도 패션센스는 그닥.",
+        "writer": "UgxE3EaiTyBPME2zB014AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "허삼부자는 무슨옷이든 상관없어요 절대 연예인병 걸리시면 안돼요, 신발장 공개에서 더멋지심,티비공개용 연예인신발장은 다들 신발이 넘쳐나는것만 봐왔는데 참 새로운 바람직한 모습에 감동,아마도 저만 느끼는건 아니죠... 귀엽고 밝고 당당하고 바르고... 칭찬이 아깝지않네요,",
+        "writer": "UgzNxVObjFQWPidMwgF4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근육이 많은 후니는 편한옷이 좋겠지어차피 패션의 완성은 얼굴이니깐후니win",
+        "writer": "UgwqI7xtzrodO-mr67R4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "골지러버 훈이 귀여워자기애가 (이름), 자기만의 세상이 있어",
+        "writer": "UgwWnw12kIAdDdUfgSh4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뚝심있는 골지러버 취존 패션의 완성은 얼굴이니까, 운동만 잘하면 되따 유니폼이 제일 잘 어울려",
+        "writer": "UgzrdWmQxOpWNaJVBHt4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "골지바(반사회적용어) 입게 된 계기가 허벅지랑 하체근육때문에 다른 바지는 불편한데 골지는 너무 편하다고 근육이 잘못했네 편한거 입어, . 우리가 골며들어볼께",
+        "writer": "UgxEgRPFiSmArK95Wal4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "허훈 is 뭔들",
+        "writer": "Ugy-4XMcHV3t8UlCGY14AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기안 현무 나래 셋 다 패션 테러리스트들인데 누가 누굴 평가하노 나래의 구제옷은 마녀집 가정부 삘이고 현무는 명품을 싸구려만드는 삘 기안은 언급가치 노. 진짜 그동안 나래의 끔찍한 스튜디오 의상 때문에 나혼산 안본적도 있다.",
+        "writer": "UgyU7zlP-_gcdLqRXZ14AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "골지 무한 사랑 귀여워 그냥 혼자 심취해있는모습이 귀여워 죽겠어",
+        "writer": "Ugzsp8EclBlJuSePktZ4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "훈이 입고 싶은거 다 입어",
+        "writer": "Ugx0Uv-pXojWH27AWB54AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "훈이 귀여워 뚝심있는 골지패션",
+        "writer": "UgyWy6w24HObRBRA9Zt4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 진짜 모르겠다, 저게 나쁘다는 건 아닌데 허훈 미모를 살려주진 않아, 지금까지 본 허훈 옷 중에 베스트는 티키타카 나올 때의 하얀 셔츠고 그 다음은 하얀색 유니폼임. 허훈처럼 화려하게 생긴 이목구비는 옷을 심플하게 입어야 눈이 얼굴에 쏠리고 얼굴을 더 살려주는데 화려한 얼굴화려한(복잡한 무늬) 의상이면 투머치라 이도저도 아니게 됨, 그런데 본인의 취향이 워낙 확고하니 어쩔 순 없지만 좀 아쉽네. 더더더 잘 생겨보일 수 있는 얼굴을 왜,",
+        "writer": "UgwSo7g_jThjyja75Ft4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "골지러버 허훈",
+        "writer": "UgwgrhLatsoZrILhmxZ4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "패션의 완성은 훈이 얼굴과 몸매지 옷은 중요하지않아",
+        "writer": "Ugy-YXeLMZgOoQW7jY94AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 패션 테러리스트",
+        "writer": "UgxKFsljOvYePX_rco14AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "옴므플리세 이쁜데 왜, 진짜 잘 소화하는구만,",
+        "writer": "UgwugppWPXiuTAKfCVt4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "후니 입고싶은거입어 5959",
+        "writer": "UgyOx4x99Mgzur-P1nh4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "계속 보다보니 생각난게 꼬부기 닮으신게 아니라 슬리퍼(포켓몬)를 닮으셨습니다 옷도 노란색이라서 더더욱, 한번 검색해서 보세요 닮았습니다",
+        "writer": "UgwwkAzHWgOm1SsEpQ94AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭘 해도 귀엽다.",
+        "writer": "UgyFD7zJBdkR14DyWWV4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나래 왜 아직 나옴",
+        "writer": "UgxdQGvI3CM-_llEOcx4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 다 옴므플리세",
+        "writer": "UgwjRWTAS3cU8Q5IleR4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "차라리 오늘 스튜디오 룩은 기안이 나아보이는, . 훈아 제발",
+        "writer": "UgyCHToL8ic_fLQd7Fh4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 허당미가,",
+        "writer": "Ugx1xm66157PbKSZhpd4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "훈이 자기 너무 줗아한다 너무 웃기다 진짜 근데도 귀여워",
+        "writer": "Ugz-oaSJdxFWTB8G0854AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아, 훈이도 모자란점이 있구나 훈아 그거는 아니쥐",
+        "writer": "UgychU5ilFuRLufjNet4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "과해도 훈이니까 마냥 귀여워",
+        "writer": "Ugy_1kw5w2-csbaEvCt4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "후니야 차라리 허버지 옷을 뺏어입어, .",
+        "writer": "UgxTFcXATE-j4B59cBN4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "후나 전국 골지 공장 불태워버리기 전에 골골패션 버리자, .",
+        "writer": "UgykkuKF5-uKnctEgYp4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 골지 러버",
+        "writer": "Ugx57XS-Gvicnv3U1YN4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "spire73 거북이 하니까 생각나는게 꼬마거북 프랭클린 에 나오는 프랭클린 닮은거 같네요",
+        "writer": "UgwwkAzHWgOm1SsEpQ94AaABAg.9Olx8HHe-uF9OwlFH2bIda",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=3PPi3zWSdvs",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

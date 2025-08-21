@@ -1,0 +1,492 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001655501",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001655501"
+    },
+    "text": [
+      {
+        "content": "난 이거 끝나고 칼퇴하는게 젤 웃기다",
+        "writer": "UgxyJVwMOjTkUVxLYWl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비니 먹고싶다",
+        "writer": "UgzhfUfN7151VC_nN_J4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비니 핫헛흣 아린 꺄아아악",
+        "writer": "Ugx1SEK4TiLTBTPM8kV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아린파 중독성 너무 심하자나 ,",
+        "writer": "UgxcIQcDvpSICiBAGDF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소장각 나왔습니다",
+        "writer": "UgyGp3QqY1Cy1XwvYH14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "본방사수 하겠습니다 ..",
+        "writer": "Ugyj9qsfNKRLsJPHiaV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "채널 어디서 해요 KBS ,",
+        "writer": "UgzMBG1-wMd5k6p-eLZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비니 갑자기 존멋이다,",
+        "writer": "UgwcYymy9I0vQSNUzA14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요새 오마이걸 방송에 많이 나와서 좋다.",
+        "writer": "UgwDzYi0SKCWucF010N4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무슨 떡밥이 활동기2야, 너무좋다",
+        "writer": "UgxVsnust3uK5Tz8fKZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "배유빈 귀엽다",
+        "writer": "UgygTBZJmjRdhCpUbIV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 활동 끝나도 계속 나와 너무 좋아 ,",
+        "writer": "UgwsBvAdDsyMF94Yd4Z4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벌써부터 웃겨 미치겠다",
+        "writer": "Ugy-8vkblZxpzJAyemV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여러분 이거 어디서 볼 수 있어요",
+        "writer": "Ugw9OTkdCuyUoHacTox4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "8월13일 바로 이곳..",
+        "writer": "Ugw9OTkdCuyUoHacTox4AaABAg.9CBLeJGN1h69CCHl-rAQ9X",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 오마이걸",
+        "writer": "UgzqL4tiYtJEzZjJA3d4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 오마이걸",
+        "writer": "UgwQbbLWsZZ8ahXzQ354AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리가 공개된 운동 능력자가 비니인걸 알지만 뒤에서 꾸준히 운동하는 아린이를 잘 모릅니다, 정말 꾸준히 노력하는 아린이라고 하네요, 그래도 귀여워",
+        "writer": "Ugyzgmm6FmRR5hg7kV54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비니가 다른건 몰(반사회적용어) 딱밤은 김(이름) 보다 쎌 듯",
+        "writer": "UgwJACANgf8oVNBB5XN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비니 운동신경.",
+        "writer": "Ugw9KLHAJwOPfv-sVp94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모든 방송이 옴걸을 찾는다...",
+        "writer": "UgxxLCrWfuaQLfhiaBZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "효정이까지 같이 갔으면 정색으로",
+        "writer": "Ugz9nvRK3NlpYDdGeX94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이 헬리콥텅...",
+        "writer": "Ugx9Fh1jTjgr2UEj7YF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 비니괴롭히면 천하의 동현(이름)이(반사회적용어) 가만히 안 있습니다 .....",
+        "writer": "UgxOJiKfAJVqTVvDV214AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비니는 평소에 필라테스도 하고 잘할 것 같은데 아린이는 아리니 괜찮을까",
+        "writer": "Ugxkjpf0X7nDyx7exAx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "8월13일 시 KBS웹예능 KBS 엔터테인먼트 채널",
+        "writer": "Ugz5QibEuWsIjeOLSTF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아쉽다 동현이형 딱밤 맞았으면 분명히 예고에 나왔을텐데",
+        "writer": "Ugw3pCXl2akqdFqMZ7J4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "배윱 아리니 파이팅",
+        "writer": "Ugy_8pMtNCqB3NBA5-l4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 예뻐 아린이는 잘할수 있을까,",
+        "writer": "Ugyz8mNXhwQiUMtbb-l4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비니는 권투 정식으로 배우면 정말 잘 할거 같어, 실력에서 밀리면 글러브 벗고 딱밤한데 날리면 바로 K.O.",
+        "writer": "UgzGto6LCcQN6afxasp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "pro gram 왔다 HELL (왔다헬)",
+        "writer": "UgzYy8sYp_6Oc6nyiwp4AaABAg.9CA_5ssJ9j09CAa8-D7vJc",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비니누난 못하는게 멀까",
+        "writer": "UgxSirfD2YJaNaag7Gh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아린 누나와 비니 누나의 운동 하시는 모습을 볼 수 있구나",
+        "writer": "UgwtyqQtaOjk4bJuk4R4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "매미킴은 과연 비니 딱밤을 맞을 것인가,",
+        "writer": "Ugy9cNhnj874qyTbqLV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아린파 폭주",
+        "writer": "UgwRxnFwDv68xbIJGD54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "또 운동하면 비니지 비니는 힘들더(반사회적용어) 다 끝까지해낼꺼같고 아린이는 뭔가 아린파 엄청 쏠꺼같은 이느낌",
+        "writer": "UgzogifTdIq2nLmnVJl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비니는 잘 따라가는데 아린 혼자 계속 소리지르는 거 같아",
+        "writer": "UgwN7UBAbWEGw_Qs7MJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비니 언니 잘 할 것 같아요",
+        "writer": "UgzGJ-_9DNbp3VsVuRl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아린이 펀치라면 그냥 명치에 맞아도 기분 좋을듯,",
+        "writer": "UgydMf3LobzDAbAgvWJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예고편만 봤는데 귀에서 피날것같아요아린파는 대단했다,",
+        "writer": "Ugz7LQJaDCdJxC54svJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비니 유전자 아버지 권투선수출신 어머니 체(반사회적용어)수출신 오퐈 유도선수 비니 박치기 선수",
+        "writer": "UgwsEiWUgjX_oCycMYp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "옴걸최애걸그룹_똑비니 아똥이",
+        "writer": "UgwJUKsZ0NgLA3BxQGN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜그래요우리 아린이도 잘한다구욬",
+        "writer": "UgzvQ_orQqbsASbxnXp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비니언냐는 그냥 잘할 거 같고 아린언냐는 아린파로 이길 거 같다",
+        "writer": "UgzkPVoOK6D3Gx3L68J4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비니 운동하는 모습 이쁘당 아린이는 운동하는거 첨보네",
+        "writer": "UgygK7_3m-wSwEsDXW54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비니는 딱봐도 잘할것같다",
+        "writer": "Ugx5XNj2tHQoB8Fmedp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "당연히 못하는게 못하는거죠",
+        "writer": "UgxSirfD2YJaNaag7Gh4AaABAg.9CAZRcx5Gk39CB9Dlf3oOG",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어차피 딱밤을 향한 빌드업일뿐",
+        "writer": "Ugy9cNhnj874qyTbqLV4AaABAg.9CAVSVFy6sK9CAwNiq5hlg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찾았다 얼굴대감",
+        "writer": "UgwN7UBAbWEGw_Qs7MJ4AaABAg.9CAUMV6AvnD9CAbvUDHktT",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얼굴대감 여기도 있넼",
+        "writer": "UgwN7UBAbWEGw_Qs7MJ4AaABAg.9CAUMV6AvnD9CHzcaGqdLr",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 기분 좋게 기절할듯, 몸이 안좋아서,",
+        "writer": "UgydMf3LobzDAbAgvWJ4AaABAg.9CATpHvl0wr9CAiEzJ0SCJ",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비니 배두까기 선수 아님",
+        "writer": "UgwsEiWUgjX_oCycMYp4AaABAg.9CASUngjBbF9CAU5QdoVCh",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초코맛판타 이젠 까다까다 본인의 머리( )를,",
+        "writer": "UgwsEiWUgjX_oCycMYp4AaABAg.9CASUngjBbF9CAUJupJ07A",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "박치기도 남들과다르게 뒤로하죠.",
+        "writer": "UgwsEiWUgjX_oCycMYp4AaABAg.9CASUngjBbF9CAonRuvIw2",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "박치기 엌",
+        "writer": "UgwsEiWUgjX_oCycMYp4AaABAg.9CASUngjBbF9CAtZO8oSQ0",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "박치기왕은 김일",
+        "writer": "UgwsEiWUgjX_oCycMYp4AaABAg.9CASUngjBbF9F1wqnjb7VL",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "운동가 집안 출신입니다.",
+        "writer": "UgygK7_3m-wSwEsDXW54AaABAg.9CARqYDdMqQ9CAZoesCxkc",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀엽네여, 댓글 3등",
+        "writer": "UgzBrMLa1Eg--QxTn3J4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀여워 아구,",
+        "writer": "Ugzhpe4s7DE3Y9Jr3rV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭔지는 몰(반사회적용어) 비니는 잘할듯",
+        "writer": "UgwfAp7KYqJkF1YmXlN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=G2AdRzy5lTI",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,596 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001691722",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001691722"
+    },
+    "text": [
+      {
+        "content": "이 영화는 2015년 개봉작인 한국영화 럭키 의 원작입니다 그럼 즐감해주세요",
+        "writer": "UgwRiGMB7EuYsWsNkAh4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "원작이 났네.",
+        "writer": "Ugx59en-epKmCdOkmHl4AaABAg",
+        "write_date": "2021-10-24",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋아하는 배우는 다 나왔네",
+        "writer": "UgxE81hqBIsjBxlewPl4AaABAg",
+        "write_date": "2021-10-24",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어떤 (비속어)가 메쏘드를 방법이라고 해석한거야 , 아휴",
+        "writer": "UgxeVugXt1iGfiTV_ap4AaABAg",
+        "write_date": "2021-08-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 럭키랑 내용 똑같네",
+        "writer": "Ugwow7GKNubT1zKfZMN4AaABAg",
+        "write_date": "2021-06-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "차를 왜저렇게 세워",
+        "writer": "Ugx(반사회적용어)Z7NiTH2KCuolsd4AaABAg",
+        "write_date": "2021-03-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "단기기억상실증에 대해 잘못알고계신것 같군요 주인공은 그냥 기억상실증이고 단기기억상실증은 인생중 짧은 기억. 즉 단기간의 기억이 사라지는 것을 단기기억상실증입니다 극중인물이 자신의 이름도 기억 못하는 것으로 단기기억상실증은 절대 아니군요 이상 부분기억상실증이었습니다",
+        "writer": "UgwBWoQOZH5078lvm5R4AaABAg",
+        "write_date": "2021-02-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한자와 나오키 배우들이라 너무 잼있게 봤었죠 일드도 꼭보세요 일본스럽지 않고 잼있어요 우리나라가 리메이크할 가능성 매우 높아요 한자와나오키, 럭키보단 열쇠도둑이 센스있는 장면이 많아서 잼있게 봤었네요,",
+        "writer": "UgzYrArQpHdhJddIWjR4AaABAg",
+        "write_date": "2020-12-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한자와랑 오오와다 나와서 봤는데 띵작이더라,",
+        "writer": "UgxofySwxZE3hw9gc3t4AaABAg",
+        "write_date": "2020-12-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어째 한국영화 보면서 쪼금은 (이름)다고 생각을 했다만, 이와키인가 그 죽은 사장 (비속어)가 나쁜 (비속어)이네 마누라에게 까지 비밀로 하다니",
+        "writer": "UgxSQxIww1pqUpPYcsB4AaABAg",
+        "write_date": "2020-12-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "원작이 일본거냐 야쿠샤 배우(원래 광대를 뜻하는 거였는데 (반사회적용어)도 같이 쓴다 ) 찐삐라, (비속어)인데",
+        "writer": "UgyoG-ng1fSOcvPxLUR4AaABAg",
+        "write_date": "2020-12-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 럭키 따라했네 이거 럭키 짭이네",
+        "writer": "UgwQzv7ifrpXxNYxblZ4AaABAg",
+        "write_date": "2020-12-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한자와나오키 오오와다 (이름) 명배우. 카가와 테루유키 실제로 동경대 출신 말이 필요없는 명배우 사카이 마사토 역시 와세다 대학 출신이고",
+        "writer": "UgxpFs-OBYg8Qgztu3Z4AaABAg",
+        "write_date": "2020-12-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영화는 훌륭한데 정말 어떤 무식한 인간이 제목을 열쇠도둑의 방법 이라고 번역했는지 혼내주고 싶다. 원제목인 열쇠도둑의 메쏘드(method) 에서 메쏘드 는 연기학에서 메쏘드 연기 를 뜻하는 건데 그냥 직역해서 방법 이라고 해버리고는 (이름) 것을 못느꼈을까",
+        "writer": "Ugxi6wLlzC5JExRgGyx4AaABAg",
+        "write_date": "2020-12-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 당당해서 할말없다.",
+        "writer": "UgyaT--uYK26VPwSxbp4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "럭키의 원작이 있다는 걸 알았는데 잘 봤습니다 감사 점수 1점",
+        "writer": "UgyPI82fzya8NaH9cbp4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 우리나라 영화 럭키 같은데, 누가 빼낀거고",
+        "writer": "Ugw5LTO1LmPu34WR53p4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사카이마사토가 연기노트를 매일 읽으니 그런 명배우가 되지 사카이 마사토 영화 드라마 또 쇼메타니 쇼타의 두더지해줘여",
+        "writer": "UgzHYtKDwVYwMtU5__x4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사채꾼 우시지마도 리뷰 해주실 수 있나요 항상 잘보고있어요 감사합니당",
+        "writer": "UgwRiGMB7EuYsWsNkAh4AaABAg.9FJW0CCAnTf9FJpf1RsnP2",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무식한건가 럭키가 이걸 리메이크한건데",
+        "writer": "UgwQzv7ifrpXxNYxblZ4AaABAg.9FvGV06oXON9HamL6HbVxA",
+        "write_date": "2021-01-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "직역하면 열쇠도둑의 연기 임",
+        "writer": "Ugxi6wLlzC5JExRgGyx4AaABAg.9FnxBfEi9qZ9Fq8Lk88gju",
+        "write_date": "2020-12-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "열쇠도둑의 메쏘드나 열쇠도둑의 방법이나 알아 듣기 힘든건 매(이름)데 좀 더 제대로 된 번역이나 생각해보고 말하지",
+        "writer": "Ugxi6wLlzC5JExRgGyx4AaABAg.9FnxBfEi9qZ9Fswh34RGkh",
+        "write_date": "2020-12-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "럭키가 뒤에 나왔으니",
+        "writer": "Ugw5LTO1LmPu34WR53p4AaABAg.9FiTxCtjxQt9FkyPl2oi9h",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흐르는 세월에 장사 없다더니, 히로스에 료코, 아, 늙었네",
+        "writer": "UgyGhlBYSfdBk9Sr1w54AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": ", 러, 럭키,",
+        "writer": "UgzHk7FIRKMHdAby8cV4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐야 럭키 리메이크작이였음 ,",
+        "writer": "UgwzyYSgsOv04Njwwgp4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여주 영화배우 (이름) 인줄",
+        "writer": "Ugz9a8_vLEHw8tAmdnR4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이건 썸넬 보고 안들어올수가 없잖아 토네가와 씨 (반사회적용어)하기도 바쁜데 여서 뭐하누",
+        "writer": "UgzIbKhzwDOVoSrUIMR4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한자와나오끼 상무도 있네",
+        "writer": "Ugy09f66xoX3ea72ruB4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "럭키 나온지가 벌써 6년이네 빠르다,",
+        "writer": "UgxV3smMRx4UTxdF-MF4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어쩐지 내용이 무엇인가랑 겹친다 했더니 명탐정 코난 코난 실종사건 사상 최악의 이틀 의 각본을 맡았었네요 코난과 내용이 몇가지가 겹치는데 코난이 목욕탕에서 미끌어지는 거 (반사회적용어)이지만 사실은 뒤에서 표적이 된 사람을 살려주는거,",
+        "writer": "Ugx7FQJHysPnKrsKNLl4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주인공 (이름) 볼때마다 (이름) 떠오르는건 나뿐인가",
+        "writer": "UgzA4V39m6tHcL3kF7p4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "럭키 원작이였구낭",
+        "writer": "UgwV4OF8aUiNajYzBXh4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한자와나오키 상무 바쁘시다 한국판으로 리메이크된거네",
+        "writer": "UgyHCfYnmOFpEVAvmiV4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "럭키와는 비교가안될 정도로 몰입되던 영화다 원작을 봐라",
+        "writer": "UgxBtKXocM1mBH354O54AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한자와나오키랑 오오와다 상무 여기서 뭐함",
+        "writer": "UgxwcfHHHS25iy8ZHxd4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한자와가 오오와다 상무랑 사이나쁜 (이름) 있었구나",
+        "writer": "Ugy4Bq0PrsxplFi9lq54AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "토네가, 와",
+        "writer": "UgyhlBWe5rmn0hUfhV94AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸넬 류승범 아녔어,",
+        "writer": "UgwwwZXv40CYk2dLLyV4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 배우분 스윗소로우you(대단한 우연)MV 남주 아닌가 따지고 보면 영화 연기 잘하던뎅",
+        "writer": "Ugzreg7_3csIr9W6GUh4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)화 그거랑 같네",
+        "writer": "UgyHrOF4p3vl0AXi46Z4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초 엘리트 은행 (이름)였던 내가 이세카이에선 (반사회적용어) .",
+        "writer": "Ugy2N3db5I6yLDiD5L54AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남주인공 켄신1에서 최양락 단발머리한 보스아니었나",
+        "writer": "UgwR9E9ZbB_yVNk84zB4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 럭키가 리메이크 였구나",
+        "writer": "UgxUIlZPJeGGYpqtld54AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "러키보다 덜코믹하지만 훨씬 알차고재밌네",
+        "writer": "UgyhmCptHypYw6Zp-mB4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한자와에서 봤던 배우들이라 반갑닼",
+        "writer": "Ugwfk-0VMDf628ewIuB4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "럭키의 원작 스토리군요 재미있게 보고 갑니다",
+        "writer": "Ugz0kDXNQgnKXTpIBJJ4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "히로스에 료코,",
+        "writer": "UgzM00aPIOwKgFxZMvd4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "차가 박았는데 안에 사람이 멀쩡하네",
+        "writer": "UgwMgamwXSOn2yJHb4J4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "원작도 재밌네요 히로스에가 솔로라니 말도 안돼 잘봤습니다",
+        "writer": "UgxookpbAd5M3vSNdJB4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영화 럭키랑 내용이 같네요",
+        "writer": "Ugz8ajbWGs0TuHncYDV4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에, 마지막에 좀 예상밖의 뭐그런영화없을까요 아무도 예측못한엔딩있는영화",
+        "writer": "UgwddtgWiRFc6w7kN7p4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 럭키랑 비슷하네",
+        "writer": "Ugwl_cYIcqBe6R7my-N4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "토네가와, 카이지 돈 다가져놓곤 부족해서 청부업하는거냐,",
+        "writer": "Ugw2iGTc7-yJYTshF8R4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 영화 우리나라에서도 리메이크 된 소재의 영화 아닌가요 아 고정 댓에 있네요 럭키.",
+        "writer": "UgzddV2K8HfVA40KdR94AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "축약된 리뷰만 봐도 아주 수작이네요 감상욕구를 당기는 리뷰 아주 잘봤습니다",
+        "writer": "Ugxs8Fg_p67ke6wXvmZ4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "떠번님 취향 알겠다 리뷰 영화 배우들 다 똑같음",
+        "writer": "UgwPucCYeu0fxOu8gbh4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 괜찮은 영화는 전부 (이름)널이 있지",
+        "writer": "UgwS8JkXxh0U1ingavR4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "토네가와가 왜나왘 카이지2에서 돈받고 헤어졋을텐뎈",
+        "writer": "UgzQSFbSjMKu1_s-2wl4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기 남주분도 유명하신가보네 99.9에서도 본거같은데",
+        "writer": "Ugx7w-tCgfZjygZW05J4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게 원작임",
+        "writer": "Ugz8ajbWGs0TuHncYDV4AaABAg.9FJox49u6Xs9FKHPHOSmg6",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 토네가와임 어쩐지 익숙하더라",
+        "writer": "Ugw2iGTc7-yJYTshF8R4AaABAg.9FJmIuY6DY09FVwql1dv_G",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 재미있을꺼 같아요 집에가서 낫프릭뜨로 봐야겠어요 좋은 소개 감사합니다",
+        "writer": "UgxVgj2auqhUJSqq1S94AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "콘도 카이지에서 토네가와네 럭키도 원작이 있었구나 오늘도 잘보고갑니다",
+        "writer": "UgxwrwCTmqwRokFM1uB4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 잘보고 갑니다.",
+        "writer": "UgzjMNaChO2pNkaZXtR4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "히로스에 료코",
+        "writer": "Ugy7I8UK0shLGVFlsOh4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 럭키하고 똑같지",
+        "writer": "Ugzsc2IhIa3zdyaLstR4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어) 아재 어디서 많이 본 얼굴이다 했는데 바람의 검심 영화판에서 다케다 간류로 나오던분이네",
+        "writer": "UgxVQOnIO8yqrNCGnkt4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "럭키랑 똑같누",
+        "writer": "Ugwyojb3hIRTH4JVk2F4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "럭키보다 먼저 나온 영화임",
+        "writer": "Ugzsc2IhIa3zdyaLstR4AaABAg.9FJWnpaJk949FJXWGod_sR",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "럭키의 원작이니까요",
+        "writer": "Ugzsc2IhIa3zdyaLstR4AaABAg.9FJWnpaJk949FJYIqn-Htl",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "럭키개봉할때 원작일본건데 일본에도 이거 흥했다고들엇는뎅",
+        "writer": "Ugzsc2IhIa3zdyaLstR4AaABAg.9FJWnpaJk949FJaETSwdwu",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "응 아니야",
+        "writer": "Ugwb6Pp_Jks5M6lxXT94AaABAg.9FJW3t-yWzZ9FL8AUZSWdQ",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=Z9H5_SVEHiU",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

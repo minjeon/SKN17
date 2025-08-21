@@ -1,0 +1,732 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001656031",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001656031"
+    },
+    "text": [
+      {
+        "content": "솔직히 이런글 쓰기 싫지만 도경완씨는 왜 매번 이유씨 편에서 보기 불편할까요 시간 좀 재주는게 뭐가 어렵다는 겁니까 프로를 만드는 입장에서 제작인이 충분히 할 일인데 제작진이 배려해서 해주는 것 처럼 말을 하는건지 모르겠어요 고생한다는 의미로 한 말인지는 모르겠지만 말이에요 에 보시면 류(이름)하고 표정이 확연이 차이 나네요 물론 방(이름) 이런 저런 말들을 하지만 왜 매번 느끼기에 불만인 듯한 느낌이 드는 건지 저만 그런건지 아무튼 불편하네요",
+        "writer": "Ugz_i0-rDXGhoi7OcTl4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 이언니 매력 쩔어 내 여자 롤모델이야,",
+        "writer": "UgzUKs5VKK83XdzxTFp4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 (이름) 너무좋아",
+        "writer": "Ugw5uBlbZp0UFuxekSd4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맨날 (이름) 얼굴 보이면 클릭하게 됨, (이름) 볼수록 매력",
+        "writer": "UgxS0oBkhRnGFEnK_B94AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이(이름) 넘 멋지네요",
+        "writer": "UgyXzIOWjW6fA8dpUtZ4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이(이름)은 못하는게 뭐임 연기면 연기 예능이면 예능 요리면 요리 다 잘해 거기다 이쁘지 성격 좋지, 못하는 게 뭐야",
+        "writer": "UgwogCZUFtBQhBlqLv94AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이요리님이랑 촬영하면 잼나겠다",
+        "writer": "UgwPJrGpSZxwYGHwGgV4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제가 보기엔 성품이 무지 착한 사람일듯해요",
+        "writer": "UgwkOHsQBfLfQRK_2lh4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "mc 바꿔 주세요. 출연하는 사람 말을 이따위로 잘라먹나요",
+        "writer": "UgzCfjAbq4WYCNZpNfp4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어느별에서 왔나요",
+        "writer": "UgzGHoHwhpk8bgt5YG54AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "편스토랑 8할은 이요리.",
+        "writer": "UgzyLZXzWcP4T8ryg8B4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "편스토리는 이(이름) 땜에 본다, 이(이름) 들어가고나서 안보다가 다시 나오고부터 다시 봄, 이쁘고 요리도 잘하고 말도 잘하고,",
+        "writer": "Ugw2u1e30C9Ljr3MIat4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왔다 (이름) 보다가 이거 보니깐 왠지 웃음이 나온다 이게 더 훨씬 악역보다 잘어울려섷",
+        "writer": "UgzsMmRX4R5ToFXtOFB4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)는 진짜 보는 재미가 있다 뻔하디 뻔한 출연자들과 급이 다르다 너무 (이름)고 빠져들게 된다 이쁘고 귀여운건 덤.",
+        "writer": "UgzMSRaJKx7fRgt3y3J4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 (이름)는 (이름)한테 왜그러는지",
+        "writer": "UgySCAUk6x6CTM1YHE14AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "편스토랑에 이제 (이름) 안나오나요",
+        "writer": "UgzUBVyj-sslC91ejTl4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니 사랑해 너무 귀여워",
+        "writer": "UgxGyRUkX9Urhj0FB7V4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)가 확실히 예능분량 뽑을줄 안다",
+        "writer": "UgxAr7QpTTwmFYAQKPt4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상을 다 봐보니까 굳이 안 넣어도 되는 말들을 넣은거 같음, 말풍선 위에 이제 그만, 이라던가 다른 영상에 화구 옮기는거에서 배달 해주시는 분에 퇴근이다 라고 하는거나 굳이 안 넣어도 되는 트집들",
+        "writer": "UgwOruBk6ZYF8UIZTAN4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 나와서 다시본당",
+        "writer": "UgzZYoKZXA8Ogr_j1jN4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐지, 이 매력덩어리는 진짜 귀여우세요",
+        "writer": "UgwlmwtQQ2qxjWD7ipx4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "들어오자마자 고작 몇 초인 시간 재주는 거에 불만 가득인 사람 (이름)됨",
+        "writer": "Ugx69WZkZwfMh27UjUF4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도씨는 왜 이 방송 볼때마다 (이름)를 내리깎으면서 말하는지 이거 나만 이해 안되는 부분인가 저렇게 예쁘고 사랑스럽고 열심인 사람을,",
+        "writer": "UgxaHXuSJI3B74QK0mh4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 진짜 사링스럽다",
+        "writer": "Ugz-5qhrY2Om2TCWkYF4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "푸른거탑에 나온게 찐 성격이였네",
+        "writer": "Ugwfz06tHfzqfgO-tQx4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "친절한 요리씨 매력쩌러",
+        "writer": "UgyDLetc2WFxmgTNtVF4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 (이름) 너 무 좋아. 그냥 좋아. 막 좋아. 망설임이 뭐야. 2초도 필요없어. 그냥 보기만 해도 좋아.",
+        "writer": "UgwpUDjMdQWSwE6gqLV4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이(이름) 진짜 인성도 좋고 성격도 좋아보여요.. 요리에 감동하고 (이름)에 더 감동하고 갑니다.. 정말 선하고 좋은 사람이에요.. 칼(비속어) 때 왼손 손가락을 안으로 오무리는 자세만 봐도 진짜 요리를 잘하시는 분인게 느껴져요.. 보통 손가락 펴고 잡고 썰다가 손가락 베이는 경우가 많잖아요",
+        "writer": "Ugy_C0lkBOikzf7ro4N4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)가 있는 한 이요리도 있당",
+        "writer": "Ugx7noQcahAhfcJwMRx4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얘는 왜이렇게 망가진거야",
+        "writer": "UgyCHQyAVk4iiiSxsWJ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 누나 진짜 드라마 (이름)랑 너무 달라서 반전 귀여움 쩐다",
+        "writer": "UgzMwmTbWAYj_zCT9fl4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "놀토의 혜리를 볼때 딱 그 기분 뭔가 흐뭇함",
+        "writer": "Ugx_0djIe30L67FLcZF4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 너무 사랑스럽다",
+        "writer": "UgyCgUo2cg41iqpkWsJ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시간을 재주는게 그렇게 꼴보기 싫으세요 걍 막 던지네 아나운서 출신 맞죠 이(이름) 진짜 싫어하시는 거 같아요",
+        "writer": "UgwxakvBELXuMgNJ8x14AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 귀엽네",
+        "writer": "UgxIt29P8XF9ch2uqvV4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연민정 반전매력",
+        "writer": "UgyDzTPNjNwkTgV2Fat4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진행자라기옌 좀",
+        "writer": "UgwxakvBELXuMgNJ8x14AaABAg.9GChdPV6fPZ9GPIiFn_b2P",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 재간둥이 뭐야 귀여워 죽어",
+        "writer": "UgzEVSRUjJMZQbZnOaV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초 나오고싶었다는말이 왜 마음이 아플까, 진짜 항상 열심히하시는데 까느라 바빴던 가수 이씨와 현재 4초에서 시간재준다는말로 비꼬는 도 씨 진짜 저렇게 열심히하는데 왜저러는지 편스토랑 안나와도 연기며 음식이며 거기에 말하는 말투까지 다 사랑스러운 유리언니인데",
+        "writer": "Ugz7mEgu7nOSjOJsufx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 편스토랑은이(이름)이 반은 먹고들어감 이쁘고사랑스럽다",
+        "writer": "Ugz-ik85KilodOMHSat4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시간을 재주든 말든 본인이 재주시나요, 표정봐 그럼 본인이 방송 분량 채우시든지, 그쪽이 말씀하시는 것보다 이(이름)이 새우 까는 게 더 재밌어요",
+        "writer": "UgyIJY2TiKSwuvBotaJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 이쁘고 귀여워요",
+        "writer": "UgxMd4BnCjQh_0Qv3rJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리액션이 확연히 달라진 예능이 있다",
+        "writer": "UgxJRJipvmBAI3P8rb94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니 너무 사랑스러워요",
+        "writer": "UgynuSiZFF_mq1ZLbHF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 나오니까 너무 재밌다",
+        "writer": "Ugy7sH-GH4kSV79T8EV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 이런 잔망스러움이 너무 좋더라",
+        "writer": "Ugwv0i47d05eqS5RT014AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이(이름)은 진짜 늙(반사회적용어) 않앜넘 신기",
+        "writer": "UgzJkI--CF3Ct1TtXvR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이야 잘하네 칼질봐",
+        "writer": "Ugz7pbBfKuCA1n7gOMB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니 넘 귀엽구 사랑스러워요오",
+        "writer": "UgzVT6_YLKC2pl1hwtR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이연복 쉐프 칼질 실력에 좀 놀라신 표정",
+        "writer": "UgzqjBp1jXnWhw14qPx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요리 계발 안하고 맨날 저런 거만해 (이름) 지적에 너무 반가워요 (반사회적용어)적 그리웠어 그말에 경규 (이름) 걍 녹내요 상대방 반론 이나 지적을 기분 나쁘지 않게 받아치는 어법 배울점이 많습니다 (이름) 근대 새우 얼지 안았나요 까기 힘들었을 탠대 위생장갑 까지 끼고 암튼 대단 하십니다.",
+        "writer": "UgysN4_JL83RK9mgvCV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 (이름)",
+        "writer": "UgxiUMVzHIx1tbhi9c54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "올만에보니까 멘트들이 달라진건가요 아님 편집한건가요 이(이름) 사랑스러움 뿜뿜이야",
+        "writer": "UgzQtUqvTrjjj99dhB54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아무튼 이(이름)는 모든행동이 재미있고 남에게 즐거움을주네요",
+        "writer": "Ugw2Azbnr4BUF-AuAlF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비꼬는거 아닌듯한디 꼬인건 그쪽이신듯",
+        "writer": "Ugz7mEgu7nOSjOJsufx4AaABAg.9GA0QQ0lpXQ9GR11oQaGOr",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 누가 어른인지 모르겟음",
+        "writer": "Ugz7mEgu7nOSjOJsufx4AaABAg.9GA0QQ0lpXQ9GS6h4lXE8K",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 예민할까",
+        "writer": "UgyIJY2TiKSwuvBotaJ4AaABAg.9G9t6FgZYhh9GPH3zSoML3",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 꼴보기싫음, .",
+        "writer": "UgyIJY2TiKSwuvBotaJ4AaABAg.9G9t6FgZYhh9Gd8yGr2OpN",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 동영상 시작하자마자",
+        "writer": "UgyIJY2TiKSwuvBotaJ4AaABAg.9G9t6FgZYhh9K8pF8tbqak",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개 웠 네 데 않았 었 텐데",
+        "writer": "UgysN4_JL83RK9mgvCV4AaABAg.9FqNIVxvu1r9GHF2yuYcUD",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "돌려깍기 말하기 고수기술",
+        "writer": "UgysN4_JL83RK9mgvCV4AaABAg.9FqNIVxvu1r9GMthtWmdJD",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 인성이 좋은 거 진짜 맞는 거 같아요 솔직히 (이름)가 그냥 딴지 걸었다기 보다 사실 요리개발 프로인건 맞으니까 쓸데 없는 거 하는 부분에 대한 정확한 지적인데 어쨌든 지적이라 기분 나빴을 수도 있을텐데도 좋게 받아들이는 (이름) 그녀는 대체, 멋져",
+        "writer": "UgysN4_JL83RK9mgvCV4AaABAg.9FqNIVxvu1r9GRms_NUyIM",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "0 (이름) 컨셉 이에요 (이름)이랑 두분 친함",
+        "writer": "UgysN4_JL83RK9mgvCV4AaABAg.9FqNIVxvu1r9GRsL8Xl8i3",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞춤법 좀",
+        "writer": "UgysN4_JL83RK9mgvCV4AaABAg.9FqNIVxvu1r9GRxmEt6_WI",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개는 어디갔누",
+        "writer": "UgysN4_JL83RK9mgvCV4AaABAg.9FqNIVxvu1r9GWWL0rc9yR",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저승사자 내가 키우는중",
+        "writer": "UgysN4_JL83RK9mgvCV4AaABAg.9FqNIVxvu1r9GW_5HnonvX",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "zoe 미쿡서 오래 살다 와서 그래요 한글 다시 배울게요",
+        "writer": "UgysN4_JL83RK9mgvCV4AaABAg.9FqNIVxvu1r9GaVV_xOF0M",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 좋아 맨날 보고싶어요 노력하는 천재 연기도 모든일에 최선을 다하는 이분 넘 좋아",
+        "writer": "UgzGmMTUPjDvT74uXzl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미쳤다 너무 예쁘다 사람이 어쩜 저리 사랑스럽게 생겼지 너무 부럽다 눈물나게 예쁘네 저 예쁨의 반의반의 반만이(반사회적용어) 닮고 싶다 하",
+        "writer": "Ugzsw_dfde_CkTyEcyl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)TV 구독과 좋아요 그리고 알림까지..... (이름) 만세. (이름) 만세....",
+        "writer": "UgzPgWlzPL7mJIBR9Ah4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "편스토랑의 주인공이다 이(이름)는 왜이리 매력이 넘쳐나나요",
+        "writer": "UgxEq2sQvnFMcq1o1xJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저게 하루 이틀 해서 되는게 아닌데, 진짜 대단하다,",
+        "writer": "UgzMo2QZwwqRVxbaKgp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "경규샘 좀.",
+        "writer": "UgzE5nasZTHY2qde5bd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시간을 재주든 말든. 왜 이러나",
+        "writer": "UgwshuM0CMsGZWuGOIh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 웃겨",
+        "writer": "UgwcsigGqGPSd-Kp90B4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 매력있어서 언제나 너무 좋아요 똠양꿍 라면도 나오면 먹어보고싶어용 맛있을 것 같다",
+        "writer": "Ugzrppb4h6bdreT8xI54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "먹는모습이 넘 복스럽고 예쁘당 요리 열정도 쵝오..",
+        "writer": "UgwU-6LsSvhL5zaZlKx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐징, 이 사랑스러움은 나보다 언닌데 너무 예쁘다",
+        "writer": "Ugw9LMWpW-LBUEfRT-B4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 구독자 2만에서 않늘어 나내요 아니 왜 않늘어나지 매력 덩어(반사회적용어)대 심성도 좋으시고 이쁘고 신비로운 일이내,",
+        "writer": "UgzPgWlzPL7mJIBR9Ah4AaABAg.9FkBWLbHyDa9Fmco84F2cK",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 음식하는 기본이 있음 거기다 눈설미도 좋아요 한번 보고 걍함 대단하다",
+        "writer": "UgzMo2QZwwqRVxbaKgp4AaABAg.9Fj2bQyyriL9FmcZpCytrr",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와대박 (이름)배우다요리하는거 다시 보고싶었는데 편스토랑 시청률 (이름)......",
+        "writer": "UgwlqRwJ9tBmIREr13V4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 사랑해요.",
+        "writer": "UgyBqzDDOh69hFsrI5F4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 언니 너무 귀엽",
+        "writer": "UgxJqFaKKrc-S_LPblJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남편이 개고생 했겠다 양파 무진장 드셨겠네",
+        "writer": "Ugx9LEpns-iUBmDOZld4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 좋아요",
+        "writer": "Ugw9PjVW_pOTTfCHyst4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남편이 교회 (반사회적용어)라 교회 식당같은것도 자주 돕고 그래서 손이 더 커졌다고 하는 것 같더라구요 다 썰어서 교회 식당봉사할 때 사용하지 않았을까요",
+        "writer": "Ugx9LEpns-iUBmDOZld4AaABAg.9FaxrT8bqHD9FjB29FHHab",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 좋아서 봐야겠당",
+        "writer": "UgxhcLMuMtI5qbJUgRZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 인성이 보인다. 너무 좋은 사람이다.",
+        "writer": "UgynibZCrbDHMgzmk414AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 이 프로 자꾸 보게되는 중독. 그런데 이분들 왜 이렇게 매력있으셔요.",
+        "writer": "UgywO-kuTmBOa8NixQ94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연기도잘해 예능도 잘해 이쁘고 성격도좋고",
+        "writer": "Ugwedh4NbHPyT2l5Z5l4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=cB-PWAGm8Q4",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,436 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001661510",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001661510"
+    },
+    "text": [
+      {
+        "content": "손현주 (이름) 도팸",
+        "writer": "UgybQnB7fqvY5Okrvl54AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인상도 밝고 (이름) 홧팅",
+        "writer": "UgxL9ZSwAZG10CFF5dx4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "손현주 너무좋아",
+        "writer": "UgwzxbkXbkz4DTBEHLd4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 하영이너무귀여워 절로절로댓글쓰게하네요",
+        "writer": "UgypFpA3JtPq9C1It9t4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딸보니 (이름) 얼굴 그려지네",
+        "writer": "UgxSPCAEEdkmvAJW4Gd4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 여동생 잘 챙겨주는 큰오빠 느낌이세요 역시 도장부부 분들이 착하셔서 좋은 사람들만 주위에 있나봐요",
+        "writer": "UgzSrnbPYoETXywtglF4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연우야 하영아 보고싶구나 어쩜그렇게 연우는교육을 잘받았는지 하영이는 말도잘하고 야무지기까지 하는지 오랫동안 건강하고 행복한 가족되었음 한다",
+        "writer": "UgwHjYusw6R7BZjr-FN4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그런 얘기하지 마세요 하영이 손 타이밍 대박이네요",
+        "writer": "UgxkAr4ddJN-UtEmoOt4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 손현주(이름) 멋지다 역할때문에 그렇지 스타일도 멋지시네요 역시 (이름)",
+        "writer": "UgwP0MDoLB63n5RwCVZ4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하영이가 아하 이 (이름) 뭘 들고 왔으니 인사치례는 해 드려야 하겠지 나도 연예인인데",
+        "writer": "UgwQ950QgYa-mC8aSDN4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하영이 가죽자켓 왜케 잘어울려",
+        "writer": "UgyAjbsHcqyo2kejOEN4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 좋아요",
+        "writer": "UgyCglit8FefMItAKh14AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연우 하영 너. 무 예뽀 사랑해 머리가 천재여.",
+        "writer": "UgyUxunUVEmj6bJzj854AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 재밌습니다",
+        "writer": "UgwMVuZYScv457nZ3VB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도경완근사한 가장 가정을 화목하게 잘 이끄는 고마운 가장이네요 우리 딸도 도경환 같이 가정적인 남자를 만났으면 좋겠어요",
+        "writer": "Ugz2e7iLxmOF0Z0lCpF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애기들 애교에 내가 다 미치겠다",
+        "writer": "UgwPYLterKfQpLc4kjJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모범형사 보고 검색했어요 손현주 (이름) 여전히 너무 멋있으세요",
+        "writer": "UgyC2vCg83AOTjW6jOB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 박세로이 아빠와서 도경환이랑연우 박세로이 했고 하영이 (이름) 가죽 자켓 입은거, 진짜 귀엽당,",
+        "writer": "UgxrRA_k7WB3jXGY9Wl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양말박스보니까, 저거 엄청 비싼거 아닌가요 ...",
+        "writer": "Ugz0Qp5m9OBLqqDmaTZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "장(이름) 너무 멋저요 노래도 잘하지 예쁘고착하지요 저 (이름) 좋아해요 사랑합니다",
+        "writer": "UgzN-gdWtbSMOjgTbTB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양말 에르메스",
+        "writer": "UgzfQJFygQNcNgrX6U54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 클라스 (이름) 박세로이 아빠.",
+        "writer": "UgzHHm8doLQGr6A7F-h4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하영이 너무나 귀여워 건강해",
+        "writer": "UgxyN9Ya1nDmvY16KTZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 나너다 틱톡커나너7",
+        "writer": "UgxaarNJ3uSeHFHGhN94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 하영이 넘나 귀여운거 내 심장 어떡할꺼야",
+        "writer": "UgxJoXSO1aMwTF043zF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참 꼼꼼 하시다 선물 주는 센스 멋져 버려 하영공주 깜찍이 지금처럼만 건강하게 예쁘게 잘 자라라 따랑해",
+        "writer": "UgyuFSjI671mGeGuRL14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요구루트 맛이 어떠냐 답니다 하루가 인상 깊었단 뜻이다( )",
+        "writer": "UgzLr6kEbzJm80ZJN4B4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 정말대단한 배우라고 생각하며 존경스럽습니다 연기넘 잘하시고 얼굴도 인자하게생겼어요 조강지처클럽을 보면서 제가 눈물을 많이 흘렸습니다 늘건강하고 행복하고 매일매일 좋은일만 생기길 바랍니다.",
+        "writer": "UgyY0Pc-KOlmqjky0ZN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 웃겨",
+        "writer": "Ugx21NTTuV9lppQgbKJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하영이는 하는행동 100점인애기에요 귀엽고 차분하고 예쁜애기에요",
+        "writer": "Ugx8YpKOYsaKCmdEi5Z4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "두분에 행복함과 두아이들의 귀여움 날로 부럽습니다 울 예쁜하영아예뻐서 우야노",
+        "writer": "UgxjfiDPnPOU2bz9egJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하영이 이뽀 심쿵",
+        "writer": "UgxIy5mes94j19_zxX14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "손현주는 노숙자역이 제맛",
+        "writer": "UgzBG-eUe2nk8nFc9jJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 너무 좋쥬",
+        "writer": "UgycA90jFpu4B22itv94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하영이 모잘라 라는 말을 금새 이해했어, .",
+        "writer": "UgzEuuSoOhJaM4J8RUx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인사성도 바른 귀염둥이 하영이 가죽라이더 자켓도 참 잘어울리고 윙크에 심장폭격",
+        "writer": "Ugw7uI5yQQW6VD4DqP54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미스터 트릇을 울 도 하영씨가 이깃다 진짜 미챠미챠당당당",
+        "writer": "Ugz0WzLs6e95ChFrj2l4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "장(이름) 항상멋져요 노래너무잘불러요 이뿌고요항상건강하세요",
+        "writer": "UgwIul-PvpqiQU__bZp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하영이 예쁨 귀욤 한도초과",
+        "writer": "UgxaOioiPyE85xKExMZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아우 하영아 이뻐죽겠쓰",
+        "writer": "UgwcktbN5Ohn8OJ1-TJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애 앞에서 도랐구나 돌았네 ,라뇨. 진심 이네여",
+        "writer": "UgyjxWwcvuF7FyqfXNF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사회생활 가능",
+        "writer": "UgyjxWwcvuF7FyqfXNF4AaABAg.97xDSMtMy5t98MPc_olOo-",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭔 말을 그렇게 하죠 힘들게 산다 진짜",
+        "writer": "UgyjxWwcvuF7FyqfXNF4AaABAg.97xDSMtMy5t98N06DElk1h",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언제봐두 이쁜가족입니다",
+        "writer": "UgyjxWwcvuF7FyqfXNF4AaABAg.97xDSMtMy5t98NbQ5sulXr",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 즐겁게 삽시다.",
+        "writer": "UgyjxWwcvuF7FyqfXNF4AaABAg.97xDSMtMy5t98RFZ5uR3uF",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭘 또 그렇게까지",
+        "writer": "UgyjxWwcvuF7FyqfXNF4AaABAg.97xDSMtMy5t98TuIz5v-Fl",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)즐 보고자란게 저런 거 밖에없음 신경들 쓰지마요",
+        "writer": "UgyjxWwcvuF7FyqfXNF4AaABAg.97xDSMtMy5t9AnP9dZCCKQ",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Eru Becca 너도요 뭐든 꼬이게 이해하는 댁도요",
+        "writer": "UgyjxWwcvuF7FyqfXNF4AaABAg.97xDSMtMy5t9CuUEKaGxUS",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "구지윤 가다가 똥이나 밟아랔 새똥이나맞던가풉",
+        "writer": "UgyjxWwcvuF7FyqfXNF4AaABAg.97xDSMtMy5t9CvU7BPPoiz",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Eru Becca 그럼 복이 온다던데고마워복이 오라고 고사를 지내줘서",
+        "writer": "UgyjxWwcvuF7FyqfXNF4AaABAg.97xDSMtMy5t9Cvl8jFWlLs",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "구지윤 아레알개우꼌(비속어)아니야 긍정의 힘 (비속어)",
+        "writer": "UgyjxWwcvuF7FyqfXNF4AaABAg.97xDSMtMy5t9CvlW3r1jE2",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Eru Becca 그게 마인드 차이라는 (혐오표현), 뭐든지 꼬이게 보면서 비난과 욕만 하는 너와 나의 차이",
+        "writer": "UgyjxWwcvuF7FyqfXNF4AaABAg.97xDSMtMy5t9CweU3bUNzZ",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "구지윤 네 추카드려욬우월감 상승하심 추카추카추카추카추카추카",
+        "writer": "UgyjxWwcvuF7FyqfXNF4AaABAg.97xDSMtMy5t9Cwfl5HoQwu",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5C91QcRL2yk",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

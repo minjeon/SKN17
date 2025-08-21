@@ -1,0 +1,460 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001656818",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001656818"
+    },
+    "text": [
+      {
+        "content": "야우리 건후 이젠 글도 잘 쓰네. 건후야 슬슬 자라",
+        "writer": "UgwkaFoUFHIlsGfm_-F4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은이 몇살이에요",
+        "writer": "UgxfFu8HdHxhtwTUnHh4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안나하고 파주호는 전생에 우주를 구한듯 애들3명이 너무나 완벽 거기다 타고난 똑똑함까지 센스도 있고 진우동생하고싶다",
+        "writer": "Ugzku8vdwLC-2wp8dGV4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우 벌써 파이브도 알고 정말 똑똑하구나귀염둥이",
+        "writer": "UgxPbiOKDfALgQAHAgZ4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하하는 왜 나오는(혐오표현)",
+        "writer": "UgyP_ZCgqqNbkLbmmj94AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우야 언제나오니 이번주도안나와 빨리만나자 유트브도 지겨워질라한다",
+        "writer": "UgyOQ9f7g2yCVJZ5-_Z4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 거누 왕팬 귀공자건후 2주동안 못보니까 알러지가 생기겠네 담주는 볼수 있는(혐오표현) 넘 보고싶당",
+        "writer": "UgzCAdoILgx-mYvb7Kd4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후가 이젠 글도 써 대단해요 건후야",
+        "writer": "UgwcNXXMGxouTLCMs9B4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우는 누나와형의 거리가 조금 멀게 느껴지는 외로운 진우",
+        "writer": "UgxTnHdrKFRU4yr-XK14AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우 곧 말하겠어요가끔씩 영어 한국어 짧게해요귀요미",
+        "writer": "UgztueVavyvDwu0eUo14AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요가하는 우리건나 너무귀엾다 (이름)가 벌써 fighting파이팅 이라고 글도쓰고숫자 알파벳 다알고 너무 기특해요",
+        "writer": "UgzyVQ9ffRJP9X3FhO54AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 (비속어)치 광고많이하네",
+        "writer": "UgzCGmRO9HM33X3s42N4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우도 너무 귀엽지만 건후가 우주최고 귀요미",
+        "writer": "Ugwcc5EV9K1nRdBD_Q94AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후는 엉뚱했다면 진우는 약간 맹해",
+        "writer": "Ugwase_jMXHUSqqcPRh4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저두 이아이들만 봅니다 어찌나귀여(비속어) 보고또보고있습니다",
+        "writer": "UgxNfeKK4g-AYZil3d94AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "KBS 돈놀이",
+        "writer": "UgzCGmRO9HM33X3s42N4AaABAg.9M5QiCEB_mw9MHG4iyTWP-",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞아요 .. 건후가 첫사랑이라,",
+        "writer": "Ugwcc5EV9K1nRdBD_Q94AaABAg.9M-A6EKON3V9MRtfBXWfcH",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 그렇게 생각합니다.",
+        "writer": "Ugwcc5EV9K1nRdBD_Q94AaABAg.9M-A6EKON3V9MdczXkRoeg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도요 건후는 첫사랑",
+        "writer": "Ugwcc5EV9K1nRdBD_Q94AaABAg.9M-A6EKON3V9MfN_F3qDDW",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애들 가지고 굳이 비교를 해야 하나요 속으로만 해요",
+        "writer": "Ugwcc5EV9K1nRdBD_Q94AaABAg.9M-A6EKON3V9NtVkAJCOuw",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이모가 진짜 사랑해, .",
+        "writer": "Ugx9K_gQDoWVctVaccp4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후야 너무 빨리 자라지마",
+        "writer": "UgxnI2uoqDFkqGTlrsZ4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우 말문 트려나 보내 의사표현도 잘하고 와우넘귀며워",
+        "writer": "UgxmTDR0Zk3CtWvt3bZ4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우 엄마 찾는 목소리 심장이 녹아내린다 내려 어쩜 저리 사랑스러울까 , 많이 안놀랬어야하는데 , 너무 이쁜 천사같은 진우",
+        "writer": "Ugx4-dpdD4KOdM1WyKh4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어마 우리 건우 말도 잘하네 , 상남자 목소리좀 봐",
+        "writer": "UgxWiXfbCLLVn6t9mWR4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안나는 (반사회적용어)랑 몇년을 한국에서 살면서 한국어를 못하나 안하는 건가 그리고 안나와 함께라는 자기 우튭에서도 한국 음식 만드는 것도 보지 못했다 이걸 뭐라고 표현 해야 하나 한국에 대한 애정이 없는 것 같아서 참 얄밉다 대화도 늘 영어 아님 자국어로만 하는 것 말도 안 된다 아이들은 이쁘지만 안나는 별로다",
+        "writer": "UgwMflRp2baAO_Djv3F4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 아이들 안나오면 안볼듲, 빠진곳 없이 완벽한 아이들",
+        "writer": "UgzZBznUQbgB_2pVOEN4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연우의 의연하고 지혜롭게 동생을 배려하고 사랑마음 누구와도 비교할수 없는 우애가 돋보이며 높이 사고싶은 사랑스러운 가족들입니다. 못보면 정말 가슴이 허전한 느낌이 들거예요. 어쩌면 좋을까요 방법을찾아주세요. 기다릴 거예요.",
+        "writer": "Ugxri35X98aNniWSL8d4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사랑해 얘들아",
+        "writer": "UgxHmo4llaBJ-to4jM14AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참, 장문으로 정성스럽게 근거없는 비난을 적어두시네요, 안나 한국말 잘해요, 첫방송때 각자 자국어로 아이들과 대화하면서 언어교육한다고 말했을텐데요, 외국인이다보니 아무래도 한국어는 어색한 부분이 있을테니까요. 그리고 안나 유튜브 제목만 보신분같은데 한국음식 잘만 만들어 먹던데요, 아삭이고추무침이니 라볶이니 잘만 만들어 먹던데,",
+        "writer": "UgwMflRp2baAO_Djv3F4AaABAg.9LtOc-YIClR9LtafXpVabW",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그리고 한국에 대한 애정 어쩌고 하시는데 애정이 없음 (이름) 선수랑 결혼을 했겠어요 (이름) 선수 한국인인데 애들 한국어도 부부가 잘 가르치고, 참고로 안나 유튜브 아시니깐 시간되시면 보세요. 안나 어머니도 한글 연습하시던데요 가족이 알콩달콩 오손도손 사는게 이쁘기만 하구만 별게 다 얄밉네요. 한국에서 애들 잘 키우면서 알뜰살뜰 열심히 사는 애기엄마한테 적당히 하세요. 시어머니도 아니면서, 쯧",
+        "writer": "UgwMflRp2baAO_Djv3F4AaABAg.9LtOc-YIClR9LtbDM_hdeu",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그런사람은 영어 잘쓰시나 별걸 다 시비거시네",
+        "writer": "UgwMflRp2baAO_Djv3F4AaABAg.9LtOc-YIClR9LtkOHOuAjo",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 응 잘해",
+        "writer": "UgwMflRp2baAO_Djv3F4AaABAg.9LtOc-YIClR9Ltm1Wy3AJ4",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개인적인 견해에 넘 개의치 마세요들 애기낳고 키우고 주호씨는 거의 훈(비속어)고아마 배울틈이 모자랐겠죠",
+        "writer": "UgwMflRp2baAO_Djv3F4AaABAg.9LtOc-YIClR9Ltx-I_0-r0",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 (반사회적용어) 냄새가 여까지 나네 (반사회적용어) 잘 끼세요 (비속어)(비속어)씨",
+        "writer": "UgwMflRp2baAO_Djv3F4AaABAg.9LtOc-YIClR9LtxVDlN70y",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안나씨 한국말을 너무 잘하고 글도 잘쓰고 6개국 언어를 하는 천재인데요 잘 알지도 못하면서 ,그리고 애들이랑 영어로 대화를 하는것은 영어를 배워주기 때문입니다 유투브할때 한국에서 만 보는것도 아니고 세계 각국에서 다 봅니다",
+        "writer": "UgwMflRp2baAO_Djv3F4AaABAg.9LtOc-YIClR9LvMswF0_Hu",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "명옥씨 쉰내나요",
+        "writer": "UgwMflRp2baAO_Djv3F4AaABAg.9LtOc-YIClR9LvhUOBVcle",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 한국말 잘하고. 한국 요리도 잘해요 슈돌과 유튜브에서 떡국 된장찌개 파전 등등 요리하는 모습 보여줬어요. 제대로 알지도 못하면서 비난하는건 옳지 않네요",
+        "writer": "UgwMflRp2baAO_Djv3F4AaABAg.9LtOc-YIClR9Lwczaq0-qi",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래서 애들이 한국말을 못하나요 보기싫으면 안보면되지 왜보면서 트집이야 내가볼땐 안나씨한테 배울점도 많고 남편하고 떨어져 살아도 애들 잘키우고 똑똑하고 예쁘기만 하고만",
+        "writer": "UgwMflRp2baAO_Djv3F4AaABAg.9LtOc-YIClR9Lx2_hp2Vxu",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 내가 너희들과 같은 생각을 해야 하나 왜들 대변인 처럼 난리니 사람들은 제각각 보는 관점이 다를 수 있는 (혐오표현) (비속어)하기는 (비속어)들은 여기서도 티를 내는 게 속일 수가 없다",
+        "writer": "UgwMflRp2baAO_Djv3F4AaABAg.9LtOc-YIClR9Lx5rdnfx8E",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댁도 참 시비걸고 사니 마음이 좀 편안하시는가",
+        "writer": "UgwMflRp2baAO_Djv3F4AaABAg.9LtOc-YIClR9LySd_QPLPw",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "싫으면 안보면 된다는뜻",
+        "writer": "UgwMflRp2baAO_Djv3F4AaABAg.9LtOc-YIClR9LypNtXZG-H",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "임명옥 여기서 대(비속어) 왜 나오지 그럼 그쪽은 (이름) 보고 (이름) (이름) 하면서 울던 그 부류신가",
+        "writer": "UgwMflRp2baAO_Djv3F4AaABAg.9LtOc-YIClR9M6O9Mmk8he",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "거기에 윌리엄 벤(반사회적용어)까지 안 나오면 완전 손절",
+        "writer": "UgzZBznUQbgB_2pVOEN4AaABAg.9Lrhvs0lWlE9M4G82mg4EU",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 동감,",
+        "writer": "UgzZBznUQbgB_2pVOEN4AaABAg.9Lrhvs0lWlE9M4_UnzyOXo",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 촛불(비속어)들 안보고 싶다",
+        "writer": "UgzZBznUQbgB_2pVOEN4AaABAg.9Lrhvs0lWlE9MHFeIgweHy",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐지, 방 잘 못 찾았수",
+        "writer": "Ugxri35X98aNniWSL8d4AaABAg.9LrdhGG7MI-9LrhozImCAQ",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)초 넘웃겨",
+        "writer": "Ugxri35X98aNniWSL8d4AaABAg.9LrdhGG7MI-9LtwQVopQbo",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 진짜 딴 데서 써먹어야지",
+        "writer": "Ugxri35X98aNniWSL8d4AaABAg.9LrdhGG7MI-9M6O-VlOiR0",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우야예전 건후형땀에많이웃엇는데요즘은 진우땀에건강하게잘커",
+        "writer": "UgzF3O82LmoahoMYMXh4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 요정 진우 말 왜 이리 빨라 그나저나 건나진 최애 광희삼촌 자다 울겠네",
+        "writer": "Ugw61W_Q4ke8Ed95ENh4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후 똑똑해",
+        "writer": "UgwRG4fY0dJGhBrhLzl4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후 공부한 실력이 나오네 진우는 외로워 하네",
+        "writer": "UgzuhhkZeU_HHoh_Oil4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우는 똑똑하고 성심이 착해 (반사회적용어)하니까 Dog하고 누나가 four하니까 five 하는 진우 정말 영리해",
+        "writer": "UgxQWK6hwANw5JhAlrJ4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번주벤(반사회적용어)없음 실화냐",
+        "writer": "UgyJPQJC8xboKLuHeal4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아가들 귀여워 죽겠으",
+        "writer": "UgysnLUv3m9SlJHII6J4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=IV4iaAEeYps",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

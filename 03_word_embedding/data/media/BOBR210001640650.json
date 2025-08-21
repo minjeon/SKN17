@@ -1,0 +1,404 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001640650",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001640650"
+    },
+    "text": [
+      {
+        "content": "더러운 게 이 영화 (이름) 좋아하는 인간들 (비속어)인듯 헉 드럽구 무섭당",
+        "writer": "Ugzn5vZ9IvCS7MFIond4AaABAg",
+        "write_date": "2021-07-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)꾼 (반사회적용어)",
+        "writer": "Ugz_P4J7KcygxPru1K94AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)(비속어)들 (비속어)네",
+        "writer": "UgxAHryvU1Crj_N52jl4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 뭐냐",
+        "writer": "UgwXyZmIql7isxIs5lJ4AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거썸내일 다른유튜버꺼 배낀거임",
+        "writer": "UgyvxaCyHxCuz8XI28d4AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런천재(비속어)가 mcu에서 히어로해야되는데",
+        "writer": "UgyIBw0sRBL9y-dKorR4AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 다른 유튜버와 비슷하네요,",
+        "writer": "UgwBkf-SCqdByNFXGOJ4AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크세르크세스 형님 나오시네",
+        "writer": "UgzA5R4Ji_-_lgn17aF4AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "필립 모리스라 해서 담배 회사 사장인 줄 알았네",
+        "writer": "Ugw2xfVqAn_PatGRkYh4AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리나(반사회적용어) 예전 처럼 (반사회적용어)꾼 창출 많이했으면,",
+        "writer": "Ugwwr19ZXy9DPQeBj5l4AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이완 맥그리거 와",
+        "writer": "Ugw_YkjTF62U_FMhaRR4AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 실화 바탕 영화 아니었나",
+        "writer": "Ugx4j0yxD0KT8A3or5J4AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막 말이 제이 좋네요.",
+        "writer": "UgyGfDJvrpuWlHfZOOZ4AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (비속어) (비속어) 조차 싫어하는 (비속어)교 (비속어)교 탈출은 지능순",
+        "writer": "UgyHbmXyeJrUH1AJPrl4AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "교훈 좋네욤",
+        "writer": "UgzhFZsy7y7bPCyn7i54AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "덕분에 잘봤습니다 어제같은 오늘이었는데 오늘같은 내일이 왔으면 하는 하루였네요",
+        "writer": "Ugy8lqjq99c96d0Nj4N4AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자유대(이름) 수호하는 (반사회적용어) 응원합니다",
+        "writer": "UgwL6NC1UWgOCHnFT6t4AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "구글이 던져주는 먹이같은 광고료 받아먹으며 사는 피동적 (반사회적용어)의 삶 그만하시고 이전 영상 발언 해명하시고 님 논리대로 더러운 유튜브 접고 산업전선에 귀의하셔서 정직하고 정의로운 돈 버시죠 입만 열면 (비속어)인 내로남불 (비속어) (이름)",
+        "writer": "UgxqQwkIPm72f7vVH914AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "구독박습니다 (비속어) (반사회적용어)(비속어)들 (비속어)기하고 좌표찍는거 보소",
+        "writer": "UgxmRlq9Va6yiQLRLAl4AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃지님 채널 번창하시길 바랍니다",
+        "writer": "Ugz7tmuT5mmNaqW0Yrx4AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우물안 깨구리 샠퀴 똑바로 살아 10 발(비속어)",
+        "writer": "UgzR7JN1VAOo98azf-94AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)범죄율 1위 (비속어)을 해라 이샠끼야 공부 좀 더해라 찌질아",
+        "writer": "UgyqcUB_e-lqIHktuZ94AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영화리뷰중 바른 심성과 가진 훌륭한 태도가 맘에 듭니다 최고..",
+        "writer": "UgwFmrQ6nZsVUQkgLgN4AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저번영상 웃지 핍박받는 대(이름) 기독교계 분열을 조장하는 세력들과 맞서야. 도대체 어떤 핍박을 받는지 설명을 해주시죠. 코로나(반사회적용어)로 인해 사람들이 이동을 자제한다는 것은 정부의 권고가 있기때문이 아니고 국민들 생각이 그렇기 때문입니다. 여기에 협조 안하는 세력중 하나가 교회이고 여기에 대한 제제가 핍박 이다. 라고 추측되는 발언을 하셨는데 이것은 대다수 국민의 생각과는 반댓방향에 있는 주장입니다. 의도와 상관없이 분열 조장이 되고있습니다. 그런데 당신은 또 분열을 조장하는 세력과 맞서야 한다고 했습니다. 성급한 일반화로 교회에 대한 시각이 안좋아지는 것은 문제가 있죠 제가 다니는 교회는 이미 4월부터 비대면으로 예배했거든요. 이런곳들에 대한 안좋은 시각을 말하는 거였으면 매우 신중하지 못한 태도라고 생각했을텐데 사용하셨던 단어를 보니 뉴라이트 주장에 더 많은 지(반사회적용어) 보내시는 분 같습니다. 그런데 영화리뷰 채널에 그딴소리를 왜 하셨죠",
+        "writer": "Ugx0kRRVPDkWLfxqITd4AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이완맥그리거 (비속어) 저런(이름) 짐캐리는 원래 알지만 여성분은 17어게인에나온 배우네 이뽀",
+        "writer": "Ugw71hSd2B5Q5jQ4bkt4AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좌표 찍고 그냥 행패나 부리는 애들 일일이 신경쓰지 마시고 계속 애써 주세요. 걔네는 원래 정상적인 대화가 안되는 패거리라 괜한 협(이름) 위협 해대도 실제로는 별 영향 없어요 구독자도 원래 아닌 애들이라.",
+        "writer": "UgwJDxDXWNQQrmRQJTR4AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "짭새 날다",
+        "writer": "UgzKE16S0NPg9dyit7Z4AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃지님 (비속어)들 댓글 부대 몰려와서 양념치는거 신경쓰지 마세요 (이름)가 방송에 마오로 이름짓자는 한마디 했다고 모택동 비하라고 (이름) 욕하는 (비속어)들이 댓글 15만개 가까이 달렸거든요 그정도로 (비속어)들이 우르르 몰려다니면서 댓글로 테러합니다 애초에 구독도 안하던 것들이 댓글테러한거라서 구독자도 거의 안빠졌을겁니다 편하게 자유롭게 그전처럼 리뷰하세요 아예 정치색 들어간 영화도 자유롭게 제작되는 마당에 자신의 견해 한마디 했다고 이러는건 진심 (반사회적용어)이나 (반사회적용어)과 마찬가지인 행동인거죠 (비속어)들은 지들이 욕하는 미국의 사이트인 유툽에 아이디 만들지 못하도록 막아버렸으면 하네요 영화 리뷰영상 댓글란 보고 빡치기는 처음이네요",
+        "writer": "Ugz4m8MO2jfCtbVLIVh4AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게 실화라는게 더 충격적 재미임",
+        "writer": "UgyxlPnjhrU9sI8fRaF4AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자유대(이름) 유튜버",
+        "writer": "Ugw4s39YTuU-DOOhiLF4AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연기천재 짐캐리의 천재 연기라니..",
+        "writer": "Ugy1lVerjR3C_2xxs1d4AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) (비속어) 웃지뭐냐",
+        "writer": "UgwtkzDIWf0B3t8Tapt4AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바로 해외로 도망간다음 사람시켜서 조용히 데려오라고 했어야지",
+        "writer": "Ugwjm9FeAa087zJ6qC14AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "짐캐리네 바로봐얒",
+        "writer": "Ugyq05SVNM-SpH_OXVF4AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "글 나 길게 적었네 (비속어)짓하누",
+        "writer": "Ugx0kRRVPDkWLfxqITd4AaABAg.9DnoyrW6jzh9DtqhQmCgDv",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "상현이 그러게 뭣하러 장님 눈뜨게 해준다고 노력했는지",
+        "writer": "Ugx0kRRVPDkWLfxqITd4AaABAg.9DnoyrW6jzh9E0k5WmJ1SX",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내로남불 미쳤네 (비속어)를 길게도 써놨다",
+        "writer": "Ugx0kRRVPDkWLfxqITd4AaABAg.9DnoyrW6jzh9JhzC8m0C5S",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)범 1위가 한국이라고 이건대체 어디서 나온정보야 내가 알기론 이탈리아가 세계1위고 우리가 78쯤인걸로 아는데.",
+        "writer": "UgzVo9mthPYSkC2aKVh4AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재미있다 같이 있으면 좋겠다 같이 있으면 알려주세요",
+        "writer": "Ugx3nTGcvNieKubRlcN4AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "으악 썸넬 깜놀",
+        "writer": "Ugwnzqj_zVUvjbgUR7J4AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "5, .55도발 왜하냐고",
+        "writer": "UgzF330XrG8MYNm78wl4AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헤이트풀8 해주실 생각 있으신가요",
+        "writer": "UgwUF8uzvMc5wrmF_lF4AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "욕심이 클수록 (반사회적용어)도 잘 걸리죠",
+        "writer": "UgzKS-Bw3igl8DmGM4B4AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃지님 홧팅",
+        "writer": "Ugzzz8zW2NIRJkyriRd4AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우왕 이 영화 리뷰는 언제봐도 안질려 짜루짜루 진짜루",
+        "writer": "UgwR66p0ZXApakfjBZp4AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인구비율로 봤을때 (반사회적용어)이 1위 한국이 2위 입니다. 절도 사건같은경우엔 한국이 CCTV보급으로 인해 10위권밖으로 밀려남.",
+        "writer": "UgzVo9mthPYSkC2aKVh4AaABAg.9DhBrvl0jsn9DhCt16MfrH",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "jun eric 어느정보죠 제가 예전에 oecd 뭐어쩌구 하는곳에선 (이름)1먹고 우리가 78위로본것 같은데.",
+        "writer": "UgzVo9mthPYSkC2aKVh4AaABAg.9DhBrvl0jsn9DhDNTp5S9p",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "2013년 세계보건기구에서 발표된결과로는 한국이 1위가맞긴한데 솔직히 근데 이거 무의미한게, 각나라의 사법체계 기준이다른데 , 미국 일본같은국가는 돈빌린후 먹튀한것을 형사처리안하고 민사처리하는등, 솔직히 다른국가들끼리비교한다는자체가불가능함",
+        "writer": "UgzVo9mthPYSkC2aKVh4AaABAg.9DhBrvl0jsn9DiVVKchaKX",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)치 인구비율이라잖아. 단순 숫자가 아니라.",
+        "writer": "UgzVo9mthPYSkC2aKVh4AaABAg.9DhBrvl0jsn9Djbmdri5IE",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=8g1ICv-MhFo",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,916 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001690376",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001690376"
+    },
+    "text": [
+      {
+        "content": "로봇제조사가 애플인가 추우니 바로방전되네",
+        "writer": "UgwSDKV55mZPwQ7pNcd4AaABAg",
+        "write_date": "2021-08-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 뭘 기대한(혐오표현).",
+        "writer": "UgxDqbLwLLcjkFCkKYR4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딸 죽고 딸을 바탕으로 만들어진 로봇이랑 사는 걸줄 알았는데 딸이 로봇이었네",
+        "writer": "UgxjvVMj9ydiT5LhiVx4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제모 남작, 고양이 로봇 갖고싶네요 그나저나 자막은 왜이래여",
+        "writer": "UgyCJv2Y2yT8ziYrEup4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에바네 애바여 Eva .",
+        "writer": "UgwbRawZdTErnivurmV4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영화는 감동인데 자막이 너무 장난스러워요, 몰입이 자꾸 깨짐,",
+        "writer": "UgyyEgzDSrM6AgTdTtx4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그럼 형의 여친을, 그리고 그 여친은 전 남친을 못 잊어서 닮음 로봇을, 제목만 봐서는 막장인데 은근히 슬프네요",
+        "writer": "Ugz7oGmoNdyQfEtgxat4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 영화는 좀 (이름)듯, 메세지도 뭔지모르겟고",
+        "writer": "Ugyb2p1jC_AEeHnNbvZ4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "막장 구성이라는 극단적 희생으로 인간성과 가족의 의미를 알려주고 놓치지 말라는 감동의 영화.",
+        "writer": "UgylYDi7PqyHYbpsFsd4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제가 석천이형 좋아하는것 처럼 동방님은 취향이 미국꽂중년이구나 마지막에 알았네요. 편집 하느라 많이 힘드셨을듯 하네요 범죄장르 쉽지않은디",
+        "writer": "UgwyqpWCp84IZJeyfDV4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "라나가 최고 지니어스였네요",
+        "writer": "UgxIK9tkIZnStiFOuWh4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄마하고 동생만 불쌍",
+        "writer": "UgztPaB40ZMCW-70rRx4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자막이 너무 에바네여",
+        "writer": "UgwjXn3VwV1cHoqpMzt4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리도 언젠가 먼 훗날에 로봇들이랑 지낼날이 있겠저 고양이로봇 탐난다 갖고싶따.",
+        "writer": "UgxMc5SeR85e7rWz4vx4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)년 어디남자가 없어서 옛 연인의 남동생이랑 결혼을해 참 쿨한 나라다 영화니까 가능한(혐오표현)",
+        "writer": "UgwL8km9zNB3mRHTaHB4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이쁜 딸",
+        "writer": "UgzpnK9Z0y6dbiTX7GZ4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에바 가엽네요, 비록 로봇으로 살아가지만,본인은 인간인줄 알고 살다가 본인이 로봇이라는 사실에 충격받아서 엄마를 밀어버린거잖아요, 어쩌면 인간이 로봇보다 더 이기적인걸 보여주는 영화네요,",
+        "writer": "Ugz4YqN5Ch8IHw00JlN4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "만날 사람이 없어서 친동생을 만나냐, (비속어)냐",
+        "writer": "UgzBu-Clvk_zAbdTLfp4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 방전되도록 너무 힘들게하셨나봐융",
+        "writer": "UgwSDKV55mZPwQ7pNcd4AaABAg.9QBXNkuduoH9QCJv24y1ZM",
+        "write_date": "2021-08-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 안타까웠어요",
+        "writer": "UgxjvVMj9ydiT5LhiVx4AaABAg.99pfCpYWnke99qgh48rIvg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참치가 떠오르네요 헤헤",
+        "writer": "UgwbRawZdTErnivurmV4AaABAg.992EdusJk4S992JomPDXHm",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흑흑, 소녀 너무 가엽",
+        "writer": "Ugz7oGmoNdyQfEtgxat4AaABAg.98Qs7DEWA1_98RlQ6ryvRr",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대중성은 살짝 부족한 것 같아요",
+        "writer": "Ugyb2p1jC_AEeHnNbvZ4AaABAg.98HOJZ_uUX498IKHZG_vVL",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꽃중년 너무 멋져요그리고 좋게 봐주셔서 감사합니다",
+        "writer": "UgwyqpWCp84IZJeyfDV4AaABAg.97OXtbNngfF97OZ5j_2pmc",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞아요 천재보다 더 천재였어여",
+        "writer": "UgxIK9tkIZnStiFOuWh4AaABAg.970fsZAlRt3970oTGi0Obq",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고양이 입니다",
+        "writer": "UgzNTaw66Te9Z9F7qnB4AaABAg.96woxbaKfVj96wpHwRj5sY",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동네비디오방 네나중에알았어요,",
+        "writer": "UgzNTaw66Te9Z9F7qnB4AaABAg.96woxbaKfVj96wrUeln3_e",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고냥이 로봇 최고..",
+        "writer": "UgxMc5SeR85e7rWz4vx4AaABAg.96N_I5y14Zo96NdnFiwxKB",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 그렇죠",
+        "writer": "UgwL8km9zNB3mRHTaHB4AaABAg.95ynVOx4hqT95yv5HDd_Tn",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이렇게 예쁜데, 넘 불쌍하더라구요",
+        "writer": "UgzpnK9Z0y6dbiTX7GZ4AaABAg.95b_O0dYeTn95bd6ncmDwT",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에바도 엄마도 너무 불쌍하더라구요,",
+        "writer": "Ugz4YqN5Ch8IHw00JlN4AaABAg.95_4464EnL095_EA6u-0-2",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜요 .. 아무리 동네가 좁아도 그렇지",
+        "writer": "UgzBu-Clvk_zAbdTLfp4AaABAg.95ZX1xX08G-95ZXIC5_vxx",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동물도아니고 동생의 여친이 형의 전여친(이름). 서양은 상관없나 저런거",
+        "writer": "UgzHzwG-Mr9jYRp1t4Z4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "알렉스 배우 독일인이 왜 스페인어를 모국어처럼 하나 했더니 다문화가정이었군요.",
+        "writer": "UgzOT2JELQ1IkgM-csx4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남주 다니엘 브뢰힐 발음도 어렵네 이분 독일사람으로 나오는거만 봤는데 스페인어 잘해서 깜짝놀라 찾아보니 독일인아빠 스페인엄마가 있었어 거기다 플필에 fluent 독어 영어 포르투갈어 스페인어 불어 카탈루냐어 6개국어 가능자",
+        "writer": "UgzwrTACwdCMOuYp3wR4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제발 로봇이라고는 하지말라고 기도했는데",
+        "writer": "UgwwKrW2wUZYmsxGD7Z4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "로봇 진짠가요 그래픽 아니구",
+        "writer": "UgwT_Gvjopaqui7tywF4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)고 재밌네용",
+        "writer": "UgyLKp44ArWeBo1ESt94AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바램이 아닌 바람.",
+        "writer": "UgxiIPflcAE6XMmDOQl4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "번역수준 내가 할께여 봐여",
+        "writer": "UgwMr_SHRT1rTgNRXBt4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아, 뭔가, 짠하네요, 혹시 나중에 패밀리맨 리뷰 한번 해줄수 있을까요 요즘 감수성 터지네요",
+        "writer": "UgyM8yfX25jAKvF5Dr14AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "볼만 하네요",
+        "writer": "UgytwjcV_ZYLS2iQhIZ4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제가 영화를 진짜 잘 안봤나봐요. 다 (이름)고 잼나 보여요. 고양이 완전 (이름)네요",
+        "writer": "UgwNjMFVuohocPFdVIR4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 스릴 만점으로 잘 보고 갑니다. 정말 채널 송장 빠르십니다. 부러움을 가득 안고 가네요. 또 뵐게요.",
+        "writer": "UgxJAAU1kSH6OBJhAkZ4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "키스소리 (비속어), 찰지다",
+        "writer": "UgyjPx6bnQKYWtrAbVR4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오멘 인가요 비슷한 스토리 군요",
+        "writer": "UgwPpXBEkg3Qekgf1ot4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막의 선택은 냥냥이가 아니라 댕댕이였네요,",
+        "writer": "UgwgUfv2AvmxjDDu0Yd4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한번쯤 생각해 보게 되는 영화인것 같아요 저는 에(비속어)다 로봇에세 위로를 받는다는 그 대사가 와 닿았어요 언젠가는 정말 로봇에세 위로받는 날이 오겠죠 오늘도 멋진 리뷰 잘 보고 갑니다.",
+        "writer": "UgxonL0yiclQ7uAYkAl4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어어 로봇개 , 신기합니다 저 개가 스포겠네요",
+        "writer": "UgxeL1j2-V8mRhLlgfh4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남주가 로봇인 줄 알았네요 10년 전에 유학 간 게 아니고 사고로 죽고 그 인격을 고대로 로봇에 심고 잘 적용 됐는지 실험하려고 남주가 생전 활동하던 곳에 보낸 줄, (에바라는 소녀 굉장히 매력이 있네요 잘 봤습니다)",
+        "writer": "UgyKD1Rt-mwoLw5ILB94AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 그러고 보니 (이름) 될 분이셨넹..",
+        "writer": "UgzHzwG-Mr9jYRp1t4Z4AaABAg.95WGOPvGa1X95WZLYWhYWr",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저두요 순간 제가 잘못 들었나 했네요 이 세상에 남자가 저 둘뿐이고 여자가 저여자 뿐인건지,",
+        "writer": "UgzHzwG-Mr9jYRp1t4Z4AaABAg.95WGOPvGa1X95f8HqtIpoL",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마성의 여인인가봐요",
+        "writer": "UgzHzwG-Mr9jYRp1t4Z4AaABAg.95WGOPvGa1X95g-TynByJ9",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "6개 국어를 유창하게 한다네요 다 가진 남자,",
+        "writer": "UgzOT2JELQ1IkgM-csx4AaABAg.95SMuRaVV_x95T1tEhYiiB",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어), 다가진 남자네요",
+        "writer": "UgzwrTACwdCMOuYp3wR4AaABAg.95RjTs5sJTD95Ro6kY1SVc",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다니엘 브륄 에서 아이언맨과 캡틴사이를 이간질 시킨 장본인 헬무트 제모(지모)를 맡았던 배우죠. 올 여름에 마블 시네마틱 유니버스를 기반으로 한 드라마 에서도 같은 역할인 메인 빌런으로 출연합니다.",
+        "writer": "UgzwrTACwdCMOuYp3wR4AaABAg.95RjTs5sJTD967NrBDV_Jr",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딱 맞춰버리시다니,",
+        "writer": "UgwwKrW2wUZYmsxGD7Z4AaABAg.959-K8yotGX959aMb9L1Vd",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 진짜인 거 같던데요 움직이는 게 엉거주춤한 게 , 진짜 같,",
+        "writer": "UgwT_Gvjopaqui7tywF4AaABAg.957od_by3sS959_vnQD_HZ",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "D 헿헿 감사합니다 쏭2 님 스위스 영화가 독특한게 많더라고요",
+        "writer": "UgyLKp44ArWeBo1ESt94AaABAg.950KNz5CHu-959Z0V4AeIO",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크읔 표준말 너무 어려워요잉,",
+        "writer": "UgxiIPflcAE6XMmDOQl4AaABAg.9(반사회적용어)CFrObbl9(반사회적용어)WpBJIZh",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오오 패밀리맨. 후보에 넣어둘게요 D 감사합니다",
+        "writer": "UgyM8yfX25jAKvF5Dr14AaABAg.94uHeekVHAv94uxJ6QjNcq",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헿헿 감사합니다 )",
+        "writer": "UgytwjcV_ZYLS2iQhIZ4AaABAg.94tQpTVLXgO94ttKE5pfPG",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "D 감사합니다 고냥이는 사랑입니다",
+        "writer": "UgwNjMFVuohocPFdVIR4AaABAg.94sJ4MUAIc594sKDxpQ75n",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": ") 엄흐낭 감사합니당",
+        "writer": "UgxJAAU1kSH6OBJhAkZ4AaABAg.94pLw-26wkJ94prEsMH7BV",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고냥이 로봇 너무 이쁘죵 )",
+        "writer": "UgyVTZSk0dsiQF4Sn9x4AaABAg.94oZ5DeHzjJ94oZpwnwmWg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동네비디오방 아네",
+        "writer": "UgyVTZSk0dsiQF4Sn9x4AaABAg.94oZ5DeHzjJ94o_773X9qt",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이것은 선진국의 키스..",
+        "writer": "UgyjPx6bnQKYWtrAbVR4AaABAg.94oLco7qh_u94oOwt3VLcZ",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넹 모두다 너무 가엽더라고요",
+        "writer": "UgwyFQUy9DdofOanzMd4AaABAg.94nzOChIMnO94o94WbKbRL",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오멘하고는 좀 쿨럭",
+        "writer": "UgwPpXBEkg3Qekgf1ot4AaABAg.94nsbQhJqty94nw0mv8Lt8",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "A, 냥냥이 의문의 패배,",
+        "writer": "UgwgUfv2AvmxjDDu0Yd4AaABAg.94n0DnllFed94nT3jW4AK9",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언젠가 로봇도 사람처럼 감정을 공유하는 날이 올거라고 믿습니당 오늘도 감사합니다 매리님 )",
+        "writer": "UgxonL0yiclQ7uAYkAl4AaABAg.94m-FzjOINM94m4Kv7KsKm",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고양이 였습니다",
+        "writer": "UgxeL1j2-V8mRhLlgfh4AaABAg.94lwxB-kD8D94m46wWIMX6",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개라고해서, 응 순간 개도 나왔었나",
+        "writer": "UgxeL1j2-V8mRhLlgfh4AaABAg.94lwxB-kD8D94nNRXyv2w-",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동네비디오방 눈 밭위 검은색은 개 아닌가요 주인공이 건물안에는 데리고 온 건 고양이",
+        "writer": "UgxeL1j2-V8mRhLlgfh4AaABAg.94lwxB-kD8D94o1xTk3r_y",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "A 그건 개 맞을거 같습니다",
+        "writer": "UgxeL1j2-V8mRhLlgfh4AaABAg.94lwxB-kD8D94oq1nE_EWd",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남주 로봇 반전도 좋네여 흥미진진한데요..",
+        "writer": "UgyKD1Rt-mwoLw5ILB94AaABAg.94lnWRY8Kf994m42qLPe4b",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상을 통해 결말을 아는 데도 이 영화는 챙겨보고싶네요 _",
+        "writer": "Ugz-C61Ctf_nMKVfDOB4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런영화가 있었는지 몰랐는데 신선(이름)였네요",
+        "writer": "UgwwNssiZJ7RKUUQChp4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제목만 야릇하지() 영화내용은 상당히 흥미롭네여. 영화설명하는거 끝까지 보면서 찾아볼 영화목록에 넣습니다.",
+        "writer": "UgxFXo2joayv90c1jaJ4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에바 데리고 도망가서 살지",
+        "writer": "UgyEmZGUDlt3HJ_FuYF4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "라나가 불쌍해요",
+        "writer": "Ugw3dNpRqQVmwR0pJ6p4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "많은걸생각하게하는, 미래의인공지능로봇 사람의이기심 못다(이름),로봇고양이 예쁘네요.코로나조심하시구,잘보았어요.땡큐",
+        "writer": "UgyGBmRinM2L1ADK-dJ4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "곧 철권 알리사가",
+        "writer": "Ugx9rAynxMFR4tC_nMF4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "점심 맛있게 드시고, 스트레스가 아닌 즐겁고 행복한 유튜브생활하셔요",
+        "writer": "UgyU4GZFK34oQWbXGat4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남주 어벤져스 와해 잘 (반사회적용어)게 생겼네요",
+        "writer": "UgxHdKxkAMn14OCQb6d4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제목에 낚였지만 마지막에 울컥 했어요 엊그제 (이름) vr다큐 너를 만났다 보고 이거 보니 더 슬프네요 언제나 잘 보고 있습니다 (이름) 감기 조심하세요",
+        "writer": "UgxDYXlFe6erVrrqCg94AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "음 음음 감기조심하세요",
+        "writer": "Ugwbmw4hk0f6h5BGCfp4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기계적 해체가 아니라 스펠 같은 문장으로 보내는 점이 좋았네요, 마지막 해변가 영상이 예뻤어요. 영상 잘 보았어요.",
+        "writer": "UgwOKyx5mpJMekgeJi14AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제목으로 낚시하기 있나요 진짜 19금 살짝 의심하고 씬나게 클릭했건만, 전 연인의 친동생과 그렇고 그런 관계이고 동생도 형의 전 연인인걸 아는 상태라 이 세 사람간의 갈등때문에 위험한 관계인 줄 알았더니 결말은 되게 슬픈 반전이었군요 오늘도 좋은 리뷰 잘보고 갑니닷.... 동비님 코로나 조심하세요..",
+        "writer": "UgxIZt_wFv_Ea74kajp4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저만 그렇게 생각한거 아니군요 성인물 딸인줄 알았는데 반전이네요",
+        "writer": "Ugy2jYUhOvxpgm9vEUV4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예쁘고 사랑스러운 에바가 로봇(이름), 충격이네여 그렇죠 꿈이지만 행복하네요 잘들었습니다 감사합니다",
+        "writer": "UgwESPmNg86EazYcdWp4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "로봇이 점점 인간화가 되어가는거 같네요. 애바의 결말은 안타깝네요.",
+        "writer": "Ugy1TBh1oaus0QDHP7B4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 동방 입니다 제목이 뭔가 19금 같지만 SF드라마 장르 이니 안심하고 보셔도 됩니다. 고양이 로봇이 너무 예쁘더라고요. 내용과 상관없이 자주자주 넣었습니다 D 히핳",
+        "writer": "Ugx_VBBiO4SAe9oJ_EB4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "볼만하실겁니다 잔잔하더라고요",
+        "writer": "Ugz-C61Ctf_nMKVfDOB4AaABAg.94lVbgX9QeD94lWFjZSUsq",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "욜로님 알랴뷰",
+        "writer": "UgwwNssiZJ7RKUUQChp4AaABAg.94lERMp2BnM94lMagS42jf",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 제목에서는 의문이 가득했습니다.",
+        "writer": "UgxFXo2joayv90c1jaJ4AaABAg.94lDwnoVt0G94lM_auAPJi",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어흐엉 흥허",
+        "writer": "Ugw3dNpRqQVmwR0pJ6p4AaABAg.94lAOo_YWs494lMLxCGJgC",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 (이름) 그 중에서 특히 고냥이 로봇은 사랑입니다 봄님도 몸 조심하세요",
+        "writer": "UgyGBmRinM2L1ADK-dJ4AaABAg.94l6XNopcTO94lMKltlj_H",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안돼 내 감동을 깨트리지마욬",
+        "writer": "Ugx9rAynxMFR4tC_nMF4AaABAg.94l6Kk8xXu-94lMFp1qpJ7",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동네비디오방 알리사짜응 요로시쿠네. 신나 쿠다시이. (잘부탁 해요 이제 죽어 줘야 겠어요.) 위이잉",
+        "writer": "Ugx9rAynxMFR4tC_nMF4AaABAg.94l6Kk8xXu-94lPWJ32dXw",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흠흠, 저는 사실 데드 오어 얼라이브의 로즈마리 팬 입니다만,",
+        "writer": "Ugx9rAynxMFR4tC_nMF4AaABAg.94l6Kk8xXu-94q0oBVjqLi",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동네비디오방 꺄 doa 리뷰",
+        "writer": "Ugx9rAynxMFR4tC_nMF4AaABAg.94l6Kk8xXu-94qPbTqt-VT",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 ) 유튜브는 항상 행복이지융",
+        "writer": "UgyU4GZFK34oQWbXGat4AaABAg.94l2roMSi6g94lM2kYefr0",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그쵸 이번 킹스맨에서도 나온다고 하더라고요..",
+        "writer": "UgxHdKxkAMn14OCQb6d4AaABAg.94l0YpKyYrZ94l2Y5mYJis",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그거 보셨군요. 저도 엄마가 딸 만지려고 손짓 하는 부분에서 눈물이",
+        "writer": "UgxDYXlFe6erVrrqCg94AaABAg.94l03Diz-dB94l1raWMfgW",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 (이름)",
+        "writer": "Ugwbmw4hk0f6h5BGCfp4AaABAg.94kzy_FursL94l-b4ihuFP",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기계적인 해체는 생각해보니까 너무 무섭네요. 다시 보니까 주문 같은 정지 코드도 괜찮았던 것 같습니다. 또 다른 감상 시점 감사합니다 )",
+        "writer": "UgwOKyx5mpJMekgeJi14AaABAg.94kybdKifZM94l-Ymcf6VJ",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "함정카드 발동... 지야님도 코로나 도 감기도 조심하세요 소녀가 너무 예쁘더라고요 정지시킬때 저까지 맴찢",
+        "writer": "UgxIZt_wFv_Ea74kajp4AaABAg.94kw3Y0Pvag94kww8GsprV",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "A, 이것도 반(이름)면 반전이군요,",
+        "writer": "Ugy2jYUhOvxpgm9vEUV4AaABAg.94kug0HM7I294kuokEKXLL",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에바 너무 불쌍해요 흙흙, 감사합니다",
+        "writer": "UgwESPmNg86EazYcdWp4AaABAg.94ku02KiPSv94kusWLE-M5",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동네비디오방 그렇게 말입니다 흑",
+        "writer": "UgwESPmNg86EazYcdWp4AaABAg.94ku02KiPSv94l-Ioha0Ls",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흙흙, 또 출근해야하는 저도 불쌍",
+        "writer": "UgwESPmNg86EazYcdWp4AaABAg.94ku02KiPSv94l0EGCMuNS",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "로봇이 인간미가 더 넘치더라고요 감사합니다",
+        "writer": "Ugy1TBh1oaus0QDHP7B4AaABAg.94ktvvLd_1g94kuuWvqgdE",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=1Mc1lyeyrTs",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

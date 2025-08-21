@@ -1,0 +1,660 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001657580",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001657580"
+    },
+    "text": [
+      {
+        "content": "(이름) 넘 예쁘",
+        "writer": "UgzX9vq5KaJ9QW_i67J4AaABAg",
+        "write_date": "2021-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 조사 오러 온게아니라 그냥 먹으러 온거 같은데",
+        "writer": "UgxD0-zc7TGDGTVeYZF4AaABAg",
+        "write_date": "2021-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 옆에서 방송하는 (반사회적용어) (이름) 자먹고 방송잘하는구만 급 배고프네",
+        "writer": "Ugzvr1feH_jYPDJNJcN4AaABAg",
+        "write_date": "2021-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기 어딘지 아시는 분",
+        "writer": "UgzEl1D83pzqtvN4imZ4AaABAg",
+        "write_date": "2021-11-17",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아무리 연예인이어도 뷔페음식 가져올땐 마스크껴야지, 하,",
+        "writer": "Ugwe7aqy-HB29OC5nqd4AaABAg",
+        "write_date": "2021-11-14",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "먹는 모습이 너무 예뻐",
+        "writer": "UgxCSYgYzegEY44uZmV4AaABAg",
+        "write_date": "2021-11-13",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밥먹을때 좀 편안하게 먹게해주지, 다먹고나서 사인을 받던지 인사를 하던지 하자 먹는데 흐름끊기면 진짜, 짜쯩나",
+        "writer": "UgwWlG8xTxqYgTIN1514AaABAg",
+        "write_date": "2021-11-12",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "티비 나오면 채널 돌리는1인이네 (이름) (이름) 양세형 3명 티비에 안보이는게 소원이다",
+        "writer": "UgwUMM9c4ehCQHYnSFJ4AaABAg",
+        "write_date": "2021-11-12",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마스크도 안하고 비닐장갑도 안끼고 연예인 특권인가",
+        "writer": "Ugy_gby1LfoKePlxmK94AaABAg",
+        "write_date": "2021-11-11",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스테이크는 소스 없는게 제일 맛있음 그냥 소금에 찍어먹는게 제일 맛있음 반박시 고기알못",
+        "writer": "UgymUybbhp7EPQiDMHB4AaABAg",
+        "write_date": "2021-11-11",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "먹방의성지 뷔페 (이름) 살찔라 작작먹어라",
+        "writer": "Ugzg4Vze-3LW6ELKnLd4AaABAg",
+        "write_date": "2021-11-09",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 뷔페는 어딘가요 아시는분 가고 싶어요.",
+        "writer": "Ugz2qqmV4aTgen0m3QN4AaABAg",
+        "write_date": "2021-11-07",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요즘 연예인들과 정치인이 민간인을 상대로 블루투스기능을 활용해서 청와대굿처럼 무당놀이한다던데 미국기계대여해서 뇌로 소통하는 방식으로 근데 문제는 죽인다고협박하고 정신(비속어)만들거라고하고 소리뿐만아니라 영상처럼느껴지게 까지하면서 면도질도하고 병도깨서 목도찌르고 별(혐오표현)같은소릴한다던데 8개월간 계속되고있다던데 진짜가아니길 보이스피핑치곤 무섭다 잠만간신히 자며버틴다던데.",
+        "writer": "UgwJDTXcRaqPzB4SXrR4AaABAg",
+        "write_date": "2021-11-06",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)가 전성기때 삼겹살 30인분먹은 분인데",
+        "writer": "Ugxx79yMDXdi5X-8rft4AaABAg",
+        "write_date": "2021-11-05",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몸생각하시고 건강하세요,",
+        "writer": "UgzJ8FIAGRdQU18hdPh4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보기 실으니까 끄지삼",
+        "writer": "UgwDoyXZH4wvFI9Dlcl4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 왜 첨부터 계속,",
+        "writer": "UgxN2hZ8sCJfPyh-60l4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "편집해서 저(이름)듯",
+        "writer": "UgwWlG8xTxqYgTIN1514AaABAg.9UaEUlxqmPF9UgmSRXy1Ge",
+        "write_date": "2021-11-14",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어) 유튜버들한테 또 또 속았구나 (이름)는 (이름) 응호토론회 참석안했다고 (반사회적용어)들이 까는거임 알고지끌어 영상도있다",
+        "writer": "UgwUMM9c4ehCQHYnSFJ4AaABAg.9U_zMg6P7zl9UdvMQJAMpg",
+        "write_date": "2021-11-13",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "돌아다닐 시간이 어딨어요 역시 영자님",
+        "writer": "UgyzEjpMKlSc08EHIL14AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이(이름) 실제로 보면 나도 모르게 반갑게 인사하게 될거 같애요",
+        "writer": "UgwRQOsyY3SarEHMU6J4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "팬서비스 너무 후해",
+        "writer": "UgwYbcugBIyoBG9tg0R4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 넘넘 부럽다",
+        "writer": "UgxfCq9NesaqHUz1Tx94AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 때문에 구독 눌렸지요",
+        "writer": "Ugwaayzk-YCW0AOWHwp4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밥도 편히 못먹네 아이고야",
+        "writer": "UgyteYzg8BGlixJNp1J4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "채끝등심짜파게티 인가 스테이크떡볶이 인가",
+        "writer": "Ugw-OeoAawTkihdZCWZ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건강하게 맛있게드세요",
+        "writer": "Ugxq-pYlVpdt9xEQilJ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마스크를 안썼네 예전 영상인가",
+        "writer": "Ugy_qtKVkgj_9jweO954AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영자님은 대식가 아님미식가 입니다",
+        "writer": "UgwK9IP0O7nSPjxnNYt4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영자언니이젠 아픈 눈물은 그만. 기쁨의 눈물만 흐르기를",
+        "writer": "UgzhxgNz0PhQze18imt4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 일본에선 슈퍼가면 3백엔안가도 헐 맛나는데 뷔페가서 먹어 .",
+        "writer": "UgysOACv48MGO8Egl0J4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "파이썬 맛있겠다.",
+        "writer": "UgzJLb4ykSKZoRw6a9N4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸넬은 완전 (이름) 판박이네",
+        "writer": "UgwUbe6VzBuRUlLClhh4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "50대노처녀의 먹방잘봣슴니다 그냥무식해보이는건 아니다 돼지도행복해보일순잇네",
+        "writer": "UgzklMddSwdB0eUzwW94AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무슨 떡복이 국물에 쇠고기를 찍어 먹냐 먹을줄 모르네 소기기는 그냥 소금에 찍어 먹어야지",
+        "writer": "Ugz9C8idnDWDQsjOyNZ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아무리 연예인이라고해도 밥먹고있는데 뻔질나게 오네 밥먹는데 개도 안건드린다는데 개민폐야 증말",
+        "writer": "UgyhfAIMyxagybs6YCt4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)는 계속 머라머라만하네 아무리친하게생각해도그렇지 방송인데 계속 불편한말만하고있어, 맛있게먹는사람한테 좋단다가 뭐야,",
+        "writer": "UgwOB91aKboR-x78Jst4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영자님은 (비속어)는 입모양이 너무 이쁘질않아요 카메라 잡으실때 (비속어)는 입모양은 줄여 주세요",
+        "writer": "UgxIsquYI0lWhF1UY4h4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금 새벽4시, 배고프다",
+        "writer": "UgyCLE3N_1rN2co1NuJ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뷔페 진짜 건강엔 최악인듯 위 췌장에 악영향이 직격탄.. 뷔페 끊은지 오래 됐음.",
+        "writer": "UgyeY7-9b_MRsp4EoLd4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저긴 코로나도 없나요, 보느내내 불편하네요, 방역수칙은 어디갔죠,일반자영업자들은 그럼게 쪼아대면서 방송촬영할땐 일반 시민들도 마스크 안쓰고 다니네요, 저거 방역수칙위반아닌가요,",
+        "writer": "UgwLmyRFOQi34k3yrGh4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이렇게 잘먹고 많이 드시는데 뭐하러 지방흡입 때문에 힘드셨는지, 많이 드셔요 건강하게 (이름)하고 덩치도 같아서 즐겨봅니다 팬입니다",
+        "writer": "UgwKUz-ObFu5ZD0CiYt4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비싼돈들여서 그곳에 가면 모둔분들이 저음식을 모두 먹을수 있어야 하는것은 아닌지 이것은 아닌것 같네요. 한국은 좀 이렇게 해야 하는지.코로나로 인해서 사람들은 먹는것이 최고의즐거움으로 가는것 같네요",
+        "writer": "UgzrxOd05XFdExuFsLJ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "게장안좋아하는데 이거보니까 먹고싶네요",
+        "writer": "UgwfoxMd2M6B_42FiGZ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "믿고보는 영자님",
+        "writer": "UgzuMIhgZNrFzXkguIZ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안나왔으면 좋겠다 먹교수같은 소리하네",
+        "writer": "Ugzs_R6Chj4PrC7GZx14AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "편집때문일까 자연스레 한 테이블에 앉히는 저 (이름) 뭐죠",
+        "writer": "Ugzxau6RhZYyhlaQe2N4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마스크 안쓰나 근데 대체 일반인들 아니지 (비속어)이지 저런게. 애들 앞세워서 괜히 옆에 오는거.",
+        "writer": "Ugz2Rks9b7T8QjN0cn54AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그만좀 쳐먹어라,",
+        "writer": "UgxDnmzWKkvsm6oy2lx4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쳤다 욕심",
+        "writer": "Ugw13CysYpnCq0nn2St4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기 어디에요",
+        "writer": "UgydII039o2IYWiCfOh4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나만 밥맛 떨어지는건가",
+        "writer": "Ugz0mCOEQWG7Tsa2KYt4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "음식담을때 마스크 안쓴모습은 보기 안좋아요, 방송할수록 더욱 방역수칙 준수바랍니다",
+        "writer": "UgyVDji6H6XFdG7WmYl4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 뷔페는 돌아다닐때 마스크도 안써",
+        "writer": "UgzFHHHD-UWYaHStWBl4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "옆에 있는 저 가족들은 좀 빠져줄래 계속 낄려하노 (비속어)인가",
+        "writer": "UgzjqiXKvu6uWOkTnhl4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언제나 보기만 해도 즐거운 영좌씽",
+        "writer": "UgzhU7M2rM2bf_uaqjd4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜요 뷔페 다니려고 하는데요 말입니다.",
+        "writer": "UgyeY7-9b_MRsp4EoLd4AaABAg.9Sy2efQT4vN9TIlNA2LLPj",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자유개미 아무래도 과식 폭식을 하게되니 소화력도 떨어지고 그 과정에서 췌장에 굉장히 안좋다네요 저 뷔페 엄청 좋아라 했던 일인인데 꼭 뷔페 때문만은 아니겠지만 췌장염이 와서 과식은 절대 안한답니다 확실히 건강은 건강할때 지켜야 하는게 맞아요 적당히 드시고 즐기신다면 꼭 뷔페가 무조건 나쁘다곤 못하겠지요 그게 조절이 잘 안되니,",
+        "writer": "UgyeY7-9b_MRsp4EoLd4AaABAg.9Sy2efQT4vN9TRY2_uWCAL",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "20년도 3월 방송입니다",
+        "writer": "UgwLmyRFOQi34k3yrGh4AaABAg.9SvQKEVxtZw9T1XeObMvqs",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Elena 저때도 코로나때문에 서로 조심할때예요, 작년 설연휴때도 코로나 때문에 집에도 안갔어요,",
+        "writer": "UgwLmyRFOQi34k3yrGh4AaABAg.9SvQKEVxtZw9T3Rk9q_omp",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "희꼼 촬영은 훨씬전 아닐까요",
+        "writer": "UgwLmyRFOQi34k3yrGh4AaABAg.9SvQKEVxtZw9THWG1ECk0G",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)먹는모습 나는싫음 입맛떨어져서 60계치킨도안먹음 나만그런거아니넹",
+        "writer": "Ugz0mCOEQWG7Tsa2KYt4AaABAg.9SQtLb-WVSt9SRx2SU7OfD",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저정도 마스크 안쓰는 수준이면 요즘 아니지 않을까요",
+        "writer": "UgyVDji6H6XFdG7WmYl4AaABAg.9SQI_GeCzGL9SQbdS22iJw",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "설마 코로나에 대놓고 저러는데가 어딨어",
+        "writer": "UgzFHHHD-UWYaHStWBl4AaABAg.9SN5GIlo-0a9T5YbasjzG1",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영자님이 종칠때 먼저 손잡고 끌고 나가시고 말도 먼저 거시는데",
+        "writer": "UgzjqiXKvu6uWOkTnhl4AaABAg.9SN59XR6wz89SQbOVb7jrC",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세상에는 너무맛나는게많아 아 살살 미워",
+        "writer": "Ugz1BSAn5fChpxme7-14AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한때는 살빼고 난리법석을 떨더니 도로 확 쩌버렸네 역시 (이름) 다워",
+        "writer": "UgwEGGCxjOFzctTSIVt4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리동네 더 아리엘이네 정말 맛있는 뷔페",
+        "writer": "UgwDXO1HWyB-cBumi8B4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 글을 보신 분들은 앞으로 모든 일이 잘 풀리고 행운이 다가옵니다",
+        "writer": "UgyWGyBuuPVb9GQHxJR4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맛있겠다 맛있겠다 말들하는 사람아 당신들은 다 거짓말쟁이야 사람이 맛있는 음식 좋아하는 음식을 진정 즐기면 당연지사 (이름)의 스타일이 진실이지",
+        "writer": "Ugx36VbmyLsotTNghHV4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 우리 영자언니",
+        "writer": "Ugy4FVFAcBdOilSDFwN4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언제꺼징 마스크를 안쓰고 댕기네 일반 식당도 먹기전까지는 쓰는데",
+        "writer": "UgzTEp2oAvmoK7xQPPF4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "편하게 먹게 좀 해주지,",
+        "writer": "Ugzi0SANfnKDKS5mMRV4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목동에 더 아리엘 이라는 뷔페입니다",
+        "writer": "UgxpBzC5GyD0-RXf7sh4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "코로나 전인가",
+        "writer": "Ugz1CJVitGUP5AKwwmd4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보고만 있어도 배부르는 역쉬",
+        "writer": "UgwbogzY7DaqIuStT5t4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연예인들은 뷔페도 편하게 못가겠네 밥먹는데 자꾸와 개민폐",
+        "writer": "UgyoFuM2KQdPrUbM9A94AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "63빌딩 뷔페인가 스프 그냥저냥 맛인데 무슨",
+        "writer": "UgysD036pOfm3jFyJ5d4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사해요 .",
+        "writer": "UgxpBzC5GyD0-RXf7sh4AaABAg.9S6n1A8m67G9SJrdipmstQ",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "손님들 다 마스크낀걸보니 수도권 코로나 최고점인 최근인듯",
+        "writer": "Ugz1CJVitGUP5AKwwmd4AaABAg.9S6bc6UVsch9SKX5Q0qqvB",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "월클방탄 작년 3월 20일 방송이예요 그럼 부페 간거는 작년 3월초나 2월인듯요",
+        "writer": "Ugz1CJVitGUP5AKwwmd4AaABAg.9S6bc6UVsch9SNWEUyv2y5",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=wCyTB98Ej74",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

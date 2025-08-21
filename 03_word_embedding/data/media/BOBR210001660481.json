@@ -1,0 +1,732 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001660481",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001660481"
+    },
+    "text": [
+      {
+        "content": "벤틀월리암 아이스하키사진 올려줬음시원할텐데",
+        "writer": "Ugyuov_u_r2Phd-lljt4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 벤 놀이터에서 흙 만지고 맨손으로 밥먹넹 아구",
+        "writer": "UgwHfdTLyU1izHB3ndZ4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤 윌리엄형 말전달 잘해야지 밥에 정신팔려서",
+        "writer": "UgxCPIPEkcQeL53NQe54AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니예요 ,밴(반사회적용어)거나와있는거예요,",
+        "writer": "UgxwkHrC4R817YFYlXV4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "드라마 감동",
+        "writer": "UgzcIpDxEDUWVfCet6R4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌리엄샘아빠도애들하고 몸짖하며말하는모습멎저요 윌리엄귀엽고예뻐라. 벤(반사회적용어) 말하는모습귀엽고예뻐죽겠 내요.아빠(이름) 아유귀여워라",
+        "writer": "Ugy6xIHuJoZJ_gBZgQx4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "씽씽이 탈때 (비속어)야 체력도 조아요 잘도 뛰어다니고 아오 이뻐라",
+        "writer": "UgzCn3c83EQfPcn49QB4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "매세지 잘 전하네 또 가나 밴 밴",
+        "writer": "Ugy1Vkqg9lELKrKg-Op4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤의 큰그림 넘 이뽀 울 벤",
+        "writer": "UgxL24I_gWrvziPkobF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤토리 말투 어눌한거 너무 귀엽다",
+        "writer": "UgyeobgK9X1nsKyCXpp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "거짓말 잘하는 목(반사회적용어)",
+        "writer": "UgwXkf7UDnbZin2Snx94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난키보드못타는데 벤(반사회적용어) 는엄청잘타네",
+        "writer": "UgymTQjwfqp-IDwLe8N4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밥이라고 해 왜 웃겨요 외국인 나 몰라요",
+        "writer": "UgzdrFpuSlFbbctFDhJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사랑의 수호천사 벤(반사회적용어)",
+        "writer": "Ugx_yFJwSJkhCTk72m94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "킥보드 말하는건가 혹시,",
+        "writer": "UgymTQjwfqp-IDwLe8N4AaABAg.9CqhMNgRCSA9EObRRzVRD0",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어) 역쉬 천재",
+        "writer": "Ugz2GHE22PFlC5-Q8el4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하루에 한번이(반사회적용어) 벤(반사회적용어) 영상 안 보면 우울해진다",
+        "writer": "UgyWaScqgrenRz_32DB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤틀이 기뜩하네",
+        "writer": "UgzQ8XXd5f4bZ3U6Z4F4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤 똘똘이 아휴 귀욤",
+        "writer": "Ugx4O77PAfhucT8rWch4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뒤돌아가는 저 궁뎅이 아이고 못살아 이뽀 죽겠네",
+        "writer": "UgxPWvsYdVp-wCcYcdl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무나 귀여운 Ben . Ben 나의 사랑 .",
+        "writer": "UgzK54J4MdeUcLMGAy94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아빠 같이 살아 형 아빠 신이 나",
+        "writer": "UgysBdrbw1ebxJmO7F94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어) 기역도 잘하네 귀엽고 너무 예뻐",
+        "writer": "Ugw9RxThKXQS0sIS7UF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요노무 (비속어)들 오늘 또 할매를 웃게 하는구나 윌 벤 슈돌에서 쵝오 너희둘은 내가 보고 또 보고",
+        "writer": "UgwuKhYomHDg2FoenLZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "계속 보고 익숙해지니까 서양아가들이 아니라 서양인 닮은 한국아가들이라고 확신하게됨한국어 너무 잘하다보니",
+        "writer": "Ugx1Ct5idQ4ReFt7KCB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "메롱하는 것도 넘 귀여운 벤",
+        "writer": "UgzQp9HxthewAH9BXPN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어)너무너무귀여워라 윌리엄은아빠없어도신이 난다내. 윌리엄아직화가 안풀렷나봐요 두아가들귀엽고예뻐요",
+        "writer": "UgzhCXdm-ZycmPuj4PB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아가 똑쟁이네",
+        "writer": "UgwcKsKtzrjSoU8gd5B4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤토리 입 밑에 붙어있는 밥풀도 귀엽다",
+        "writer": "UgyI2mC6qX0AsW-IUhR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어찌 그리이쁘니 사랑스러운 둘 사랑해",
+        "writer": "UgxeCmaSS3A1AqWg1dd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "허겁지겁 먹는거봐, 귀어워 쥬금,",
+        "writer": "UgyOtEmz7rMcr7LCd994AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤 너무 똑똑해 아빠를 위해 뒷말은 생략 메롱 이 아빠 아니지롱 그러는것같어",
+        "writer": "Ugy_TNMUo51ikuHsXxd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쌤의 그거 밥이라고 해 가끔씩 깨알 유머하는게 빛나요",
+        "writer": "UgwT-Nf6VfYIxE6yfC14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 메롱 완전 귀여워 벤",
+        "writer": "UgwFqZU9L8n3pLJCQhR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤신저 스토리 넘 재밌당 벤 말문트이고 진짜 너무 기여워",
+        "writer": "UgzW7aWbj9pq4EO8u214AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤 말할때마다 (반사회적용어)리 붙는거 너무 잘어울린자 진짜 (반사회적용어)리같앵",
+        "writer": "Ugw_mC8yCmEXcXWqvJx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "똑똑한벤(반사회적용어) 잘키워라요",
+        "writer": "Ugw5dIH6m4IXwiozsdt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 왜케 구엽고 난리",
+        "writer": "Ugy77B1xVjubv_jb9kN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤 완벽했어 아웅 귀요미",
+        "writer": "Ugx_SzxiEgtpKdtJo994AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌벤 은 아무리 봐도 귀엽고 또재미 있어요",
+        "writer": "UgyHthpvUE7WDt89EW14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 슈돌 몇화에요",
+        "writer": "UgwOXtnMGHN4aOaI6oZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "봐도봐도 싫증나지 않은 귀요미 벤틀,",
+        "writer": "UgyL0YTkSEg_IBjfcyV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하트 편지 주려고 먼저 간다고 한거야 벤토리 왜이렇게 착해 우리 아가누나가 사랑해",
+        "writer": "UgyjRZ9YS-rjJm_XyQd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 귀여워 으앙",
+        "writer": "Ugy0HJwkacg1DTt94Px4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아빠 말하랭",
+        "writer": "Ugz5ErryYLKHtdVB-Cx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌벤 한번 보고 싶어요",
+        "writer": "Ugx2g4JRvhLtMnEkbch4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이가족 완전 시트콤이다 넘 너무 귀엽고 사랑스러워요",
+        "writer": "UgzpqIqH2mCYSPIkMvp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "착한 울 천사 아기",
+        "writer": "Ugz2wolY8zWianU70RB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어쩜 저리 귀엽게 말할까귀여움 가득해요",
+        "writer": "UgyN3Dw_iWSMdz14zLB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀여운벤 말하는것도 넘넘 이뻐미춰",
+        "writer": "Ugw_Qs1CcVSNlCCcecJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "날도더운데 벤 이제 기저귀떼도 되잖아요 말도 잘하는데",
+        "writer": "Ugzl0GdKUkr9TdFxq1d4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "메롱 (뭘 메롱이야.) 헣. 이거 (비속어)(비속어)맄",
+        "writer": "UgxJ3H_8jGnpmUH9DRV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤 너무너무 예뻐못살아너무 재밌어",
+        "writer": "Ugycj_DSa56nc8kuklR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아빠는 안오고 너먄먄냐 아(비속어) 마야예",
+        "writer": "UgxG8NzmIVYtXaTXU2d4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어쩜 저렇게도 귀엽고 사랑스럽게 노는지요 이젠말도 잘하고요",
+        "writer": "Ugxh(반사회적용어)EmRV0LdZi4fuN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사랑의 메신저, 벤토리",
+        "writer": "UgwcosGyO1EE1nuJV_Z4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "짱 귀요미",
+        "writer": "UgwJCPksOlY9pHcgTAR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 아빠 (이름) 벤 참 잘했어요",
+        "writer": "Ugx8SAqlgFIg3KaSKwV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이고 많이컷네 싱싱도잘따고 ILOVE벤토리",
+        "writer": "UgymL1iEEWfN739RuoN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "메롱 넘귀여워 벤토리",
+        "writer": "UgwjAYPxASnRwfHPOxB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "말 왜케 잘해",
+        "writer": "Ugw1PYkeS2swuoafhER4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어) 커가는 모습 보는 게 하루하루 기쁨인데 빨리 커버릴까봐 겁나.",
+        "writer": "UgxcW6X5SejEy3Iqb9Z4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "The m(비속어)age Ben said is the opposite but the situation gets better, good job",
+        "writer": "UgzMJ5tgpivI_6oLPC54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부터 쭉 개기엽다",
+        "writer": "UgzfgAUZKKrt1UjvmGZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그거 밥이라고 해",
+        "writer": "UgzAJy0p71UTsAnUzUJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아가 벤 먼 길 힘들게 갔다 와서 (이름) 밥 많이 먹어도 돼",
+        "writer": "Ugw97gsTpO-7aj9BEbh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤토리 너무 귀여",
+        "writer": "UgxxvcZh0z5MZXn9KYl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 불편한 댓글 안 써도 되잖아요. 말도 잘하고 어른인데",
+        "writer": "Ugzl0GdKUkr9TdFxq1d4AaABAg.98zdIZWlI3N99euf2LZXH2",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인정 헣 하는거 잔짜 꿀귀",
+        "writer": "UgxJ3H_8jGnpmUH9DRV4AaABAg.98zX6jkXT3l99MGua0O1gC",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헣 하는게 꿀 포인트...",
+        "writer": "UgxJ3H_8jGnpmUH9DRV4AaABAg.98zX6jkXT3l9A6E7eu1mBZ",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어)에게 집중해있다가 갑자기 쌤님한테 빵터짐이요",
+        "writer": "UgzAJy0p71UTsAnUzUJ4AaABAg.98xDhfcbAZF99iEe5Uhdxx",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤트리 최고로 귀요미 사차원 짱구",
+        "writer": "UgyoI2dGFv9Zmped6EJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밴 손도 안씻고 먹네",
+        "writer": "UgwFIyBFK0HFp1pOuB54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세상에 울벤은 말을너무이쁘게해 이뻐이뻐 벤톨아사랑해",
+        "writer": "UgxYHYsCR4w7ZsIYU-l4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 상큼발랄 이쁜 토리야.",
+        "writer": "UgwFdy8icQuIQ0bA0Np4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤 의도한(혐오표현) 중간생략 좋은 말만 이어 전달 아빠랑 형 화해(반사회적용어)려구 벤 넘넘 똑쟁이야",
+        "writer": "Ugz4-QfCd1N4frFJiUR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "최고의메신저당 ...",
+        "writer": "Ugw6IMzkcZbfV-XvHfF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤이 아빠상처받을까봐 생략한거 같은데알려줘 이런거도 망설이다 말했고둘이 사이 좋게하려구 이쁜 벤",
+        "writer": "UgxDxHupE2VKBn--jtB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "먹기위해 태어난 벤",
+        "writer": "Ugz33V_a8VwIiEZlkUp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쌤과 윌리엄은 성격이 똑같아 관계에 민감하고 영향많이 받음 벤토리가 중재역할 많이 할듯 쿨한 성격이지만 막내 애교도 있고 사랑이 많아 에구 이뻐라",
+        "writer": "Ugwc9d0opzOxrPSP2Y94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 킬링파트 기여워 지구 뿌셔",
+        "writer": "Ugyv_BYCbmqKkedWu094AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형도 하는거 너무귀엽다 아가 사랑스러미쳐",
+        "writer": "UgxGjw3Td6QdlRJnf_V4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)아들과딸 편집돼서 손 씻는 장면이 안 나왔을 수도 있어요",
+        "writer": "UgwFIyBFK0HFp1pOuB54AaABAg.98vbAoZUOLf98wflt6ZpWe",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "섭섭한 메시지는 가운데서 생략 망설이는거 보면 알고 하는거 같기도 하고, 말해줘 하트있는 청첩장 꼭 챙겨가는것 와우 똑띠 똑띠 벤",
+        "writer": "UgxDxHupE2VKBn--jtB4AaABAg.98tx1_TLKRb98uOyO9dOol",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞아여 울벤이 울마나 똑똑하게 중재를 잘 하는지 넘 감동예요.",
+        "writer": "UgxDxHupE2VKBn--jtB4AaABAg.98tx1_TLKRb98uXOzCRzVC",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다시보니 부정적인표현만 생략하고 긍정적인 내용만 전달했누",
+        "writer": "UgxDxHupE2VKBn--jtB4AaABAg.98tx1_TLKRb9BCN3jhu80H",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "완전 동감 가운데서 잘 중재할듯 이미 더 꼬꼬마시절에도 녕의 동심을 유지해주려는 샘아빠 보조역할 충실히 해냄",
+        "writer": "Ugwc9d0opzOxrPSP2Y94AaABAg.98tlKS_jnKB98uOjFNjFgY",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤 안테어났으면 아빠하고 윌하고 자주부딫치는거 정리해줄사람 없었겠어요 이번에보니 벤 정말대단해요 어른도 이렇게못할거같아요 너무사랑해 벤벤벤",
+        "writer": "Ugwc9d0opzOxrPSP2Y94AaABAg.98tlKS_jnKB98worcOWjI9",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "홍익 인간 그러게요. 처음엔 녕아 가출( )에 동의해서 나갔지만 너무 추워서 녕 보고 집에 가자더니 두번째 녕아 가출( )에 동참 안하겠다고 오히려 녕 가지말라고 막다니, 쪼꼬미가 대단히 판단도 빠르고 현명해요. 어른인 저보다 나을 때가 있어서 놀랐어요.",
+        "writer": "Ugwc9d0opzOxrPSP2Y94AaABAg.98tlKS_jnKB98x0CApolmW",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "The best messenger is Bessenger 다 이쁘게 돼",
+        "writer": "UgyDVCP8Iib3LSoMU4J4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=DX5LzPjNcvI",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

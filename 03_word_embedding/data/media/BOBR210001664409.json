@@ -1,0 +1,908 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001664409",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001664409"
+    },
+    "text": [
+      {
+        "content": "양(이름) 가족 꿀이 줄줄 흐르네요 보기 너무 좋아요",
+        "writer": "UgwnPGZKqibqLIUAPEN4AaABAg",
+        "write_date": "2021-11-17",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안존 아 의지니 너무 사랑스럽따 저런 아들 있으면 매일 너무 감동먹어서 심장 아풀거같아 하",
+        "writer": "UgxkFEc4K8dvwlKJPhd4AaABAg",
+        "write_date": "2021-11-16",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의진이 의연이 너무 예쁘고 사랑스러워요 어쩜 둘 다 착해",
+        "writer": "UgwN-xGpB7__gtZbHaN4AaABAg",
+        "write_date": "2021-11-14",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의연이 누구닮앗데요",
+        "writer": "UgwSOKgZAGYWVY0RBdZ4AaABAg",
+        "write_date": "2021-11-13",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은부부 의진 의연남매 사랑스럽고 너무 예뻐요 항상 건강하고 행복만 가득하기를 양지은 가족 응원합니다",
+        "writer": "UgxDZRtY_HW5wpxu1ip4AaABAg",
+        "write_date": "2021-11-10",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의진 의연 순수(이름) 너무귀요미",
+        "writer": "UgwWioAlPeu0AKeHNrN4AaABAg",
+        "write_date": "2021-11-08",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의진이 의연이 넘 이뿌다 건강하고 착하게 자라렴",
+        "writer": "Ugw8pTizg7kCvnx-c9R4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 너무 귀여워요",
+        "writer": "Ugw2OhftgNiC3p7wDR14AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아빠진짜 귀여워 요 이뿌게 사세요",
+        "writer": "Ugwa7xyVQMXgJ5b3ZwJ4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제발 그만 나와주세요 딸 너무너무",
+        "writer": "UgwCFJwJQdLY9vTYZ2N4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 화장하는 사람에서 벗어나려고 초코렛 사탕공세중 아닌가",
+        "writer": "Ugy9XH7wchiS2CCfaAd4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네식구가 평화(생존전략포함 )를 위한 전략가들이야 대단해요 양지은 천사제주댁가족들",
+        "writer": "UgzbOxuRlzh9u9iakOB4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은부부 의진 의연남매 사랑스럽고 너무 예뻐요 항상 건강하고 행복만 가득하기를 바랍니다",
+        "writer": "Ugxz-KJYXTLK4YlSrSZ4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남편 얼굴 잘 생겼지만 목소리 완전 쥑이네",
+        "writer": "UgzCTvxGfwCPWgaRFbp4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이들이 너무 귀여워요",
+        "writer": "UgyK2ftzkhOiVgZ14xF4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 가족들 늘 행복하시길 기원 하면서 슈돌 프로에 계속출연 하시길 기원합니다",
+        "writer": "UgyF4xN6L6t-CGpVM294AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아빠코는 왜 커요 넘 귀욤 양지은 부군님 넘 잘생기심 가족모두 응원해용",
+        "writer": "Ugx4EOf5Kp-HxhC9RYl4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예쁘고 행복해보이니 부럽지요",
+        "writer": "UgwCFJwJQdLY9vTYZ2N4AaABAg.9U7P9Hv-S6S9U7o5MUbeCJ",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 아이들이 사랑스러워요 건강하게 잘 자라길 기도합니다",
+        "writer": "UgwfOsnaTUGjJBG-pfx4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 행복한가정이네요 남편분이 너무 잘하시네요",
+        "writer": "UgwILuqq2d9KUyvrdwt4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 이쁘지은 양지은 깜찍하지은 양지은 착하지은 양지은 귀엽지은 양지은 효녀지은 양지은 천사지은 양지은 예의 바르지은 양지은 노래 잘하지은 양지은 사랑스럽지은 양지은 아름답지은",
+        "writer": "UgwbhqwxyA3JITNoloF4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "달콤한거 안먹언",
+        "writer": "Ugzq5Ga9N7dhTNQN04h4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애기들이 넘 예쁘고 사랑스럽네요 양(이름) 노래도 잘하고 남편도 애들도 다복하네요 늘 그렇게 행복하세요",
+        "writer": "Ugyxko2PDeLIwdWncld4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애기 제주도 사투리 쓰는거 너무 웃기다",
+        "writer": "UgyNJiphlQ9suj5G9wt4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남편분 이쁜 엄친아 고딩2학년 같아요 동안동안",
+        "writer": "Ugw6e0a1aYX7G6eb2Fp4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양(이름) 아이들 넘귀엽고 사랑스러워요 (이름)도 착하고 순수해보여 보기좋네요 화이팅하세요.",
+        "writer": "Ugwjhyi1TIur_iHWkrN4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의진이 죨귀탱 급하니 사투리 귀여워요 매주보고싶지은",
+        "writer": "UgwsX7fv-KyL-UNzbqV4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 가족모두 행복하세요 의진의연 남매이뻐요 양지은 슈퍼맘이 돌아왔다 응원합니다",
+        "writer": "Ugz1oPPMFocuBD4LkJB4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애들이 똑똑하다 아빠 완전동안",
+        "writer": "Ugx0RLYo-QKqd7g-sLN4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 가족들 넘 재미있어서 또보고 또보고 합니다 완전 기분이 업 되어요",
+        "writer": "UgzhC_-A4zjdc15uIlF4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양(이름)가족 응원합니다",
+        "writer": "Ugxq_jr-thQqKZLrO7V4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 가족 응원합니다. 의진이 의연이 귀여워요",
+        "writer": "Ugy35M061fDV3qxexPV4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안존 귀요미",
+        "writer": "UgwxUDbkPXuWcvUqNdJ4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "슈퍼맘 양지은 귀여운 의진 의연 남매 양지은 가족 슈돌에서 다시 보고 싶어요",
+        "writer": "UgxU-ACptS9yp-xisbB4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의진 의연 남매 귀여워요 사랑해요 양지은 가족 forever,",
+        "writer": "Ugx-2thSc0YAD_79RQR4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 복귀환영 양지은 사랑합니다",
+        "writer": "UgzZ9D5WL_BLEc9Nbd94AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아가들 밝은모습 귀욤귀욤",
+        "writer": "UgzrY3Fi77xTOjuu_x14AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "슈퍼맨이 돌아왔다. (이름) 가족들 계속 계속 보고싶은데 지난 주에는 출연 안했네요 이제 끝난건가요",
+        "writer": "UgxKwnTjWruq3VHgFPt4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 가족을 보면 기분이 넘 업 됩니다 웃음이 절로 나와요 늘 건행 하시옵소서",
+        "writer": "UgwBIM9wWNFaVaDalHt4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의연이 진짜 귀여워최고야",
+        "writer": "Ugz5R1HiesKGhfInCUl4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몇번을 봐도 입가에 미소가, 사랑스런가족 축복합니다.",
+        "writer": "UgzcAQsckvGo6UfTsh14AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의연 이는 할아버지생각에는 선녀 (이름)는없고 오빠 해딩하는거보니 격투기선수 하면 도겟다",
+        "writer": "Ugwv8uEsp-OIjy8kbYF4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀염둥이 아기들 양지은 가족 응원 합니다.",
+        "writer": "UgwOgsr9QNdtClQnfHx4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 귀엽다 보고또보고해요",
+        "writer": "Ugz1cIOU6McVTWNp-dt4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 예쁜 가정 예쁜 아이들 응원합니다",
+        "writer": "UgxyVeSmE1DdV-PAkJF4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이구 귀여운 의연 의진. (이름) 가족 응원합니다",
+        "writer": "UgwCjQ5kh-0y66LdsfF4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 아이들 너무 귀여워요 가족 모두 (이름)래 행복하세요",
+        "writer": "UgzU-vU1ozrZEjSJ2H94AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀여운 의진이, 안존 한마디로 평정하네. 애들이 정말 이쁘네요.",
+        "writer": "UgwePyGd2QSsb3kK4fZ4AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무나 행복한 사랑스런 가정입니다 의진이 의연이 잘 키우는 트롯 여왕 양지은 만능 탤런트네요",
+        "writer": "UgwBc0seirx-8VmAHkV4AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부모의 모습이 아이들의 미래라 하듯 아이들도 배우나 봅니다 지은 엄마 지켜주고 낳아주셔서 감사하단 의진 , 짱",
+        "writer": "UgymDzOreL03wnIEP454AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모조리 착하고 에쁜 가족들 소꼽놀이 왤케 기엽워 두 남매 뽈따구 꼬집고 싶어 아쿠 잉 어케",
+        "writer": "Ugw4oA1qwYM87AnimrR4AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제주사투리 의진이",
+        "writer": "UgxOYbw3VCfxco7uZ4h4AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안존 외할머니 친구분들 한테 배웠을 확률 99",
+        "writer": "UgzNFG5OtVFrLsPiBRt4AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 착하고 귀여운 의진. 의연 엄마아빠의 바른인성을 배워서 아이들도 참 올바르게 자랐네요 가족들 모두 건강하고 행복게 잘 살아가길 바랍니다.",
+        "writer": "UgxYU5Lp4i10cwtt5h14AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은가족들보면 젊 은분들이결혼하고싶겠어요 보기좋네요",
+        "writer": "Ugxd1jrap0Uqa0itFxV4AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선한영향력의 천사 양지은 엄마를닮아 두 귀염둥이들도 착하고 사랑스럽고 이는 엄마의 빈자리를 자상한아(비속어) 육아담당을 해주기 때문이기도 하지요 가족모두 건강하세요",
+        "writer": "UgwTBdbICOIUj-_QhvJ4AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저요저는 젊진 않지만 이 가족을 보고 결혼 기하고 싶단 생각 했습니다",
+        "writer": "Ugxd1jrap0Uqa0itFxV4AaABAg.9Tc6JD8mxmL9TgUYkh60a7",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 가족 슈돌에 계속 출연 하기를 기원합니다",
+        "writer": "UgzkMojFQpCeznWd_8h4AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 슈퍼맘 가족들이 행북하고 건강하세요 응원합니다",
+        "writer": "UgyZciGgG_oq9Fxdfn94AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 슈맘에서 의진이랑 의연이랑 한번더보고싶으면 실례일까요 너무너무 보고싶어요",
+        "writer": "UgzMxbYXXtrxjKyuqMt4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 님 사랑스런 가족들 응원합니다 의진 의연 남매는 엄마 아빠의 정성과 큰 사랑으로 잘성장할것입니다",
+        "writer": "Ugzi46bPsaWwuT45bBF4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 가족 매주 보게 해주세요",
+        "writer": "Ugz_JvFC-lUgi-e3rtl4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사랑하는 애기들이랑 너무 행복해보여요 남편의 따스함과 애들의 애교까지 너무 사랑스런가족 언제나 행복하길 바래요",
+        "writer": "UgxGTCIfyl-mDuOwWXt4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 님이 남매는 엄마 아빠의 사랑으로 쑥쑥 잘성장할 수 있을것 같아 마음이 흐뭇해집니다",
+        "writer": "UgyVdRRdcLl9A5VCwc94AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의진 의연에게 푹 빠져 산답니다",
+        "writer": "UgwMThsPIROdl6KxK6t4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 슈돌 정말 오래간만에 즐겁게 봤어요. 의진 의연 너무 귀엽고 사랑스러워요. 계속 출연하면 좋겠어요",
+        "writer": "UgxYSn29Y_iyIdQk3cB4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "달콤한거 않먹었어 의진이 의연이 엄마를 지키는 마음이 어린아인데도 어쩌면 저렇게 사랑이 깊을까요.. 뒷담아 하는 어른들 좀 배워야 되겠습니다. 사랑스런 의진 의연 아빠 엄마 지키는 마음 쭉 변지마세요",
+        "writer": "Ugz7ebwz7QAMEG9KkuB4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은가족 행복하게사는 모습 너무 보기좋네요 똑똑한 의진이 귀여운 의연이 너무사랑스럽네요 늘행복하세요",
+        "writer": "UgzAazy3W81wlsFsXT14AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 슈퍼맘이돌아왔다 양지은 가족들응원합니다 양지은",
+        "writer": "UgxCqq_c07rOM3TrKpd4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 님 아가들 의진이 의연이 엄마를 지켜주는 모습이 넘 이쁨니다",
+        "writer": "UgyrmU1SnYNDzzlZseV4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제주도 아가니까 당연히 사투리가 나오는건데 (이름) 당황하시네요. 넘 귀여워요 사투리 쓰는 의진이.",
+        "writer": "UgzY27KFudiQJl_iVxh4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 의진이는 엄마 닮아서 (이름)가 너무 착하고 의연이는 너무너무 야무지고정말 예쁘다 너희들..",
+        "writer": "UgypxS0du_JiN8xbYsF4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 님 가족들 항상 행복하시고 남매들이 건강하게 잘 자라길 바랍니다",
+        "writer": "UgyTtIbfsa7yy43OtVF4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 님 리틀 의진의연 사랑스러워요 요즘 양지은 님 가족분들덕에 즐겁네요",
+        "writer": "UgxNS1TeEPEAc2Kp8FJ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "달콤한거 절대로 안먹은 의진 달콤한거 먹은 기억이 없는 의연 달콤한거 안준 엄마 양지은 (이름) 부군 의진 의연 너무 행복해 보입니다.",
+        "writer": "Ugw_P6ihQGrDyd0s50d4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 다시 계속 보고싶지요 애기들이 너무 귀여워서 다시 나오면 좋을텐데",
+        "writer": "UgzMxbYXXtrxjKyuqMt4AaABAg.9TasgaJDrKO9Td4R1tAebA",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 달달 가족 행복한 가정 타의 귀감이 되는 사랑스러운 가족입니다. 보면 볼수록 볼매. 스윗 가이 남편 귀엽고 사랑스러운 의진 의연 계속 보고 싶어 고정출연 기대합니다.",
+        "writer": "UgzIS-Jc5AadBdpLi0t4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안 존...",
+        "writer": "Ugw10b-KsMH9MTxdarB4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지은 님 화목한 가정 넘 보기 좋아요",
+        "writer": "UgzZE78Luiv6YpgpMN54AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 가족분들 건강하셔요 행복하셔요 의진 의연아 무럭무럭 잘 자라나렴",
+        "writer": "UgwbPf5LoSzcg74lg2d4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 님 의진 의연이가 아빠도 좋아하지만 엄마를 무척이나 소중하게 여기네요 참 예쁘고 귀엽고 사랑스러워요",
+        "writer": "UgwvvEN7m2cxL_vjelx4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애기들 너무 순진하고 귀여워요 의진이 안존 너무 웃겨요 의연이는 몰라 몰라",
+        "writer": "UgyJpmduwQCulyLMlix4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 슈돌 항상응원하고 사랑합니다 의진이 의연이 너무귀엽고 사랑스러워요 항상건강하고 가족과함께 행복하세요",
+        "writer": "Ugzn9vYbcLYk9paaaf14AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 사랑스런 의진 의연 행복한가정 보기좋네요 응원합니다",
+        "writer": "Ugw6Dhw9dgG9DcU-zKl4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의진 의연 진짜 귀엽네요 (이름)도 (이름)오시니 더 활기가 넘치는 행복한 가정 아름다워요 더 많이 많이 행복하시길 바라고 슈돌에서 또 귀하고 아름다운가정에 모습 많이 봤음 좋겠어요 이 영상 올려주신 유툽님께서 감사합니다",
+        "writer": "UgzVJhUllWXwnQ3iBvp4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의진 안존 안존 쪼꼬 쪼꼬 의연이 몰라 양지은 화이팅입니다",
+        "writer": "UgzhWpqyDzyc3V0Vv6F4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의진이 의연이 사탕 비밀 사랑둥이들 의리 짱이네요 행복한 가정 양지은 가족 응원합니다 슈돌 볼수록 재미있어요 화이팅",
+        "writer": "Ugzmz2JL4Xj-AxB8WAR4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 님 가족 응원합니다",
+        "writer": "Ugws519dbEHi5zrSkpB4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "슈돌 안보다 양(이름) 나온다고 해서 보기 시작했는데 재밌어요 고정 하셨으면좋겠네요",
+        "writer": "UgyLsT5LWGABurVRFc14AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리양(이름)최고 최고 늘꽃길만 걸으세요",
+        "writer": "UgwOBqGUl9bIfaPl8tx4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 가족의 단란하고 행복이 충만한 동행을 응원합니다.",
+        "writer": "Ugz1WFSujDUNEyKmBZN4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "슈퍼맘 양지은 무한 응원합니다",
+        "writer": "UgzDzIsG7SPsrfw3v6h4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의진 의연 양지은 엄마 사랑하는 마음 대단하내요 가족모두 응원합니다",
+        "writer": "Ugxm2jvExP4esROvHlZ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보기에 (이름) 있는 이 넘치는 모습에 너무 좋습니다",
+        "writer": "Ugx45G7dmdXWdJdn_854AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의진이 멋지다 양지은 가족 응원합니다",
+        "writer": "UgzKHt_x11CXZ5QimJx4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양(이름) 두남매가 넘귀여워요. 양지은가족이 건강하고 행복했으면 좋겠습니다.",
+        "writer": "UgyJpmduwQCulyLMlix4AaABAg.9TTE0wBs4tW9UEzXB-wB-s",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "올우리 의진이 의연이 의리 있네.. 엄마 약속 지켜줬어 귀여웡",
+        "writer": "Ugw3Xkor2LO9qHHfstN4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안존 안 줬다는 말인거죠 의진이 의연이 시치미떼는 모습 너무 귀엽네요. 의진이 의연이 계속 보고 싶다.",
+        "writer": "UgxA5SaKM-8Qo8JLtvp4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 의의남매와 아빠 너무 사랑스럽네요양지은 가족 화이팅",
+        "writer": "UgzLVYrMEpnbvQnWbBZ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의연이의 애교뿜뿜은 끝내주네 의진이의 의리도 진이다 애들아 최고야 행복한 가족의 모범이다",
+        "writer": "UgxNXfqKIMbgcQRZBfp4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 슈퍼맘이돌아왔다 의진 의연 엄마 아주 그냥 사탕 초코릿으로 끈끈하게 안존 의진아 사랑한다 지은이네 많이 응원합니다",
+        "writer": "UgwG67g9ZR03BNO0z_d4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 슈퍼맨이돌아왔다 양(이름)과 남편분과 아이들 너무 행복하고 따뜻한 가족",
+        "writer": "UgxDE2k-ogxGp2jZ0_R4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의진이 의리 짱이다 귀여워",
+        "writer": "Ugxr52UHALYqqtPu3e94AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 너무 행복한 가정 응원합니디",
+        "writer": "UgwmMG2WfdNxiXXRRaZ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의진이 귀엽다역시 여자애들은 약어 너무 귀엽고 사란스럽다",
+        "writer": "UgwnzP_rIn7hkwZsdxB4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이들 너무 사랑스럽다",
+        "writer": "UgzuBrMYXUw584FsKNh4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의진이 의연이 엄마 지켜줬어 예뻐요",
+        "writer": "Ugw3Xkor2LO9qHHfstN4AaABAg.9TRxLO4iWEe9TSjsFSMue0",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그러니까요 의진 의연 너무 귀여워 죽겠네요",
+        "writer": "Ugw3Xkor2LO9qHHfstN4AaABAg.9TRxLO4iWEe9UnDpxGrJ2E",
+        "write_date": "2021-11-17",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안줬다는말 맞아요제주도사투리가 어렵긴해요",
+        "writer": "UgxA5SaKM-8Qo8JLtvp4AaABAg.9TRp8LideLQ9TSb-sApvcE",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의진이 의연이 사탕 비밀 시치미 짱",
+        "writer": "UgxA5SaKM-8Qo8JLtvp4AaABAg.9TRp8LideLQ9TSjnIqhREd",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의진이 의연이 애교쟁이 의리 짱",
+        "writer": "UgxNXfqKIMbgcQRZBfp4AaABAg.9TRmEmA1RcR9TSjheNduIq",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양지은 사는맛 심을 다해 응원합니다.. 양지은 님 앞길에 축복이 가득하길..",
+        "writer": "UgxDE2k-ogxGp2jZ0_R4AaABAg.9TRk_gEZFoi9TS-jn0xNvx",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=9e8a_wpHSdo",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

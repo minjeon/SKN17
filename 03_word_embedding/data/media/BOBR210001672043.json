@@ -1,0 +1,940 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001672043",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001672043"
+    },
+    "text": [
+      {
+        "content": "이(비속어) 소원도 많네 꼭 그렇게 (반사회적용어)를 끌어야만 속이 시원했냐",
+        "writer": "UgzEqgkKTanVMguEcUB4AaABAg",
+        "write_date": "2021-11-16",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "궁금한게 왜 애가 헤인즈를 총으로 쐈을까요 이해가 안되네요, 그리고 (반사회적용어) 리더가 자신의 명령이 있기 전까지는 쏘지 말라고 했잖아요. 근데 왜 쏴요",
+        "writer": "Ugy724ryggF9CO8Jkp14AaABAg",
+        "write_date": "2021-11-12",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 잘 봤습니다.",
+        "writer": "UgwQJNAoDxfe-jc5NrV4AaABAg",
+        "write_date": "2021-11-11",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐 눈물 나는 쌍노 영화가 만노, 18",
+        "writer": "UgwOTCgxe5ps9bvGAyx4AaABAg",
+        "write_date": "2021-11-11",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 헤인즈랑 비슷한 어린 시절을 보냈어요 사생아로 태어나서 엄마는 저를 데리고 바람난 남자와 모텔에가서 몸을 팔고 돈을 받았어요 그리고 어찌저찌 아버지 밑에서 자랐는데 기초생활수급자에 편부모가정, 한 20년 전인데 그땐 놀림이나 (비속어)가 엄청났습니다 지금은 좀 나아졌으면 좋겠는데, 여튼 그렇게 저는 30살이 넘는 (이름)가 됐구요 아직도 헤인즈차럼 어린 시절의 아픔이 떠오를 때마다 혼자 울고 아파합니다 그럼에도 불구하고 모든게 다 잘되어가고 있다 생각하며 오늘도 살아가요 저는 이 아름다운 영화를 보고 위로를 받았습니다 제 꿈은 저처럼 어린 아이시절이 아픈 사람들에게 위로가 되는 도움이 되는 사람이 되는 것입니다",
+        "writer": "UgwA7DZ8KuxJzxIspDB4AaABAg",
+        "write_date": "2021-11-10",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "눈물이 그렁그렁",
+        "writer": "UgxcO-2xQGBWtuxIRgJ4AaABAg",
+        "write_date": "2021-11-10",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은영화 즐감하고 갑니다 감사합니다",
+        "writer": "Ugws9ItaT2c556eYB6x4AaABAg",
+        "write_date": "2021-11-09",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스포는 사랑이야 스포는 바로 선추 가슴아픈 여훈이 남는다.",
+        "writer": "UgyS3E-n30hVuuV4U_F4AaABAg",
+        "write_date": "2021-11-09",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "범죄자(비속어) 옹호하는 영화냐 죽여도 시원찮을판에 기분잣같네",
+        "writer": "UgxkNgaBLIMtOFrjnuZ4AaABAg",
+        "write_date": "2021-11-08",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무나 아름다운 명작소개 감사합니다.",
+        "writer": "Ugw6wfKISPnB69h9dhp4AaABAg",
+        "write_date": "2021-11-08",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이의 캐스퍼 복장이 왜 그렇게 슬퍼 보이던지,",
+        "writer": "UgwX80LF4_EmL_1M0sp4AaABAg",
+        "write_date": "2021-11-07",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 영화보고 펑펑 울었던 영화인데, 오모모 여기서 또 만나다니, 너무 뜻깊네요",
+        "writer": "Ugx4sSOk8-ivtJsuDZV4AaABAg",
+        "write_date": "2021-11-07",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감동적인 영화입니다",
+        "writer": "UgxSvKFoO-JweJ_oww94AaABAg",
+        "write_date": "2021-11-07",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 잊고 있었네 .",
+        "writer": "UgzvjXlL4T4Tmh9rOHR4AaABAg",
+        "write_date": "2021-11-06",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 이 영화 진짜 오랜만이네요 완전히 잊고 있다가 영상 보고 생각 났습니다 명작이죠 어린 마음에도 마지막에 맘 아팠었어요",
+        "writer": "UgwEkYi1yhQ3zV7jWgt4AaABAg",
+        "write_date": "2021-11-06",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보다보니 그옛날 서태지와 아이들때 스타콘서트인지 뭔지에서 양현석이 흉내낸 장면이네",
+        "writer": "UgzsCOke551IxU2Co1d4AaABAg",
+        "write_date": "2021-11-06",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 사람입니다",
+        "writer": "UgwQkBxlPPirLWD3IHJ4AaABAg",
+        "write_date": "2021-11-06",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감동적이고 아주 잘 받았답니다 감사합니다",
+        "writer": "Ugy-Mlrit6Mx_lZaMvh4AaABAg",
+        "write_date": "2021-11-06",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거20몇년전에 본거네 기억에남네요",
+        "writer": "Ugy8lOxD2Az0p3qQ7bx4AaABAg",
+        "write_date": "2021-11-05",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아주 어릴적 봤던 영화인데 까맣게 잊고 있었던 영화네요. 그때도 참 좋은 영화라고 생각은 했는데 클린트 이스트우드 감독의 영화는 감동이 있는듯. 화려하게 포장하려하지도 않고 있는 그대로 보여주면서도 감동을 줄수 있는 감독 몇안되는듯. 한국의 억지감동 영화들 손발이 오그라드는 영화만드는 감독들은 좀 배워야할듯",
+        "writer": "UgySOVtUZlT0k0iXrX14AaABAg",
+        "write_date": "2021-11-05",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초 아 진짜 말안듣네",
+        "writer": "Ugwsa3bCcaIO-PzFYKd4AaABAg",
+        "write_date": "2021-11-05",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한때 캐빈한테 푹빠져 나오는 영화는 다 봤죠.",
+        "writer": "UgyFJAFlAlpMODWOuXp4AaABAg",
+        "write_date": "2021-11-05",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)를 잊고있었다니, 마지막 장면에서 눈물이 그냥 흘 렀",
+        "writer": "Ugy60Gaj0bkURJIQUzx4AaABAg",
+        "write_date": "2021-11-05",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "퍼펙트 월드, 띵작입니다 yougotthis",
+        "writer": "Ugwp5aUrte1ffVT9re54AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진심으로 인생 영화 중 한 작품 퍼펙트 월드 추천해주셔서 감사합니다",
+        "writer": "UgxNfhwdDz3FXhke2N14AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다시봣는데도잼나네 띵잘분이설명더잼나네용_",
+        "writer": "UgwO5b4v44HkLvldk_R4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "화 나면서도 슬픈영화 였어요 내가 저 영화를 빌려 가서 보았을때 5살된 내 조카의 이름도 필립이였어요 그 조카가 현재 31살이 되였네요 아 세월도 참 빠르죠",
+        "writer": "UgxTOFfnC_WJkXM6yDp4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아퍼펙트월드 맞내요 .",
+        "writer": "UgzU5HnjS1CjiRGjOZh4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "또봐도 감동적이네요 감사합니다",
+        "writer": "UgzeU2W4I1HnGnlLRId4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제목으로 (반사회적용어)좀 안끌었으면",
+        "writer": "UgyR4DF1MYGG1BHd7XN4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "실화라서 그런지 더 감동적입니다",
+        "writer": "Ugwu0yTz6PLQfOIsC8R4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리뷰 감사합니다. 정말 영화를 보고 싶게 만드는 리뷰인데, 영화를 볼수가 없네요 어디서 볼수 있을까요 스트리밍 사이트나 유료사이트도 찾을수가 없네요,",
+        "writer": "Ugx2YgkQvpqaBXLtBEt4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목소리도 너무 좋으시고 친절한 작품해설에 좋은 말씀도 많이 해주시네요.",
+        "writer": "UgywJqDM41IdoENd0Rp4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 퍼펙트 월드 어렸을 때 이거 56번은 본 것 같음. 난 마지막 장면에서 죽은 캐빈 코스트너도 불쌍 했지만 어 아이는 평생에 처음으로 좋은 경험과 기억을 선물한 사람이 눈앞에서 죽은걸 목격한 뒤에 그 기억에 너무 괴로워 하지 않을까 하는 걱정이 들었음.",
+        "writer": "UgwBOfaUyv_omSaSG4F4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서로 위로하는, 감동이네요 잘 보고갑니다.",
+        "writer": "UgwUBph5pgMeoP8y7694AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도대체 영화 보면서 몇 번 지리시나요 무슨 모든 영화가 다 보면 지린데",
+        "writer": "UgxSt-a3IC75IXiN5XZ4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내인생의 명작이었는데, 살아가면서 잊고 있었다,",
+        "writer": "Ugwr7yi-j0WBJsqOjIx4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소원이라 봅니다 띵잘 . 아이에게 자유를 주는내용 넘 고맙고 감사합니다 .",
+        "writer": "UgyzHvJCZqUkQgrUsmF4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진심 띵작이다요 감동 근데, 멘트,꽃으로도때리는게아니다, 꼬튜아니래 기가맥히심니당",
+        "writer": "UgzVaM_J16Y9IAdGyOh4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "클린트우드 감독영화는 깊은 여운을 남기게하네요.",
+        "writer": "UgwoO57eRKjELbVnY7V4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이가 (이름) 놈. 총은 왜 쏘나",
+        "writer": "UgzAOawcwjsOegHCkc94AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이스트우드옹 더 오래 건강하게 사십쇼",
+        "writer": "UgxcOxjaSZkhwzNi5fh4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소원이라고 하셔서 바로 들어왔습니다",
+        "writer": "UgwC9Y65o_Xy3a4nwzx4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "결말없어서 구독안했다가 드디어 띵잘님두 결말을. 구독 구독 구독...",
+        "writer": "Ugwnyi3AvGcmF9_a87B4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "경험 없인 이해 할 수 없는, 마지막 장면에선 욕이 나왔던,",
+        "writer": "UgwDDuAMbH0ax3JZg2N4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나의 어린시절 헤인즈같은 어른이 곁에 있었다면 제 삶이 덜 아팠을꺼 같단 생각을 영상을 보며 잠시 해보았어요. 아빠의 폭력 엄마의 무관심 억압받으며 자란 어린 시절이 (이름)를 보니 생각이 나네요. 헤인즈 같은 어른이 세상에 많길 바라며 세상 모든 아이들은 행복할 권리가 있고 세상 모든 어른들은 아이들의 행복을 지켜줄 의무가 있음을 다시 또 깨닫네요.",
+        "writer": "Ugxm0Ahi2WFIO_b_WDB4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "클린트이스트우드가 감독한 작품은 인류애같은게있어서 감동임, 배우로서도 명성을 날렸던 배우지만 감독으로서도 무척 괜찮았던것 같습니다, 특히 밀리언달러 베이비는 마지막에 가슴이 너무나 먹먹했던 기억이,",
+        "writer": "UgxhbFRCIPcPsowjzdl4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예전 서울극장에서 봤었는데 그시절 추억이 떠오르네요",
+        "writer": "UgykF1CdqlewmntE4rx4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아보기전에 눈물 날꺼같아, 샹",
+        "writer": "Ugw5HJkGUAV5R4zwyU94AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 영화 어디서 볼수있나요,",
+        "writer": "UgzTsORvG_1lvOVdxZt4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제 기억 저편 정말 사라졌다고 생각했던 기억을 꺼내주셔서 감사합니다.",
+        "writer": "UgwxxSgBPSO_4FR57GZ4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오기도해드릴께요, 잊으려고 노력하세요 지금이아닌 지나갔으니",
+        "writer": "Ugxm0Ahi2WFIO_b_WDB4AaABAg.9UFalo9a7ia9UKusQYfbiu",
+        "write_date": "2021-11-05",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 작품인건 분명하지만 아이가 총쏘는건 너무 뜬금없는 거장의 헛소리인듯",
+        "writer": "UgxJrwImqJz5jkKTyFp4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 잘 봤습니다. 컷편집을 좀 더 길게 하면 좋을 것 같아요. 호흡이 좀 빠른 듯 합니다.",
+        "writer": "Ugw3zmc_f-K3kDyEKcR4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 영화 처음보고 나서 그 여운이 한달 이상 갔었는데, 어른과 아이(반사회적용어) 서로 바라보는 관점의 눈높이를 맞추면 충분히 공감대가 형성될 수 있다는 것 다만, 우리나라나 외국이나 영화에서 police는 왜 항상 개무능하게 나오는지",
+        "writer": "UgzC1bu1LVyQSZBVwoV4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아메리카 부선......",
+        "writer": "Ugw7V_Ee2eG3nYxSHwd4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저무렵 전후에 정말 명작들 많았죠 할리웃 홍콩영화 둘다 전성기 극장은 항상 인산인해 저무렵이 그립네요",
+        "writer": "UgxMLNRZAypN2aPDtdF4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "단연 띵작 좋아요 찍고가요",
+        "writer": "UgwtesveBuSrMmB2Uod4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소원이 이뤄지기를",
+        "writer": "UgyNGNyi0ESnt9OrejN4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 영화도 리메이크 작이쥬 원작 제목이 기억 안나네",
+        "writer": "UgwTXHzH74ILyXJKI5p4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "클린트 이스트우드는 타고난 이야기꾼이다. 클린트 이스트우드가 이야기 카드를 빼어들 때마다 나는 주인공에게 순식간에 감정이입이 되고만다.",
+        "writer": "Ugwtw9bh_kn7UlGvhQF4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "퍼펙드월드는 내가 감동받은 영화중 손에 꼽는 영화로 몇번을 봐도 볼때마다 감동을 받는 영화입니다",
+        "writer": "UgxnhI-fTqj3ApK_t_94AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지인중에 여호와의 증인이 있는데 진짜 그렇게 암울할 수가 없음, (반사회적용어)이라고 봐야 함.",
+        "writer": "UgwUbm-EjL4C9D1b89B4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애(비속어) 통수 지리네",
+        "writer": "UgzWou5MlUkqsbPA6t14AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "펑펑울었던 영화",
+        "writer": "UgwEK3szJkJI6pID6314AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오래전에봤던 너무나도 훌륭했던작품 , 딩잘 잘보고갑니다 명작임엔 틀림없죠",
+        "writer": "UgxP3_pjBpVJ2rZxgst4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초등학교 5학년때 (이름)보고 이유는 모르겠지만 1시간을 울었네요 내 인생영화중 하나",
+        "writer": "UgyzydO8PvbyufrDcl54AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제가 아는 여호와증인은 안그렇던데요",
+        "writer": "UgwUbm-EjL4C9D1b89B4AaABAg.9UCMgGjLyPn9UCb6q71-Lg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 그 속박과 대물림을 받아들인다면야 뭐",
+        "writer": "UgwUbm-EjL4C9D1b89B4AaABAg.9UCMgGjLyPn9UCf6sGB_dL",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "띵작이라는 말 (비속어)하는데 채널이름이 띵잘 띵호와 증국말 연상도 되고 정말 촌스러운 발음",
+        "writer": "Ugx6eOnvxeQCBsMBWqJ4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "띵잘님 덕에 지하철이 좋아졌어요 감사함미다",
+        "writer": "UgzL8q9fDodlig8fynZ4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "클린트 이스트우드가 감독한 작품이 대체로 띵작인데 퍼펙트 월드는 그중 단연 손에 꼽는 띵작임.",
+        "writer": "Ugyh-WsiQCkpEJ69XbF4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나만의 명작에 있었는데 잊고 있었네요.",
+        "writer": "Ugx-Ty4P-8ue1m5cGFF4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "군 말년 휴가 나와서 본 영화, 생각나네, 27년전",
+        "writer": "UgxiNLp3suy64lTqwDp4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)X (비속어)",
+        "writer": "UgzDjkFJvs3qqcJYhx14AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형처럼 커질수있어 (이메일)",
+        "writer": "UgyRZ1j-kyMiGPS5OVV4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 슬퍼서 통곡했던, 옛날생각 나네요",
+        "writer": "UgxKMmYaNLlharyWwQ54AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다시봐도 괜찮은 영화명작이죵 마지막이 슬픈",
+        "writer": "UgxMhQrdgiJqhzdyF3t4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "명작은 세월이 가도 명작입니다",
+        "writer": "Ugw-ppLTzo8tEExLfYF4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넘 울어서 마지막 장면만 기억에 남았었는데 영화 제목 오늘에야 다시 알게 됐네요",
+        "writer": "Ugx-wxlutytra28P-Rp4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영화 제목이 먼가욧",
+        "writer": "UgwazVOavVWCNw25nUR4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "봣던 명작인데 또 감동, 역시 멋잇는 띵잘님 감사해여 .",
+        "writer": "UgynuRxAgT0QKn3iu-N4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 감동적이에요 커서 유괴범이 될꺼에여",
+        "writer": "UgyTgLibhf2_OSCu5bV4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 이거 내 인생영환데",
+        "writer": "UgwN8On9dH7ZL8SsLnp4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그놈의 안본사람 안본사람 적당히좀 구독 끊을레",
+        "writer": "Ugyzmp8p9hHzziQz3ed4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "교훈적인 영화네요 세상 아이들의 방패가 생겼음 좋겠네요",
+        "writer": "Ugz9yBYyE9AC2_PmYEd4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소원이라시길래 궁금궁금",
+        "writer": "UgzJ8fJoVh4hEDKgjdF4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "띵잘님 재밌는 맨트 좋아요",
+        "writer": "UgyHOp69CIiG4cOy50p4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "또 재업로드 하네 에휴",
+        "writer": "UgzU9V11L-bh76gx59p4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 지신의 자녀에게 험하게 대하는걸까요 이 영화를 오래전에 봤었는데 오늘 또 만나네요. 한번 보고 말 사람은 없습니다. 좋은 영화를 리뷰하셨네요. 감사하며 잘 봤습니다.",
+        "writer": "Ugz3ypx6OimOkFI4wCt4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "배게가 다 젖었어요",
+        "writer": "UgyY3-xeTdFdYonneHF4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이스트우드 (비속어) 주지마라 쟤 (반사회적용어) 우월 주의자다 나도 몰랐는데 (영화 나올때마다 돈주고 보았다) 인종차별 한다고 듣고는 그이후로는 절마 그아들이 만든 영화는 더이상 안본다",
+        "writer": "UgzT8GKcuyTP6XIhHQp4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번영상은 유난히 워딩이 세시네요",
+        "writer": "UgxnPTmHtvqyJlDin1N4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형마지막에나 울었자나",
+        "writer": "Ugw9nmdsKB2i8fAHuAl4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 명작..",
+        "writer": "UgyHHvx1NpA_2MCc05F4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "띵작님 소원이 너무 많으십니다",
+        "writer": "Ugz_DTTH4Y4K1glLdDl4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아주 아주 오래전 봤던 영화, 요즘영화로는 저런 느낌을 받을 수가 없네.코스트너 젊은거봐 ,이젠 나랑같이 늙어가네",
+        "writer": "UgxNv2iiY1GDr7y0jHV4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 수십년전 나만 명작이라고 생각했던게 아니였군",
+        "writer": "Ugzf-RkdME8uCmi-rfp4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아, 내눈 물이 나와 계속, 그냥 (반사회적용어) (이름)가 키우지, 흑, (반사회적용어)이나 집이나 머가 달랏을까,",
+        "writer": "UgxXCmbWg1epKqrA97V4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영화제목좀 알고싶어요.. 주인공은 (혐오표현) 환자 에요 여자 주인공은정신과의사 주인공 이야기를 들어주면서 치료 를해요 여자주인공은 어릴때 기억상실 경험이 있어요 어릴때 지속적으로 괴물한테 (비속어) 당해요 주인공치료중에 (비속어)범이 자신의 아빠라는거를 알아요 마지막 내용이 거대 괴수 히드라가 나오고 주인공이 울버린 같은걸로 변(이름) 괴물을 죽여요 어릴때봐서 기억이 여기까지입니다. 제목알면 올려주세요 짤유투로만들면 좋코요 감사합니다",
+        "writer": "Ugy_N444BMfYUaDeLA14AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소중한 영상 항상 감사히 잘보고 있습니다 감사드립니다",
+        "writer": "UgwNfsp6ShOLZBc4kEZ4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "명작중의 명작.",
+        "writer": "Ugw0CGetONDBZB1Z8Sp4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "띵님 목소리 넘 좋은거 반칙이욤",
+        "writer": "UgwNeEgmaE2XtJ7DIs94AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꽃으로도 때리지 마라 가슴에 (비속어)고 갑니다 . 명작 소개 감사해요.",
+        "writer": "UgwgYNizg8OrnO8HF6h4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "테스트 자신의 아이에게 험하게 대하는 이유는 자기 주변에서 가장 약한 존재 이기 때문이죠. 즉 아이를 하나의 인격체로 보는게 아니라 그냥 자기 소유물로 보는거임",
+        "writer": "Ugz3ypx6OimOkFI4wCt4AaABAg.9U96jRb5XID9UHg7_tMb-n",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저사람 이스트우드 아니지 말입니다",
+        "writer": "UgzT8GKcuyTP6XIhHQp4AaABAg.9U92wthFSMj9UAh3jclmQd",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울버린 같은 거로 변했다면 분명 울버린으로 변했는데 울버린 같은 것으로 변했다고 생각하신 걸겁니다. 따라서 영화 제목은 엑스맨입니다. 엑스맨 시리즈를 보시면서 전에 보셨던 장면을 찾기를 바라며 좋은 하루 보내시길 바랍니다.",
+        "writer": "Ugy_N444BMfYUaDeLA14AaABAg.9U8pES3V2xc9U9-TvtuwdS",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 그렀지 이 영화도 있었지. 띵잘은 띵작입니다",
+        "writer": "UgxxOB51lC6_pr4R60t4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "케빈 코스트나 좋아해서 어릴 때 봤던 영화. 진짜 오랜만에 다시 보네요. 잘 봤습니다",
+        "writer": "UgxeNHoJ1PEnncXcMxl4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "띵잘님 티라미수아몬드",
+        "writer": "UgyMrDNYdLRGYXGIDeV4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 목소리 어쩔꺼야",
+        "writer": "Ugwk1ZLHWGOF58h0thp4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 이 작품을 처음 알게 되었을까요 추천 감사합니다 꽃으((비속어)x)로도 때리지마라",
+        "writer": "Ugz7en727fkhKpDM4Kl4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "음 너무 오래된 명작.",
+        "writer": "UgynAuxO70-lHyItBWh4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막에 (비속어)x만 기억에 빡 아놔",
+        "writer": "UgwNvcX6prYgLFefJtt4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "중학교때 학원서 셤끝나서 주말에 이거 단체로 보여줬는데, 진짜 펑펑 울었다능",
+        "writer": "UgwR3R56rtS6OpEgLXB4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 목소리 너무조앙",
+        "writer": "UgxzDu-ScwxMyynT_vh4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=Fd3lHKqMeK0",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

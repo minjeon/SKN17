@@ -1,0 +1,436 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001636945",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001636945"
+    },
+    "text": [
+      {
+        "content": "캬 거짓말은 안했네",
+        "writer": "UgxRxhstZj6hivlT8dV4AaABAg",
+        "write_date": "2021-08-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애는 숨긴적이없어 늘상 과거에 (이름)었다고 방송에서 나왔었다",
+        "writer": "Ugx5oWP7vs6Cqnctx4N4AaABAg",
+        "write_date": "2021-05-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "학창시절에 술먹던 버릇나오네",
+        "writer": "UgzRDepHvzUpIlNARMp4AaABAg",
+        "write_date": "2021-04-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "반전이긴하지, 학폭가해자 (혐오표현)",
+        "writer": "UgzNVK69mfRrcCbw0CR4AaABAg",
+        "write_date": "2021-04-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어떤 리더든 부담감을 느낄수 밖에 없는건데 대중에 (반사회적용어)되고 댓글부대들의 어택에 취약할 수 밖에 없는 연예인, 그것도 아이돌의 리더들은 진짜 솔직히 (혐오표현) 오더(반사회적용어) 이해가 될거 같음 그걸 10년동안 해오면서 멤버들 간에 불협화음 하나 없이 개개인별 성격과 사상이 다른 사람들을 이끌며 구설수 하나 없이 이끌었다는건 진짜 대단하다못해 말이 안될 수준이라고 생각함 결론은 롱리다 쵝오.",
+        "writer": "Ugy1gUppbdSjvviesyN4AaABAg",
+        "write_date": "2020-12-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왤케 따수워 눈물 나오려고 하니까 놀라서 은지 보는 초롱이나 그런 초롱이 보자마자 휴지 가져다 눈에 눌러주는 은지나",
+        "writer": "UgxqR9rNW5BekUh5RVl4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "눈하나에 냅킨 하나씩 갖다 붙이는거 왜이리 웃기짘",
+        "writer": "UgyaYy7VyWaJGllGGaB4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롱리더 수고했어",
+        "writer": "UgxphQ1CpMmv-kvcC994AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭔가 얘기하는 게 아이린이랑 비슷한 거 같다",
+        "writer": "Ugx_MD-7rnL4z8mmODB4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 롱리더만큼 리더역할잘하고 성격에 인성다된 사람 걸그룹에서 본적없다, 나믿고재계약하자했을때 7년정도된상태에서 각자의 진로도생각할만한데 어떻게 다 재계약을햇겟어, 리더의 공이 그동안 엄청 컸던(혐오표현)",
+        "writer": "Ugzxk0wZvLN-3S2_zP14AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롱리더 울지마",
+        "writer": "UgxBVfnBsuX5uNWRN3h4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몸이 기억하는 운동",
+        "writer": "UgwmgRChxrm5xvdfKDN4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 울울인가 했는데 롱롱 거꾸로 한 거구나 귀여워",
+        "writer": "UgyC-hANsPR-IRnJo7F4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "행동하는거 보면 귀여우면서도 (이름) 있음",
+        "writer": "Ugwz6TvQ0xCaW7I2b7V4AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "후 초롱이 이쁜것 좀 봐, 천사가 따로 없어",
+        "writer": "UgxAAtZsUrSaTjRwza54AaABAg",
+        "write_date": "2020-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "걸그륨7년 대부분 해체 한다는데 에이핑크 9년차 넘었네 계속 가기를 춤 출수 있을때까지 춤 안춰도 노래만 할 수 있어도 에이핑크 쭈우욱 가즈아",
+        "writer": "Ugwyt5HLwhVJ_MpIBTJ4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀여워 죽겠넼",
+        "writer": "UgzKvmT4J8fzurQVcAZ4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리더는 불만을말하고그러면 그팀은 무너진다 그래서 더힘들다",
+        "writer": "UgxcEF1_HBnnZXLpWiZ4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 어제부터 내 이샹형이였음 초롱 누나 이제부터 잘 볼게 많이 찾아 볼게",
+        "writer": "Ugww54uGnVx0QdYI3vp4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보수롱이가 탄생한 (이름) 아버지",
+        "writer": "UgxkFBMfhvdszE71IDh4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "12년12월군번인데 에이핑크 레인보우 걸스데이 등등 힘이되었습니다 제일 좋아했습니다 초롱이 누나...",
+        "writer": "UgyK1i1t1gmxrQsPZJ14AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래도 여잔데 여(비속어) 여자를 너무 싸움꾼쪽으로 만드는거 같다 이쁜건 이쁜거고 운동은 운동일뿐인데",
+        "writer": "UgzEQOLZbK7WBG_YyaR4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세상 나긋나긋하게 쌍절곤(이름),",
+        "writer": "Ugw1pRQB4jGX10W-EL94AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쌍절곤은 에이핑크뉴스에서 배웠던 거였지",
+        "writer": "UgwSMsQZwhWEb-4eowN4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초롱씨 오늘만 사랑합니다 인격24",
+        "writer": "UgyNW5KGpk8ZDcWYL9R4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롱(이름) 덕분에 핑순이들 오래 보게 돼서 감사드려요",
+        "writer": "UgwG_rq0LdfRkbfUbqp4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초롱이는 시간이 지날수록 괜찮은 사람같다",
+        "writer": "UgwJUYgNLUXTwkEcL3l4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀여움, 초롱 리더",
+        "writer": "Ugwpxuhbt68wdoJ-ThB4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 초롱이 얘기 듣고싶습니다.",
+        "writer": "Ugx2sbuEL2HvimgtSwN4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭘 청주 (이름)야 들어본적도 없는데 초롱누나는 걍 에이핑크의 전설임",
+        "writer": "UgzMVKha3UY72iwDVCx4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초롱때문에 눈이 높아져서 솔로남자 손",
+        "writer": "Ugw9e0oup5ibWhl0tBN4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니 볼수록 매력",
+        "writer": "Ugwer_wpHf1w7P6iahl4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쌍절곤 할때 롱언니 넘 반햇오 , 근데 리더의 부담감이 많이 느꼇다고 하니까 또 맘 아프당,",
+        "writer": "UgymA75X4KtvilBrMJ94AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 쟤가 리더였어",
+        "writer": "Ugwg0ZXb3PN47a7QEjZ4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "러블리뽐 뻥치시네",
+        "writer": "UgwG_rq0LdfRkbfUbqp4AaABAg.9-ykUpTu92790HVEZXqOJd",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Need full ep for this one, My first bias on kpop group, fighting park chorong, 사랑해,",
+        "writer": "Ugw_h9tTjDoIhiO3WeV4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이해가 안되는게 인생술집에서 (이름)만 왜 하차시킨(혐오표현) (이름)이 (이름)보다 잘한다고는 전혀 생각이 안 드는데. 그리고 말빨이라든지 재치는 (이름)이 훨씬 잘하는데 왜 (이름)을 투입시킨 건지 이해가 안된다",
+        "writer": "Ugy8K6O7hUvw2pjPJRh4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에이핑크 파이팅",
+        "writer": "UgxNqHBA5T6BH1ehIeB4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쌍절곤 저거 맞으면 아파 죽겠던데",
+        "writer": "UgyAPT-aN3UHSZon7Fp4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민지야 한글로 해라",
+        "writer": "UgycIzDyik8gRMlOd9V4AaABAg.8vB9ZyEq2Cl9017BCgWlVw",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "온새미로 (이름) (비속어) 기분 나쁘게 생김",
+        "writer": "Ugy8K6O7hUvw2pjPJRh4AaABAg.8v8CZNxW8qb8v9fBPmF9T3",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그린나래 너가 방송국사(이름)",
+        "writer": "Ugy8K6O7hUvw2pjPJRh4AaABAg.8v8CZNxW8qb90HVHCqy6xF",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "복숭아뼈랑 (이름) (비속어) 아픔",
+        "writer": "UgyAPT-aN3UHSZon7Fp4AaABAg.8uxfKllMPPH9-xTQ3M64Ss",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에이핑크 진짜영원하잣. 초롱이언니 힘내요",
+        "writer": "UgwNRI1RYl2m2zBUhph4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울 초롱이 쌍절곤도 잘해",
+        "writer": "UgyoSDH9ZefjsKSe9Rt4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런특집을 내주시다니",
+        "writer": "Ugz2rdTLz1fq-YavFlR4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수고했어요 초롱언니",
+        "writer": "UgzFzzAwsWG8WBSFU3J4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울울이의 나이는 거꾸로간다,",
+        "writer": "UgwjZuIAkzhH4dDZQLN4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "21세기 대(이름)의 바람직한 리더십,",
+        "writer": "Ugxbq_fifEefaExAr-N4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롱리다 최고...........",
+        "writer": "Ugyhp5GaU-21uSU8zl54AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초롱이 기여웡",
+        "writer": "UgyBBbiO5FH4h3zRfix4AaABAg",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 롱틀러 라는 표현은 좋지 않으니까 쓰지 않았으면 좋겠다고 하셨어요 그러니까 다른 표현을 쓰는 게 어떨까요",
+        "writer": "Ugyhp5GaU-21uSU8zl54AaABAg.8uDxLR4sUTB8uFhrY3oo5U",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "행 앗 그런가요 그럼 롱리다로 수정하겠습니다..",
+        "writer": "Ugyhp5GaU-21uSU8zl54AaABAg.8uDxLR4sUTB8uFi3nncEnl",
+        "write_date": "2019-11-13",
+        "url": "https://www.youtube.com/channel/UCsRIHt5FkbGc6cQtCxt-ufA",
+        "parent_url": "https://www.youtube.com/watch?v=YeIJgCPkso4",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,756 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001659652",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001659652"
+    },
+    "text": [
+      {
+        "content": "(이름) 안 자는거 들켰을때 젠 좋아죽네. 아 너무 뀌여웡",
+        "writer": "Ugx0Qhg-MotskwxDj1N4AaABAg",
+        "write_date": "2021-11-17",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄마라고불러줘서 너무고마워 젠엄마여서 넘행복해..",
+        "writer": "UgwNuoQykDUdHQ79-d54AaABAg",
+        "write_date": "2021-11-13",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "젠 오동통하고 동그랗구 머리털도 송송난게 너무 귀엽고 이쁘가",
+        "writer": "UgzVdEVyYg7oOeZ9VNF4AaABAg",
+        "write_date": "2021-11-07",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "젠 보고 있으면 절로 웃음이",
+        "writer": "Ugxyg4ePFmH9AtqpGhV4AaABAg",
+        "write_date": "2021-11-06",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아유 이쁜 젠",
+        "writer": "UgxKBWBkr4hhC1qxwgF4AaABAg",
+        "write_date": "2021-11-06",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "젠 넘 예뻐요 잘생겼지 남자래 멋있다",
+        "writer": "Ugy1p4JPsZNVdIoGRjB4AaABAg",
+        "write_date": "2021-11-05",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 아우 정말로 진짜 부끄럽지 않아요 한국 아이도 아니고 미국 아이를 났네요 그러면 미국 가세요 아니면은 (이름) 고향 일본 가든지 왜 한국에서 무질서하게 만들어요 진짜 꼴보기 싫거든요",
+        "writer": "UgzHU80dc2IL7wdBhwR4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "드디오 엄마라고 말하네 한국사람 다됐네 카상은 넘 어려워",
+        "writer": "Ugzr0Ekq5GoBotZ1God4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "젠의 일상이 왜 이렇게 재미있는거예요",
+        "writer": "UgwLrIUk_235kWKNHzB4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "젠 꼭 뭘 아는것처럼 웃네",
+        "writer": "UgwPfCF0jvgKFbrJHnl4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "젠 외할머니 할아버지도 한번 나왔음 좋겠어요",
+        "writer": "UgyN4uO9aPVV7k9mFGZ4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무궁화 꽃이 피었습니다",
+        "writer": "UgwEzlx5WJFiQt_GmPF4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "완전 애기때는 벤이더니 점점 윌렴이되가는 중",
+        "writer": "UgzF7-r6yDcrvR-NhFh4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "젠하고 놀기 넘 재미있다 정말 좋은 남자가 없나봐 (이름) 이제(반사회적용어) 좋은 남자만나서 둘째아기 낳길바래요 그 남자 빨리 나타나라",
+        "writer": "Ugz3pJb2yhxcZDVe6CN4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "젠 아침부터.",
+        "writer": "Ugyc-n4Q9YMTOzN49Ft4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "젠 보고 있으면 힐링이되네요",
+        "writer": "Ugw3snqtKJ9ApkPqhlp4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "젠 넘행복하게 잘자라는 모습보니 저또한 행복해지네요 (이름) 젠이랑 항상 행복하세요 항상 응원합니다",
+        "writer": "Ugwqy9ZkYsJsdPsyZIV4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사워리 애기 꼴도 보기 싫어",
+        "writer": "UgzQuSGWA24RAyEzRnB4AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "젠 넘 귀엽고 예뻐 어쩌지",
+        "writer": "Ugyd9kFhACN-dUS5sCZ4AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "젠 너무 너무 예쁘다.",
+        "writer": "UgykxSt-Sl7hlAHkHCd4AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄마 감동이예요. (이름)은 좋겠다.",
+        "writer": "Ugy7R9_rvIclnF2kPw54AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너어무 예쁜 젠",
+        "writer": "UgwsgremulkuZEzcWw54AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜루 귀여운 폭탄",
+        "writer": "UgzXaJdMwOY_zG6UTTN4AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Kbs는 슈돌을 폐지하라.....",
+        "writer": "Ugxw8sqyZVPq3KnJZ-t4AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 젠 너무 귀여워요.",
+        "writer": "UgxCmUcoMy5BAWuBx854AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "젠 웃을때 입모양 동그랗게 되는거 너무",
+        "writer": "UgzjwZHVa_2RjmdCFbF4AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄마가 최고의 놀이상대네용 (이름)도 젠도 너무 사랑스러워용",
+        "writer": "Ugxwvz8d7N_jcwRNiz54AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참 편견없이 보자면 (이름) 부자 퍽 괜찮아.. 근데 난 일본인들이 넘 싫어 그래서",
+        "writer": "UgxksoqtdFfQZ3SVC2R4AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "힘들다면서 뭔 둘째를가져 또 아버지는 누굴까나",
+        "writer": "Ugyi59G2Hc_3dL7Y7CB4AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "젠이 꽁알꽁알 움직이는것도 옹알이도 늠 귀엽네요.",
+        "writer": "UgwCn84AHDlhZkL0R4d4AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "젠은 갈수록 예쁘게 크는것같아요. 엄마부르는 소리에 뭉클하네요. 웃움소리는 웃음을 부르고 젠 볼수록 어쩜 이리 사랑스러울까요.",
+        "writer": "UgxcEh9n-ummhSvOf3d4AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아(비속어) 누구니.",
+        "writer": "UgwuPW60qVk78ncoatV4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애기가 어케 저렇게 이쁘게 생겼지 진짜 젠 볼때마다 이생각 함, 웃는것도 너무 이쁘다, 젠 잘 웃는걸 보니 엄마랑 진짜 행복하게 지내나봐 이대로만 이쁘게 커줘 애깅",
+        "writer": "UgzMr4ZKCEKfk2xUslh4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하하하하 하고 웃는게 넘 귀엽고 천사같다 만화캐릭터같음",
+        "writer": "Ugx8AmM3J-wjjTbqLSd4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄마랑 소통하는게 너무 (이름)고 귀엽다.",
+        "writer": "UgxZ1DTfOLuoNt35yjN4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)네 이사 갔나요 더 조아 보이넹",
+        "writer": "Ugyw4I6yPK7VKhuUVvh4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무귀여워 근데 집 이사 한건가",
+        "writer": "UgzwRsm9K1q63Aymr-t4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "젠이 넘 이뻐요",
+        "writer": "UgzJV_4h4y5aia2eQlB4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보는 내내 미소지으면서 봤어요. 너무 사랑스러운 가족 그리고 젠 엄마 하는 목소리 너무 귀여워요.",
+        "writer": "Ugy4BKwiKqnkk8uViSV4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "젠 머리색이 금발이네",
+        "writer": "UgxNz0Tk1y2wBGIBlEp4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "젠이 엄마 눈물나네요",
+        "writer": "Ugz569C8YA6__5BqPYZ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "젠 넘귀여워용",
+        "writer": "Ugzs0PZHV9z_XlxRWWd4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세상에 엄마라고 하네",
+        "writer": "Ugz8EsMN0fTlBDWjeO54AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "젠 하루하루가 다르네요 우리가봐도 이리 이쁜데 외할머니. 할아버지는 얼마나 보고싶을까 (이름) 엄마 잘먹고 건강챙겨서 젠 보는데 지치지말고...",
+        "writer": "UgwTh3Tpe56JLC2hN6Z4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오지랖도 넓네 니 인생이나 제대로 살아",
+        "writer": "Ugyi59G2Hc_3dL7Y7CB4AaABAg.9TdJq9xvS3z9Tdna3bcBt3",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "눈을 떴을 때 젠이 옆에서 웃어주고 있으면 너무 행복하겠어요",
+        "writer": "UgxmdpdKibwlF8wWgU14AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "젠보니 참 살맛납니다..",
+        "writer": "UgzoxykyLy7Ji5Mg0YN4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몇번을 보나 모르겠네 너무 귀여워 젠 건강하게 자라렴",
+        "writer": "Ugzq9OeQFxeG6RG7ADF4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앜너무 귀욥따",
+        "writer": "UgyVC-PRIrEFsvz-uxN4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "젠 오늘은 더귀엽다 사랑스러",
+        "writer": "UgwomFrW1MB5ne5yxDF4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "텔레토비 햇님상",
+        "writer": "UgyGW4hjkaU0pxqaj0l4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "옹알이젠 자는엄마 깨워었요 (하하하)웃어서요 너무너무 너무너무 귀여워",
+        "writer": "Ugw-N4bqMedc4FrbDRl4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "훌륭한 사람으로 거듭나기를 진심 소망합니다. 엄마의 진심을 잘 승화시켜 훌륭한 엄마로 인식하길 고대하고 어른이 되어 잘 되기를 진심 기원합니다.",
+        "writer": "UgxbERS31_KLr2ddGix4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "말트면 더 귀엽겠다",
+        "writer": "UgwAvrsw3ZRrIPPv_I54AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "젠 (이름) 엄마 일어나세요",
+        "writer": "UgzResqpTFY2NRq0uzN4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벌써 엄마소리를 하네. 귀여워 1000000000000",
+        "writer": "UgyJRJkRcJTQ7JKVsdt4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자는척하는 엄마 바라보는 장난기어린 젠 너무 귀여워요 젠한테 중독되서 날마다 찿게 되네요 (이름)상 멋진엄마 예요",
+        "writer": "Ugz842PpPV5vykK2rTV4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무예뻐서 죽겠어요",
+        "writer": "UgzjFt9jXvIvTZ5EVM14AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "젠 그래 엄마지 고마운 젠 엄마란다 젠 잘 크자아",
+        "writer": "UgxcSxfqcVRrMI6eNYh4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아유 예뻐라",
+        "writer": "Ugz-KZFQV-AFljxcexR4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 ............젠엄마",
+        "writer": "UgzuCPF_Zg9QHN3P2bh4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아유 하하라 웃는거봐. 엄마 라고 하면서 .기특 젠이야..",
+        "writer": "UgyH7qmR3I2ww5qOfRp4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왤케 귀여워,",
+        "writer": "UgwizZe-beDJARaXNIF4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄마도 귀엽구아들도 귀엽구행복해도 그동안 키우느라 힘들었는데 여전히 힘들겠지만 뭔가 여유로운 모습이 되었네",
+        "writer": "UgwS2SAZRzkQ-EgRwZB4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예쁜 젠 사랑해",
+        "writer": "UgyiSv8BD16tiDpBiC54AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "젠 웃을 때 입을 크고 둥글게 벌리고 웃는 웃음이 함박꽃같이 환해서 덩달아 마음 꽃이 피어 . 하 . 하 . 하 .",
+        "writer": "Ugzelwzx0SLiyioAB5N4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아고너무너무 예쁘고 사랑스런 젠",
+        "writer": "UgzXwQRDsiDOjiNhEr14AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "젠 귀여워미치겠당",
+        "writer": "Ugyg74h8MOKj1OzPX7l4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 먹고 건강하게 밝게 자라는 젠을 응원해요 (이름) 복이 많으세요",
+        "writer": "UgyYtvGtBOUt8scCViZ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "젠이엄마라는 오알(이름) 말인지 아직은 모르겠지만 그소리에 난 울컥해버렸다 저도 (이름) 처럼 우리딸을 혼자키웟거든요아이아(비속어) 아이낳은지5개월만억 아파서고인이 되엇거든요 처음 우리딸 엄마라는 말 했을때 얼마나 울컥하던지 지금 그딸이 10살이됐네요 (이름) 젠과 언제나 꽃길만 걸어가시길 바랍니다",
+        "writer": "UgzEFu6zCiqNkYQ1I694AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄마라고 말하네요 귀염둥이",
+        "writer": "UgxdYIXwsLUf1Jry6PN4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄마라고 들리네",
+        "writer": "UgykFI-404-ZePuqN6J4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀여워서 눈물날거같다 엉엉",
+        "writer": "Ugw4e35cvQA87zIAvnZ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "천진한스마일 하하하",
+        "writer": "UgxfsQc3Ksj6QEr6pyV4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "님도 따님도 꽃길만 걸어가시길 응원합니다",
+        "writer": "UgzEFu6zCiqNkYQ1I694AaABAg.9TT-fdnn6GF9TTskM75E1R",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혼자 키우느라 고생하셨네요. 두모녀 크게 힘든거없이 꽃갈만걸으시길",
+        "writer": "UgzEFu6zCiqNkYQ1I694AaABAg.9TT-fdnn6GF9TV2georRRv",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꽃길만 걷는다면야좋겠지만 늘 오뚜기처럼 넘어지지않고 굳건하게 살아가시길 기원합니다",
+        "writer": "UgzEFu6zCiqNkYQ1I694AaABAg.9TT-fdnn6GF9TVBm5fwutp",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "라떼가조아 감사합니다좋은말씀",
+        "writer": "UgzEFu6zCiqNkYQ1I694AaABAg.9TT-fdnn6GF9TVNjx77kVi",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "박미숙 감사합니나 좋은말씀큰힘이될것같아요",
+        "writer": "UgzEFu6zCiqNkYQ1I694AaABAg.9TT-fdnn6GF9TVNpHNGkPb",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "문경희 감사합니다가장현실적인거죠오뚜기처럼 일어서는거그기나긴 시간이 언제 지나왔는지 안갈것같던시간도가고오지않을것같던시간들도 오더라구요",
+        "writer": "UgzEFu6zCiqNkYQ1I694AaABAg.9TT-fdnn6GF9TVNzMjXADM",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 질병으로 어려운시간을 보내고있기도하고 그때마다 신앙으로 이겨내기도하지만 제경험으로는 어찌보면 그 꽂길이 사람을 행복하게도하지만 나약하게하는 원인 이될수도 있어요 에구 아침부터 심오한말만 한것같아요 다들 열심히 사십니다 행복한 하루되세요",
+        "writer": "UgzEFu6zCiqNkYQ1I694AaABAg.9TT-fdnn6GF9TVSDdJvXfQ",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "문경희 토닥토닥 힘내세요 이또(이름)가리라",
+        "writer": "UgzEFu6zCiqNkYQ1I694AaABAg.9TT-fdnn6GF9TVZgTrL96P",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "슈퍼맨 이셨네요",
+        "writer": "UgzEFu6zCiqNkYQ1I694AaABAg.9TT-fdnn6GF9TVaHiqHt9U",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 제가 위로받네요",
+        "writer": "UgzEFu6zCiqNkYQ1I694AaABAg.9TT-fdnn6GF9TVawfyAC2e",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맴이 아파와요",
+        "writer": "UgzEFu6zCiqNkYQ1I694AaABAg.9TT-fdnn6GF9TZGhViGLM4",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에고힘드셨겠네요 딸과 함께 꽃길만 걸으세요 젠과 (이름)도 응원합니다",
+        "writer": "UgzEFu6zCiqNkYQ1I694AaABAg.9TT-fdnn6GF9TaQtxlgyO3",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜아빠도없는애 정말불쌍하다 엄마때문에",
+        "writer": "UgzEFu6zCiqNkYQ1I694AaABAg.9TT-fdnn6GF9Tb-cvPzoYB",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "님도 행복하시고 하늘에서 아버님께서 지켜주실꺼예요 전 후천적 장애가 두개나 생겨서 병마랑 지내지만 힘내려고 매번노럭해요 따님과 많이 행복하세요",
+        "writer": "UgzEFu6zCiqNkYQ1I694AaABAg.9TT-fdnn6GF9Tb4TrvhqM0",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주사랑 님 기슴 찡하네요. 하늘에 뜻에따라 사람마다 주어진 사명과 인생이 달란트가 다르지만 하늘의 도움과 은혜는 항상 가까이에 있다는걸 꼭 기억하시고 항상 낙심말고 용기있는 감사로 사시기를 진심다해 응원합니다 주(이름).",
+        "writer": "UgzEFu6zCiqNkYQ1I694AaABAg.9TT-fdnn6GF9TeopCw7vLw",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "차였다 슈퍼맨이 아니라 슈퍼맘이에요 기분상하셨으면하셨으면 죄송합니다",
+        "writer": "UgzEFu6zCiqNkYQ1I694AaABAg.9TT-fdnn6GF9Ts8IIPMY28",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보고있자니 너무 행복해지는 영상이에요 행복 (반사회적용어) 젠",
+        "writer": "UgxXrrQT052qzMk9F0V4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "카와이 베이비 젠",
+        "writer": "Ugy5goQAEU4WFXRZotp4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "How cute Zen what a wonderful moments he called 옴마",
+        "writer": "UgzTH_emLQtxDlJ21SZ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4SZLPjkFuIs",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

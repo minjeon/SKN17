@@ -1,0 +1,924 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001671067",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001671067"
+    },
+    "text": [
+      {
+        "content": "오늘 하나 보네요 재미있게 볼게요 (이름)는 게스트가 몹시궁금하네욯",
+        "writer": "Ugw0nQ5b6YcIsh2jZO94AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시청률이 추락하는 (이름) 있구만,",
+        "writer": "UgzNHZEzZbdbOuiUTLd4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 플렉스 오늘 기대됩니다",
+        "writer": "UgygKiEp2mBmX6a-XYV4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "키 예고편 기대",
+        "writer": "UgwVOmN2yYnVpNxga-B4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재정 (이름)은 아버지어머니 나오실거 같음.",
+        "writer": "UgwPOpF3sf5t_r8W-uZ4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 귀여워.",
+        "writer": "Ugz9S9ua2sjIyFFLH6J4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 카드한도 초과 궁금하네 본방 꼭 봐야겠네",
+        "writer": "UgzKcq4IG2mSsqz5GvV4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "금욜까지 어떻게 기다려요",
+        "writer": "UgwJuzf_xWVwP61ZE8F4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재정이 나온다",
+        "writer": "Ugw4-u24EkGkyKV2_lJ4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "첫 광고 축하축하 반성하게되는 가족애, 마음씀씀이가 바른 청년 항상 응원합니다",
+        "writer": "UgxAwHthucMUXrDA73F4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 기대되요",
+        "writer": "UgwDHRFwWAvJLFic69d4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "노래에 진심이고 착한 (이름). 앞으로 더더 잘되길",
+        "writer": "UgxXZmWq1Bhi-5Du4GN4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재정이 다음주 기대되요 8년만에 첫광고 너무 너무 축하해 럭셔리 쇠고기 우티스트 딱이네요",
+        "writer": "UgwNVI0SlIJi89xlztJ4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 키버미 그때 많이 미안했구나",
+        "writer": "UgzmWx_Z3oCN_dUmUj14AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재정(이름)이 사회 초년생으로 첫광고 찍고 가족들에게 선물하는데 진짜 현실반영 제대로임 그래서 감동 일듯 그나저나 키안님 추억여행 하나보네",
+        "writer": "UgwRIGdyh-W9K1GeGMB4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "청춘커피 페스티벌에서 롯데에서 (이름) 선물 샀다고 했는데, .",
+        "writer": "UgxBBPqy8TrQ-fI_-id4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 담주 엄청 기대되요. 얼마만의 일상인지,",
+        "writer": "Ugwn4SfwOAJyiGGZUJh4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 나무(이름) 첫광고 추카추카 빨리 본방 보고싶다",
+        "writer": "UgwXYUU6XHx0n5STt494AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예고편 너무 좋아서 또 보러 옴 재정이 첫광고 기념 제대로 FLEX 하는 거 너무 귀엽고 보기 좋다 선물 드릴 그 분은 대체 누굴지 넘 궁금하고 키 (이름) 저번에 (이름) 마감샤워 때 같이 못 간 거 되게 아쉬워하시던데 이번에 (이름)이랑 추억 쌓은 거 같아서 다행이네요",
+        "writer": "Ugyenzz_Wfhp87VhVFp4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)은 무대에서 완전 왕자인데 현실에선 소박하구 인간미있는 모습때문에 더 좋아하게 된다 돈 많이 벌어서 하고 싶은 음악도 맘껏 하구 축구 덕질도 신나게 했으면,",
+        "writer": "UgyL0yn-QmuSP7sP9ON4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재정(이름) 재밌어요. 진짜 청춘을 보여주는것같아 몰입 갑. 더 잘됐으면 좋겠어요.",
+        "writer": "Ugyxik4JmcvcXrAVJ4V4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기안 키 재정이 다 좋아 잼있겠다",
+        "writer": "Ugw1G-ET6d4_KS9MIsJ4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "키안브라더스의 추억여행도가대되고 재정 무지개회원의 나의플렉스를 받아줄 주안공은 어머니에게 드릴 선물인거같은데. 늘 방송에서 (이름)과 동생을 향한 가족바라기 재정 모습이 이번에도 보여질것같네요 잘되서 이렇게 선물로드릴수있다니 제가 다 뿌듯 앞으로 광고길만 걷기를 빌어봅니다 패널과 일상을 이렇게 자주 보여주신건 우리 재정아 나혼산 고정처럼 자주불러쥬셔서 넘넘 감사합니다 나혼산고정가즈아",
+        "writer": "Ugz8gysfNvXcHFEM1bJ4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 나오면 본방사수 해야죠..",
+        "writer": "UgxEkIslzs2Aq570gWh4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "억지로 단추꼬매기 들어갓네",
+        "writer": "Ugz1bWwCffvg83gp4vR4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 플렉스 너무 기대된다",
+        "writer": "UgzE_iVFWIvVGJ0w9fJ4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기언84 키 (이름) 조합 무엇 꿀잼예약",
+        "writer": "UgysiHSpSe8FCmEjCPl4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사회적 물의를 일으킨 (이름)를 자숙기간도 없이 끝까지 지키면서 나혼자산다 구해줘홈즈 비디오스타에 고정출연(반사회적용어)는 MBC가 인권과 성평등 인식개선에 노력하겠다는 것은 전혀 말이 안됩니다. MBC가 상식적으로 이해가 되는 공영방송이 되기를 기원합니다,",
+        "writer": "Ugwjg6ApU3uN1cmEtyN4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아오 개기여워어 (이름)",
+        "writer": "UgwYqgGO2XQ7_JY-_dR4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 (이름) 청춘의 아이콘같아요 취업해서 선물사고 집 이사가는거 보고싶어요",
+        "writer": "Ugz8qf9hvGNqtcmfL9d4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 첫 광고 축하축하 .... 광고주임 우리 (이름) 맥주도 맛깔나게 드링킹 한답니다",
+        "writer": "Ugwx4D1etiZoP_t99914AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기범 오빠 바빴을 텐데, 언제 나혼산까지 진짜 몸이 열개여도 모(비속어) 스케줄이야, 늘 모든지 열심히 해줘서 너무 고맙고 진짜 수고가 많아 오빠 그래서 더 열심히 응원하고 싶어지고 오빠 더 좋아하게 된다 고맙고 사랑해 오(비속어) 최고야 (그와중에 너무 기여워)",
+        "writer": "UgzUD-H8ec0p9Ccet-54AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 한도초과 , 카드한도를 얼마로 정했을지 궁굼.",
+        "writer": "UgwnUPX8We8Po_2_Hv94AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와우 키안 조합. 담주 대박이네 어떻게 기다리노",
+        "writer": "UgxIf0bz1L0lfcB4jqN4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재정(이름) 첫 광고 축하해요요즘 너무 보기좋더라구요 노래도 찐이고 앞으로를 더 응원하게 됩니다",
+        "writer": "UgymqNpWf3kmcZdPTgh4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재정이꺼면 무조건 본다",
+        "writer": "UgyQJiXvOnCXczU7Xfp4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 예고편 너무 귀엽네요 광고 많이 들어왔으면 좋겠어요",
+        "writer": "UgxqTzl4UDkIEfwi9_54AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넘 궁금하네. 누구 선물샀을지.",
+        "writer": "Ugy9N7RenJXjrtsWyHB4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재정(이름) 다음주까지 행복하게 기다리겠습니다.",
+        "writer": "UgzxQI8AubwG_eeymNF4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번예고편은 본방때 절대편집마세여매번편집 체크셔츠넘이뿌시다 (이름)",
+        "writer": "UgxM8YOVAlljLSid56d4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 첫 광고 축하해요 왠지 (이름)께 선물 하셨을거 같은데 (이름)과 키님도 기대기대합니다",
+        "writer": "Ugw8ff8eD54q7QeZqUp4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "키 (이름) 기안 다좋아 다좋아 맨날 이렇게 나와주세요",
+        "writer": "UgzwEMNLvAKeM6oxfFd4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재정아 돈 쓸때는 써야돼, 그래두 너무 쓰지마",
+        "writer": "Ugx-nhSnOxW1W1WMiCR4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 만세를 저런 격한 리액션 첨 보는거 같아욬 키안브라더스재정의 플렉스 둘다 꿀잼일거 같음",
+        "writer": "Ugx1P9w-PNTVrvGe_e54AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "담주 넘넘 기대되요",
+        "writer": "Ugz-Ua5VqmgaL7c1Vnp4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 기범이 요리하는 거 나오겠네 .. 이번에도 유행하는 거 아녀",
+        "writer": "UgwMQ_6d3m9pUPB4vvF4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기범이 뉴 진짜진짜 바빴다 하나둘씩 컨텐츠 뜰때마다 너무 고맙고 행복해.. 상환전문아이돌 (이름) 건강만하자",
+        "writer": "Ugw8KNZbBojOOfxWna54AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 광고 축하(이름) 8년만에 광고 찍고 효도라니, 감동입니다.",
+        "writer": "UgyROEGKv7Zo0h-WUdB4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "축하합니다 박(이름)",
+        "writer": "UgwgRC5XaETt-wm_3Jd4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "박(이름) 인성갑 담주 기대할게요",
+        "writer": "UgzlYq92vu6R_nObwox4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)비니 천국",
+        "writer": "Ugyd2opCPB-OBLK35Qd4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 귀여워",
+        "writer": "Ugw_IwR5v6qsY3VcCBp4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "검소한 박(이름) 과연 얼마나 플렉스 하셨으려나,",
+        "writer": "Ugx4uXct1ZjB6bw3O-N4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우티스트 전속모델 (이름)카드 한도 좀 높여요. (이름)과 키님 에피도 너무 재밌을듯 기대기대. 다음주 금요일 눈치껏 빨리 와라",
+        "writer": "UgxjC7xg06L9wn7Qu894AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재정(이름) 플렉스 하고 왠지 (이름)한테 효도하는거 나올거 같은데 아직 안봤는데도 뭉클, 잘되서 효도하는거 보기 넘 좋음",
+        "writer": "Ugz2sv0-0PJfnOVVC3t4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "결국 키랑 기안 코드 무무상회에서 못찾아서 사러갔구나 맛있는거 머먹을지 기대됨",
+        "writer": "UgzBjF4d7BFp8cA4oWd4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)(이름)이 본방사수 각이다",
+        "writer": "UgxhTkM29E9d0lrQ-p94AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "폐지해라 이제,",
+        "writer": "UgxW2SIhHmXAWL_xXiR4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 범키.",
+        "writer": "Ugyw3II09zYTw1GmfAh4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "담주 기다려진다 (이름) 볼 생각에. 그리고 광고 들어온다니 내가 더 기쁘네요 추카추카요",
+        "writer": "Ugzh6nnaezOjT2hqvUR4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 귀욥네요 다음주 기대기대",
+        "writer": "Ugyoi-Xd8O7nyLyDjNh4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 나오는거 보고싶다",
+        "writer": "Ugwg9cLLNnpMhssI7QN4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 걔 하차안하냐",
+        "writer": "UgyV47vVm0oU2x7RQr14AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "냉장고 저거 그냥 갖다 버리는게 낫겠다 코드세개연결뭐여",
+        "writer": "UgwtRs7eQKMTW91xMJ14AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와(이름) 첫광고, 다음주 기대됩니다",
+        "writer": "Ugwmpw26SCnORegFHp94AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기범아 진짜 바빴을텐데 나혼산도 촬영한거야 예능도 앨범도 콘서트도 음방도 최선을 다해서 준비하는 사람이라 진심으로 존경스러워, 요즘 매일매일 볼거리가 넘쳐 늘 너무 고마워 덕분에 행복해",
+        "writer": "UgwarnWPZRdQ9KqUE5J4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다음주 너무 기대돼요 매력초과 (이름)",
+        "writer": "UgzYmJy8Lvi7WquAZ2B4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꼼가 너무 귀여워 바쁜시간 쪼개서 전파사 같이 가줬구만 요리하는 기범까지 다음주 기대 중",
+        "writer": "Ugxzi1HxTfhQ9-V5qKd4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "키 여론 의식했네",
+        "writer": "Ugwvu89VSKfYfBFbW6p4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 왤케 , 안그래도 스케줄 빡빡했을텐데 나혼산은 언제 또 찍었대 몸이 열개야 증말 그래두 기범 열일해주니 덕분에 너무 행복해 재밌는 시간 보낸 거였음 좋겠다 (이름) 에피도 기대기대",
+        "writer": "UgxCj7kO6XB9Da56Nch4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (비속어)야 빨리보고싶다 담주",
+        "writer": "UgzSUn3OX9-nYcA0wxp4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기(이름) 키랑 뻗어서 자고있는거 왤케 웃겨",
+        "writer": "UgwWuGBgpWQf1LBX2Ax4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기범 음식 나도 먹어보고 싶은 _ 항상 건강해야해..",
+        "writer": "UgyGLydrSea0Q0fyYBR4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "짱기범 사랑해 울옵은 뭐든 알아서 잘하겠지",
+        "writer": "UgwI86s6So8fuL_lG2d4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기범이 바쁜 와중에도 찍었구나, 다음주 나혼산도 기대할게",
+        "writer": "Ugw2INlOfYArLOUx8Fx4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전파사 갔다가 키가 기안에게 요리해주는 에피라니..... 게다가 (이름) 플렉스까지 담주도 존잼각",
+        "writer": "Ugw-pBJNcenojBT_Wax4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 바미 비니 너무 cute다 ,",
+        "writer": "UgwGqyqDaFw0_nT6XU94AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무슨 여론 의식요 작가들이 써주는 예능에 과몰입 하지마세요 나혼산도 ppl도 엄청 많더만. 그안에서 하는건 본인들일지어도 오늘 무지개 식구 중 누구 만나 놀고 이런건 다 설정일텐데,",
+        "writer": "Ugwvu89VSKfYfBFbW6p4AaABAg.9TFGwjy_v_h9TFypMA1HIT",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연예인 못 까게 될까봐 또 헐레벌떡 으이구 으이구",
+        "writer": "Ugwvu89VSKfYfBFbW6p4AaABAg.9TFGwjy_v_h9TG7zk6epyA",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "으이궄 이런놈한명쯤 있을줄알았다",
+        "writer": "Ugwvu89VSKfYfBFbW6p4AaABAg.9TFGwjy_v_h9TGFmUhhmlz",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 대댓글들 봐무지성 (비속어)들이래서 (비속어) 정치인들이 계속 활동할 수 있나보다",
+        "writer": "Ugwvu89VSKfYfBFbW6p4AaABAg.9TFGwjy_v_h9TGcZasLBMJ",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기안도 버린 기안신랑이 여기있넹",
+        "writer": "Ugwvu89VSKfYfBFbW6p4AaABAg.9TFGwjy_v_h9TJ4tD2G0lS",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대장프릭 님 타가수 이야긴 해요 우리",
+        "writer": "Ugwvu89VSKfYfBFbW6p4AaABAg.9TFGwjy_v_h9TJ4xqIJ2EH",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "알못알못 아이구 (이름).많이 서운했나보다, 네 님도 꼭 님이 좋아하는 그런 남자 만나시길 바라요 아 만날 순 있나 응원할게요",
+        "writer": "Ugwvu89VSKfYfBFbW6p4AaABAg.9TFGwjy_v_h9TJ5_Iwc0w6",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "님같은 사람 만나는 것보단 1000000배 좋지 모두가 그렇게 생각할듯",
+        "writer": "Ugwvu89VSKfYfBFbW6p4AaABAg.9TFGwjy_v_h9TJdaz9mz23",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "알못알못 네 님두여",
+        "writer": "Ugwvu89VSKfYfBFbW6p4AaABAg.9TFGwjy_v_h9TJe2eLkXqu",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기안신랑단 1패 완.",
+        "writer": "Ugwvu89VSKfYfBFbW6p4AaABAg.9TFGwjy_v_h9TJhqK1Wk5g",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기범이 비니 귀엽다",
+        "writer": "UgyQpqtJJc5eLAgu4a94AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기범이가 만든 음식 궁금 바쁜 컴백 스케줄들 와중에 형이랑 전파사도 다녀오고 즐거운 시간됐길.",
+        "writer": "UgyFACnz-ILMcdnAwAx4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)의 플렉스를 받아줄분은 (이름)인가 효자재정승승장구 하길 바랍니다 요즘 나혼산 넘 잼있어요 (이름) 키님 케미도 기대되요",
+        "writer": "UgzyVTqp3urin7-sL3l4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꼼데가르송 신난거봐너무 귀여워",
+        "writer": "Ugx25BlZn9HHFzliPSR4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "키 아예 고정멤으로 된거임 진심 쟤 나오고 한번도 안봄",
+        "writer": "UgxlqLxjzrf2xeeTQtF4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 (이름) 왤케 귀엽지",
+        "writer": "UgyK_05MHy0KrkmQ7xR4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저건 또 누구냐",
+        "writer": "Ugw9eop_a_J2ln9fEgt4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "키 나온다고 ....",
+        "writer": "UgyNHD85uqoMPG-wyfB4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "첫광고 추카추카 플렉스재정 기대기대",
+        "writer": "UgzDdeyb-esvrGBa3mR4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 첫광고 찍었다고 하더니 광고 찍고 정산 받아서 (이름) 선물 사서 서프라이즈 선물 해주나 누구지 가족들과 식사 하는건가 궁금하다 담주 존잼일듯빨리 보고싶다아",
+        "writer": "UgxZC7TWQNIhvD32bP14AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재정이꺼 나오네",
+        "writer": "UgxtTJkxLivZkJ03J8h4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "키 요리 하는 거 나오겠다 대박 나혼산에서 키범이 요리할 때가 제일 좋아 나는",
+        "writer": "UgzbItnircebPqkx81R4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 광고 추카포카 광고길만 걸어 너무 귀여워 진짜",
+        "writer": "Ugzpme_C68OqqeU3sHp4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기안 전파사 결국 갔넼 게다가 무무상회에서 산 옷 입고감 기대된다",
+        "writer": "UgxPq5eZ0iZX91CsciV4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기대되네요 재미있을 것 같아요",
+        "writer": "UgyZ5DxAFHTF2t9RiyZ4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재정의 플렉스를 받아줘 키안 브라더스 꿀잼각 다음주 빨리 보고 싶다..",
+        "writer": "UgzDXN-ALgjaGhP3Omx4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아버님 일거에여 아버님이랑 촬영햇다는 얘기들은듯",
+        "writer": "UgzyVTqp3urin7-sL3l4AaABAg.9TFDIk1EpaU9TGL_05-x_l",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "y.k Kim 아 글쿤요 감사합니다",
+        "writer": "UgzyVTqp3urin7-sL3l4AaABAg.9TFDIk1EpaU9TGNxN7Za__",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한번 도 안봄 말을 재는 왜 여기서 난리야 (비속어)",
+        "writer": "UgxlqLxjzrf2xeeTQtF4AaABAg.9TF8WlHAzMn9TFBZ3kOO9b",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고정임 그니까 님 안봐도 됨 관심 꺼도 됨",
+        "writer": "UgxlqLxjzrf2xeeTQtF4AaABAg.9TF8WlHAzMn9TFKwHM6bwm",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 쟤 나오고 보기시작함 쌤쌤",
+        "writer": "UgxlqLxjzrf2xeeTQtF4AaABAg.9TF8WlHAzMn9TGSP8Anxxr",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "님 하나 안봐도 상관없음",
+        "writer": "UgxlqLxjzrf2xeeTQtF4AaABAg.9TF8WlHAzMn9TGTuFuxIiQ",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네니오님 왜그래요 많이 서운했나보다,",
+        "writer": "UgxlqLxjzrf2xeeTQtF4AaABAg.9TF8WlHAzMn9TGcsw9OphS",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "님이 백번을 보던 한번도 안 보든 여기 궁금한 사람없음",
+        "writer": "UgxlqLxjzrf2xeeTQtF4AaABAg.9TF8WlHAzMn9TVprWLo7wZ",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "많이 서운했나보다",
+        "writer": "UgzbItnircebPqkx81R4AaABAg.9TF5gyBG1vK9TGcm81sKyr",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기안도 버린 기안신랑 포획",
+        "writer": "UgzbItnircebPqkx81R4AaABAg.9TF5gyBG1vK9TJ4kdVPq9k",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "알못알못 아이구, 많이 서운했나보다",
+        "writer": "UgzbItnircebPqkx81R4AaABAg.9TF5gyBG1vK9TJ5d0MM8o-",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=AEqXsFBs2pA",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

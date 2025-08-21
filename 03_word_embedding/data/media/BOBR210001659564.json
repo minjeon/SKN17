@@ -1,0 +1,740 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001659564",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001659564"
+    },
+    "text": [
+      {
+        "content": "이제 셋째도 있는데 다시 한번더 출연합시다 리리남매너무 보고싶어요",
+        "writer": "UgxNe6WoXdyQYrzK75x4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사람들 진짜 못됐다 굳이 예쁜 애기들 나오는 영상에서 남의 집 애들 타령을 해야 하나,",
+        "writer": "UgxbT7dYQRL9Oj-ebF14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리아리현 누나가 심쿵했쪄 슈돌만 기다려요.",
+        "writer": "UgzxQxq1nWuGbulSDU94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엥 리현이 리아 너무 귀여워 죽겠는데 맨날나왔으면 좋겠는데 댓글들 보니 반응이 썩 좋지는 않네요,",
+        "writer": "UgwCitmNMp59FeNq5Ap4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘본방 그닥 리현 보다 오리로갔음",
+        "writer": "UgxUloTm5zLo28O6Prp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리현똥그만하고 하오 나와라오바",
+        "writer": "UgxhrcXa1koNr4-XndZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오가 빨리나오면 좋겠다",
+        "writer": "UgxfWHNBrEA7Z2ZXe8h4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엥 난 새로운 가족이 훨씬 좋은데 맨날 보던것만 보면 지겨움",
+        "writer": "Ugz0WUwmz7TYIMsxvMB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넘 귀엽고 사랑스러워요 ...",
+        "writer": "UgxDf-Z32V_Md1QIpBp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리아 리현이 진짜 너무 이쁘고 귀엽고 잘생김 리현이 표정 핵(비속어)다 진짜",
+        "writer": "UgzQ6Xlr_lM0oSFE7QV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "솔직히 윌벤이 죽어가는 슈돌 다 살렸는데 분량은 젤 없고 , 이건 뭔 논리인지 모르겟네",
+        "writer": "Ugx_0xmSf7Yk4TqbEfN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "새로운 가족들 뽀뽀 많이 하드라구요",
+        "writer": "Ugw7HMLF8c7nYJKFIut4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "새로운 아가들 보는 것도 좋지만 기존에 나오는 애들 분량 늘려주세요 특히 슈돌 캐리하는 윌벤네요, 그래도 리리남매 귀여워요 )",
+        "writer": "UgxZgZJDWRGjHu_Ksox4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리현이 너무 귀여워",
+        "writer": "UgwHsADU5M717WFCJOt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애들 너무 예뽀",
+        "writer": "UgzK0zthI-6USrpdCVZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애 들이 정들만하면 아기를 바꿔요 그리고 슈퍼맨인데 부부가 뽀뽀 를 자재하면좋겠어요",
+        "writer": "UgzcpowhVqw_4f9hr5l4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌 벤저스 분량 늘려 주서요",
+        "writer": "Ugw7HMLF8c7nYJKFIut4AaABAg.96J4FelP9X696J4MZjH4o7",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애네들거 재미없어요 윌 벤저스나 하오 틀어 주세요 계속 얼굴 비비고 그게 저녁 보는 시간에 가족끼리 민망 했어요 할아버지 할머니들이랑 보면서",
+        "writer": "Ugw7HMLF8c7nYJKFIut4AaABAg.96J4FelP9X696J56zqpF-a",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐라고 뽀뽀를 하든 말든 뭔 상관임 부부가 뽀뽀하는게 얼마나 보기 좋은 데 . 넌 뽀뽀 안 해봐서 모르지, 남 뽀뽀 하는 거에 대한 댓글에 안좋은 말 언급하지 마라,",
+        "writer": "UgzcpowhVqw_4f9hr5l4AaABAg.96HdH4EBByq97OF_bprQah",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "새로운 가족분들이 서운하겠네",
+        "writer": "UgwWmrqM1bEoxNK49q94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "샘만 쳐내고 다른가족 들여와라 이제. 걔네 지겹다 아주",
+        "writer": "UgzuYkc-OFBByGELlg14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리리 남매도 귀여운데 댓글",
+        "writer": "UgwjOa1OX6OOm4_k_hh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 예뿐가족이네요 긔영킹",
+        "writer": "UgylOkC-daeaMgzAjPZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하, 짱귀여워 둘다.",
+        "writer": "UgyYLrerLN1XGKv_aL94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리아 리현 너무이뻐요 눈에 넣어도 안아프겠네요 예쁜모습 오래 오래 보여주세요 하오 연우 잼잼이 밴(반사회적용어) 윌리엄 슈돌출연 꼬맹이들 너무 너무 이뻐서 본방사수",
+        "writer": "UgygQSfKMe0jWRbtT754AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌벤 챙겨보느라 오늘 본방 봤는데 리현이 진짜 표정 대박 귀엽 , 애기들 먹는거 야무지고 둘다 귀엽고 착하더라 흐엉",
+        "writer": "Ugy6E3I0bsDtQF-JGtp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리리부부 스킨십. 지나칩니다 개토나와요 아(이름) 행동에 촛점맞추세요.",
+        "writer": "UgzfjOJfoInOsdKnTJB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맨날 새로운가족.슈퍼맨이 궁금하다면 (비속어)",
+        "writer": "Ugxl3wAhPiOfbFR97Sd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌리엄 덕후이긴 한데 라원이랑 잼잼이 파트 제일 심각합니다 도플갱어는 조금만 줄여 주세요 저번에 1부 내내 도플갱어만 나온 거 알잖아요",
+        "writer": "Ugzt4YLDfLnbtQTmcfB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "새로운 아가들두 좋긴 좋은데 원래 나오던 애들이나 분량 쫌 올려주시죠 윌벤져스 건나블리 라라자매 하오 잼잼이 제발요 분량쫌 고르게 합시다 솔직히 연우네 분량 너무 많아요 그냥 윌벤져스 건나블리 라라자매 하오 잼잼이 도플갱어네 까지만 나옴 안될까요.",
+        "writer": "Ugyh0tLZuUunp8pMOzh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오나 늘려주세요 제발 ,",
+        "writer": "Ugz-eiYtqzFZw7MXhgN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은아 건후야 빨리 돌아와랑 보고 싶다",
+        "writer": "UgwinySjBn5y17i_97p4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "먼가일본아기처럼 생겼다",
+        "writer": "UgxIItrVzVWWcn5Lu5x4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "있던 가족 분량이나 좀 늘려주세요 계속 새로운 가족 등장 (반사회적용어)면서 간 보지 말고",
+        "writer": "Ugyqo8VnwUwwDOwu79d4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 이러게 새로운 가족이 나오는 거죠,",
+        "writer": "UgznaS9pbZG5Nev718h4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "월드컵에서 골 넣은 (이름) 선수",
+        "writer": "UgxGKOAry-q7X25UbYp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다들같은생각이구나, 윌벤더마니보고싶어요 자꾸 새가족 들쑥날쑥 점점재미없어요",
+        "writer": "UgwGhX1jrw_knnJqELp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "라라자매의 분량 어디세요",
+        "writer": "UgzCFhcy6WJ-u9TRTn14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댓글 심하네 심해.",
+        "writer": "UgzuYkc-OFBByGELlg14AaABAg.96G3h4LsPa697OFu9jmFAa",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여러가지 하는 사람. 여러가지 하는 사람. 외국인이 몇년씩 쳐나오는걸 왜 봐야함",
+        "writer": "UgzuYkc-OFBByGELlg14AaABAg.96G3h4LsPa697OIe0UFASh",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 처음 댓글의 말이 좀 심.",
+        "writer": "UgzuYkc-OFBByGELlg14AaABAg.96G3h4LsPa697OJIEjD3-a",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "별 뽀뽀가지고 유난이네 사랑 못받아봤나",
+        "writer": "UgzfjOJfoInOsdKnTJB4AaABAg.96DofXdPbtG96IYGtkOOUq",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "심동란 그래 잘 토해라. 남 뽀뽀에 대한 지나친 글이군",
+        "writer": "UgzfjOJfoInOsdKnTJB4AaABAg.96DofXdPbtG97OFmRMOeUj",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뉴가족 환영합니다",
+        "writer": "UgxOFYqhtHeLHnYRXmZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "라라자맨줄 알고들어왔는데 리리남매네",
+        "writer": "UgycGt(반사회적용어)UHuFK8nP4xl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제발 나왔으면 했는데 드디어",
+        "writer": "Ugzj-2LYFFIeq1VhP5N4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오 너무 짧게 나와요.",
+        "writer": "UgwwZYrZFnfGksHCus94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이쁜건후, 보구싶다",
+        "writer": "UgzMkn-eo129vjKLkwt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이들이 넘넘 귀엽네요.",
+        "writer": "Ugx9FhStvjjIg_Iv82p4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건나블리 보고싶다",
+        "writer": "Ugz5CCj4_7HeT53Xb9h4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 새로운 가족 나오는거 좋은데 뭐 이렇게 자주 나오나요, 차라리 기존에 있던 애들 분량 늘려주세요, 특히 라라네랑 잼잼이요,",
+        "writer": "UgzM-woSUKP8SZ7A0NZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "새로운 가족 나오지 말고 그냥 윌벤 하오 라라 자매 잼잼이 등 그냥 원래 있던 가족들 분량이나 늘려주세요 제발 , 새로 나오는 가족 보는 것보단 원래 있던 애들 보는게 훨씬 나아요.",
+        "writer": "UgwJgUFqROIVa6BMdGR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 대박 (이름) 선수 나오네",
+        "writer": "UgyeUiFKdH7H9zIxckt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잼잼이 보고싶어요, 왜 맨날 잼잼이 분량만 적은건지,",
+        "writer": "UgzbmEVOfQK7GHBQ2E94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도경완네 애가 커서 대본대로 잘 움직여준다고 분량이 그렇게 몰빵인건지 (이름)도 좀 작작 출연시켜요 이 정도면 슈돌이 아니고 살림남아님",
+        "writer": "Ugw7V3Yk2x_XP2Ta7ql4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 원래나오던애들 나오는게 좋은데, 그만늘리고 원래나오던애기들 보여주세요",
+        "writer": "Ugyfb4BVJFLd8TZNsyx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "새로운 가족 영입하셔도 좋은데 지금 있는 애기들 분량 늘려주세요 그리고 나레이션은 한명 있으면 충분합니다",
+        "writer": "UgwJ92yL7t-6oniMaot4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얘네혹시 건나블리 대신에 나오는건가",
+        "writer": "UgzH-hnTa2xerjlp9uJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "물론입니다, 저도 이미 출연하고 있는 아가들 더 자주 보고싶어요, 근데 아가들 컨디션에 따라 촬영을 결정하거나 촬영 스케쥴이 조정되기 어려울 수도 있지 않을까 생각은 드네요,",
+        "writer": "UgwJgUFqROIVa6BMdGR4AaABAg.966Gl7QZRIU966NSdPykmS",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엉아 아 그건 또 맞는 말이네요 ,",
+        "writer": "UgwJgUFqROIVa6BMdGR4AaABAg.966Gl7QZRIU967PhWhndMM",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 인정이에요 KBS새로운 아이들 말고그 도형이 빼고 예네도 다시 빼요 얘네 재미도 없을거 같아요 KBS슈돌 하오 윌벤져스 잼댐이는 좀 빼고 그 개그맨 잼잼이가 놀러간데 그남자아이하고 하오 건나블리 스위스 오면 한국오면하오 윌벤져스 건나파블리 문희율이 놀러간 남자아이네 만 해줘요 새로운애 있음 재미없음",
+        "writer": "UgwJgUFqROIVa6BMdGR4AaABAg.966Gl7QZRIU967Y44GGxTj",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너만그래요 그러니까 (비속어)보세요 제작진들맘입니다.",
+        "writer": "UgwJgUFqROIVa6BMdGR4AaABAg.966Gl7QZRIU96L8PjY6ypW",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 저기요 그렇다고 대놓고 말하시나요 잼잼이 좋아하는 사람이 이거를 보면 어떻게 생각할까요",
+        "writer": "UgzbmEVOfQK7GHBQ2E94AaABAg.9666Wyeq24N968ABsmKBoZ",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건나블리 대신에 하오 나오는거 아니였나여",
+        "writer": "UgzH-hnTa2xerjlp9uJ4AaABAg.9662aeNhDjh96681QVlLBy",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "루요 그건 잘 모르죠 새로 합류하게된 가족일수도 있잖아요",
+        "writer": "UgzH-hnTa2xerjlp9uJ4AaABAg.9662aeNhDjh9668rcTlqbH",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 누구지",
+        "writer": "Ugx1F2OJRHZEl3O7a_x4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그만늘려 월벤빼고 다보기싫은데 왤캐 (비속어)한짓만 골라하나몰라",
+        "writer": "UgyI2KcAM14aH3rPzbp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "노잼각, . (반사회적용어)나 내놔 애기들 넘친다넘쳐",
+        "writer": "UgxyZXufnw8d_nM9-9N4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭔 매주 새 가족이 나와",
+        "writer": "UgyEqZNxWmW8GOitEmx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후 보고 싶어요",
+        "writer": "UgxT5kxLQRTth-dcXGx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 애기가 너무 귀여워용....",
+        "writer": "UgzG-WPT39CCkxjHSKB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "솔직히 새로운 가족 단기간 나오고 바로 빠지는거 보기 싫습니다",
+        "writer": "UgxvgkQ5bf47W_oXmSN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이집도 엄마출연하나보너(비속어)",
+        "writer": "Ugy90tBxCjmVzAox7VF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "로희 다시 나왔으면,",
+        "writer": "UgxFIpnVTU0PQhLzSB14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "새로운 아가들도 좋지만 원래 아기들 오랫동안 해주세요",
+        "writer": "UgzJaqohsZPItOxkqwJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "새로운 슈퍼맨 영입하셔도 좋은데 너무 다른 애들 분량 뻇고 예전는 대본 누출까지 하셨고 갈수록 태산이네요 슈돌",
+        "writer": "Ugxn9AIqjAOdkwu-r3h4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얘네 소개하고 도연우네 집 방송하는데만 한시간 반동안 하고 나머지 아가들 삼십분동안 쪼개고쪼개서 나올꺼같은데분량편차 오질듯어으 그러지 맙시다 생각만해도 화가나네요",
+        "writer": "Ugw3wFlDfl79dBqxH8R4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)씨 환영해요",
+        "writer": "UgwBJO17aZ7FPXOTEN54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 있던 애들이나 잘 보여주지 왜자꾸 늘려요, 하,",
+        "writer": "UgxUN0Qmhad7pqRN4C14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잠만 (이름) 선수아님",
+        "writer": "Ugz5pd9uRc1CI_kiBM54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인정요 , , 건나블리 나가고 4가족이나 1주마다 나오잖아요, .",
+        "writer": "UgyI2KcAM14aH3rPzbp4AaABAg.9661gDkLvIS9667yqWJLiW",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다른 가족들은 스페셜로 한회만 나온 거고 이번 건 고정 멤버라고 하네요.",
+        "writer": "UgyEqZNxWmW8GOitEmx4AaABAg.966-Q9oinl996OG_ivaAfb",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그니까유있는 애들이나 좀 분량내주지",
+        "writer": "Ugxn9AIqjAOdkwu-r3h4AaABAg.965tkEgZPMo965vRzjx9fq",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머랭로댕 그니깐요 안봐도 훤해요 참..",
+        "writer": "Ugw3wFlDfl79dBqxH8R4AaABAg.965rl-E0m2p966-rYAejJz",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그런것 같기도 해용",
+        "writer": "Ugz5pd9uRc1CI_kiBM54AaABAg.965rEd5Efxr966HSfEb9fq",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 왜 자꾸 가족 늘리는거임 지금도 분량적은 가족도 많은데미쳤어윌벤져스나 분량 늘려도플겡어 윌벤져스 강부자 나블리네만 나와도 빡빡한데 글구 도플겡어 분량 좀 줄여 작작하길",
+        "writer": "Ugx7sGcUvAGWIVd0ZWt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 슈돌 윌벤이나 지금 캐리하는 얘들이나 분량 늘려요 새로운 가족만 계속 데려오고 딴 얘들 분량이 너무 작잖아요.",
+        "writer": "UgwdpepBLt6JAkeHuqF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예강 그런의도로 말(이름)니었는데 기분 나쁘셨담 쇠송합니다",
+        "writer": "Ugx7sGcUvAGWIVd0ZWt4AaABAg.965qgGA3bzu96ADxkBCngE",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잡덕 윤 틀린말도아닌데 뭐",
+        "writer": "Ugx7sGcUvAGWIVd0ZWt4AaABAg.965qgGA3bzu96BBrlHTEgP",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "작작이라뇨, 뒷북 죄송하지만 가족들이 이런 댓글 보면 무슨 생각 하겠어요,",
+        "writer": "Ugx7sGcUvAGWIVd0ZWt4AaABAg.965qgGA3bzu96pvmE_XS-o",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "새로운가족만 늘어가고 기존애들은 아예 안나오거나 쪼끔 나오고. 솔직히 라원이네는 언제봤는지 기억이 안나네요",
+        "writer": "UgwdpepBLt6JAkeHuqF4AaABAg.965qY0DSeES965tKiT6nMf",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=R3Bfry3oSw4",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

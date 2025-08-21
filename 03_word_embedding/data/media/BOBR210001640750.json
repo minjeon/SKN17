@@ -1,0 +1,668 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001640750",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001640750"
+    },
+    "text": [
+      {
+        "content": "웃지님 저 이거 보고왔는데 눈물났오용 흑흑 진짜 좋은영화만 계속 추천해주셔서 감사해요 재미있어요",
+        "writer": "Ugz3qgJ6C_S_ruqnlPN4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀여운 비행접시가 날(비속어)니고 아기를 낳네 하면서 봤었던 어릴적 기억이 나네여",
+        "writer": "UgzPMdcK-xuA3_OAGc94AaABAg",
+        "write_date": "2021-11-14",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "87년도에 저정도 CG라니 대박..",
+        "writer": "UgxTT12M5hoO0_3aR314AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저거 진짜 해리가 다한거임",
+        "writer": "UgyqDJhY8ismHWkMqXV4AaABAg",
+        "write_date": "2021-01-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 우주선안에 작은 생명체들은 뭔데 우주선에 자아가 있어",
+        "writer": "UgyXbc6BTF_dgeBngP54AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "토요명화 인가 주말에 명화에서 본 추억의 영화 정말 잼있게 보았죠 가끔씩 생각 나는 거 보면 이티랑 비슷한 느낌이였던 거 같아요 전 덩치큰 (반사회적용어)이 인상적이였어요",
+        "writer": "Ugy7b-OCXmh0s1bTr-x4AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 예전에 문방구에서 관련 장난감도 팔았던걸로 기억이나네요 아카데미였나 가물가물,",
+        "writer": "Ugxk9Y_6Fs4v21Jui_V4AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 학교에서 감상문 써오래요",
+        "writer": "UgyCqufBNp1AhyObDr14AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "상남자식 낙담",
+        "writer": "Ugxy_bPwIZmAhKShgxd4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어렸을때 (이름)하고 극장에서봤어요 애기로봇트보고 귀여웠던기억이,",
+        "writer": "UgxYj6mycIcpcpXttQV4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내인생 역대 최고의 명작중에 하나...",
+        "writer": "Ugz9mdZMpdEFbfeUTGx4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "로봇 그림 그리는데",
+        "writer": "Ugy8BroBqa9AqAzlMvR4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저것 진짜 잼나게 봤는뎅",
+        "writer": "Ugys7qPgbRBTVnZzFit4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "8번가의기적 귀여운 착한 우주선",
+        "writer": "UgwzScMFBI0rvNk4mdh4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 이거봤어 우와나 이거 봤 다 고. 언제본(혐오표현) 우와",
+        "writer": "UgzA_W9g0WMzc_AQ1SV4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아빠우주선 안돼에",
+        "writer": "UgwMupITbZODMVe1OSt4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 제목이 뭐예요",
+        "writer": "UgyUSI5OnQsf0_OfAJd4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "용역(반사회적용어)들을 몰아내자 전기요금 징수원들이 처들어온다 컴잉순",
+        "writer": "Ugw1WQxZAZKJoFExUHV4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쩨쩻토토링 항상 재밋게 보고 잇어요....",
+        "writer": "Ugz3qgJ6C_S_ruqnlPN4AaABAg.8eFhRsChkSw8eGw4RSbQ2p",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아기우주선 귀여워미치겟다 심장 아팤 키우고싶다",
+        "writer": "Ugy7EmF4FG8lxdSEOxR4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보면서드는 다른생각 전기세가 너무 걱정되는데, 노인둘사는데말이죠",
+        "writer": "Ugz5tdnGPA5ojtcd26J4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "으아 너무짱귀다",
+        "writer": "Ugz_i7FBv5jmeQn-0f54AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 재목이 8번가에기적이던가",
+        "writer": "UgzFCt8g9rooWrneonR4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "플러버에 나오는 위버 닮았다 (반사회적용어)때 보구 저런 애완동물 키우는게 소원이었는데, 막판에 감동쩔어 (반사회적용어)아찌는 좋은 행님이였어,",
+        "writer": "UgyBfEVVt8RJaC0d11J4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "결말, 결말을 알려줘, .",
+        "writer": "Ugw-2H5QPG_Pr69xzot4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어) 인성",
+        "writer": "UgxQfAu5o5FV0U7Q5MV4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 영화제목 뭐임요",
+        "writer": "Ugxp_lIHjsB-hJGyMWF4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 (비속어) (비속어) 귀여워,",
+        "writer": "Ugwn_76-9rZ7FPEPpyZ4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아, 저 (이름) 너무 좋아해욧",
+        "writer": "Ugy5qfyMM3zzgIV9a-94AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하트 내놔요",
+        "writer": "UgyCVcFpMMui5rpEaTd4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "용역은 어디든지 문제야",
+        "writer": "UgxMLexu7hcZbMyngt14AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이야 이거 당시에 비디오로 빌려보고 정말 좋아했던 작품인데, 까맣게 잊고 있었네요 덕분에 잃었던 소중한 추억 다시 찾은 느낌 다시 함 찾아봐야겠네요",
+        "writer": "Ugw9t2qws2PQIBO3C9R4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와깡페 나빠",
+        "writer": "Ugxnb0zq3Mm0WuMocPx4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 시절때 한국은 (반사회적용어)운동을 하고있는게 (혐오표현)이네",
+        "writer": "Ugzj-qIFjRDguqRz3MN4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어렸을때 비디오 빌려서 가족다같이 본적 있었는데. 추억의 영화네요.",
+        "writer": "UgwKmPVOiSEk4PSuPBV4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "새로운 장르에 귀여움이닼",
+        "writer": "UgwkBkZ9tGTOzGP9gdN4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어릴때 진자 잼있게 봣는데",
+        "writer": "UgxMw-wz84-39B5mOEt4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우주선 개커엽",
+        "writer": "Ugyv-7KFMpOFA4bnwUZ4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아마 8번가의 기적 일거예요.",
+        "writer": "Ugxp_lIHjsB-hJGyMWF4AaABAg.8fIxvGws4b58pb3xF5nD0W",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무장 (비속어)(반사회적용어)",
+        "writer": "Ugzj-qIFjRDguqRz3MN4AaABAg.8erNF7MQ5-c9OC8acL8lrn",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "문과가 또,",
+        "writer": "UgwBRsgXP87_VPxomaB4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어릴때 잼있게 봤던 기억이",
+        "writer": "Ugy6SqbLjfTWvdYN_-B4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀, 엽, .",
+        "writer": "Ugw2FIN1vZkSeh6RXNJ4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "외계인 나오기전까지 시간이 오래 걸림",
+        "writer": "UgyCjNzkK7irRUTQBDp4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저따 기관총달면 골리앗",
+        "writer": "UgxkPNq9LW3Gm9vRXUV4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄마가 아빠 고칠듯",
+        "writer": "UgxgV0FOGQCF-19DEf54AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현시대 (이름)는 나올수없는 영화 대단하다 스필버그",
+        "writer": "UgzMQU2RvdSRq0Q7f6F4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어떻게 될거같냐고요 당연히 개뻔하죠 저 아빠 우주선은 살아나고 행복하게 잘 살았답니다 끄읕",
+        "writer": "UgzjDPphehtrOE8zBM14AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저런 영화가 나오는 시기가 있었죠. 낯선 존재에게 우호적인. ET도 그랬고요. 잘 봤습니다",
+        "writer": "UgwbEB-iqJ0fV2pZJcp4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 되게 어렸을쩍에 봤었는데",
+        "writer": "UgynakhnabB9sHCbdid4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 이거 세상에 완전 애기때 본건데 엄(비속어) 녹화해줘서 봤었음 대박",
+        "writer": "Ugz-5EzJx_FClEnDSFR4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미니건 은 거떨까요",
+        "writer": "UgxkPNq9LW3Gm9vRXUV4AaABAg.8ebY9H1j25I8ebmGG6kuFn",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연어 프로필 애니원작이 무슨애니죠 남주가 기억나려고 하는데 안나네요",
+        "writer": "UgzjDPphehtrOE8zBM14AaABAg.8eT_NbUvXUg8elEc_Xu1VN",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모바일게임 히나타랑 보루토아닌가",
+        "writer": "UgzjDPphehtrOE8zBM14AaABAg.8eT_NbUvXUg8f0lo2q6NIQ",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 우주선들 엄청착하다, 근데 아빠우주선이,",
+        "writer": "Ugzi_hbHPEKCH5O8PRt4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 별생각없이 봤는데 좋은 작품인거같네요",
+        "writer": "UgzhkgGHGmax8j0z6T14AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전기세 도둑, ,",
+        "writer": "Ugz94e7YdP1vDy4tEmF4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 늦었다",
+        "writer": "UgzLW3lNXznSs1SZR6h4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우주선이 웃지님처럼 귀엽네요",
+        "writer": "Ugz5suBVEYQc0XZGZY94AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 11번가의 기적으로 착각하고있엇네",
+        "writer": "Ugws0iNWNdGVed_bJ0t4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1분55초쯤에 뒤에 건물 배경 실화냐 사진이야 역시고전",
+        "writer": "Ugw_CngMWzKwFN1jlc94AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도, .",
+        "writer": "UgyuG-eX8P2S3G4lzip4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전기세 폭탄",
+        "writer": "UgxCnwyMVOhikyqF_sh4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이것87년도 작 맟아",
+        "writer": "UgwGPWHZeCFKmMEbrwl4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "87년작이란게 소름이네",
+        "writer": "UgxMLcb_6km48ratUM94AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요거요거 명화극장서 봤었던거. 막내 UFO엄청 귀여웠죠.",
+        "writer": "UgwPrFwrYvlCMI-vfzN4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 우주선 내가 갖고있는 피규어랑 비슷하게 생겼다",
+        "writer": "UgyvtqSMoBPZZQI9cZp4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "원제가 인지라 게임 이 생각나네요.",
+        "writer": "UgwwOHg7veuztg20GOF4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "알고보니 알파고였던 거임",
+        "writer": "Ugx7__7Or0tIL6xcbA94AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 영화들을 많이 아시는것이 넘 신기해요",
+        "writer": "Ugy92yxW5wgthcmB0714AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기다리는 방송입니다.",
+        "writer": "UgxHuhR9DxCvC3p4ORd4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우주선이 외계인인거야 원래 우주선 안에 외계인이 있지 않나",
+        "writer": "UgxdWXyQ1czmqkeVDet4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이씌 나쁜놈. 빨리보러가야겠다 감사합니다 추천영화",
+        "writer": "UgwN4HLbwGQwunw0Zlh4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "불쌍해 아빠",
+        "writer": "Ugxuba3n0Re_FD94n2N4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기여 자세히 보기",
+        "writer": "UgyA_idIjFnsPycBgDt4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀여운 영화는 땡큐",
+        "writer": "UgwULCYcLaxxU0K6ZYp4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제미있겠다 어제 리뷰한 영화 제미있을거 같았는데 이겉도 몰게요 제미있는 영상 감사합니다..",
+        "writer": "Ugy6qfA2lAjP10dv_rB4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스케일이 작은 (우주선이작은) 영화",
+        "writer": "UgxRNfLHL6Wil9dZYGt4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 드디에 저한테맞는 영화를 찾았네요",
+        "writer": "UgwIkIZ3uzuYokHQS7d4AaABAg",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댓글러 자세히 보기를 누르면 자세히 보기가 나오네 ,",
+        "writer": "UgyA_idIjFnsPycBgDt4AaABAg.8eFV3JRWkXB8eFt8FY4tAZ",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예 스필버그 감독께서 만드신거니까요.",
+        "writer": "UgwULCYcLaxxU0K6ZYp4AaABAg.8eFURyzpAxb8pb4Dtw7P6m",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목소리 너무좋아요",
+        "writer": "UgzUDYzQEI9Mu3fgQbx4AaABAg.8eFTVccfSje8eFTpyCjsdI",
+        "write_date": "2018-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=Op3besYPUp0",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

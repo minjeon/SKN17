@@ -1,0 +1,556 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001659555",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001659555"
+    },
+    "text": [
+      {
+        "content": "너무 많아 손가락이 다섯개인데 너 크게 되겠다 범상치않은 어린이들",
+        "writer": "UgxRSJ1DUWQxqKa6zw94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌리엄 진짜 크게되것나",
+        "writer": "UgxNe7uE4nNubOs_h2F4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "케베이스 맛집인가 혹쉬",
+        "writer": "UgxHnalAbJXv4BLVuzN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "강훈이가 어른들이랑 있으면 작아보이는데 애기들이랑 있으니까 커보인다",
+        "writer": "UgwbxvVhS9qeFrACCcl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "손가락 10개지",
+        "writer": "Ugxj1JhxNeOFWRmVPuF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둘다 어쩜 저리 귀여울까. 심장폭행 윌리엄x벤(반사회적용어) 아부지 애들 넘 예쁘고 예의 바르게 잘 키우시는것 같아요. 애기들 버프가 넘 커서 아부지 이름 까묵. 사랑스런 베이비들. 지금처럼 예쁘게 잘 크렴.",
+        "writer": "Ugzq74UdniwIAZtuoqJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 많아 우리 벤토리가 맞아요",
+        "writer": "UgykYD7c_56WfjYPfXx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "손가락이 다섯개",
+        "writer": "UgzuOGvRF8PFUf0IUtN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "강훈이 헤어졌구나",
+        "writer": "Ugz-vvJvWBVWDA67DT54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌리엄 귤라인. 귤 많아요",
+        "writer": "UgzB27Fmwi_P2u_SxfB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "못 사는 건 좀 많이 많이 하는 게 좋아요",
+        "writer": "Ugwi1mD6DuOPD6_qRoV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌렴어떻게 그렇게 귀여운거얌 사랑둥이 윌렴코로나 조심조심 건강하게 촬영 잘 해줭",
+        "writer": "UgxuNOjxW3H8QKEEcJt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 얘들아 너무 귀여워 내일 모래 꼭꼭 챙겨볼게 사랑해 이쁘게 커줘서 고마워",
+        "writer": "UgwU9iSdFbpd1_OuhZZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "드뎌 벤(반사회적용어) 안 우는 회차 볼 수 있는건가 몇 주 연속 우는 것 같아서 너무 맘 아팟는데 맛있는거 마니 먹구 빵긋 웃었으면",
+        "writer": "UgzWdLcVXSAWcj2DXyV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너 크게되겠다",
+        "writer": "UgyuP7QolqkTdGTGpdt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애기가 애기를 만나따 개기여워",
+        "writer": "UgyAFAWiEJn4_ikHRI14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앜 귀여워 강훈이 나오니깡 좋당",
+        "writer": "UgxysC-fW81N8wvkwnp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "강훈아 너 여친 있지 않았니 더 로맨스에서 있다고 들었는데 언제 부터",
+        "writer": "Ugw2iCFFMwKMyd5WXvt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애기 옆에 애기 옆에 애기네",
+        "writer": "Ugzik6je0RbMNnHMQyR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "강훈이 나오니까 무조건 본방사수 강훈아",
+        "writer": "UgzX_dwQ_sYFfdhN1hR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조회수는 도경완네가 많은데 댓글은 윌벤이많네.",
+        "writer": "Ugy4BOG_yLQ8yareSHt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "반모 앜 큐",
+        "writer": "UgxAwpgjLfA36Q2IKsF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "규라인이 뭔줄 잘모르면서 활짝 웃는 윌리엄 최고로 잼나고 귀엽당",
+        "writer": "Ugy4e7svALlBaX2yvml4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어릴때는 여자친구 남자친구 몇명씩 있다는게 세상에서 제일가는 자랑거리지 여친자랑 커엽",
+        "writer": "Ugx2CXplX2_3aFpx9xd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그와중에 윌리엄 규라인듣고 귤 많아요 이러넼 아 귀여웤",
+        "writer": "UgzO5DrvPccIN_0jdu14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "손가락이 다섯갠데 윌리엄 표정도 넘 예쁘당",
+        "writer": "Ugz6gQBJy-BLsYDADqd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무슨 소리 티저 두개씩 올라오는데 합쳐서 윌벤네 는 41만 도장부부네는 16만이 안되는데요",
+        "writer": "Ugy4BOG_yLQ8yareSHt4AaABAg.96fsxL2avsk96hLxjbFYxC",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난봄이좋아요 조회수 조작하는기분들어서 짜증남 내주변도 윌벤이훨귀엽고 재밋는데 티저가두개씩올라온건몰랏는데 말투 왈케 시비조임 띠껍네",
+        "writer": "Ugy4BOG_yLQ8yareSHt4AaABAg.96fsxL2avsk96nx0BhAu2x",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "필구 아이린 닮은 여자친구 있다고 했는데 어디간건가 설마 hoxy",
+        "writer": "Ugw1-iYtgxu4adEne7p4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "손가락 다섯개 풀 배팅",
+        "writer": "UgwGhpniEeFP0LJhB-l4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤 은 나 챙기래 귀요밍",
+        "writer": "Ugw76_FURCT7GsFo6-N4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "반모 귀엽네 애들",
+        "writer": "UgxjuoahwqB5Ip4kolZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌리엄 너무웃겨 역시 미래 개그맨 120",
+        "writer": "Ugxn5RZCg1mOBqZ-gCd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "강훈이 여자친구 있었지않나",
+        "writer": "UgxjD7YZ-OMMDu9ryvt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "경규옹 나이 드셨네",
+        "writer": "UgwhpSYxrLt6oTLvfgF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "못 말려",
+        "writer": "UgzGpp4np5n_2Ql0PlR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤 오늘도 잘생겼다",
+        "writer": "Ugx7DdTo472WxF4M7n54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "알겠다 왜이렇게 중독성 있지 손가락이 다섯개인데 왜 크게 되겠다뎈",
+        "writer": "Ugw6L47Y0Y9aXsnusa94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자기도 챙기래 야무져 아우 이뽀랒...",
+        "writer": "UgzBFiNhxk5S3W5qID94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꼬맹이들이 나란히 손잡고 걸어가네 진촤 귀여우다",
+        "writer": "UgyXSPHYi1dmAGQtIQF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌벤 너무 귀엽잖아)",
+        "writer": "UgwhT8cSEE35BOwckBV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "펜스토랑 꼭 봐야징...",
+        "writer": "UgwxuCnh1Z75jKxQS254AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어) 넘 귀엽당 너무 많아....",
+        "writer": "Ugw4LAnul2IbSmwf8FN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헤어졌다가 다시 만난다고 슈가맨3 나왔을 때 그랬는데 헤어졌던 시기에 이걸 촬영했나봐요",
+        "writer": "Ugw1-iYtgxu4adEne7p4AaABAg.96fNPe3Eo6u96g5wqvcynu",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찰영때문에 헤어졌다가 (이름)이 다시 고백해서 다시사귀고있음",
+        "writer": "Ugw1-iYtgxu4adEne7p4AaABAg.96fNPe3Eo6u96jSVjAuwqJ",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "손가락이 다섯갠데 왜 한개만 껴어 사랑스러운 윌리엄 벤(반사회적용어) 먹방 기대할게 이모가",
+        "writer": "Ugzbv50PXEecyEPAfHB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "느므느므 구엽다",
+        "writer": "UgyKnZN9QG141-VxraN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형님규라인 커플링 손가락이 다섯갠데 너 크게 되겠다 울 윌리엄 인기많아 좋겠당",
+        "writer": "UgxPkpkQjCZMuvsiMRJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌룜 인기쟁이네 여자친구3명 나보다 낫구나",
+        "writer": "Ugx4240ZdMrCM8Odbhx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "반말하면서 반모(이름)는 필구",
+        "writer": "UgywFTkb_EeLhKZGIQR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뽀시래기들 세명이 나와서 이모심장 뿌셔진다",
+        "writer": "Ugwd-SRWN1uLf3Ie9D14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌렴 최연소 꽃미남 개그맨 . 울 벤토리 형아 여친 너무 많아 할 때 세상 (비속어) 살아있는 인형",
+        "writer": "UgxAl5lWLF4H5CPSQDx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너 크게 되겠다",
+        "writer": "UgwEr7b20xdCmt1XbsF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "손가락이 다섯개인데 인기짱이네 우리 윌리엄 건강하게 잘자라다오 윌벤 사랑한다",
+        "writer": "Ugwgr0rW0VG3zlcmagR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넘 귀여워 둘다",
+        "writer": "UgyH7yYFAl64wLABKZl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤 나 챙겨야 돼 나. 벤은 나도 챙긴다 항상 벤 생각뿐이야",
+        "writer": "UgyP0zoJV-nzw93x7Ad4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너 크게되겠다",
+        "writer": "UgxM7sEqWenIvPJ9-3x4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어) 나 챙겨야 돼. 그럼 우리 소중한 벤 챙겨야지요.",
+        "writer": "Ugxkf0qmQ-JWOKV9xa94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마자마자 윌리엄 재밌어....... 윌벤져스 짱",
+        "writer": "Ugw2QXKJGV0aix245LB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어) 형아친구 너무 많아래. 진짜 똑똑해",
+        "writer": "UgyS-pOdf1yGjSDqhqV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 윌리업 다 컸네 여자친구도 세명씩 친하고 근데 듣고 있던 밴이 너무 많아 아이고 귀여운것들",
+        "writer": "Ugw8kGn075Dx7atEDml4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌리엄 벤(반사회적용어) 너무귀여워",
+        "writer": "Ugx5KubM9D7osu6iRJB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어) 갈수록 스머프처럼 보이는건 나뿐인가, 아가야 사랑해",
+        "writer": "UgyPpSgftm3YVzjFCTd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 윌리엄 진쫘 천재 아늬야",
+        "writer": "Ugww6F9Mu2ohF4xEj1F4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "필구 여자친구랑 헤어졌나보네",
+        "writer": "UgwKICfEJDXG-Bvjgc94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 윌리엄 진촤 기여어",
+        "writer": "UgzjwV5s2gaV3UAy5It4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 너무 귀여워",
+        "writer": "Ugx5KubM9D7osu6iRJB4AaABAg.96ewp3ySMiG96ews78UuDw",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 다시 사귀고있어요",
+        "writer": "UgwKICfEJDXG-Bvjgc94AaABAg.96evOCImp4y96jSayAWprR",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=lZtBdBZG4GY",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,388 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001656076",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001656076"
+    },
+    "text": [
+      {
+        "content": "아우 (비속어)스",
+        "writer": "Ugxb1dBKwqSL_5HvEN94AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "코치가 눈치가 제로 구먼. 감독이나 코치가 선수들과 같이 식사를 하면 선수들이 얼마나 불편 하겠나 떨어져서 먹어야지.",
+        "writer": "UgyxZX10F1ZWdXRoCmR4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사람 진짜 좋아 보인다",
+        "writer": "UgxJyLFQGX1HV3VRwG54AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (이름) (이름) 닮음",
+        "writer": "UgxyIYatfhM-H9PpV_F4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 살찐. (이름)선수 닮았네",
+        "writer": "UgwT4NOEaJbfTZjzd6V4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "운동하는 남자들이라 말안하고 먹어서 더 웃겨요",
+        "writer": "UgxXHVpettn97GqIV7x4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "막내는 고기도 못먹고 굽기만 하네요 그리고 반말로 명령하듯하는 말투 코치 님 보기안좋아요 (이름) 말할것도 없다",
+        "writer": "UgxMrwJNGmgzEDHhXqh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "촬영중이라서 그런거래요 찍어서 방송으로 내보야 하니깐요",
+        "writer": "UgyxZX10F1ZWdXRoCmR4AaABAg.9KHfYT49Rhm9KsM-Ur9Skp",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방송 분량 만들려고 컨셉 잡는(혐오표현)",
+        "writer": "UgyxZX10F1ZWdXRoCmR4AaABAg.9KHfYT49Rhm9N6oyYYzi9L",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개그맨 (이름) 닮음",
+        "writer": "UgwT4NOEaJbfTZjzd6V4AaABAg.9FQ_cu3Sk0P9Hb3GB2dNl2",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "dele alli 아 우껴 마자요 부모 가 할소리지 근데 아닌데요",
+        "writer": "UgxMrwJNGmgzEDHhXqh4AaABAg.9EtkMnUheQe9Ez-3KbhKp0",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "dele alli 뭐라노 진짜 어이가 없어서 웃었더만 그럼 당신은 감독이요 코치 식(비속어)서 시비 질 이요 말같은 소리를 해야지 글고 남댓글에 시비질 걸지말고 당신 댓글이나 다소 오지랖은 너님은 좋겠수 혀가 짧아서 별",
+        "writer": "UgxMrwJNGmgzEDHhXqh4AaABAg.9EtkMnUheQe9Ez-hjbVBRs",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "박 걍지나가지 왠오지랖 (비속어)구만",
+        "writer": "UgxMrwJNGmgzEDHhXqh4AaABAg.9EtkMnUheQe9F4NWqbxrw0",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)부인 뭐야 아줌마 뭐가 그렇게 불편한데",
+        "writer": "UgxMrwJNGmgzEDHhXqh4AaABAg.9EtkMnUheQe9FHjWZGXWl9",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "읍읍 뭐야 (이름) 댓글이 뭐가 문젠데 할말도 못하노 오지랖은",
+        "writer": "UgxMrwJNGmgzEDHhXqh4AaABAg.9EtkMnUheQe9FIRHzUQn6g",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)부인 엥 걍 (비속어)신이였넹,",
+        "writer": "UgxMrwJNGmgzEDHhXqh4AaABAg.9EtkMnUheQe9FIVuiegv72",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너네가 영상 뒷 부분을 안봐서 그래,",
+        "writer": "UgxMrwJNGmgzEDHhXqh4AaABAg.9EtkMnUheQe9FJzHoSfAey",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "듣기싫음 딴팀가던가 그만시켜",
+        "writer": "UgxMrwJNGmgzEDHhXqh4AaABAg.9EtkMnUheQe9F_UwhK_a3Z",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)부인 야이(비속어) 너나잘하세요",
+        "writer": "UgxMrwJNGmgzEDHhXqh4AaABAg.9EtkMnUheQe9I48BZdsQqr",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사회 생활좀 하세요 저건 천사에요 아이고야",
+        "writer": "UgxMrwJNGmgzEDHhXqh4AaABAg.9EtkMnUheQe9ISkvMLik2k",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)부인 혼자 몇명이랑 싸우누",
+        "writer": "UgxMrwJNGmgzEDHhXqh4AaABAg.9EtkMnUheQe9J4gLat2Oke",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Young Park 싸우긴 뭘싸워요 그냥 저것들이 남댓글에다가 시비거는 거죠 내가 보기에 불편하다는데 왠 난리인지",
+        "writer": "UgxMrwJNGmgzEDHhXqh4AaABAg.9EtkMnUheQe9J4k_rhkYOk",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연출도 있는데,",
+        "writer": "UgxMrwJNGmgzEDHhXqh4AaABAg.9EtkMnUheQe9Jb2adDGHcs",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어) 힘내쇼",
+        "writer": "UgxMrwJNGmgzEDHhXqh4AaABAg.9EtkMnUheQe9Jo3FWcv1EV",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나스닥구조대 (이름) 걍 지나가소",
+        "writer": "UgxMrwJNGmgzEDHhXqh4AaABAg.9EtkMnUheQe9JoC9b7e7aa",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "운동해봐라 저정도면 방송용이야 현주엽도 마찬가지였고",
+        "writer": "UgxMrwJNGmgzEDHhXqh4AaABAg.9EtkMnUheQe9KVHJaWUnh8",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)부인 (반사회적용어) 힘내소",
+        "writer": "UgxMrwJNGmgzEDHhXqh4AaABAg.9EtkMnUheQe9LRI39q36pb",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제천대성 (이름) 힘내소",
+        "writer": "UgxMrwJNGmgzEDHhXqh4AaABAg.9EtkMnUheQe9LRImksqA5g",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "니댓글이 보기안좋다 그리고 답글 싸우자는듯 보기안좋아",
+        "writer": "UgxMrwJNGmgzEDHhXqh4AaABAg.9EtkMnUheQe9LkSOp902F7",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미투 그러는 당신은 보기좋은가 시비거는건 누군데 걍 지나가던가",
+        "writer": "UgxMrwJNGmgzEDHhXqh4AaABAg.9EtkMnUheQe9LkYOdOw4mM",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)부인 밥은먹고 댕기냐",
+        "writer": "UgxMrwJNGmgzEDHhXqh4AaABAg.9EtkMnUheQe9LkZ2lq4es8",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밥을못먹고 다니나봐",
+        "writer": "UgxMrwJNGmgzEDHhXqh4AaABAg.9EtkMnUheQe9Lkrdwi4GLF",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)부인 너말이야 너 한심하네진짜 한글모르냐 난 너무잘먹고댕기지 니가 덜덜떨면서 수십번생각하면서 처먹는것도 막먹고 알것니",
+        "writer": "UgxMrwJNGmgzEDHhXqh4AaABAg.9EtkMnUheQe9LksM-Ua-2B",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어그려 왜케 (혐오표현) 거려(비속어)같애",
+        "writer": "UgxMrwJNGmgzEDHhXqh4AaABAg.9EtkMnUheQe9LkvYcXnkJR",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥지나가시지 왠 시비질이여 식구인가 혼자 (반사회적용어)해서 난리여 (비속어)같애",
+        "writer": "UgxMrwJNGmgzEDHhXqh4AaABAg.9EtkMnUheQe9MA2P1ragLK",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)부인 (혐오표현)거리고있네 이거 부들대다생각나서다시 뵜더니 열받아서 부들대면서 글썻나보네 제정신으로 살고있냐",
+        "writer": "UgxMrwJNGmgzEDHhXqh4AaABAg.9EtkMnUheQe9MA4VmgYdTn",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 뭐가 (혐오표현) 이여 댓글좀보고 말혀 난독증이냐 니가 (혐오표현) 인걸 것도 모르는 (비속어)같어",
+        "writer": "UgxMrwJNGmgzEDHhXqh4AaABAg.9EtkMnUheQe9MAC3XPQ-i7",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)부인 야 댓글니가안보는거아니야 일주일간격으로 두번연속이면 너가부들이야 빙아 생각을하고 글쓰냐 맞네 생각이없단걸 까먹었다",
+        "writer": "UgxMrwJNGmgzEDHhXqh4AaABAg.9EtkMnUheQe9MApm07td0a",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "걍지나가요 (이름) 아침부터 (혐오표현) 하긴 남댓글와서시비질 하지말고 글고 왜반말이여 재수없게 싹바가지도없네",
+        "writer": "UgxMrwJNGmgzEDHhXqh4AaABAg.9EtkMnUheQe9MAqFf0V_V5",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)부인 아줌마가 더(비속어) 못지나가고 부들대는 주제에말이많어",
+        "writer": "UgxMrwJNGmgzEDHhXqh4AaABAg.9EtkMnUheQe9MAqlzEx9rn",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아침부터 재수없게 뭐하는거여 (비속어)여 머여 캬캬캬",
+        "writer": "UgxMrwJNGmgzEDHhXqh4AaABAg.9EtkMnUheQe9MArEzMY2mm",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)부인 넌 고대(비속어)아니었어 하는거보니 (비속어)를 넘어 섰는데 재수없게 어디서 (비속어)질이야",
+        "writer": "UgxMrwJNGmgzEDHhXqh4AaABAg.9EtkMnUheQe9MAracqwcE3",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "응 (비속어) 나 바쁘다 딴데가서 놀거라",
+        "writer": "UgxMrwJNGmgzEDHhXqh4AaABAg.9EtkMnUheQe9MAs7aqV1CT",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)부인 바쁜(비속어)가 꼬박꼬박답글다네 나느안바쁜데어쩌냐 부들대는거 겁나재미있네 좀더 부들대봐",
+        "writer": "UgxMrwJNGmgzEDHhXqh4AaABAg.9EtkMnUheQe9MAsSlYSx46",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애 울겠다",
+        "writer": "UgxMrwJNGmgzEDHhXqh4AaABAg.9EtkMnUheQe9MH13pn5tIo",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)부인 틀",
+        "writer": "UgxMrwJNGmgzEDHhXqh4AaABAg.9EtkMnUheQe9MY7HNW9Hcp",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕 난 떵딘이야 너",
+        "writer": "UgxMrwJNGmgzEDHhXqh4AaABAg.9EtkMnUheQe9MYCIkVNiqY",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=BVbw6iZ2TPs",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

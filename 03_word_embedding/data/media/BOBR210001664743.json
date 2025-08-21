@@ -1,0 +1,524 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001664743",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001664743"
+    },
+    "text": [
+      {
+        "content": "문세윤 오래가자고 했는데",
+        "writer": "Ugy47hReijC9uE6dz0J4AaABAg",
+        "write_date": "2021-11-10",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선호야 힘내라",
+        "writer": "UgwCTTxoy4mMs91FM-h4AaABAg",
+        "write_date": "2021-11-10",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 하차",
+        "writer": "Ugx_KdGlZ2VPSh7XYA54AaABAg",
+        "write_date": "2021-11-10",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번 편 마음이 아프다,",
+        "writer": "UgwCrPLXtPZmzFnHsKF4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 너무 힘들어하지말고 자책하지마시고 잘이겨내고 돌아오세요",
+        "writer": "UgxNmZ5_L0KWYRUWqSV4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이제 1박 2일이 버린 스타",
+        "writer": "UgwT-zSmchKY-6ZnjmR4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 그립다 벌써",
+        "writer": "UgwXzfHuwdD91ElrpKF4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "196 화까지 하루에 한편씩 다시 보고 있을게 꼭 돌아와줘",
+        "writer": "UgzWDddU_-P1fpkg-VN4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시간지나 다시보니 짠하다",
+        "writer": "UgwD8-q5Y8wqfEFGpat4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "짱박 캐좋아",
+        "writer": "UgzN-wMNFflrdth5sTZ4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "백일의 (이름)때 부터 알았는뎅,",
+        "writer": "UgzTtLAXpM6CvNqzRol4AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시즌1 정말 잼있게 봤는데이멤버들은 순한데 잼있어서 인간적으로는 더 맘에드네요",
+        "writer": "UgwtiHvtkMIMdm2S-cd4AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오래 가자",
+        "writer": "UgwxyMC5o3aqEVsTYoF4AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "으헿 몽글몽글해",
+        "writer": "UgxtqJpvjZi0pSwaDl14AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 1박 2일 시즌 4 후 스타트업도 하고 많은 사랑 받아서 너무 뿌듯하다 이제 우리 서노는 꽃길만 걷길, 3",
+        "writer": "Ugx3lXUU2N9u74reRV14AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는 선호 알았는데 휴게소에 없었을 뿐이라고 (이름) 조아",
+        "writer": "UgxNPpO2f7v4aJDRn9V4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어쩜 선호는 말도 저리 조곤조곤 멋지고 상냥한 목소리로 하는지,",
+        "writer": "UgzgRrYW5XVU1GHNXpx4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김(이름) 다이어트 하시니까 엄청 잘 생겨지심.",
+        "writer": "UgxhThAPkqABDNjOdSV4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 이걸 왜 삭제했지,",
+        "writer": "UgxoKbTQTyhMn_WJcMZ4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "종민이 살이 너무빠졌네 살좀 찌우시게나",
+        "writer": "Ugyx48nbgu4qwVrPHeZ4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1박2일 PD여자분 너무 (이름) 위주로 찍어요 완전이상혀 4월11일것 너무심했어사심",
+        "writer": "UgyPrOh8PGNin59slzJ4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와인 마셨을때 좋았던 쫑미니 ( ) 다들 서로 맞춰주는거 서윗하다",
+        "writer": "UgyMDUMFKy72OaoDiMN4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자막 보고 적는건데 팩트만 말하면 (이름)가 1박2일을 일년 해도 거의 무존재였고 드라마 스업 한지평캐릭으로 이런 인기 얻었음 물론 일박이 인기유지에 도움되고 시너지효과는 있는데 일박이 키운 스타라는건 잘못된 자막임 배우니까 작품으로 정석대로 뜬거라고요",
+        "writer": "UgzBw_k3UAQyoCHPm054AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일박이일이 얼마나 저에게 좋은 에너지가 되는지 제작진분들과 우리 멤버들 꼭 알아주셨음",
+        "writer": "UgyL_Mu7Cj0gm78CIkR4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이건 인정해야 됨. (이름)는 1박2일 하면서 완전 라이징 스타로 자리잡은건 맞지.",
+        "writer": "Ugy1MJNTSKi9Cghrzrt4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "4월11일 분량 너무 없어서 실종수준이었는데 같은거 본 거 맞나요 종민과 딘딘이 끝까지 내내 나왔는데 어이없음",
+        "writer": "UgyPrOh8PGNin59slzJ4AaABAg.9LzxlNbpEJu9M6jhjBplCo",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "MH Noh 마쟈여게임을 이겨서 분량실종그치만 밥잘먹어서 좋더라구여",
+        "writer": "UgyPrOh8PGNin59slzJ4AaABAg.9LzxlNbpEJu9MBwqCDff6r",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "MH Noh 종민 딘딘 끝까지 나온거 왜 어이없어 하세요 누구든 많이 나오면 같이 좋아합시다 1박2일 다같이 하는건데",
+        "writer": "UgyPrOh8PGNin59slzJ4AaABAg.9LzxlNbpEJu9MZol4kMMKo",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭘그리 따지세요 일박팬 섭섭하게 그것도 맞고 둘다맞죠머 인지도 일박으로 마니 올라간것도 맞죠",
+        "writer": "UgzBw_k3UAQyoCHPm054AaABAg.9LzdfyrpYY_9M-Z53PgW7-",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공코 저도 일박팬이고 타 멤버 팬인데 별로 섭섭하진 않네요 스타트업으로 확 터진건 맞아서 제가 덕질하는 연예인한테 예능으로 인기 얻었잖아라고 말하면 본업인 노래도 잘해서 인기있는거다라고 당연히 말할 듯",
+        "writer": "UgzBw_k3UAQyoCHPm054AaABAg.9LzdfyrpYY_9M0ahn1ISVP",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스타트업 드라마 1박2일 시너지 효과라고 생각해요 전 스타트업 보고 (이름) 알게 된 케이스라 1박2일은 그 이후에 정주행 했네용",
+        "writer": "Ugy1MJNTSKi9Cghrzrt4AaABAg.9LzY9I4rONJ9M-Wm7j_yfj",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일박이일 오래가요",
+        "writer": "UgwBx-k-n34aNtGt5Nd4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "악 이걸 이제 올려주시네, 애간장이 녹다가 사라졌어요,",
+        "writer": "UgyCEOsIYkPkpzbHyh54AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "확실히 시즌4는 감정을 간질간질하게하는 뭔가가 있어",
+        "writer": "Ugz30TP-ORXSaLfkSYV4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 대화 너무 좋다 사람한테 감동받기 힘든 요즘 대리 만족됨 일박이일 오래 가자",
+        "writer": "UgxTLWSHtrvs4uvuWnZ4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나같아도 비싼샴페인선물받으면 기분좋을거같음",
+        "writer": "UgwbSHVWaIwEexX_LWB4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 이게 왜 미공개야 넘잼나자나 멤버들끼리 일상대화 자주보여줘요",
+        "writer": "UgyfXPoxeZnhEGR79Gl4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거보니 우리선호 짠하네 이제 앞으로 더 우주 대스타 될 일만 남았어요",
+        "writer": "UgwSyDJymn2SxWfKPud4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인기요인은 스타트업 드라마1박2일 시너지 효과라고 생각 해용 전 스타트업보고 김(이름) 알게 됬거든요 그전엔 1박2일을 안봐서 몰랐네요 대신 스타트업 보고 1박2일 정주행 했습니다",
+        "writer": "UgzYRTez2cDXNKCrEGN4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기사낸거 미공개(반사회적용어) 풀어주셔서 감사합니다",
+        "writer": "Ugy-YKQBD_gdSyC3eQB4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전 매주 일요일 저녁 기다리면서 설레요 모든 것에 지금보다도 더 익숙해지고 무뎌질 만큼 오랜 시간이 지난 후에도 1박2일 촬영 가는 멤버들의 마음 한 켠에는 언제나 설렘이 자리하기를. 짱박 최고",
+        "writer": "UgxsqQMCjLv-eb-I_Qd4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하, 진짜 내가 많이 좋아해요 그대들 .( ) 훈훈해",
+        "writer": "UgxLMCDAst0PaTUXOxh4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몽글몽글 설레나 봄 .미공개 영상 너무 좋아요",
+        "writer": "UgyyIy-gMzsJ4KUu37p4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "짱박이일 덕분에 인생이 정말 행복합니다. 우리 모두 앞으로도 (이름)래 함께해요",
+        "writer": "Ugx-_aYVkQH3CYXfSNl4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선호(이름)도 대박나서 너무 설레이고 다른 멤버들도 잘 되셔서 넘 행벅해요. 1빅2일 영원하자... 오래해주세요일요일만 기다려져요",
+        "writer": "Ugxyk5A8xqMyPn1_FC14AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초반에는 너무 어색햇지만 확실히 무(반사회적용어)편 이후로 팀워크가 오른것 같았음, 뭔가 사이가 더 끈끈해진것 같기도 했고,그냥 이멤버 리멤버였으면",
+        "writer": "UgxlnZmISZreP2b9mvd4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미공개영상 좋아요 1박2일시즌4 맴버들 멋지시고 잘생겼어요 귀여워요 케미도 살아있네요 짱입니다 오늘도 본방사수요 화이팅입니다 대박나세요",
+        "writer": "Ugx4QM48iNe2Timw0Gd4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1박때문에 wavve정기결제 못끊는나 가끔 1화부터 정주행할때 있는데 진짜 지금이랑은 느낌이 다르긴해. 지금은 친형제 캐미 그래도 그때는 풋풋함이 있었지.그당시 예능경험 놀토 한번 뿐이던 선호가 첫고정 예능으로 1박 하게 된거 지금 생각해도 얼마나 다행인지, (이름) (이름) 제작진 포함 형 동생 멤버들 모두 결이 곱고 반듯한 사람들이라 예능 서툴고 맘여린 선호가 상처받지 않고 적응해나갔을거고 지금은 선호 필모에도 득이되고 형 동생 좋은 인연들 안고 갈수있으니까1박 오래하면서 행복한 추억많이 쌓을수 있었음 좋겠다",
+        "writer": "UgwIHlMOFlrNwNgGrKh4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어떻게 시즌1보다 조회수가 안나올수가잇나요",
+        "writer": "UgyQJyoibC385FUwuJB4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 맨날 검색해서 보기 힘들다요유단독채널 있음 알림도 받고 좋겠다",
+        "writer": "UgzT8XaRv7niLQgRR3N4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 미공개가 이렇게 재밌는데 왜 미공개인건지 이해할수가없네....",
+        "writer": "UgyxTyNfTdx1Clf_umZ4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그런데 미공개 영상이 더 잼난데 왜 안올라오나요. 단독채널 만들어주세요...",
+        "writer": "Ugxyk5A8xqMyPn1_FC14AaABAg.9Lz2r5S2WOo9Lz30UrzmBl",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예전 기사나 인터뷰 보면 멤버들 끼리만 뭉쳐서 처음한 회식에서 우리 진짜 잘해보자고 한 다음에 찍은게 무(반사회적용어)편 이라고 그랬었지요 무(반사회적용어)편 마지막에 제작진 철수 후에도 자기들끼리 노는 장면이 괜히 나온게 아님",
+        "writer": "UgxlnZmISZreP2b9mvd4AaABAg.9Lz2jy-dkYo9LzSMdnRFnL",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 웨이브에 1박2일 있나보네요. 지금 결제하러 갑니다",
+        "writer": "UgwIHlMOFlrNwNgGrKh4AaABAg.9Lz1JBxmzlr9PjhO5XpA59",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저지금 1회부터 다시보기 하고 있어요 지금 완도편보는중입니다",
+        "writer": "UgwIHlMOFlrNwNgGrKh4AaABAg.9Lz1JBxmzlr9TFM01rwmpJ",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저랑 같은분이 여기 있었네요",
+        "writer": "UgwIHlMOFlrNwNgGrKh4AaABAg.9Lz1JBxmzlr9UKGygaQzui",
+        "write_date": "2021-11-05",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시즌1이 그만큼 유명하니까요 시즌4도 많이 사랑해주세요",
+        "writer": "UgyQJyoibC385FUwuJB4AaABAg.9Lz0rkQwRud9Lz91QsYrbJ",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 선호(이름) 그동안 많이 노력하신거 잘 알아요 그리고 우리 1박2일 식구들 지금 서로 의지하고 서로 많이 챙기는 모습 보니까, 정말 가족이 되었다는게 느껴지고 뭉클하고 기쁘고 그러네요 건의 하나만 하겠습다.. 1박2일 단독 유튜브 채널 만들어주세요",
+        "writer": "Ugw3lquLLth5gz1rv954AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미공개 감사해여",
+        "writer": "Ugwv9oVYpVzFD5ZFfNJ4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 진짜 첫 촬영 방송보는 우리도 어색했어, 딘선기여워선호찡 더 스타되버려랏...........",
+        "writer": "Ugx4fevxZTYocDeHbCx4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울 선호(이름) 더 올라가야죠",
+        "writer": "UgxlyhicRzB5ODNMFFx4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금 내가 김서노 봤다면 쌍수들고 환영할텐데, 요즘 시국에 그런 거 못하니 좀 아쉽다",
+        "writer": "UgzMdHvaOAYd1NnSyPh4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "멤버들 새삼 초반엔 진짜 어색했네요, 우리가좍 오래가자,",
+        "writer": "UgzuWqDzKPMpwRCxY2B4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미공개 넘나 좋은 것 1박2일 단독 유튭 존버합니다",
+        "writer": "UgzDe_V4Y3inT3haXjB4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=2qMmFo4Gsxo",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,772 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001655564",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001655564"
+    },
+    "text": [
+      {
+        "content": "잘됐으면 하는 개그맨중 한명,",
+        "writer": "UgwsXR_9yXcyXaKPgYt4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나혼자산다 섭외안들어오나 이게 리얼이지",
+        "writer": "UgxYAyt_s47hRf2y_m54AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "집도가뜩이나 낡았는데 정리정돈좀하지 오래된식재료같은건 (혐오표현)봉투하나 사서 버리면될걸 자랑도아니고 . 냄비같은거(반사회적용어) 좀 깨끗한거 하나놓구 해먹던지하지 누구한테 안쓰는거 하나 얻어두 저거보단 위생적이겠다. 남용씨 조금씩 움직이셔서 좋은환경에서 행복하게 사셔",
+        "writer": "UgxxzoUurrtEfhk5Nd54AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제가 좋아하는 개그맨 서남용씨 화이팅 .....",
+        "writer": "UgyACmosA9MVdazlmft4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "6분55초에 나오는 여성분 성함이뭔가요",
+        "writer": "UgxZjjct6SeWNFLZbr14AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "강제 마늘 향 라면",
+        "writer": "UgyfSEMf0EQcDUlSJ2l4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서남용씨가 최근 미우새 나온걸 보고 이걸봤는데 달라진게 없었네요개그맨 잘된 선배들은 뭐하는지 참후배가 어렵게 살고있는데 도와주는 선배하나없어 보이고 전부 자기 밥그릇만 챙기는듯개그맨 선배들 반성해야될듯",
+        "writer": "UgyELVQv0ZFtydFU0wp4AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "프로그램 컨셉이 뭐지 불쌍한 (혐오표현)애들 데려다가 월급이(반사회적용어) 주려는 컨셉인가 재미도 없고 공감도 없고.",
+        "writer": "UgwDInILTH_V2yfdrhh4AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미우새때랑 똑같넼",
+        "writer": "Ugy85ouV38CX3j8NeEV4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 닮음",
+        "writer": "UgwLM45Rv83sMRdWO614AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나혼산에서 (이름)거 하지말고 서남용씨 출연시켰으면",
+        "writer": "UgwFdK7r58pFn5KtQwp4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "화이팅하고 잘되길바라지만 본인스타일쫌만깔끔하게변화하길 진심바래요 아직젊은데왜굳이 지저분하게보이는 추한스타일을고집하는게아니라면 반드시본인스스로쫌만깔끔하게변화하세요",
+        "writer": "UgzIN8mrgO9sHKRc1oV4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 귀한 인재을 세상은 왜. 몰랐나서남용씨 잘되셨으면 좋겠습니다",
+        "writer": "UgyfFjs8qcWxq9W_HR14AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남용님 유튜브 하시면 대박나실듯 멘탈도 좋으시구..",
+        "writer": "Ugzhynmiyct12i7rjfx4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어쨌든 방송에서 찐 리얼리티 모습을 가지고도 개그 선후배들 다 같이 보면서 자연스러운 리액션도 시청자들의 반응도 유튜브에서도 조회수가 상당 하네요",
+        "writer": "UgwsOpETIVzQ7jtMoGd4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서남용 사물개그 이후로 잊어 버리고 살았는데 차림새와 궁핍 하게 사는 모습이 시청 하는 사람들 중 짠한 감정 자극하고 미간을 찌푸리며 볼텐데 그것 자체가 방송에 나오게 되는 계기가 되었네요",
+        "writer": "UgwQOr71zbvTIDHDCrB4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세상엔 사람 성향이 참 너무 다르니, 서장x 처럼 너무 결백증있으면 (반사회적용어)이 많이 피곤하고 서남용씨 처럼 반대 성향도 있고,반반이면 좋으련만, 말하고 보니 둘다 서씨군요, 너무 결백증깔끔파 (반사회적용어)이 엄청피곤해요,적당히가 없으니까, 여자가 문제가 있으면 문제있는부분만 얘기해야지 시시콜콜 지적하고 간섭하면 피곤하고 질려서 같이 살 수가 없어요,",
+        "writer": "Ugzj8z8ZmN_HwFSTwIp4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "욕심없고 천성이 착하고 선한데, 욕심 있는 여자 만나면 뒷통수 맞고 탈탈 털릴것 같음, 착한 짝 만났으면 좋겠어요,",
+        "writer": "UgxXAR4zbrA_v2_cu7p4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 미우새때 봤던거 거의 그대로네",
+        "writer": "UgzD5W29mWbdNfbyVI54AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몸이 좋아진듯",
+        "writer": "Ugxtm4vr-peZh_kyw-R4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서남용 보너스 할때 웃기던데",
+        "writer": "UgyzBx8fCjJTF4Uw4vJ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사람은 진짜 좋을 수 있는데, 사는거 보니까 사람이 정말 매우 게으르고 발전없는 사람이더라.",
+        "writer": "Ugylpep7dyMQFOAB-1B4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와 저때 냄비손잡이 없는거 지금까지 쓴거네",
+        "writer": "Ugy4uG4Wo2JMcAq2pFx4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "갈망만 하고 변화를 하지 않으려 하는걸, 수염부터 밀자, 개그맨이 텔레비전이 없다는게 과연 직업적으로 옳은가 개그맨은 책보다 텔레비전을 가까이 해어 할 것 같음",
+        "writer": "Ugx1GMSEJkw-v5HVVFd4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 집 혹시 소품용집인가요 이번 미우새랑 너무 비슷해요",
+        "writer": "UgwdKZqWsu29EMEQOqR4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남용씨 최고 화이팅",
+        "writer": "UgxI2WXzlAGJciEQJJl4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "0 33 모른상태서 보면 목없는 귀신인줄",
+        "writer": "Ugxf4NxtoXL4kbS6MRp4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "물끓기 전에 면을 먼저 넣으면 더 쫄깃해짐.",
+        "writer": "UgyjS0vShZHTxuOVN7F4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서남용 은근히 웃겨서 좋았는데 지저분한거 보고 정 떨어져.",
+        "writer": "UgzlpIIWEjRSeVz3NOB4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머리 매직하면 좋겠어요,",
+        "writer": "UgyDnx630n0ZEqk16vd4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유튜브에서 후배개그맨이 (혐오표현) 하는 영상 남용이형꺼 봤는데 사람 자체가 착하더라 방송모습이랑 똑같던데",
+        "writer": "UgyEQXmA4hw53i30NAZ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서남용 코요테 멤버 빽가 판박이다",
+        "writer": "UgxUq49x0J77o95jbrt4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "알고리즘이 이렇게 타임머신을 태워주네",
+        "writer": "Ugx-ccwoWCu-oxhrET94AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서 납뇽입니다",
+        "writer": "UgwG_T1R4I31Va9S-V94AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래도 (이름)는 저기와서 라면도 먹고 닭가슴살 간것도 먹고,",
+        "writer": "UgxZx_BqG5xGFdgXctR4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "캐미가 넘 잼있다",
+        "writer": "UgxvsZBW-28hKFrfbSl4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요즘 대세 계열에 합(이름) 우리 남용이 오빠너무 선한 인상이 좋아요 요즘 남용이 오빠 채널 재미나고 보고삽니다",
+        "writer": "UgwfBJJT9X0RoOaKriB4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "덩어리 덩어리 매력덩어리 응원합니다 팬으로서",
+        "writer": "Ugyj2EGeCN4KmGgJAwF4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "또 또 남의 인생에 훈수질",
+        "writer": "Ugx1GMSEJkw-v5HVVFd4AaABAg.9T4zQF64ocA9Tx7GNLLS1k",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나혼자만 살아남았다 아닌가요",
+        "writer": "Ugwd9-o41fDUZLy1b5x4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저때는 그래도 지금 미우새때보다는 양호한데 , 아, 아니구나",
+        "writer": "UgypuaOiQShAH-WDUot4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서남용님 진심으로 잘되셨으면 좋겠습니다 화이팅입니다...",
+        "writer": "UgzxPmnwl703pDg5NdZ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게 1년전영상인데 저번주나온 미우새편이랑 내용이 복붙이네요 그런데 이런사태를 남용씨가 인지하고있었는데도 1년간 변함이없단건데 남용씨 제가가서 청소해주고시퍼요 요즘 유투브에 죄다 몸에안좋은음식들만 먹던데 그거먹지마시고 원래모습 그대로 일상을 올려주세요 충분히 원래그대로가 매력넘칩니다 쉐이크실컷드시고 몸관리하시면서 온갖 고칼로리 디저트먹방하시면 아니됩니다..",
+        "writer": "Ugx4Rn0SclW_K7G2_uB4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미우새에서는 본인집에 아무도 와본적없다하셨는데,",
+        "writer": "UgzvtwggjPN5JKc7mmd4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘 미우새 서남용씨 나오는거 봤는데 내용이 이거랑 거의 똑같은데요 이정도면 미우새에서 카피한건가",
+        "writer": "UgyLlN6EBXertUkrzbV4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서남용은 정말 좋은선배인가보다 후배인 (이름)이 불편해하지않고 잘 다가가는걸보면",
+        "writer": "UgyrtWeXl02C-N5pQGx4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미우새 재미있게 봤어요 근데 좀 청결히 할 필요가 있겠어요 좀 심해 아, .",
+        "writer": "UgwJmCoNTGg104X5ZOp4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자유가느껴져서 좋다",
+        "writer": "UgzpcElRCX_g7wVAAVN4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미우새보면서 서남용씨의 매력에 푹 빠졌네요 차분한 말투가 왜 이리 재밌는지 잘 되실것같은데 화이팅이요",
+        "writer": "UgwYu4L3FSIBt6vH9Ux4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "완전 독창적이었던 서남용 개그 또 보고싶다.",
+        "writer": "UgxZurr5OAOBcjZPBfx4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "신박한정리 이런분들댁을 해주야지 무슨 ,",
+        "writer": "UgztSvV8dDClgHA0K5p4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저쌀이 저때도 있었네",
+        "writer": "UgyosDLEqEzfe5vBkRl4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃겨요 그냥재미있어요",
+        "writer": "UgzHp3ZFp6f5Yr17uZp4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혼스토랑 좋네요 기획 굳 혼밥족이 많잖아요",
+        "writer": "Ugz4mGXvZdVZhzUfPll4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미우새 보고 왓더니, 라면 이미 1년전에 나온걸 안버리고 ,",
+        "writer": "UgxprKcrWwJU6QxzuHR4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "솔찍히 깨끗하면 더괜찮을거같은데",
+        "writer": "UgxU3D_XKmgpbvVLR9x4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서남용 달콤한 인생 유튜브 옥탑에 텃밭 하깁 좋은곳 봄에 가지 고추 토마토 모종 재배요 티비 없는건 맘에 드네 독서도 하고 난 향수 싫어 엉뚱한 재미가 있네",
+        "writer": "UgxAwQyN-z61uLaMG2N4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그니까요 뭐여",
+        "writer": "UgzvtwggjPN5JKc7mmd4AaABAg.9Sbw8sRibT79Sxg-zQo7DZ",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기억안날만큼 안왔단거죠 하도안오니",
+        "writer": "UgzvtwggjPN5JKc7mmd4AaABAg.9Sbw8sRibT79TI7sYmOW0W",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 낯가림 심함",
+        "writer": "UgyrtWeXl02C-N5pQGx4AaABAg.9SWS6OFBGnh9T2nbld3_p7",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "까탈스러워서 안할것같아요",
+        "writer": "UgztSvV8dDClgHA0K5p4AaABAg.9SJwZgXLRBr9Sh_xzBzOg9",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서남용씨 오늘 미우새 봤는데 진솔함이 느껴지는 매력이 있습니다. 지금 힘들겠지만 나중에 잘 될거에요응원합니다",
+        "writer": "Ugw6ikqucLIMe_fjAxV4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서남용님 개인적인 생각인데요 면도도 깔끔하게 하시고 머리도 단정하게 컷트하시면 방송국에서 섭외 많이 들어올 것이고 예전 개그맨시절 전성기때처럼 부활할것 같에요 털털하고 멍하고 자연인 컨셉인것은 아는데 기안84가 아닌이상 오래못가요 마지막 자고가 (이름) 36계줄행랑 하는것도 티나요 PD랑 짜고치는 고스톱 (각본대로) 방송은 스텐바이. 큐 편집 그래서 지강헌 같은 리얼아님 대부분 컨셉잡고 각본있고 사황에따라 애드립 있음 진짜 죄송한데요 서남용님 면도.두발 정리좀 부탁드려요 한가지 더 집안 청소 정리정돈 솔로 일수록 개인용모 단정해야되고 주변환경이 깨끗해야되요",
+        "writer": "UgwGLZWK36cr--70SHV4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 뒤로도 안치운거네",
+        "writer": "UgwMqd4q8m2P2ekTNRF4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "살아있는게 즐거움, 서남용 씨의 몸으로 표현하는 개그는 뇌리에 깊이 박혀있다. 어떤 식으로든 빛을 볼 날이 오기를.",
+        "writer": "UgyRQzysHAkJHW1OZed4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 진짜 좋아하는 코미디언님",
+        "writer": "Ugy68SOl8JRj3W8dQz54AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혼자 사는 (이름) 있구나",
+        "writer": "UgwWD0cy46dC8kjSlnx4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "직접 봤는데, 서남용씨 선하고 잼있고, 잘 됐음 좋겠네요",
+        "writer": "Ugw73drn7fm-8PS89L54AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 진짜 이 삼촌 좋아하눈데",
+        "writer": "Ugz5RI-0fetGDDdRhV94AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사물개그의 창조자 서 남 용입니다. 세상에서 최고 웃기는 남자. 삶도 명불허전이네요",
+        "writer": "UgwRnfdjUrsiujP4TdF4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나혼자산다 한번나왔으면",
+        "writer": "UgyhHfhChGZxMAoojC14AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전세계 코미디언중 제가 유일하게 좋아하는 서, 남용 입니다. 이분이 같이 살자고 방하나 달라하면 기껏이 내줄겁니다.",
+        "writer": "UgzUUmx58VDqoe7x6nB4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게 나혼자 산다지",
+        "writer": "UgzVMOPv9kXkWQRdCyJ4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서남용 그분이란",
+        "writer": "UgwXXBjKAjENiZssGfN4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 제일 좋아하는 개그맨",
+        "writer": "Ugzsg2YOgNK8mLA46l94AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "운동 많이 하나보네요. 몸이 좋아보입니다.",
+        "writer": "Ugw11ENywSrNMZLoVqF4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서남용, 몸, 좋은데",
+        "writer": "UgxhzDpLyk-QOSaYhdd4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저렇게 살면서 통장에 10억 있을듯",
+        "writer": "UgzGwM8miVLK-V5-hI54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서남용 달콤한 인생 유튜브에선 온통 단음식만 먹고 건강 해치는중",
+        "writer": "Ugw6ikqucLIMe_fjAxV4AaABAg.9SBuEC1zRmj9SEQ61JK1xU",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수염은 모르겠는데 머리는 소아암 환자들한테 기부하려고 기르시는거에요",
+        "writer": "UgwGLZWK36cr--70SHV4AaABAg.9SBssufNVUm9U0lLn1PwMH",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "말씀드려 볼께요.",
+        "writer": "UgzUUmx58VDqoe7x6nB4AaABAg.9KaEVEqMzpl9Ul8CaQwslu",
+        "write_date": "2021-11-16",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그럴수도 그래도 한때 일구야 코너로 인기 많았었는데",
+        "writer": "UgzGwM8miVLK-V5-hI54AaABAg.9G6_iEZ8Ixg9JAFKn6fKxf",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "응답하라2007 서남용은 사물개그 아닌가요",
+        "writer": "UgzGwM8miVLK-V5-hI54AaABAg.9G6_iEZ8Ixg9JAFWe6_caZ",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남용이형 진짜 보고싶다, 나 (반사회적용어)때 폭소클럽에서 첨보고 되게 좋아했는데,",
+        "writer": "UgwhkLmcn0LpZVdsV8t4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기획방향이 의문,",
+        "writer": "Ugyw6MMhI20FFiWTjnh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사람 냄새나는 가식1도 없는 찐중의 찐",
+        "writer": "UgxXi0OnZmd94ozYk4Z4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그, 킹덤에 (이름) 느낌",
+        "writer": "Ugy1wlZsntJ7hEwjmJh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(혐오표현) 당장 폐지(반사회적용어)고 VJ특공대나 다시 해라",
+        "writer": "UgxPp6m65W_UiaDRqI94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(혐오표현) 폐지,",
+        "writer": "UgxOmX4K1GNssBZ3Tzd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 헤어 겁나 잘 어울리네",
+        "writer": "Ugy58F1RFEY_JdcMI9Z4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네넴띤 그대로 갖고있으면 가격 오를듯",
+        "writer": "Ugw6_CuV93XvIcMfXlh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "더 노잼이 됐네",
+        "writer": "UgwimF_zFqW2g2BrPgd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "순간 cg 인줄",
+        "writer": "UgyOb9R4_YMT8JBDTh54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래 니 소원대로 (혐오표현) 폐지됐다. 이제 어쩔래",
+        "writer": "UgxPp6m65W_UiaDRqI94AaABAg.98WET4XGrC69JwQ1NNOgp5",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개터짐 진짜",
+        "writer": "UgyOb9R4_YMT8JBDTh54AaABAg.98NgoAntyNX9BmkPZ9bQfX",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=t9zSQjIhWzo",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

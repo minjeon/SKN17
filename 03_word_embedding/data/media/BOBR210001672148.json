@@ -1,0 +1,484 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001672148",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001672148"
+    },
+    "text": [
+      {
+        "content": "기혼자가 미혼에게 결혼을 추천하는 이유는 단 하나 나만 될 순 없기 때문이다",
+        "writer": "UgzxwMJhjTYG4SexFiF4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 또 봐도, 멋져",
+        "writer": "Ugzyf6jMAZGUFVjBptN4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우려 먹네",
+        "writer": "Ugzbqa5cGvH4YAIKFxt4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 10번 넘게 본 듯. 주기적으로 봐요.",
+        "writer": "UgzML0qBq7nH56AXsUR4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 이 영화가 브래드 피트 제일 리즈같음 40대에 반삭해도 (비속어) 잘생겼음 이때 피트가 적당히 유쾌하고 남성적인데다가 (비속어)임",
+        "writer": "Ugy3z3-sE_LFkET2Q054AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 (비속어)잼",
+        "writer": "Ugw2s2spbcK60mv12aF4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여자치고는 인상이 좀 센 편인 안젤리나 졸리가 그렇게 사랑스러워 보였던 정말 몸에 딱 맞는 드레스 같은 역활이었어요.",
+        "writer": "Ugxs0-9vcC_UGgMDmyx4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그정도 영화는 아닌듯",
+        "writer": "UgzlWAV0WaT8lkrCFjV4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거랑 태양의 후예는 너무 잔인한 거 아니냐고,",
+        "writer": "UgyQttlF674qLFphXHV4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "폭풍 세수하고 싶다",
+        "writer": "UgxEipKsyQ1Ki7NSXSt4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (비속어) 섹시하심",
+        "writer": "UgyfR_NA4EuwonMYPet4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미미스는 인정",
+        "writer": "UgzYFgfy6RSN9e62VxV4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시작부터 터졌는데 나만그랬나봐꾸엑, .",
+        "writer": "UgwQLJKvtNo2mlNiOel4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어), 저 띵잘 문구좀 없애라, 졸 거슬리네,",
+        "writer": "Ugw7Xyqq9q150TeY4id4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그렇게 싸우다가 갑자기",
+        "writer": "Ugw4g742HllQhUZezCp4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "액션영화인 줄 알았는데 부부생활 (반사회적용어)닉 영화였다는,",
+        "writer": "Ugwd5BEKzCn-G7btOMh4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 안본 눈 찾아봅니다. 당근에서도 못구할듯",
+        "writer": "UgwHRaknaMh6DQvKOGN4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고도로 훈련된 부부싸움의 교과서 칼로 물베기가 아닌 손에 집히는걸로 싹다 부수기, 교훈 앵간한건 부부싸움 축에도 못낀다",
+        "writer": "UgzY0HBvgg7rKzXil-h4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예전처럼 중간중간에 보이스 (이름)면 좋겠어요,",
+        "writer": "Ugy486OSpwJOpqY6A9N4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "끄덕, 끄덕,",
+        "writer": "UgzxwMJhjTYG4SexFiF4AaABAg.9R_X3sxCl-99R_Y9Wr2mxY",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞어요 그래서 결혼안하려구여",
+        "writer": "UgzxwMJhjTYG4SexFiF4AaABAg.9R_X3sxCl-99R_akLGhSdV",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아닙니다 결혼은 소울메이트를 만날 수 있는 절호의 찬스입니다 꼭 하시기 바랍니다. 지금 전 눈을 깜빡이고 있습니다.",
+        "writer": "UgzxwMJhjTYG4SexFiF4AaABAg.9R_X3sxCl-99Rcu6t6mkxm",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런식으로 말하는척 하면서 한번 더 꼬는건가,",
+        "writer": "UgzxwMJhjTYG4SexFiF4AaABAg.9R_X3sxCl-99Rf5eRhIEmv",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 된거면 이혼하면 되지않나요 저는 이런 얘기 재밌으라고 하는건지 정말 (이름)가서요",
+        "writer": "UgzxwMJhjTYG4SexFiF4AaABAg.9R_X3sxCl-99S9RLLeo-pU",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Julie K 진짜 아닌 거면 이혼하면 되겠지만 그것조차 쉽지 않아요 미성넌 자녀가 있으면 더 복잡하고요. 이런 게 재미없으면 개그코드가 안 맞는 거니 가던 길 가시면 됩니다",
+        "writer": "UgzxwMJhjTYG4SexFiF4AaABAg.9R_X3sxCl-99S9SAU2yQ10",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "18세 이상 성인 전용 최신 콘텐츠 45.76.207.24658 Kanjudmunding () Youtube This is fine Someone Says heck Youtube Be gone",
+        "writer": "Ugw4g742HllQhUZezCp4AaABAg.9RceT4wY2tg9ReiK2gJQQy",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제(반사회적용어)진 낚시질 개오짐",
+        "writer": "UgxfXe3KyJwyNzsErBB4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안젤리나 졸리 진짜 이쁘긴 이쁘네",
+        "writer": "UgxRJLAdpnHNL9Bvsml4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "띵잘 그렇게 잘 생겨서 좋겠어 못생긴 남자는 안보는거네",
+        "writer": "UgyEhvUstuWHYwF8MR14AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 본 최고의 키스씬임",
+        "writer": "UgwlGnd0SkQA2_00sZ14AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 영화관에서 보면서 현타왔던 영화, 진짜 무맥락 총격전에 갑작스런 격힌 화해, 헐리우드 영화 자체를 그리 좋아하지는 않지만 내용없이 볼거리로만 채워진 영화를 좋아하지 않는 분이라면 최악의 영화입니다. 그냥 내용 신경 안쓰고 타인킬링용의 영화를 찾으신다면 추천드립니다.",
+        "writer": "UgxdLuMW1B-471FSrMR4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 띵잘이야",
+        "writer": "UgzFF9LnrxbZXOveOG54AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형, 썸네일이 왜그래",
+        "writer": "UgztOqIF7E1jEZpzxHZ4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "30대초반의 안 졸같은 와이프라면 하루 열번 가능",
+        "writer": "UgzrEDT5OfbqOwTMgI54AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 개잘만든 (비속어)잼영화,",
+        "writer": "UgybMj7DcpiNZPp2did4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "겁나 이쁘다",
+        "writer": "UgySmBlr_bzR6hZPVg14AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "첫만남에 불타오르는 사람을 만나고 함께할수록 더 오래 함께하고 싶을때가 가장 위험할때입니다 아들둘아빠 둘째밥주며",
+        "writer": "UgxOxLUPmXptwfU7UtN4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 오늘도 멋진남 띵잘 잘보고 갑니다 늘 홧팅이에요",
+        "writer": "UgymEV2okinz6X4RFiB4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영화를 웃기는 나레이션 때문에 못 보겠어요. 뚜뚜뚝배기 이 영화는 몇번 봤지만 웃느라 스톱을 못 함. 정말 재밌게 잘 봤습니다, 권태불씨",
+        "writer": "UgzI3EWPeN9ofkHgh0h4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전설의 부부싸움",
+        "writer": "UgzqzOW_zkuE_OOGrap4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "섬넬만 보고 딱 알아차림 이 영화는 둘이 싸울 때마다 홀린 듯이 봄 진짜 띵작",
+        "writer": "Ugxlj-1-OqNH-61gQvp4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "결혼은 하기 싫다가도 가끔 브래드피트같은 잘생긴 남자 그리고 애처가인 남자라면 만나고 싶다는 생각이 든다. 아 근데 내가 안젤리나 졸리가 아니잖(꿈깨자",
+        "writer": "Ugyjo-gd2G7frROLGF14AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잠깐 잘못들었나 했네 폭풍 세수",
+        "writer": "Ugz7ypkZjTwmoFGPSlh4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동영상 보다가 중간에 짜르고 풀버전 보러 갑니다 지송",
+        "writer": "Ugy31jaqbRsgHJLgE2B4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그놈이 그놈이고 (비속어)이 (비속어)임. 잘생겨도 이뻐도 그때 잠깐일뿐. 결혼은 개현실",
+        "writer": "Ugz8EUMPnmWEag2azuZ4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "18세 이상 성인 전용 최신 콘텐츠 45.76.207.24658 Kanjudmunding () Youtube This is fine Someone Says heck Youtube Be gone",
+        "writer": "UgwlGnd0SkQA2_00sZ14AaABAg.9RabpKMT4SO9ReiIj_pybn",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 지석진씨가 한말인데요 살다가 이여자다 싶은순간 그때가 너의 인생 위기라고",
+        "writer": "UgxOxLUPmXptwfU7UtN4AaABAg.9RaHVGXRWb39RcnPfNbIvw",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "18세 이상 성인 전용 최신 콘텐츠 45.76.207.24658 Kanjudmunding () Youtube This is fine Someone Says heck Youtube Be gone",
+        "writer": "UgzqzOW_zkuE_OOGrap4AaABAg.9R_hJAeYCBW9ReiI-wUcer",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "18세 이상 성인 전용 최신 콘텐츠 45.76.207.24658 Kanjudmunding () Youtube This is fine Someone Says heck Youtube Be gone",
+        "writer": "Ugy31jaqbRsgHJLgE2B4AaABAg.9R_bL1jdofD9ReiHKjJZtE",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안젤리나 졸리 재밌당 요즘 애들은 잘 모르는 주유소 습격사건 리뷰 부탁드려용 한국영화 황금기",
+        "writer": "UgzC0szsgDvBC6SNXqJ4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸넬만 보고 뭔영화인지 알았네요 정말 많이 본듯",
+        "writer": "Ugz0Gf0nI7LjT4mWu-x4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 사랑해 핥짝",
+        "writer": "UgyPCgN70H1HZdpnKbp4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "3등 역시 싸움 후 분노 잿수가띵잘",
+        "writer": "Ugx6-1QD2quW_S4nRNB4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부부싸움 레게노네",
+        "writer": "UgxYQWQDQaBGTHlqemd4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제목 킬링타임용인데 꿀잼임",
+        "writer": "UgzBE5HeA4wL2GlcwoB4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이제, 가을인거니, 띵잘 멤버쉽 가입하기 34TUeqV",
+        "writer": "UgwnWQnPlkjnsf_Pijt4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "11월, 커밍 쑨,",
+        "writer": "UgzC0szsgDvBC6SNXqJ4AaABAg.9R_ZYTzYVC_9R_ZofoZsFh",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "18세 이상 성인 전용 최신 콘텐츠 45.76.207.24658 Kanjudmunding () Youtube This is fine Someone Says heck Youtube Be gone",
+        "writer": "UgyPCgN70H1HZdpnKbp4AaABAg.9R_VSsc6Ni49ReiL9bBFP6",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "18세 이상 성인 전용 최신 콘텐츠 45.76.207.24658 Kanjudmunding () Youtube This is fine Someone Says heck Youtube Be gone",
+        "writer": "UgwnWQnPlkjnsf_Pijt4AaABAg.9R_U7n1yJ5v9ReiKeSorwA",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=v0lPU-JvS3s",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,2436 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001672142",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001672142"
+    },
+    "text": [
+      {
+        "content": "와 편집 진짜 잘했다 뒤에 몇분이 진짜 흥미진진하다, 숨죽이면서 봤네, 앞으로도 좋은 영상 기대할게요 헉 고정(이름), 사랑해여 띵잘",
+        "writer": "Ugw163oEmn5yIdj0IW14AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 작가가 시그널에서 표절한 영화네. (이름) 작가 진짜 뻔뻔해",
+        "writer": "Ugw5QgLCLwMnUesMGlp4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딱보고 프리퀀시인줄암",
+        "writer": "Ugy4cy_1jN6wjNrFMr54AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어라 방금 본 동감이랑 영화 소재가 비슷하네 개봉날짜도 2000년으로 같다니 이게 우연인가 필연인가 아니면",
+        "writer": "UgxuntbFjQkzA2uB4Sd4AaABAg",
+        "write_date": "2021-03-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영화 줄거리 설명하다 마네 돌(혐오표현)가",
+        "writer": "UgyZquiRxbKwPAuq4cx4AaABAg",
+        "write_date": "2021-02-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쉿 결말 없잖아 띵아",
+        "writer": "UgwUab-_2kuYkLw3cdZ4AaABAg",
+        "write_date": "2021-02-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재밌게 봤어",
+        "writer": "UgwHzIGbDYYsNVFYLzF4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예전에 그영화가생각난다 (이름)(이름)주연의 제목이 뭐였더라,",
+        "writer": "UgzdopBfyXf3-yKEccF4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "같은 내용의 미드도 잇는데",
+        "writer": "Ugy9kVAivHH36JMf8Fl4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한국영화 동감을 거르신듯요",
+        "writer": "UgxuIGHsS5hEegpqN9x4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어릴때 재밋게 봣엇는데",
+        "writer": "UgwwwyA45lyNJF2MauB4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게 다 고도의 아들 덕분에 존이 행복한 삶으로 바뀔 수 있는 것이었다. 고도의 아들이 창고에서 통신 무전기 안꺼냈으면 과거를 바꿀 수 없었지. 전부 다 고도의 아들의 큰 그림",
+        "writer": "UgyUOyi8aF6J0Py25cl4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "P(비속어)ion of Christ의 Jim Caviezel 님이 여기에 나왔었군요, 당장 이 작품도 봐야겠어요. 잘보고 갑니다.",
+        "writer": "UgykFjKx1YQimTTMK0t4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 아빠와 아들이 무전하는 부분에서 눈물이나지 (이름)게 슬퍼, ,",
+        "writer": "UgzOqSBwNhds4WrNY6J4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "판타지와 스릴러 가족애가 너무나도 잘 비벼진 맛난 비빔밥같은 영화입니다. 꼭 보세요프리퀀시",
+        "writer": "UgzCpxcUvvpMAhzXubF4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 띵잘은 믿고보고 말게 아니라 그냥 올라오면 봐야됨",
+        "writer": "UgwqciSGrrZNfMvt_5J4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유지태 (이름) 영화 동감이 햄라디오로 과거와 통신한다는게 똑같은데. 동감도 2000년쯤 찍었나본데요.",
+        "writer": "Ugzk1fikz7b_UpQwSF54AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "실제로 부자 지간은 아니죠",
+        "writer": "Ugw(반사회적용어)U92lGOPVqqVVVt4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진예린 클라이맥스를 잘 살리죠 앞부분도 좋아요 띵잘",
+        "writer": "Ugw163oEmn5yIdj0IW14AaABAg.93o_cYTkYWy93pIDztQ4gV",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "칭찬에 곧바로 반응하는 귀여운 띵잘쓰,",
+        "writer": "Ugw163oEmn5yIdj0IW14AaABAg.93o_cYTkYWy93q0RzFwHzd",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바로 고정댓 바꿔버리는 밀당고수 띵잘고추",
+        "writer": "Ugw163oEmn5yIdj0IW14AaABAg.93o_cYTkYWy93sIiQU8XlI",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하또기 라니",
+        "writer": "Ugw163oEmn5yIdj0IW14AaABAg.93o_cYTkYWy93t-9unmWpE",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다음엔 결말까지",
+        "writer": "Ugw163oEmn5yIdj0IW14AaABAg.93o_cYTkYWy98cI3BT_vSS",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와미국판 시그널이내",
+        "writer": "UgwJhTPUcNHptTdaGkV4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가족직업이 다 사람살리는 직업이네",
+        "writer": "UgzSXwFd-rFqXrM0FWZ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다들 시그널 얘기하는거보니 세월이 많이 흘렀네 예전엔 이 영화 얘기하면 영화 동감 얘기했는데, 시그널보다 동감이 더 똑같음. 동감이 먼저 개봉했지만 ost도 (이름)이 부르고 예전 영화지만 어린 친구들 한번쯤 보세요 멜로라서 말랑말랑함. 띵잘도 어린가보네요 시그널로 가는거보니",
+        "writer": "Ugz3hqQZx-W_XqEtSFh4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 현실성을 무시했나",
+        "writer": "UgzMfv0WdXKUDBq9fsd4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 정말 재밌게 봤던 기억이 떠오르게 해줘서 감사해요",
+        "writer": "UgzkaLMfFE9nv_ZmUDJ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 공무원집안아닌가. 그렇게 대단한건가",
+        "writer": "Ugw3J_bJ8pTIK_peett4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 한국영화랑 달믄,",
+        "writer": "UgxVm9t5XPN1Xo8ym914AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기분탓인가 11분18초부터 띵잘님 목소리가 흔들리는거같네요띵잘 잘보고 다시 소방공무원공부하러갑니당",
+        "writer": "UgzZNY8hdUiD9wXvAlR4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "과거가 바뀌면 지금의 기억도 바뀌어 있어야지",
+        "writer": "UgwgSLdBmhb1NgJ1CM54AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아버지랑 가장 보고싶은 영화 1순위인데 아직까지 못보고있네요, 몇번을 봤던 영환데 아버지가 무사히 탈출하실때 눈물이 글썽이네요 윗분 로또 애기하시던데 로또보다 더 로또인 구글을 친구에게 가르쳐주죠, . 이번에 아버지 어머니와 같이 한번 봐야겠네요,",
+        "writer": "Ugzlue0OVLH6DsrWpfJ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 소재영화좋아하는데 너무 재미있을거같아요. 영화를 보고싶게 만드는 영상이네요 갠적으로 영화소리가 조금 더 크면 좋을거같아요",
+        "writer": "UgxS4kT85FgIKsEN4LN4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고도 아들 소셜네트워크 그 남자애랑 진짜 똑같이 생겼어요....",
+        "writer": "Ugyz7-hK5kVyRpm4Kbx4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "프리퀀시 왜이렇게 낯설지가 않나 했더니 스벅 쿠폰이었네,",
+        "writer": "UgzqL5SIxWoxN526i7t4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시그널보다 나인이 더욱 비슷한데,",
+        "writer": "UgyAuRp_OfykbDHPjxd4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)같은 댓글 많네 이 영화 한국영화 판권사서 리메이크 한거임 유지태 (이름) 주연영화 동감",
+        "writer": "UgygOJ8hQkBDforaTF54AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "티비에서 보고 정말 빠져서 봤었죠",
+        "writer": "UgxhO83BWxeGWpjtMLt4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "프리퀸시 정말 좋아하는 영화 거기다 제임스 카비젤 너무 좋아하는 배우 요즘에도 종종 보는 찾아보는 영화에요",
+        "writer": "Ugz-K5ILIzSnLI-j0VZ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오호 프리퀀시",
+        "writer": "Ugzo0q8CJ2xhnxYK8-J4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 꼭 보세요. 정말 재밌어요.",
+        "writer": "Ugy1kSfZ9vb3mYWLWep4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남을 도와주는, 희생직업. 금수저나 조작보스 이런것만이 대단한건 아니지요.",
+        "writer": "Ugw3J_bJ8pTIK_peett4AaABAg.96OirxX9fBC97SW0o8T0hv",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윗분은 프리퀸시 미국 개봉이 동감보다 한 달 빠르답니다. 한국 개봉은 동감보다 6개월 늦고요. 미국이 한국처럼 영화를 스피디하게 만들지는 않을 거 같은데요. 전자의 말이 맞으면 리메이크는 절대 불가능하고 후자인 경우도 6개월 만에 대본쓰고 캐스팅하고 촬영하고 음악 음향 입혀서 편집까지 끝내서 개봉했다는 건데 현실적으로 거의 불가능한 얘깁니다. 판권을 사서 리메이크 한 거라면 기사 한 줄 자료 한 줄 남아있을 테니 확인할 수 있는 자료 들고 와 주세요",
+        "writer": "UgygOJ8hQkBDforaTF54AaABAg.94U8MdGf7Fa95X2zIi1Dns",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 프리퀸신데 하고 봤는데 맞네 우리 나라에서는 비슷한 영화가 2001년 봄날은 간다 가 개봉했었지용",
+        "writer": "UgzLFYBgg-0RGD98fUx4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크으 이거 커어 띵작 어렸을때 아버지가 구독하시던 잡지에 DVD로 딸려왔었는데 이DVD를 엄청돌렸 봤었어요 진짜 오랜만에 보니까 또보고싶네요",
+        "writer": "UgzbEHql4HFZBWeBtm54AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "tvn(이름)의 시그널이 이 영화를 모방했지.",
+        "writer": "UgwI4UWfqfHDAKkg1ip4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런류의 영화의 시초가 무슨 영화인건지 꽤많네",
+        "writer": "UgxBzZzd552ecMT1YUx4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 목소리랑 너무 닮으셨다 재밌게 잘보고있습니다",
+        "writer": "UgxbCQ6hEkVysc9c1XF4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 대박. 이 영화 어릴때 봤던 기억 나요.",
+        "writer": "UgyVJvkOp8SJy0To4YN4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이것을 처음 본 순간 시그널이 생각났는데 역시나였어.",
+        "writer": "UgwZpkCdokHTp1Iie7t4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 목소리 (비속어),",
+        "writer": "UgynFP5oBYaHjwlaweB4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보자마자 시그널이 생각남 (이름)가 진짜 원작이자 명작이네요 그 전에도 있었을수도 있겟지만 전 잘 몰르는 관계로",
+        "writer": "UgxiklHql5yWRLHIqAZ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "같은 해 5개월 정도 먼저 한국에서 동감이라는 영화가 나왔었죠, 역시 무전기를 통해 과거와 현재의 인물이 대화하는데, 이 영화와는 다르게 멜로였어요, 유지태 (이름) 주연, 그 때 지금처럼 한국영화가 좀 알려졌다면 동감이 먼저 인기를 끌지 않았을까, 하는 생각을 잠시 해봅니다,",
+        "writer": "UgwKGtdacpQ2KG2i-bl4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아, 이거 진짜 명작 이에여, 나비효과1편의 원조격인데, 후반부에 얘길하시네, .안보신 분들 강추합니다, 진짜 재미있어요,",
+        "writer": "Ugxu5BGlAqBANy7N-Ax4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "떠난 아빠와 대화가 된다니",
+        "writer": "UgyA39AtRRSlYP6n0Ct4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꼬마 추장, 줄여서 말하면 안되겠다 형,",
+        "writer": "UgzBnLFrOnD9vhaRPA14AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "님 덕분에 찾아 봤어요. 좋은영화 잘 보았습니다.",
+        "writer": "UgxDpN2tuaFFGUKmvzh4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 명작이지 . 보는 내내 숨막히게 긴장되는 영화. 한순간도 눈을 딴데로 돌릴수가 없었지",
+        "writer": "Ugyd67DU-cUxabj1-_V4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유튜브 이름 정말 잘지으셨네요 띵작 하나 더 알고갑니다",
+        "writer": "UgxQsRC95tYVr_L3SAp4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목소리 너무 까시는거 같아요",
+        "writer": "UgzA_32U8OtV5l847ax4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "추장이 아니라 (반사회적용어)서장 소방서장을 말하는 치프인 거 같지만 중요한 건 아니겠죠,",
+        "writer": "UgwKiODjXuKtnJaDBCh4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제가 아직 띵잘구독을 안눌렀었다니 절 매우 치세요 어떻게 이런일이",
+        "writer": "Ugw52gT5LDb5mShq8NB4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미국 프리퀀시(2000.4월 미(반사회적용어)봉 한국 개봉 11월) 한국 동감(2000. 5월 개봉) 시그널(2016)시그널의 스토리 라인이 프리퀀시와 더 유사하게 보입니다. 예전 광해왕이 된 남자(2012)도 미국 영화 데이브(1993)와 비교해 보면 극의 상황과 인물 설정이 너무 비슷해서 실망했었죠.다행히 지금은 상당수 문화 콘텐프가 한국 미국 순으로 바뀌었지만,",
+        "writer": "UgwjKqnjlXC-vmkpwLB4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 너무 재밌게 봣어요. 이거 다운받아 봐야겠어요 . 좋은 영화소개 감사합니다.",
+        "writer": "UgzqkygZKcD6tZTuxSF4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어디 불나면 아빠랑 아들 군무중에 만나겠네",
+        "writer": "UgyqkziOYTyFWMj_aN54AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아, 이 영화 그 당시 극장 가서 봤던 기억이 나네요, 바로 얼마 뒤에 비슷한 소재의 한국영화 시월애도 나왔던것 같은데.",
+        "writer": "UgyzurUd5hRC-dtluLJ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 이거 (반사회적용어)때 봤었는데 아직도 다 스토리 생생하게 기억날 정도로 잼썼음",
+        "writer": "UgxVpqCTCg7whV4VwX94AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "탱커 힐러 딜러",
+        "writer": "UgzGiszdJUmwy9Dhlpt4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 두번 세번 보세요 진짜 너무너무 추천 그래 푸리퀀시였어 짱임",
+        "writer": "UgyYj_xnOkpLqFDYn2F4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잠만, 목소리 개(이름) 보자마자 바로 구독을 눌러버렸엉.",
+        "writer": "UgxuVstSwL5xaMjttU94AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목소리 담백하게 좀, 느끼해서 못듣겠어요",
+        "writer": "UgxUfYurqPP3KMNCE-V4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 명작은 또 어떻게 알고 찾아오시는건지 꼭 결말 봐야겠네",
+        "writer": "UgyVptSoIY5WHU4ksOZ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "띵잘님은 결말까지 다 보여주지 않아서 좋아요 많이 본 영화지만 다시 찾아서 보고싶단 생각이 들게 해주시네요.",
+        "writer": "Ugx2Mxs3c1MwESY2PSJ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소개 영상보고 영화보고왔습니다. 명작 추천 감사합니다. 눈물 찔끔 났네요 .",
+        "writer": "UgyNdqsv85nkoh5qXYt4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "프리퀀시가 2000년작이니 시그널이 (이름)에서 영감을 받은듯.",
+        "writer": "Ugz_tuoOjhlMW9rTcdp4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와 우리나라 드라마 시그널 느낌도 나면서 감동적이에요,",
+        "writer": "UgyPaNHTnp6lXjrw2e54AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오예 왓챠에있다 오늘저녁엔 (이름)닷",
+        "writer": "Ugwyi0-htCBUmO4iip94AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "음 동감에 카피 영화 같은 영화 였는데 동감은 이야기 안하시는 군요",
+        "writer": "UgzjTv4vmknVfmW53p94AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "결말까지 같이 리뷰해줬으면 더 좋았을텐데,",
+        "writer": "Ugx8z8D_OFxROnr3mwd4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영화가검색이안되네요 어디서도 보고싶었는데",
+        "writer": "UgybHAmBBT4Ww0cXf_J4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한국 드라마 시그널 이 소재와 아이디어가 이 영화와 똑같네요. 새로운 작품인줄 알았는데 원작이 이 영화네요",
+        "writer": "UgxW5Yix32ONns-prpF4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "포스터가 이렇게 중요하네요 넘 궁금해서 찾아봐야겠어요.",
+        "writer": "UgwSNfBlRA0Bx3XCn_F4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가끔 진지한 목소리에 않어울리는 자막 근데 그게 좋네요",
+        "writer": "UgyeDN2ApTz0fmbpttx4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진지하게 보고 있는데 (비속어)친구",
+        "writer": "UgxpD2LwhOOYlvuNptt4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "졸잼영화 덕분에 찾아서 보고왔네요 감사합니다",
+        "writer": "UgzDHGJ55Un_4hipO_R4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시그널 나왔을때 아(비속어) 보시고 (이름)랑 많이 비슷하다고 하셨던게 기억나네요 저는 (이름) 모르다가 아빠덕분에 알게됐죠.",
+        "writer": "UgxOkOicypUrLRvGdfh4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 띵작 임 직접 보면 더 존잼",
+        "writer": "UgwhTzPS32PXW5hC0494AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고학년 초등아들에게 보여줬어요. 너무 재밌다고 집중해서 보더라고요 감사드립니다..앞으로도 좋은 영화 부탁드리고 잘생긴 목소리 감기 안걸리게 조심하셔요",
+        "writer": "UgwkvOOL4WxBAaQ0su14AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)의 (반사회적용어)란 말 왤케 웃기죠 욕인데도 너무 정감가서 나쁘게 들리지 않는 기현상",
+        "writer": "Ugz0znwOMwS8aJjR2wR4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "광고좀 적당히 (비속어)",
+        "writer": "UgzIsiagO9JO8t-5Y4J4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 이 명작을 추천해주시네, 진짜 한번쯤 볼만한 영화입니다..",
+        "writer": "UgwgNcLb2YYsctFHe-V4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 이거 제 인생띵작인데, . 지금도 소장중이고 가끔식 보는데,",
+        "writer": "UgyY33XK6JUI0DEkWPN4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 저 로 10초도 안넘기고 봤어요",
+        "writer": "UgxSuNHpNhMg2S0JB3x4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "첨에 채널 이름만 보고 잘생긴 남자 하다가 목소리 듣고 치였습니다, (비속어)이시네요 님",
+        "writer": "UgwpRndDlcRr91cTiOB4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "프리퀀시가 원작라기엔 우리나라 동감이라는 멜로영화가 이 영화보다 몇달 먼저 개봉했어요 그 영화도 무전으로 과거와 교신하는 소재에요 나중에 티비로 두영화를 접한 사람들은 동감이 프리퀀시를 표절한줄 알던데 동감이 반년 먼저 개봉했죠",
+        "writer": "UgxW5Yix32ONns-prpF4AaABAg.93v6irSlKX-9432grg_Z_E",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현재와 미래와 교신하는 영화나 드라마는 미국이나 일본등에도 많아요. 미국 영화 Back to the future 같은 영화는 타임 여행하는 차를 개발 하는 등등, 하지만 전화기나 무전기로 대화 하면서 미래가 바뀌고 그래서 다시 교신 하면서 해결하고 구로 인해 또 미래가 변하면서 미래와 현재에서 함께 고민하고 범죄와 바뀌는 문제를 함께 풀어 가지는 않죠. 이 영화와 한국 드라마는 똑 같아요. 설정이 다를 뿐이지,",
+        "writer": "UgxW5Yix32ONns-prpF4AaABAg.93v6irSlKX-9439Sh-lZEy",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시월애가 먼저 크랭크인했는데 동감이 먼저 개봉한거 아님",
+        "writer": "UgxW5Yix32ONns-prpF4AaABAg.93v6irSlKX-94Cf67A5b1y",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아하7 시월애는 우체통으로 과거랑 연결되는거고 프리퀀시 동감은 무선교신을 직접 해요 그래서 과거가 바뀌면 즉시 현재가 바뀌는 내용이 나와요",
+        "writer": "UgxW5Yix32ONns-prpF4AaABAg.93v6irSlKX-94F22MUywyQ",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Aspire Samori 그 내용이 동감이 먼저예요 멜로영화지만 과거에 사는 여주인공과 현재에 사는 남주가 우연히 무선교신을 하게되고 미래의 남자가 과거의 여주가 현재 짝사랑하는 남자와 자신의 절친 사이에서 태어난 남자라는걸 알게되요 그리고 과거의 여주와 그가 짝사랑하던 남자는 어떤 사정으로 엇갈리게 된다는것과 그때 자신의 절친과 만나게 된다는것까지 알게돼구요 짝사랑이긴 했지만 남자도 여주에게 관심이 있었고 그 엇갈리던 그시간이 바뀌게 되면 미래의 남자는 자신의 부모와 얽힌일이라 과거가 바뀌면 현대의 위치가 바뀔수있다는걸 알면서도 그걸 알려주죠 무선통신으로 과거와 연결 과거의 사건사고를 미리 여측하는걸로 미래라인걸 확인시킴 과거가 바뀌면 현재도 바뀔수 있다 이 셋이 동감에도 나옴니다",
+        "writer": "UgxW5Yix32ONns-prpF4AaABAg.93v6irSlKX-94F5I6IhLiF",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "silver k 그 영화 나도 봤어요. 현재와 미래를 연결 하는것은 같지만 한가지 상황이 바뀌면서 다른 상황들이 바뀌는 등 (혐오표현)과 범인을 잡는 것 등은 전혀 없는 영화이기 때문에 한국 드라마 시그널이나 이 미국 영화 프리퀀시 하고는 상관이 없어요. 그러나 한국 드라마 시그널과 이 영화를 보면 내용이 거의 같아요. 뭐 표절한것 같네요. 그리고 동감은 5월 27일 2000년도에 나온것이고 이 미국 영화 프리퀀시는 4월 28일 2000년에 나왔기 때문에 미국 영화가 동감보다 먼저 나왔습니다. 아 그리고 굉장히 유명한 미국 할리우드 영화 Back to the future 백 투더 퓨처 가 있지요. 이 영화는 80년대에 만들어 졌는데,타임 머쉰을 타고 현재와 미래를 왕래 하는것이지만 현재의 문제를 고치려고 과거에 가서 고치면 현재가 바뀌어 있고 그것을 바로 잡으려고 타임 머쉰을 타고 현재와 과거를 왕래하는 그런 영화인데 엄청 잘 된 영화로 3편까지 나왔던가 그랬을 겁니다.",
+        "writer": "UgxW5Yix32ONns-prpF4AaABAg.93v6irSlKX-94FAclfcK4J",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Aspire Samori 백 튜더 퓨처에 (혐오표현)이 나오는게 아니니 연관성이 떨어지고 타임머신 이야기를 말하자면 영화는 아니더(반사회적용어) 옛 소설에 많이 있는 소재죠 지금 표절이라고 하는 부분은 일부 설정뿐인데 그걸 표절이라 한다면 ,",
+        "writer": "UgxW5Yix32ONns-prpF4AaABAg.93v6irSlKX-97s_dz1Dgor",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 백 두더 퓨처를 표절 했다고 하지 않았어요. 댓글들 다 읽어 보지 않으셨네,",
+        "writer": "UgxW5Yix32ONns-prpF4AaABAg.93v6irSlKX-97seBvMkEGV",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "백결 으헉 (이름).",
+        "writer": "UgyeDN2ApTz0fmbpttx4AaABAg.93urrVxDnAv94sOE7upPPW",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형은 늘 목소리가 맛집이야",
+        "writer": "UgwH(반사회적용어)N_i08t9sFRecJ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "갠적으로 시간여행 영화 넘 좋아함 시그널 드라마도 넘 잼있게봤는데, 결말이 궁금해지네요",
+        "writer": "UgwUfHvMpkKkb-KOrfx4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요즘 계속 즐겨봤던 시간여행 드라마나 영화의 원조격인 영화가 여기 있었군요 넘 재밌게 잘 보았어요.",
+        "writer": "Ugz0x3GRBjEdfSENEWV4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동감 동감 동감 동감 동감 동감동감 동감 동감동감 동감 동감동감 동감 동감동감 동감 동감동감 동감 동감동감 동감 동감동감 동감 동감동감 동감 동감동감 동감 동감동감 동감 동감동감 동감 동감동감 동감 동감동감 동감 동감동감 동감 동감동감 동감 동감동감 동감 동감동감 동감 동감동감 동감 동감동감 동감 동감동감 동감 동감동감 동감 동감동감 동감 동감동감 동감 동감동감 동감 동감동감 동감 동감동감 동감 동감동감 동감 동감동감 동감 동감동감 동감 동감동감 동감 동감동감 동감 동감동감 동감 동감",
+        "writer": "UgwU65X6cCp9RwvC4kx4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목소리가 집중하게 만드는데 80지분율",
+        "writer": "UgznCM7OXmp5-7ek9EJ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "드라마 시그널도 이런 느낌이더라구요..",
+        "writer": "UgwihO8cdDL0T-ibDfB4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 설정 꽤 있는 듯 그래도 좋음",
+        "writer": "UgyHLfF_gsc6DNGBTq14AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예전에 본 영환데 결말이 기억이 안나",
+        "writer": "Ugzndo3y5CI7ANNf4ed4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아빠는 소방관 엄마는 간호사 아들은 (반사회적용어), 여기 집안 직업이 다 쩌네,",
+        "writer": "UgwHtL62bbbpOArgmGp4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "The parent trap 아빠다.......",
+        "writer": "Ugwok3mA-MmqoXE82Qp4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네이버 역대 평점에서 상위권을 차지하는 고전 명작이죠",
+        "writer": "Ugx-RWov0KWSZK5uixl4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목소리 넘 조아여",
+        "writer": "UgxIB2bWQIlJQ_mza5J4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형형 (이름) (이름) 스토커(stoker) 리뷰해줄 수 있어 . 영상미나 긴장감이나 다 최고라고 생각하는데 혼자 해석이 잘 안돼 다른 분들도 쫄깃쫄깃하게 보실 거라고 생각해..",
+        "writer": "UgwFZWwWeEZPXiGtH9R4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "본지 오래돼서 기억이 잘 안나는데 바뀐 미래에 엄마 살리려 하다가 결정적인 순간에 아(비속어) 살아돌아와 범인을 총으로 쏴 죽임. 결국 가족 중 누구도 죽지 않는 해피엔딩이었던거같음.",
+        "writer": "Ugx77-yjSgMjsz8NCvp4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 3번봤다는 꽤 재밌게본영화",
+        "writer": "UgxuTYDkswzO-MQtI2R4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유지태와 (이름)이 만난 두번째 작품 동감 시간을 넘은 사랑 이야기지만 소재가 참신했던 꽤 괜찮은 작품 하지원의 데뷔시절 풋풋한 모습도 볼수 있습니다. 거기다 (이름)이 부른 주제가 너를위해 를 감상 할 수 있습니다. 시그널은 아주 최근에 시도된 컨셉이구요",
+        "writer": "UgzQuGQbXZesEt6IRTF4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시그널이랑 넘 비슷하네요 시그널보면서 어찌 저런걸 생각했을까 놀랐는데 시그널이 빼낀건가요 살짱 실망",
+        "writer": "UgwP9Sm2qWevZRbM7vB4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이렇게 끝내시면 우째요",
+        "writer": "Ugx4qLJK9f_0UhHaUlt4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영화는 안보이고 목소리만 들리는건 안비밀 함정에 빠진기분",
+        "writer": "UgznCM7OXmp5-7ek9EJ4AaABAg.93sfwH7jfWA94CFogmYd21",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": ", 머야, 나 지금 고작 3줄에 스포 당한건가 히잉",
+        "writer": "Ugx77-yjSgMjsz8NCvp4AaABAg.93sPKR7Rmcf97VdKtIyI8c",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "매번 볼때마다 느끼는 건데 정말 띵잘님이 실제로 잘생겼을까( )",
+        "writer": "Ugx5kXbDKdCzi6E9_lF4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 도데체 어디서 볼수 있는건가요",
+        "writer": "UgwTYT1mWZ4lzRs7rE14AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 보니까 시그널 생각나네여",
+        "writer": "UgwQmE4YuN5_x_lYCu54AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번주말영화는 이걸로정했어형",
+        "writer": "UgxUhfzsRqfqRdfsMqd4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 띵작이듯, 꼭 찾아 볼께요, 구독이네요,목소리도 안정적으로 듣기 따봉,",
+        "writer": "Ugz3HU3pHh3m3xckcxR4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시그널이 이걸 모티브로 만들었나보네요 꼭 봐야겠어요 왜 대박 못쳤지",
+        "writer": "UgwsE6mamX28DIoAGsx4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이때까지 본 것중 최고입니다",
+        "writer": "Ugzu54oWLiO6a-jnUCZ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "싸패형님 배그하다가 왜 일로가심",
+        "writer": "UgxHjzeIXUrBzbZ4qaN4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "프리퀀시 (이름)진짜 원조띵작입니다 여러분 모두모두보세요",
+        "writer": "Ugwc-uODotkBrv0kXsx4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제목이 먼지 알려주세오",
+        "writer": "UgyngoDsvEoZb1p0_M94AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 영화 재밋겠다",
+        "writer": "UgxFj8_vR828YXaAAN94AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잼있겠다 주말에봐야지",
+        "writer": "UgyxjNLTACtEcaNU03V4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "덕분에 이거보고 바로 보고왔어요, 재밌는거 추천해주셔서 감사합니다.",
+        "writer": "UgwxlkoDd28S787wJiZ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리나라 드라마 시그널이 떠오르네여...",
+        "writer": "UgynTcs5AaX7a_yncCl4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "구독자 100만인줄 알았는데 왜 23만 밖에 안됐어요 좀 더 떡상하십시오.",
+        "writer": "UgzT5d_vsJ9z95wxbKR4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시그널 표절인거",
+        "writer": "Ugy4fDff4k7A_lgQnx14AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 이거 한국영환데 뭐더라, 기억(이름)뮤뮴뮤뮤뮤뮴뮤뮤",
+        "writer": "UgyLzI_wypNZ3yef-454AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시그널, 이후로 한동안 드라마 보는 재미를 잃었었네요. 시즌2 나오길 고대했었는데, 이 영화 챙겨봐야겠군요.",
+        "writer": "UgyO9PmNnZPAd3hQXE54AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 목소리 좋다 목소리 좋다 목소리 진짜 좋, 끝났다. 근데 내용이 하나도 기억 안나네",
+        "writer": "UgwUkOCFzMdmyhzROnl4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시그널과 기욤 뮈소의 당신 거기 있어 줄래요 섞인 내용인 듯, 진짜 재미있겠다..",
+        "writer": "UgxBK-e1LvlwJR7DQkt4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다으이야기한나도안궁금하니까 그렇게할거면하지마러 한서너더뎃시간썩하라고",
+        "writer": "UgzyiCRtHsESnE0fAq94AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 재밋게 봤었는데 간만에 보니 또 보고싶어지네요",
+        "writer": "UgzGRFJ2ifyLfHi3riJ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제가 영화를 몰입해서 보는게 정말 오랜만인거같아요 지금 결말이 너무 궁금해서 영화로 봐야겠어요 감사합니다 ..",
+        "writer": "Ugxi0T2Gln9wnfpOuSR4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "퀸즈면 스파이더맨이 출동.,",
+        "writer": "UgzQj2lV5bneEfLWAzt4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동료형사 나인나인 (이름)이시네",
+        "writer": "UgwsKmP83bgPYy7cgrp4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스타벅스 프리퀀시",
+        "writer": "UgwmVAsB1nkBNbpzPfR4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "말할 수 없는 비밀주걸륜 영화 생각나에요 특히 과거의 책상 글씨가 미래에 그려지는 모습도,",
+        "writer": "UgyZ0oBznMqNz8-BnmV4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 시그널보다 훨씬 재밌을꺼같은데",
+        "writer": "Ugw90MTkLrtEsFZhg294AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "처음 나오는 콜라소리가 너무 리얼하고 먹고싶게 만들어서 구독",
+        "writer": "UgzAHUhhH1HYrmQCDjR4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘만듬 영화임 재미 있으니 꼭 봐봐요",
+        "writer": "UgzLxY6KVtsKG8lZyvZ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "2000년 우리에겐 이 있었죠. 그래서 동감을 표절한 거 아니냐는 말도 있었죠.",
+        "writer": "Ugzps9Sg2OAJb4whvwd4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바로 영화보러간다능. 긴장타는 영화. 가족애가 그리움. 띵잘남 뽜띵.",
+        "writer": "Ugya4235Qej1jVBviB14AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "프리퀀시 재밌었음",
+        "writer": "Ugyiuy5sATdWNH0BPrx4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 예전에 진짜 재미있게 봤는데 띵잘님 리뷰를 보니 다시 보고싶네요",
+        "writer": "UgyLPJ4cw7r8dbyknjZ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 영화를 보면 항상 같이 생각나는 영화가 있습니다. 바로 유지태.(이름) 주연의 동감 이란 영화. 특이한건 두영화 개봉년도가 같습니다.",
+        "writer": "UgzH3AC5n7M_xmWuKlx4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (이름) 주연의 시간이탈자가 이거 리메이크인가요",
+        "writer": "UgympGRlLmmI1jaVnep4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영화 꼭 보고싶다",
+        "writer": "UgxJajM1mLrFYoefWv14AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "처음엔 (이름) 유지태 영화 동감이 생각나서 리메이크 작인줄 알았는데 동감이 개봉은 몇달 더 빨리 한걸로 나와있네요 리메크작은 아닌거죠,",
+        "writer": "UgwMkbkXyypls1u5Q-d4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 편집 너무 잘해서 두근두근 찾아서 봐야겠어요 .",
+        "writer": "UgwYn444cNPX_USpuwF4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "띵잘님 감사해여 제가 5일뒤에 시험 끝나는데 띵잘님 덕분에 셤 끝나고 나쵸 쌓아놓고 다운 받아 볼 영화가 벌써 6편이나 쌓였어요, 행복,",
+        "writer": "UgxaTc2Roiy1zOed32h4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 영화 진짜 재밌었어요",
+        "writer": "UgynPa5Rdw30lgQm2tF4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "신입 유튜버 김쿠쿠듀브 입니다. 영상 잘보구 있습니다. 형님들 제 소원이 구독자 1만명 모으기가 소원입니다. 소원 꼭 이루어지도록 바다같이 넓으신 마음으로 동참해주세요.. 형님들도 모든 소원이 이루어지도록 기도하겠습니다.",
+        "writer": "UgxGlsFZsmtGb4SmlCF4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한국 영화에 동감 (이름)유지태 주연 미국 버전인가",
+        "writer": "Ugyf2HdwoK4NWhVMbFV4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감기 걸리셨나요 건강 유의하시기를",
+        "writer": "UgxbvFzt7rKe3QowGD14AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 재밌게 본 영화",
+        "writer": "UgzLUzOsTUOnFvgugrV4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크 담에한번봐야겟다,",
+        "writer": "UgyS_SuJCstbLzlUgP94AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남자한테 인기터지네 형",
+        "writer": "UgwQlUxIL9b9F7RIZw94AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시그널 원작 버전이네",
+        "writer": "UgyABX7SYwtTGDWqZuZ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "글 진짜 잘 안쓰는데 이거 보고 바로 영화 봤어요 꼭 보길 추천 왓챠에 있어요 꼭 보세요...",
+        "writer": "UgzZVcgv-OljyCgNs854AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 진짜 명작임 과거의 아빠와 현재의 아들 무전기로 엄마 죽인범인잡는 이야기",
+        "writer": "UgwC8M323InaBOri1xR4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "힐러 탱커 원딜",
+        "writer": "UgztkUFouMScZ2EBhQF4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시그널이 이 영화를 토대로했구나",
+        "writer": "Ugxjv67PGYJwVAf60Ex4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개인적으로 인생 베스트 영화가 나비효과 인데 원작 이라고 할수 있는 영화네요구독과 좋아요 박고 갑니다",
+        "writer": "UgxbRztYxh9mE71q75R4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잊으려 하는데, 왜 자꾸 내 앞에 나타나는거에요, . 하 오늘도 다보고 잘게여",
+        "writer": "Ugzv2ke1w71MuHsDVjB4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 안대, 결말 스포 오늘은 왜 없,",
+        "writer": "UgyQHxjNrUYiloG3KS54AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시간 소재 드라마나 영화들은 언제나 재밌는 거 같아요 오늘도 띵작추천 감사해요",
+        "writer": "Ugw3H8TQ5Y8zxS2ZSBp4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄마 못살럈어요",
+        "writer": "UgwC8M323InaBOri1xR4AaABAg.93pKUrKOqH-948_-xJGvLy",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모랄혜빈 저도 보면서 그 생각했는데 ,",
+        "writer": "UgwC8M323InaBOri1xR4AaABAg.93pKUrKOqH-94gwd0Eui4t",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어린시절 아버지와 함꼐 할리 타고 나가는 장면은 최고의 결말,",
+        "writer": "UgwC8M323InaBOri1xR4AaABAg.93pKUrKOqH-9LTgjDKCTk0",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 목소리가 섹쉬해,",
+        "writer": "Ugy-pXgPdxZrh1MCpDp4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "글래디에이터가 바로 뒤에 개봉했군요.",
+        "writer": "UgwaQrl-eQlZSvsg7d54AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "띵잘 매력 갑자기 죽여버리겠다고 (비속어)(비속어)",
+        "writer": "Ugw4nBemi39De5WdiZl4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오래전에 봤던 영화였는데 정말 감동과 여운이 많이 남았던 영화였어요,",
+        "writer": "UgzJmz7pEDkow3neqdd4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자장가 목소리 같아요. 역시 영화는 잼있어요.",
+        "writer": "UgzTa-XctzgdDwyuMrF4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비슷한 영화에 동감이 없네요. 심지어 프리퀸시 보다 먼저 개봉했더라고요 무전기를 매개로 시간을 뛰어넘는 설정이 똑같아요",
+        "writer": "UgxvSVimGFxenrGl-p14AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "띵잘 오늘도 잘봤오 띵잘형",
+        "writer": "UgzBpRsd78zS4vI8OKt4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목소리 너무 좋아요",
+        "writer": "Ugz9LCNSGb47zypJZKB4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댓글 작성하려고 로그인했어요) 좋은 목소리로 영화 줄거리도 쏙쏙 잘 소개해주시고 영상 보고나면 영화를 한번 꼭 보고싶게 만드는 매력이 있다고 해야할까요 리뷰가 더더 많이 올라왔으면 좋겠습니다. 앞으로도 좋은 영화 소개 많이많이 해주세요) 좋은 영상 감사합니다",
+        "writer": "Ugwqo2qRsfYfmC2E8Yh4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주인공들 hello 할때마다 자막이 엽떼여 이렇게 떠서 집중이 안되네요",
+        "writer": "Ugw2DJuiU2GtYJBDNrp4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 달콤한 목소리",
+        "writer": "UgyQ-6FzOxic3hTX-Z14AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "띵잘님 유튜브 볼때마다 콜라가, 땅기네 .맨처음에 나오는 콜라 따르는 소리,",
+        "writer": "Ugwqte-c37dFWAhF_FR4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주온 공포영화도부탁해요 주온은 정말혼자못보겟는데 띵잘이면 볼수있을거같아요",
+        "writer": "UgwSsHKoGM6RixklNUR4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목소리가 왜 이렇게 멋지죠",
+        "writer": "UgzqMLYqgEdC0m4Dvep4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "옛날에 비디오가게에서 빌려봤던 기억이 나는군요 오늘도 띵잘",
+        "writer": "UgwnIz9PbSNfqEn82jR4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재밌게 본 영화인데 리뷰가 명작이네요 그리고, 할말이, , . 광고 다 봤어요.....",
+        "writer": "UgyLOhcUPXudtb0l7rd4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 형이랑, 저렇게 무전, 아니 스마트폰으로 프라이빗한 대화를 나누고 싶은 걸, 아아 물론 건.전.한 대화 하앍",
+        "writer": "UgzNWkJuSox8JpQgLNd4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 혹시 예전에 올린거 재업 하신 건가요 왜 본 기억이 나지, 시간여행중인가,",
+        "writer": "Ugx6xaktumuZ-0IEsit4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "MultiHeela 이거 이야기하려고 댓글 확이했음요. 동감이 제일 비슷한 이야기 아닌가요",
+        "writer": "UgxvSVimGFxenrGl-p14AaABAg.93oU3EbZqs793sPU3ATXsA",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "ahyoung cho 나도 동감",
+        "writer": "UgxvSVimGFxenrGl-p14AaABAg.93oU3EbZqs794FPFdpsyGB",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동감을 리메이크 한 버젼이 프리퀀시죠,",
+        "writer": "UgxvSVimGFxenrGl-p14AaABAg.93oU3EbZqs795Sze8jxFQ4",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Reversi Wars 리메이크한게 아니라 그냥 소재만 같은 겁니다. 리메이크한 버전이다라는 건 님의 개인적인 의견인 거고 공식적인 사실은 아니잖아요 개봉 차이가 6개월인데 6개월 만에 시나리오 쓰고 배우 캐스팅하고 제작 촬영해서 개봉한 영화는 아닐 겁니다. 혼선을 줄만한 말씀은 안 하셨으면 좋겠네요. 내용적인 면에서도 사뭇 다르고요",
+        "writer": "UgxvSVimGFxenrGl-p14AaABAg.93oU3EbZqs795T2_rgKvDb",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "로벌 인트로도 잘생겼다",
+        "writer": "Ugwqte-c37dFWAhF_FR4AaABAg.93oJgaVwdBR93oSnXaayu4",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는 콜라 마심",
+        "writer": "Ugwqte-c37dFWAhF_FR4AaABAg.93oJgaVwdBR93r7DlaDno5",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제일 예뻐, 광고를 다 보다니,",
+        "writer": "UgyLOhcUPXudtb0l7rd4AaABAg.93oDfq2kKJ293qDD0ze5K9",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "함께 과거로 돌아가자,",
+        "writer": "Ugx6xaktumuZ-0IEsit4AaABAg.93oB-L5DO7-93qDB-ZWI0-",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 왱 결말 안알려 줘용. 어떤건 알려주고 어떤건 안 알려주고. 기준이 있나용 .",
+        "writer": "UgwfNg7N3AS11tAAktN4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 목소리 진짜 감사합니다람즤",
+        "writer": "UgwCt6Xal1Ek0PWtRod4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니제목보고 들왔는데 (비속어)끝부분에나오네",
+        "writer": "UgybOK8j8G-Tq5I23Z54AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 이거, 진짜 띵작이죠, 영상 진짜 재밌게 잘 만드세요 본 영화를 다시 이렇게 봐도 좋네요.",
+        "writer": "Ugy6IW5Ghu9OWJdaInd4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밍, 뭐야 개기야워, 0",
+        "writer": "UgzAfLiBqB6D3y2i5U14AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시그널이 생각난다,",
+        "writer": "UgxwoGycU_dgCUKy0NF4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 이거 본 거 같은뎅, 형 채널 아니었낭,",
+        "writer": "Ugy7QtDNiMVFrx-_U1F4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 , ... 이런 재미난 명작이 있었네요 보면서 약간은 나비효과 생각이났었는데(나비효과도 굉장히 재밌게 본 영화) 흠 , 이게 먼저 였다니 꼭 한번 봐야겠어요 오늘도 어김없이 좋은 영상 감사드립니다",
+        "writer": "UgxJJjCKDo0CeJjPmy54AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 정말 개인적으로 타임워프 명작인데 리뷰해주셔서 다시보니 새롭네요.",
+        "writer": "Ugxmnrcai76gwK8KcQd4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 오늘도 고마워 좋은영화알려줘서, 횽목소리 이어폰으로 듣는데 너무섹시하네, 마지막에 띵자르하는거에서 내 맘 다 녹여버리네",
+        "writer": "UgzucxVwy87S-vAoBHJ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영화는 안보이고 띵잘님 목소리만 들리자노",
+        "writer": "UgwxX4tmcomEUugd1sN4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시그널이 참고한 영환가 내용이 비슷하네",
+        "writer": "UgwLxgUflDgQJgD8NTF4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 잘만들었네..",
+        "writer": "Ugw8teOlmF8MEnJb2xh4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 띵잘형은 어떻게 이런 띵작들을 잘 찾아오는거야 섹시해",
+        "writer": "Ugy9ofXIHNVkcJpzmox4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "띵잘형, 저 태어나기 전에 개봉한 띵작도 어떻게 이렇게 잘생긴 목소리로 소개 잘해주시는거에요, 하앍, 너무좋아",
+        "writer": "Ugw_no7Wut8XI8-7LKF4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목소리 어쩔",
+        "writer": "UgyzJLIhmoK9mGGkTaB4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시작부터 눈물찡,",
+        "writer": "UgwhPwCHdc2Rgpjn-Th4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아빠, 보고싶어요.",
+        "writer": "UgxITAjL3NmGVNCBFH54AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그와중에 책상 30년씩이나 안바꾸고 써서 메시(반사회적용어) 남길수있다니 미쿡책상 튼튼하네요",
+        "writer": "UgyRnkWQsDoPLbqA2194AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "HANA MOM 영화를 소개 해준다는건 그 영화를 보라고 알려주는건데 결말을 당연히 빼야 정상 아닌가요, 그냥 유튜브에서 영화 줄거리 압축해서 결말까지 공짜로 볼 생각 하지 마시고 영화 찾아서 결제해서 보시길 바랍니다",
+        "writer": "UgwfNg7N3AS11tAAktN4AaABAg.93oAfOO8Sfj93pgQB6ARYc",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "간장계란 띵잘님이 원래 다른 유튜버랑 다르게 결말을 포함해서 만드시는 편이라 그걸 기대하고 오셨기에 물어본거겠죠,",
+        "writer": "UgwfNg7N3AS11tAAktN4AaABAg.93oAfOO8Sfj93q7ulxfCxN",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "문어지지마 너야 말로",
+        "writer": "UgwfNg7N3AS11tAAktN4AaABAg.93oAfOO8Sfj93qF6rIeVn9",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "채재현 모든 리뷰에 결말이 없다면 질문 조자 하지 않았겠죠. 어떤것은 결말리뷰고 어떤것은 결말이 포함되지 않았으니 궁금해서 그 기준을 물어본것 뿐입니다. 꽁으로 보겠다는 심보가 아니구요. 그리고 영화 리뷰에 무조건 결말을 빼고 만든다는게 당연하다면 결말 포함 시켜서 영상 제작하시는 분들은 (반사회적용어)다는건가요. 띵잘님 제작 영상중 대부분은 결말이 포함되어 있는 리뷰를 제작하셨는데 그럼 그동안 만들었던 영화 리뷰는 이상 하다고 봐야겠네요. 사람마다 리뷰 만드는 영상 스타일이 다른데 꼭 영화 리뷰는 꼭 결말을 알려주면 안된다는 영화 리뷰 법이(반사회적용어) 있나요. 그래서 마지막에 기준이 뭔가를 물어본글 못읽으신건 아니겠지요",
+        "writer": "UgwfNg7N3AS11tAAktN4AaABAg.93oAfOO8Sfj93qFQviHOTQ",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "간장계란 당연(이름)니죠 웃기네",
+        "writer": "UgwfNg7N3AS11tAAktN4AaABAg.93oAfOO8Sfj93qGKJZFV-U",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "채재현 기준 물었는데 지 혼자 기분 상하는지 꽁으로 보지말라고 훈수하네 당연한것도 아닌데 (비속어)냐 사람말 잘 이해하고 글을 써라",
+        "writer": "UgwfNg7N3AS11tAAktN4AaABAg.93oAfOO8Sfj93qHK6QxTN5",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "문어지지마 죄송합니당. 실수로 신고 눌렀어요 ..",
+        "writer": "UgwfNg7N3AS11tAAktN4AaABAg.93oAfOO8Sfj93qHtih8qjm",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "간장계란 결말을 당연히 빼야한다는 기준은 뭐죠 띵잘님은 결말을 잘알려주시니 인기도 많고 알려주는영화도 있고 없으니 그기준을 물어본건데 꽁으로 보지마라고 훈계라니 참 말기분 언짢게 하네요",
+        "writer": "UgwfNg7N3AS11tAAktN4AaABAg.93oAfOO8Sfj93qUkw0c6VT",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "10분 20분으로 편집된 영화 영상보는 (이름) 짧은시간으로 12시간짜리 영화를 보려고 그러지 않나요 그러다가 결말까지 포함된 영상 같으면 다 보고 재밌으면 직접 풀로 찾아볼수도 있구요. 뭔가 결말이 없는 영화 편집영상들은 똥싸고 똥안닦고 나온느낌이랄까,",
+        "writer": "UgwfNg7N3AS11tAAktN4AaABAg.93oAfOO8Sfj93qVuOL_QIc",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "HANA MOM 저작권 걸리는건 잣됩니다",
+        "writer": "UgwfNg7N3AS11tAAktN4AaABAg.93oAfOO8Sfj93qZYbsjoc7",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 기준이 궁금했었는데 어떤건 알려주시고 어떤건 결말이 없으니까요",
+        "writer": "UgwfNg7N3AS11tAAktN4AaABAg.93oAfOO8Sfj93q_b2P7j9C",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "간장계란 그럼 결말이 있는 영상 유튜버들은 정상이 아닌가요 ,",
+        "writer": "UgwfNg7N3AS11tAAktN4AaABAg.93oAfOO8Sfj93qi_jDd5PK",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "간장계란 헛 (비속어)(비속어) 발견..",
+        "writer": "UgwfNg7N3AS11tAAktN4AaABAg.93oAfOO8Sfj93qjotuJUnO",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "불만있으면말로하세요 그렇군요. 그럼 궁금해서 다시 물어볼게요. 저작권 때문에 영화 리뷰 대부분은 결말이 포함 되지 않는 다는 말씀인가요 그럼 종종 결말 리뷰 포함된 영상들은 저작권이 걸리지 않아서 포함 되는건가용",
+        "writer": "UgwfNg7N3AS11tAAktN4AaABAg.93oAfOO8Sfj93qm8z0jSrr",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)있네여기도 궁금하면물어볼수도있지 자기만의잣대에왜 남들을끼워맞추려고하지 하는짓보니깐 대선때 (비속어)뽑은게너지",
+        "writer": "UgwfNg7N3AS11tAAktN4AaABAg.93oAfOO8Sfj93qsejswnOw",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 궁금요",
+        "writer": "UgwfNg7N3AS11tAAktN4AaABAg.93oAfOO8Sfj93qxLAHLaSq",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "채재현 말이 박하시네요 저도 궁금했어요",
+        "writer": "UgwfNg7N3AS11tAAktN4AaABAg.93oAfOO8Sfj93qyVdmo5aI",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "간장계란 씸(반사회적용어) (비속어)",
+        "writer": "UgwfNg7N3AS11tAAktN4AaABAg.93oAfOO8Sfj93rKkCT2oOX",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "채재현 질문의 의도도 모르고 (비속어)대로 지끼네",
+        "writer": "UgwfNg7N3AS11tAAktN4AaABAg.93oAfOO8Sfj93rvr6Zc6FA",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저같이 리뷰영상 보면서 결말 확인 하고 재밌으면 영화를 보는 사람도 있어요 오히려 결말 없으면 별생각 없더라구요 결말 확인하고 끝이 아닌 사람도 많아요",
+        "writer": "UgwfNg7N3AS11tAAktN4AaABAg.93oAfOO8Sfj93sJ01BdYL6",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "결말 물어볼수도 있지 진짜 다들 신경질 적이네",
+        "writer": "UgwfNg7N3AS11tAAktN4AaABAg.93oAfOO8Sfj93sJxXIp3ff",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "문어지지마 논쟁과 관계없이 말은 니가 더 같이 한거같은데.",
+        "writer": "UgwfNg7N3AS11tAAktN4AaABAg.93oAfOO8Sfj93sTONNG_Uh",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시그널(이름) 내가 (비속어)인가 난 바로 동감 생각했는데",
+        "writer": "UgxwoGycU_dgCUKy0NF4AaABAg.93o35QiY7Pl93scH1RL0jn",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "터널이라는 드라마도 이 내용이랑 비슷하더라구요 . 터널은 둘 다 (반사회적용어)이라는 터널도 재미있으니까 한 번 보세요 .",
+        "writer": "UgwLxgUflDgQJgD8NTF4AaABAg.93nv2L_TBuB93qLy4KGYPk",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "띵잘형은 아래도섹시하죠",
+        "writer": "Ugy9ofXIHNVkcJpzmox4AaABAg.93nsVF211IN93nxShxs-jX",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤로노아조로 아주 그냥 움직일수 없다구욧.",
+        "writer": "Ugy9ofXIHNVkcJpzmox4AaABAg.93nsVF211IN93nyVJeKvHN",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "운후 그러게요 아래만 움직이는 마성의 형이네요",
+        "writer": "Ugy9ofXIHNVkcJpzmox4AaABAg.93nsVF211IN93oEjj6HkHv",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "띵잘 띵작 추천해주는 잘생긴 남자",
+        "writer": "Ugy9ofXIHNVkcJpzmox4AaABAg.93nsVF211IN93qcFuwN2RW",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "띵잘 띵작 추천해주는 잘생긴 남자 그래형",
+        "writer": "Ugy9ofXIHNVkcJpzmox4AaABAg.93nsVF211IN93rXy0F79Ur",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리도 옛날에 금성 책상은 30년씩 쓰구 그랬는데,",
+        "writer": "UgyRnkWQsDoPLbqA2194AaABAg.93nqcq7t7DI93qD0hJB3yQ",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Blue Ocean 건물도 100년이 넘은 건물들이 많더라구요",
+        "writer": "UgyRnkWQsDoPLbqA2194AaABAg.93nqcq7t7DI93qFs3cW_QC",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "28년 쓴 제 침대 더는 못 쓰고 얼마전 바꿨어요.",
+        "writer": "UgyRnkWQsDoPLbqA2194AaABAg.93nqcq7t7DI93xVdqPi9UI",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제책상 30년이 넘었는데, 아직도 너무 튼튼해요",
+        "writer": "UgyRnkWQsDoPLbqA2194AaABAg.93nqcq7t7DI94dnaYZYIFn",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 재밌게 봤었던, 한번 더 볼까봐요 잘듣고갑니다...",
+        "writer": "Ugyv-OYRBawSsEJv-4N4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "끼룩한국영화 시월애가 생각나네요",
+        "writer": "Ugw7st0jRUujiXWaaaR4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "케이블 영화채널에서 재밌게봤던 영화였어요",
+        "writer": "UgzhecU8Ygmthjl4qu54AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 형 나 이어폰 끼고 처음 듣는데 목소리 지린다",
+        "writer": "UgzS0UW8QTC_IkF4l6t4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 아(비속어) 그리워 지는군요.",
+        "writer": "UgyTne-b7BQVXr3cbaB4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형때문에 멈춘 내 심장도 살려내 미남간호사(찡긋)",
+        "writer": "UgzxBoYNinavlI3vFyN4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아(비속어) 소방관에 엄마가 간호산데 아들이 (반사회적용어)이넴, 개쩌누",
+        "writer": "UgwD1FhE_hQUTkxqO_V4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 띵잘형의 (비속어)마장할래",
+        "writer": "Ugzj8qNxM8vO8AVqZfR4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아름다운 (이름) 빛 밤하늘 아래에서 형이랑, .",
+        "writer": "UgxcY_TFmMEHztXpURR4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나였으면 로또번호 알려준다",
+        "writer": "UgycDDkJByFk0fP5g0p4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)는 야후 가 기억에 남네요.",
+        "writer": "UgyI8kOJbPqviIX6VRF4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소리 100으로 하고 봤는데 위층사람이 문 막 두드리더니 목소리 너무 좋다고 소리 좀만 키워달래",
+        "writer": "UgxPj7EPs4kbR42IEu54AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 빨리 집에가서 봐야겠다.",
+        "writer": "Ugw3vSgFe2G3VNgkQzl4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "드라마 시그널이랑 비슷하다",
+        "writer": "Ugw1HIj-5jgVwM9hFRF4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금쓰면 베댓인데 쓸게없어 어떻게하지",
+        "writer": "Ugyl1UpuBHb2p0u9wRB4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오랜만에 (비속어) 빨리왔는데 할말이없어 (비속어)",
+        "writer": "UgyQTwUua5RPJpOjmFR4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "2등 띵잘형",
+        "writer": "UgwqAGuO9XMib6ZuAlV4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형, 낮에 심심했는데 고마워, 목소리 여전히 좋네",
+        "writer": "UgxAif1CiPTQsD-PGc54AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "갑자기 (이름) 노래 듣고싶어지네요",
+        "writer": "Ugw7st0jRUujiXWaaaR4AaABAg.93npexwU9Kl93oZFTdtf-B",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다른 것도 이어폰 끼고 또 봐봐 그럼",
+        "writer": "UgzS0UW8QTC_IkF4l6t4AaABAg.93novPT7XbB93qCwn6EAez",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "띵잘 띵작 추천해주는 잘생긴 남자 알겠어 형아",
+        "writer": "UgzS0UW8QTC_IkF4l6t4AaABAg.93novPT7XbB93qOzpZCm14",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐지 달달한 이 둘의 대화,",
+        "writer": "UgzS0UW8QTC_IkF4l6t4AaABAg.93novPT7XbB97Z0slfjxw5",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아, 힘내세요",
+        "writer": "UgyTne-b7BQVXr3cbaB4AaABAg.93nnr5J_B7b93rCJm5iFMs",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모두 사람을 살려주는 직업군이네요 봉사하는 마음이 있어야 가질 수 있는 직업이기도 하구요",
+        "writer": "UgwD1FhE_hQUTkxqO_V4AaABAg.93nnQbLjqfl93oVpImCKzA",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "셋 다 직업이 안정적이라 돈을 잘 모아서 말년이 풍요로웠다고 함",
+        "writer": "UgwD1FhE_hQUTkxqO_V4AaABAg.93nnQbLjqfl93pg3stWauQ",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "YT kimjungun내체널 놀러와 3인가족으로 탱딜힐 완성",
+        "writer": "UgwD1FhE_hQUTkxqO_V4AaABAg.93nnQbLjqfl93sEwtNUoHI",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "복직기간엔 간호사가 돈 겁나벌고 퇴직후 소방관(반사회적용어)이 연금타고",
+        "writer": "UgwD1FhE_hQUTkxqO_V4AaABAg.93nnQbLjqfl93sJnh4PEtw",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 남친이 아버지 소방관이시고 본인 (반사회적용어)준비하는데 합격하면 개쩌는집안 되는거구나 자각못했네",
+        "writer": "UgwD1FhE_hQUTkxqO_V4AaABAg.93nnQbLjqfl948_Qt3TREl",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "야리 적어도 미국에선 아닐까요 미국에선 위 세 직업 모두 좋은 대우 인정받는 직업이니",
+        "writer": "UgwD1FhE_hQUTkxqO_V4AaABAg.93nnQbLjqfl96J4K3ZAb89",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "멋지네요 생각만으로도",
+        "writer": "UgxcY_TFmMEHztXpURR4AaABAg.93nmpaQ5u6f93nopOlJMgN",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "착한쑥쑥이 생각만으로도 떨리네요 물론 아래가",
+        "writer": "UgxcY_TFmMEHztXpURR4AaABAg.93nmpaQ5u6f93nrF_DmUQ5",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "OwO 1일 후",
+        "writer": "UgxcY_TFmMEHztXpURR4AaABAg.93nmpaQ5u6f93nsVXPqtks",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "라이코스 친구요",
+        "writer": "UgyI8kOJbPqviIX6VRF4AaABAg.93nmZ38BSoY93p4fWHY_ad",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 개추억",
+        "writer": "Ugw1HIj-5jgVwM9hFRF4AaABAg.93nlom-WIpP93nmPK1FUzs",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 이 말하려 왓슴다",
+        "writer": "Ugw1HIj-5jgVwM9hFRF4AaABAg.93nlom-WIpP93nms6UpNIY",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 시그널 작가가 시나리오 되게 잘 썼다고 생각했는데 2000년도에 이미 있는 내용이였네요",
+        "writer": "Ugw1HIj-5jgVwM9hFRF4AaABAg.93nlom-WIpP93nnj8uCodQ",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시그널 시즌2좀 빨리 나왔으면,",
+        "writer": "Ugw1HIj-5jgVwM9hFRF4AaABAg.93nlom-WIpP93no1hwhkNg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞어 쓸데없어,",
+        "writer": "Ugyl1UpuBHb2p0u9wRB4AaABAg.93nkzjA2cMl93nmxTritFO",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어쩔 수 없지,",
+        "writer": "Ugyl1UpuBHb2p0u9wRB4AaABAg.93nkzjA2cMl93qCoaQg0hp",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세바리양 앜 쓸게 없어인데 ,",
+        "writer": "Ugyl1UpuBHb2p0u9wRB4AaABAg.93nkzjA2cMl93qDCAOL9z-",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동호 하이",
+        "writer": "UgyQTwUua5RPJpOjmFR4AaABAg.93nkoY7emfs93qCnI4MH64",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "띵잘 띵작 추천해주는 잘생긴 남자 그거 우리아빠이름이야 아빠랑 계정같이써",
+        "writer": "UgyQTwUua5RPJpOjmFR4AaABAg.93nkoY7emfs93qkgTWrcjN",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=fVRIzU-ZEFc",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

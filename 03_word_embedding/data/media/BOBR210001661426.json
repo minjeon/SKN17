@@ -1,0 +1,900 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001661426",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001661426"
+    },
+    "text": [
+      {
+        "content": "저분들 다들 잘 되셨으면 좋겠당 지금도 성공하셨지만",
+        "writer": "Ugxqij7G6Q9VxTk4ypd4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저게 어딜봐서 전통한복임 개량한복인데",
+        "writer": "UgzDV5khWfo-V8Yymgt4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 신발은 전통적이지 않은것 같아요",
+        "writer": "UgyITTep8_5W7GzfRUV4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 언니 왜케 기여우셬",
+        "writer": "Ugwhm7357owHX4XoLeF4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭔가 매력있어",
+        "writer": "UgyhWNfcdYvA7NGvBHR4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 게속 틱틱 거리면서 동은원장한테 잠퍼 벗어 줬네 츤데레",
+        "writer": "UgzZSU7gZW5mogZNiWp4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 이쁜것보단 전설의 고향 이내",
+        "writer": "UgxUmSi7dZFthHHFHi54AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모래사장에서 하이힐은 의미가 없잖아",
+        "writer": "UgxulD7d-FVRD1Gc5XJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동은봇 맘에든다",
+        "writer": "UgzZ2bggweZVaqM-1YZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래도 마지막에 추울까바 관장이 옷벗어(비속어)나부네",
+        "writer": "UgwctmHs0TOpmYWSxQ14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동은원장 오똑케 오똑케넘넘 이뻐죽겟어용어쩜 그날 컨셉의상들이 저리 잘어울리는지 내가 미쵸버리겟엉같은 여자끼리 이러기 있기 없기 웃을듯 말듯한 그 무언의 표정은 아무나 못할거구 (이름)는 더 못따라할그얌완젼 (이름)에게 난 빠져빠져버렷엉진짜루 보고잡다요식사도 해보고싶궁 내 눈에 동은(이름)만 보여용나두 관리받구 싶다앙우리 이쁜(이름)이여 영원하라",
+        "writer": "UgwUQPxxjQrGv6ngAD54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이미 장면 시작했을때부터 해는 진즉에 떠있었네",
+        "writer": "Ugy_GVlslH1dEtC49Xl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 예능캐다",
+        "writer": "UgwSbHwRqgI8RHIvkVN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사람이 식탐만 좀 자제하면 좋을듯 한데",
+        "writer": "UgzmCq0YqDtt3TYfVdZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나로말 나온,",
+        "writer": "UgyxE-qGcSdGI7ZjN6t4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동은 (이름) 먹방 보고나서 당나귀 챙겨봄, 누나라는거에 깜놀 동안이심",
+        "writer": "Ugx_3kEZ2LRCRZiW7014AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동은씨는 진짜 코믹 캐릭터",
+        "writer": "UgzxjmVWP8f8-nw49w94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "멱 감다죽은 동은이 뭐고",
+        "writer": "UgwyICZwzh5laRVGBLJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동은 정말 귀엽다.",
+        "writer": "UgyzzSXOfkwZ1U0kj914AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동은(이름) 나올때 항상 나오는 이 둥둥둥둥둥 노래 뭔지 아시는분",
+        "writer": "UgxvW4VRbjvoyfhQ6BJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다들 동며들었다",
+        "writer": "UgzgRr_HRsDPN_eGJSx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 규여워 다들 사진찍어주는것도 웃곀옷 벗어주는거 스윗",
+        "writer": "UgwdnyWG83BssnzpBrB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 다음에는 수영장 가는 거 그거 찍어 주세요",
+        "writer": "UgwfBpvBqExuU6IcfO94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 동은로봇 영하20도인데 표정과 몸짓이 통제되다니",
+        "writer": "Ugz4z1Wu_PcmC7W1stx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "신비한 사람 같이있음 재미있을거같당",
+        "writer": "UgyNQXR0CNvtjxrP6Mp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 한국무용 멋있어,",
+        "writer": "Ugxvk06jhg2SbQvaxAF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "빨리 사진 찍어 주세요",
+        "writer": "Ugws_divJ_-5hqa8m454AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭘해도 저여자는 밉상이다",
+        "writer": "UgxWMcIegS3-NsFgfDN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주위에 저런사람있으면 재밌겠다",
+        "writer": "UgzaVv8YJATZ7Q9QAyd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "굽이 모래에 빠져서 플렛슈즈 됐네요",
+        "writer": "Ugz3vY90PbZJ9xKQt0t4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 할머니는 계속 많이 먹는다고 뭐라하네",
+        "writer": "UgySHhrE4X_lP-EJNaN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "관(이름) 원(이름) 사귀는사이지",
+        "writer": "Ugznk1PJq5P3W969xLR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거브금이뭐에요 동은원장나올때",
+        "writer": "Ugym7ZasCKPFWPZTged4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 옷 벗어주신듯,",
+        "writer": "UgybK-JkRrZb4Srg-sh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동은 원장 4차원",
+        "writer": "UgzrKTaPLis74gjSvWZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저얼굴에 40(혐오표현)게 더웃김,",
+        "writer": "UgyNiAll4rb5nHu7p9p4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밥은 먹고다니냐",
+        "writer": "UgxTmKwdvenHpxg3N794AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나만 4차원인가",
+        "writer": "UgyEDuwwcut02ExYBeV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 동은(이름) 특이한 캐릭터 같아요, 진짜매력적 입니다.",
+        "writer": "UgyTV2yZ37QZF0FquhJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니 너무 멋져요먹고싶은거 다 먹고 자기관리 다하고 입고싶은거 다입고 찍고싶은거 다 찍고..",
+        "writer": "UgxnyBMPz-uhPQ83pgt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)(이름)이랑(이름) 팬 되었어요",
+        "writer": "UgyY0LLGYybPEB5GZc14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "열심히 사는 사람은 역시 어느 상(이름) 열정적.",
+        "writer": "Ugwcv7M110_xc5dPn0V4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭔가 동은원장은 멍해보이고 느린듯 한데 열심히 사시는듯 한국무용도 할줄알고 몸도좋고 필라테스도 잘하고 이사람 뭐지 했는데 없으면 허전함",
+        "writer": "UgwEGmocFItrGd38a8p4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "관장 유부남",
+        "writer": "Ugznk1PJq5P3W969xLR4AaABAg.95WcCF5SjOE95tUddJGeJv",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "bcd 아 땡큐",
+        "writer": "Ugznk1PJq5P3W969xLR4AaABAg.95WcCF5SjOE95t_AezHeqz",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "bcd 친동생 같은 느낌이라 잘챙겨주나보네 크",
+        "writer": "Ugznk1PJq5P3W969xLR4AaABAg.95WcCF5SjOE95t_DttdTQy",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는 한국인 입니다.",
+        "writer": "UgxEviD1chk68z3OeW14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누구랑 결혼할지 전생에 나라를 구했구나",
+        "writer": "UgwKwMSUorZgPcdOKBt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초 노래 아시는분",
+        "writer": "Ugx-6k_5qbC31mb7oMN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "천진난만한 동은봇",
+        "writer": "UgwxwujyyzmdDMQeW8R4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동은원장 최고",
+        "writer": "UgwZWZIBeeG2HlfC37h4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김돔은 (이름) 정말 매력 있으시다",
+        "writer": "UgxBOddua7ao3w6o1YR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "똘끼마저도 귀여움",
+        "writer": "Ugzdai6PIp8Oj_bSpFp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동은샘 운동 저렇게 많이하는데 살안찌는데 당연하지",
+        "writer": "UgzNzj5PyRRh46E-hkJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동은봇님 넘 넘 귀욥 볼수록 매력적입니다",
+        "writer": "Ugwf0m2ONteIKxQs9-h4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래도 양관장이 동은씨한테 겉옷 벗어줬네",
+        "writer": "Ugxo2KWSwZyjpRBkJ0V4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀엽긴 참 귀여워",
+        "writer": "UgzkNE_jdg9ORtdZCXp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "캬캬캬캬 미티겠넹",
+        "writer": "UgwGEJUKTB6l0QeUeaN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이대로 민속촌에 취업하심이",
+        "writer": "UgwlcdktBUhmrwPsOHh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "강릉이 영하20도 떨어진적이 있나 올해 영하 10도도 안떨어졌을텐데, (이름)네요. 체감온도를 말하신건가",
+        "writer": "Ugzy5IPx4yJsvQ-O06t4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "게다가 운동할때 무표정이 킬링 포인트",
+        "writer": "UgzNzj5PyRRh46E-hkJ4AaABAg.93y1ipa0fP6943zxb93l_X",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "설정이 넘나 표난다",
+        "writer": "UgxRYEShWfcgyDIYLrR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모래사장 킬힐 개웃기넼",
+        "writer": "UgxnytTnsZ0Ych97qnh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한국인 댓글을 찾으셨습니다.",
+        "writer": "UgyDDh_5X96_xP0YBZt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동은 (이름)이랑 있으면 차분해질 것 같음",
+        "writer": "UgwsqCA8Jkf_0UlfTB94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참 멋있는 사람입니다",
+        "writer": "UgycaUOSICSpeJo4arF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "새해맞(이름) 우리나라 전통한복입은건 기특하긴 한테 좀 무섭다. 해도 다 뜨지도 않았는데 이게 뭐하는 짓인지. 완전 4차원이네. 영하20도에 와 대단하다. 엄청 추울텐데. 근육맨들도 영하20도에 저렇게 다 두꺼운거 뒤집어입고 있는데 동은원장은 영하 20도에 두꺼운파카도 안입고 뭐하는건지.",
+        "writer": "Ugx2ZWpzOxbghPjiIbl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 몸매는 오지네 먹을걸 그렇게 많이 먹는데 진짜 (이름)노",
+        "writer": "UgxXmVEG3k4vt7WVuON4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동은원장 나올때 나오는 bgm 머에요",
+        "writer": "Ugw3piP7i1Lrn6Ee4PJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "패널들 댓글로 하도 (비속어)먹으니깐 이제 가만히있네 예전같았으면 동은원장이 패널들한테 욕 개쳐먹었을텐데",
+        "writer": "UgxwGJYS7ZuV2KxPL3h4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하아, 저 누나 진짜 뭐야 ,",
+        "writer": "Ugyx52Jn2RUQumFKs5B4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헬스머신은 결코 추위를 느끼지 않는다,",
+        "writer": "UgzWhVfRWAyIbofKxid4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동은 (이름).....리스팩합니다....................... 그리고 방송국 (비속어)아 전설의 고향 머냐 아오 확 딱밤 쥐어박고싶내",
+        "writer": "Ugzc27GdQJTB0WZes6B4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이쁘고 잘생긴것들은 잘 알아 자기가 이쁘고 잘생긴걸 이쁘네",
+        "writer": "Ugzq_CZT3JNhN1QC5KN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하는 짓이 완전 귀여운디..",
+        "writer": "UgxvXTqjq_ebnHKMQh54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜요 설정이 아닌 현실이라면 개또수준 클라스",
+        "writer": "UgxRYEShWfcgyDIYLrR4AaABAg.93oRdX2MxDT93r5sytz6NY",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "축하드립니다 틈세댓글시장을 찿으셨습니다",
+        "writer": "UgyDDh_5X96_xP0YBZt4AaABAg.93lUN3Gq_5C949NAsrQ3T1",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "40살이라는게 안믿겨",
+        "writer": "UgyDDh_5X96_xP0YBZt4AaABAg.93lUN3Gq_5C94UXMQKkdZP",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고요한 꺼억",
+        "writer": "UgyDDh_5X96_xP0YBZt4AaABAg.93lUN3Gq_5C96km3aKPqwL",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 뭔상관인가욬 본인이 원해서 한건대",
+        "writer": "Ugx2ZWpzOxbghPjiIbl4AaABAg.93kMvUvfiv193y1uDJM2IU",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "많이 운동할수록 연료가 필요하죠",
+        "writer": "UgxXmVEG3k4vt7WVuON4AaABAg.93kMSfDapX994-feRr4cMI",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동은(이름) 하는짓이 이뻐",
+        "writer": "Ugz0Z68FHuTDXvvUQtx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머지 왜 다 외국인만 있는거여,",
+        "writer": "UgwE_x1zdrLIih1YWFt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "박술녀선생님이 보고계시는데 김도 은(이름) 한복입으신 모습 예쁜 한복 해주셨으면 좋겠어요",
+        "writer": "Ugw37v5I0FIs76NKKqx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1월 1일에 찍은 영상이 아닌가보네요 그 날은 안개 없었는데",
+        "writer": "UgwL-c_KiU8BNeyRY2R4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요새 영어댓글밖에 없냐",
+        "writer": "UgwFVOMOTUCoTPnem154AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동은 원장 매력있어",
+        "writer": "UgyqnY9b7PBmF9tbwdF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머리에 꽃핀 안꽃아서 다행 입니다",
+        "writer": "UgzWE4JDZK78JDerKjF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘 본방 사수",
+        "writer": "Ugw-p8bnUBGSOnh3FDN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 팬입니다 넘 이쁘고 사실은 넘 귀여워요",
+        "writer": "UgwcQSsadXJle1yhq2d4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영어 좀 그만 써",
+        "writer": "Ugxbvv4-bI660-F9vUx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "말투가 중독성있으셔요",
+        "writer": "UgxuqEGpWCg3rxDuYrx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동원(이름) 넘넘예뻐요 자꾸보고 또바도예쁘고 센스있어요 축복받은 몸매 부럽습니당",
+        "writer": "UgyYrLW_thcSB-nhBuJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동은씨는 개인방송으로 먹방찍어도 부수입이 주수입보다 월많이 버실듯,",
+        "writer": "Ugw_5OARYq8dz_c47CZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해야 떠라",
+        "writer": "Ugxo_7veAqBv3vBOvrB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Jayden Yang 수정했어요",
+        "writer": "Ugz0Z68FHuTDXvvUQtx4AaABAg.93grEkJQlk19KPMINbQXxJ",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쯔양과 양대산맥일듯",
+        "writer": "Ugw_5OARYq8dz_c47CZ4AaABAg.93eDg509O57941YDmy73e3",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쯔양은 재미가없잖아",
+        "writer": "Ugw_5OARYq8dz_c47CZ4AaABAg.93eDg509O5794N4faptAag",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주변에 사람들이 얼마 없을때는 (이름) 있는 겁니다",
+        "writer": "UgxAKlWnKHQsB3vrZZl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 추운 기색도 없어",
+        "writer": "UgyP6n7F0UOV6yiPN-54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 귀엽다",
+        "writer": "Ugxpk44mqFq4g042AHR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이렇게 귀여운데 어떻게 낼모레 마흔이냐구 귀여운건 언니가 해요 나이는 내가 먹을게",
+        "writer": "UgyTlOptCmDyi0BhjIx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이면 해를 구해서(반사회적용어) 맨날 해돋이 보여드려야죠,",
+        "writer": "UgzQV1tSly7GW7I8Jm94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "최고로 멋지다.",
+        "writer": "Ugz4L9SBTIJRcBB_v_B4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 갑분 혼자 (혐오표현)",
+        "writer": "UgxAKlWnKHQsB3vrZZl4AaABAg.93dymfp-_cd93iC0yKijiz",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그러지 말고 (이름) 연세를 대신 드세요,",
+        "writer": "UgyTlOptCmDyi0BhjIx4AaABAg.93d-tFJIVBG93iC-oiaLzo",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "카프 키야, .",
+        "writer": "UgyTlOptCmDyi0BhjIx4AaABAg.93d-tFJIVBG93lBHZl2Vm-",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "카프 효도버튼은 조용히 지나가주세요 총총",
+        "writer": "UgyTlOptCmDyi0BhjIx4AaABAg.93d-tFJIVBG94CRdb3GNtp",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연기자로 전업 하려나 누가 주인공인지 모르겠네,",
+        "writer": "UgyUMMk_Q3JHofIF8N54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동은(이름) 진짜 묘한 매력이 넘치네요",
+        "writer": "UgxxVwP_bY8ZjruSyP54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그 와중에 (이름) 옷 벗어주셧네 멋져브러",
+        "writer": "UgyIXIraiuCPxu2Zfsd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=j-ThW45-mLo",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

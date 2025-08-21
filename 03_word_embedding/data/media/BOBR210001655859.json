@@ -1,0 +1,700 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001655859",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001655859"
+    },
+    "text": [
+      {
+        "content": "주엽 진짜 짜증남",
+        "writer": "UgztbSo49pgT46NUi9x4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "실시간 겜방이건 유튭이건간에 노오오오력만으로는 대기업에 못 들어간다 아니 중소기업도 힘들다 젤 중요한게 운빨이다 대기업보다 말빨 지리고 좋은콘텐츠로 해도 시청자들이 택해 주지 않으면 말짱꽝인게 개인방송 혹은 유튜브의 녹방인거다",
+        "writer": "Ugyi_7iW50M3RZu8jVh4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이건 솔까 도티가 욕하고 잘(반사회적용어) 할말없음",
+        "writer": "Ugxmcii6DnhlTg6e0994AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현주엽 걍 잘라라,",
+        "writer": "UgzmUipE_gCa1hbKEPt4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애들하고 소통하시는분이라 속이 넓을줄알, 기가참 먹방까지 코치하시는거좀, 남편이 마니 힘들것다,",
+        "writer": "UgzUd02yhSHODubYPJB4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현주엽 개벼루루루루루루루루루",
+        "writer": "UgwabT8yuKlMv7JvNC54AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이영상 댓글 현주엽이 봤음 좋겠다",
+        "writer": "UgyRnwrkqKT3nPWIbZx4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "갓 지니",
+        "writer": "UgwVMADwByUe06vuajJ4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현주엽 모든 방송에서 하차해라.",
+        "writer": "UgymgBkAmd-CYrieFQ54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 하차하면 좋겠다",
+        "writer": "UgzrMhpmddE6y2uAV3B4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "돈돈거리네 인성이느껴진다",
+        "writer": "UgzLBN4u_DG-2AMUYWt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도티 (혐오표현)중",
+        "writer": "Ugz1YEWFSwNkho8kQEV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 근데궁굼한건데 굳이 현전감독 말고 현주엽이라고 자막 달면 되지않나",
+        "writer": "UgyWFmqPyxPaxSIDgEl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모래박스 무너지는 중 아닌가요 현주엽님 손절",
+        "writer": "UgxG0_QgDfLpvkWkRSd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쟤는 돈만보고 하다가 분명이 일나거나 (반사회적용어)듯",
+        "writer": "UgwLBDyCZrWcRkMTCuZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현주엽님, 돈과 직위로 사람을 판단하지 마시고 인성으로 판단해주세요",
+        "writer": "UgzmpD_ZmoaTuEABEcN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현주협 하차해라... 꼴보기 싫다...",
+        "writer": "UgwSdKc0evN7_vGtkMZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여러분 사람은돈으로판단하는게 아니에요 진짜 안되요",
+        "writer": "UgyvhK7Xl6Wcio0sWMx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그리고 6계월이지난지금 하차않함",
+        "writer": "UgzrMhpmddE6y2uAV3B4AaABAg.9DW1k-i-brw9KvvvV2XiH7",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "A.P 근데 싫어요 오지게 많음",
+        "writer": "UgzrMhpmddE6y2uAV3B4AaABAg.9DW1k-i-brw9MZXLxlqrbJ",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금도 그렇게 생각하세요",
+        "writer": "Ugz1YEWFSwNkho8kQEV4AaABAg.9Cvd2ukb9CO9ENGewCx6_X",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전혀 떠락중 아닌뎈 혼자 무슨 생각을",
+        "writer": "Ugz1YEWFSwNkho8kQEV4AaABAg.9Cvd2ukb9CO9FXn_gDO7j4",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "띄울게 없어서 어떻게던 띄워주려고,",
+        "writer": "UgyWFmqPyxPaxSIDgEl4AaABAg.9CD4ZN_VbVY9DAJA5jneIn",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주엽아 좀닭치자",
+        "writer": "UgwJRy8IuVctFHmIbtd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예의 어디갔니",
+        "writer": "UgzhJ3Ohw9uAcwex13J4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주협형님 저의 가게 먹방 유튜브 지원하겠습니다",
+        "writer": "Ugygcd3L65Fouv1Sr7p4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저기요, 님 초등학교가서 예의를 첨부터 배우시는것을 추천합니다",
+        "writer": "Ugw5IXrwv_lU39tvmg14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현주엽 하차좀",
+        "writer": "Ugz0-z6r2Wu14UqftPd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현주엽 (이름)은당나귀 프로그램에 빠져라 둠피스트 보다 싫네",
+        "writer": "UgwhGi2xkidQV_BUcZN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "태도왜저래, 똥꼬로나이드신듯 (비속어)용",
+        "writer": "Ugx8XqvtU2X0Jeq6Urp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)인턴 현실판",
+        "writer": "Ugxvp8DOus0CHclTLd94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현주엽 머리에 (혐오표현) 들음 농구공만 쳐 갖고노니깐 저딴식이지",
+        "writer": "Ugywyi-VITaKA8GZGWd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현주엽 지가 유튜브 세계를 지가 어떻게 알면서 아닠 어이가 없네 도티가 2인분 시킨다늑데 14인분",
+        "writer": "Ugws39VWoTfRVkX7jx94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "매너 예의 도덕 다 밥말아먹었네 사골까지 우려드신 , 이번에 악플 좀 많이 달릴듯하네요 웬만한 (이름)도아니고 어휴 예의가 저게 뭐람",
+        "writer": "UgyqPK6Btjr8PcDWCjZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "먹는것만 받들일 생각마시고 사람좀 사람답게 대하세요 예의좀 챙기시라는 말입니다 저 방송에서 제발 안봤으면 좋겠습니다",
+        "writer": "UgwkHXrW3MKseR0We614AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현주엽 하차하면 좋겠넹, (비속어) 특징대본이길 빌게 그리고 현주엽아, 예의를 밥말아먹고 또 (반사회적용어)지 끓여 먹었나보네",
+        "writer": "UgzWv_0S_olvselBEvV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예의 밥말아 먹었나",
+        "writer": "UgyaG-Li3vUQTVvqROx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 선 씨게 넘네 그냥 하차해라 꼴 보기도 싫고 예의도 밥 말아먹었어",
+        "writer": "Ugxkq3LcpiMQnvWfkKt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "컨셉인가요 진짜 평소에도 이러심 매너가 너무 없습니다 현주엽씨",
+        "writer": "UgxMSKEtCYUhrHNc1tl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 현주엽 예의 없음",
+        "writer": "UgxDHsZHkOR3nI0y2Tl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인성을 빨았네,",
+        "writer": "UgxiH45pIBYuRQ-LVWR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)한테 너무 무래하네요, 현.주.협.님 (비속어)",
+        "writer": "UgxL9Osh5_hcW6dwlPV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 제발 현주엽씨 빼주세요, 이 영상은 헤(이름)이 포인트인데 영상에서 나올 때마다 (비속어)서 미칠거 같아요",
+        "writer": "UgxWW3Jb1Cnnf1Nx5a14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 농구한다고 다 저런 사람 아닌데, 왜 자꾸 사람들이 저 사람 스포츠계에서 발 담가서 그래요 이러는지 (이름)이 저기 나갔어도 저런 말은 안 들어요",
+        "writer": "UgwkHXrW3MKseR0We614AaABAg.9BWwk_tT65G9DhSfRzh1xu",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나주배 저분 하나때문에 통으로 욕먹네요 참",
+        "writer": "UgwkHXrW3MKseR0We614AaABAg.9BWwk_tT65G9DhZEJIHExr",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제데로 말해야쥬 밥에 예의라는 쌈넣고 (반사회적용어)에다 고기넣은후에 한방에 냠냠쩝쩝함",
+        "writer": "UgzWv_0S_olvselBEvV4AaABAg.9BWsESs8ITC9BmFThzZYcV",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Pack Time 맛있겠, ((퍽..,",
+        "writer": "UgzWv_0S_olvselBEvV4AaABAg.9BWsESs8ITC9BoNQqMbUke",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넌 몇(혐오표현)데 예의 따지니,",
+        "writer": "UgzWv_0S_olvselBEvV4AaABAg.9BWsESs8ITC9IwnXA3emhf",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(혐오표현)한테 님 자는 너무 아까운거 아님",
+        "writer": "UgxL9Osh5_hcW6dwlPV4AaABAg.9BUJjsQoX579BWKQAuVdaV",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런댓글 다는것도 무례한 행동이란다 (비속어)아 그리고 무래가 아니고 무례야",
+        "writer": "UgxL9Osh5_hcW6dwlPV4AaABAg.9BUJjsQoX579BZq32PbpxU",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맛있는귤 왜 갑자기 초반부터 (비속어)이라고, 저 분이 거짓말한 것도 아닌데요,",
+        "writer": "UgxL9Osh5_hcW6dwlPV4AaABAg.9BUJjsQoX579BbNQcwsoy0",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맛있는귤 (비속어) 현주엽은 악플욕 처먹어야 고쳐지는사람임",
+        "writer": "UgxL9Osh5_hcW6dwlPV4AaABAg.9BUJjsQoX579BmFwsMsHaP",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도바라기 거짓말을 하든 안하든 악플 다는건 잘하는 짓이야 너는 인터넷 네티켓도 안 배웠니 넷상에서 익명으로 입터는게 잘하는 짓이야",
+        "writer": "UgxL9Osh5_hcW6dwlPV4AaABAg.9BUJjsQoX579BmHFa0BvlF",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현주엽 인생 저렇게 살면 안되겠다의 표본을 보여주네",
+        "writer": "UgwJoUQDrm2SBaZK80J4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "평생 농구공만 처만져도 저따위로는 못살지 그냥 애초애 생각부터가 없는거임",
+        "writer": "Ugz3Z7c8o5RIlNjYCJp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현주엽 하차해라 꼴 보기싫네,",
+        "writer": "UgyR462sBauFm3gmzD94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "7살때부터 도티봤고 헤(이름) 캐리일때부터 봤는데, .",
+        "writer": "UgzaCrgIye2UIimlwOR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현주엽아 좀 토티(이름)한테 갑치치좀말아 무슨게속 (이름)말하고",
+        "writer": "Ugy-cuq9HrjCtKDeLd54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수입 신분 계급.",
+        "writer": "Ugzsfx8j4vVk3od4uIV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저건 예의가 아닌거같은데,",
+        "writer": "UgwCFo6j7iSvcGCfqON4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꼰특 왜 그러시는거죠 컨셉인가요 보기 좀 ,",
+        "writer": "UgyAlIAu_MUH4MYgbid4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "8282 왜 tv에 헤(이름) 안나오나용",
+        "writer": "UgxERcLlfd7BLvorhxJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현주엽 엘지 관뒀구나",
+        "writer": "Ugwq-t0b7JYHCSQRHEl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김 (이름) 너무 이뽀영",
+        "writer": "UgwRnB_UmHynHzqZsgl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "죄송합니다 생각이 짧았어요 그리고 틀 아니고 저는 무게념 (비속어)이 입니다 죄송합니다",
+        "writer": "UgwJoUQDrm2SBaZK80J4AaABAg.9BSLBXk6KKg9C2RNX-qb8y",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "배잘못 선을지켜야지 그리고 니가웃으면 다웃기냐 이 (비속어)아",
+        "writer": "UgwJoUQDrm2SBaZK80J4AaABAg.9BSLBXk6KKg9CHb9PxvXh2",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "배잘못 틀냄새진동",
+        "writer": "UgwJoUQDrm2SBaZK80J4AaABAg.9BSLBXk6KKg9CHbBdlVH7L",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "갓도티 한줄더 띄우시죠",
+        "writer": "UgzaCrgIye2UIimlwOR4AaABAg.9BP6Q_RJ68L9BSBDAa9llz",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헤(이름) 캐리하고 다르신분 아니였나요오,",
+        "writer": "UgzaCrgIye2UIimlwOR4AaABAg.9BP6Q_RJ68L9BXn3IUIn-Q",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지니체티 현 (이름)은 다르지만 전 (이름)이 헤(이름)이고 헤(이름)이 캐리 소속사를 나가게되어 개인체널을 운영중이신데 그이름이 해(이름) 입니다",
+        "writer": "UgzaCrgIye2UIimlwOR4AaABAg.9BP6Q_RJ68L9BXo2c_sxIk",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제발가라고 ,그, 쵸, (사실이해 못했,큼 알려주시마세열 제가 이해력이 딸려열)",
+        "writer": "UgzaCrgIye2UIimlwOR4AaABAg.9BP6Q_RJ68L9BXp5hbBu8T",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혜성Hyesung지니jinny , 캐리 소속사를 나가서 개인채널을 운영했는데 그 채널이 헤(이름) 채널입니다",
+        "writer": "UgzaCrgIye2UIimlwOR4AaABAg.9BP6Q_RJ68L9BalTJ0TaQw",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혜성Hyesung지니jinny 지금 캐리이신 분은 다른 분인데 예전에는 지니 님이셨어요",
+        "writer": "UgzaCrgIye2UIimlwOR4AaABAg.9BP6Q_RJ68L9BeATQjdQWU",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Jason Ssss 해명하고 2일 연속 영상도 올림. 이정도 자신감이면 뒷광고 아닌 듯",
+        "writer": "UgzaCrgIye2UIimlwOR4AaABAg.9BP6Q_RJ68L9E0Y1D76FWL",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "룰루랄라 누구요",
+        "writer": "UgzaCrgIye2UIimlwOR4AaABAg.9BP6Q_RJ68L9GtGvdsCDzz",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "JYBB 도티요",
+        "writer": "UgzaCrgIye2UIimlwOR4AaABAg.9BP6Q_RJ68L9KQ0eXQPj4Q",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혜성Hyesung지니jinny 옛날에 헤(이름)이 캐리로 활동하셨고요 지금은 캐리소속사를 나가셔서 헤(이름)으로 활동중입니다",
+        "writer": "UgzaCrgIye2UIimlwOR4AaABAg.9BP6Q_RJ68L9OJZU0IHoZC",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 잼있는데",
+        "writer": "Ugy-cuq9HrjCtKDeLd54AaABAg.9BP5KEzi-Uv9C2RH5I_gAw",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 전형적인 한국인인데뭐",
+        "writer": "UgyAlIAu_MUH4MYgbid4AaABAg.9BOvP1K7TwW9BRq5KoC6bW",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미개해원래 (이름)애들이",
+        "writer": "UgyAlIAu_MUH4MYgbid4AaABAg.9BOvP1K7TwW9BRqA6jq6hH",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "성이름 곤니찌와",
+        "writer": "UgyAlIAu_MUH4MYgbid4AaABAg.9BOvP1K7TwW9BS4cZcssuz",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "성이름 전형적인 한국인이 아니라 걍 예의가 없는거임 원래 한국인이 이런가 진짜 예의 없는.",
+        "writer": "UgyAlIAu_MUH4MYgbid4AaABAg.9BOvP1K7TwW9BSJJ_tQ9pe",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "성이름 저런 모습이 모든 한국인의 모습은 아니죠",
+        "writer": "UgyAlIAu_MUH4MYgbid4AaABAg.9BOvP1K7TwW9BVGKSaaoCP",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "성이름 응 그건 니가 그런거고",
+        "writer": "UgyAlIAu_MUH4MYgbid4AaABAg.9BOvP1K7TwW9BWKH2Lj1Ky",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "성이름 너도 미개하네 (반사회적용어) 지리누",
+        "writer": "UgyAlIAu_MUH4MYgbid4AaABAg.9BOvP1K7TwW9BZ7mxV0qdt",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어디서 딱딱소리 들리누",
+        "writer": "UgyAlIAu_MUH4MYgbid4AaABAg.9BOvP1K7TwW9BZueBEYVyv",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=T7OXLEbuCYQ",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

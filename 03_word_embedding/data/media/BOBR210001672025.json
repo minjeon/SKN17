@@ -1,0 +1,612 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001672025",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001672025"
+    },
+    "text": [
+      {
+        "content": "띵린이 마왕 님 (재가입) 이번 주 새 멤버쉽 가입 감사드립니다 띵잘 멤버쉽 가입하기 34TUeqV 요즘 유튜브가 검열이 심하네요 뇨딱 과의 전쟁을 선포합니다 그거 아세요 지난 퍼펙트 월드 도 검열됐어요 하하하하하하",
+        "writer": "UgzSQtZtFPKrKBAs6Vl4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 정말 띵작이죠. 각본이 정말 갑",
+        "writer": "Ugz2TRzui6zMVkzeFYp4AaABAg",
+        "write_date": "2021-10-20",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "강짱 최고",
+        "writer": "UgyqRq6WHuIxMPO-Ytt4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여긴 안나왔지만 배용준 그림도 엄청 웃겼었는데",
+        "writer": "UgzkAKwhqv0hwLEV6pd4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 너무 웃어서 쓰러졌던 기억이",
+        "writer": "UgxvwLihY3tmA3HMaYx4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막 사랑하는 사람의 추억이 시체라니",
+        "writer": "UgwJ7PRLeNqrgNwKfzV4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오랜만에 보니까 너무 재밌닼",
+        "writer": "UgwHSRkCnXrTSLjx8y94AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 재미나게 봤었는데",
+        "writer": "UgxdHJgpbPwNll174td4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다 고마운데요, 영상중 음성이 넘 많아요",
+        "writer": "UgxclVzgO9PDub_eF5t4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 명작입니다 (이름)는 믿고 봐도 되죠 스토리면 스토리 연기면 연기 살벌한듯 웃긴 영화",
+        "writer": "UgwYe5QttV0WaCI2_Up4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "줄거리만 가지고 만족한 영화는 첨인것 같네요",
+        "writer": "UgyM75xadl5rrhaRbp14AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와 (이름) 연기보소 크흐 죽인다",
+        "writer": "UgwcIIFxX3ufIQPJmhx4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쇄골아파 개쳐웃음잘보다가 갑분개빵터짐",
+        "writer": "UgzLgmMwg3rcvZdBoix4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 명작이지",
+        "writer": "UgxGfpNh6OKwMRI9cUl4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 영화 정말 웃겨,",
+        "writer": "UgyCLHP4CYI6Qj3BPm54AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예전에 별생각 없이 봤던 영화 띵잘님이 너무 재미나게 설명 해 주셔서 웃으면서 봤네요 편안한 목소리톤도 좋았네요",
+        "writer": "Ugwm6KTL(반사회적용어)hDmcD4wIp4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "걍 (이름) 나오는 거는 다 대박임돠",
+        "writer": "Ugy_xSzs1NV9DkThkvZ4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "친구 여자로 나오는 분. 너무 재밌어요.",
+        "writer": "UgxMVjy2FpfEDOfLzwl4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐에요 x 뭐예요 입니다",
+        "writer": "UgzSQtZtFPKrKBAs6Vl4AaABAg.9OMUfVcdKJy9OMWTkfZX8E",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뇨딱과 전쟁 왜 뇨딱 걸린거에요",
+        "writer": "UgzSQtZtFPKrKBAs6Vl4AaABAg.9OMUfVcdKJy9ON9xA1Wzbf",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "빼지마 빼지마, (비속어),",
+        "writer": "Ugxj2NEvohjM9bzXoaJ4AaABAg.9OdVh-lo28T9Odxz8po2a5",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 영화원본으로 봐야겠다 조금만봐도 재밌넹",
+        "writer": "UgxI8yZZ-BRCIMgPzUl4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감독이 여주인공 캐스팅할때 (혐오표현)을 (혐오표현)러도 안무서울것같은 여배우 직원들한테 물어보니 다들 (이름) 추천했다고",
+        "writer": "UgyqHM-P5E-pM4W4ZK14AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 재밌게 본 영화",
+        "writer": "UgzcXQ_lDx3ysSDT_6l4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 여기에나오는 (이름)라면을 좋아합니다.",
+        "writer": "UgzXe-6hOOZwk0mBaS54AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 너무이쁘네 우는것도이쁘네",
+        "writer": "UgwhUfaUiIZDR9A7xkF4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 스릴러 영화도 추천 해주세요 배우가 놀면 뭐하니 구독 만명 가즈아",
+        "writer": "Ugx3fYWuh3oOhvBCOfl4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "A형들 갑자기 뜨끔,",
+        "writer": "UgxJcKjG7k4cJKGNxU94AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 여기서 미래의 (이름)얘기나오네",
+        "writer": "UgxP8x1mhuOuwNjlu7F4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 이 영화 봤는데, (이름) 연기 참 잘했던...",
+        "writer": "UgzMmLsez7FL5_tH_zl4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)의 명대사 시나리오도 연기도 너무 좋았던 영화",
+        "writer": "UgwAy7SrAv9X8a0Miyd4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 연기 새삼 진짜 잘한다. 코믹 대가셨네여 활동 다시 해주세여",
+        "writer": "Ugz3BUsDfDUTz8UGttx4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사커킥 요즘 나왔음 불매난리겠지",
+        "writer": "Ugzxse3LJId-le8joVV4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 영화도 10년 뒤에 제작했으면 천만짜리 최고",
+        "writer": "UgxANe4R-kp5kP5XzcF4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영화 정말 재미있게 봤는데 지금 나왔으면 더 많은 관객이 영화관 갔을 듯, 로맨스 스릴러로 최고",
+        "writer": "Ugx0sKst6u0YoRs_cQx4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금껏 봐온 로맨틱 코미디 중에 이게 제일 재밌었음 (이름)가 이뻐서 망작같아 보임에도 그냥 봤는데 너무너무 재밌었어요",
+        "writer": "Ugzbs8UJxTLX_3fh-ht4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)배우 자주 스크린에서 자주뵜으면 좋겠습니다",
+        "writer": "UgygtCzglkYUuYF0tQd4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가서봤는데 왜 지금 더 잼나징 저 시절루 영화보던시절루 가구프다",
+        "writer": "UgwQ-CtYQ_bPR5BwYbx4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예전과 다르게 이젠 장르를 좀 개성있게 이쪽으로",
+        "writer": "UgwIfu971E_mJoUaXxZ4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몇 번이고 봤던 영화지만 이렇게 다이제스트한 영상으로 보는 재미도 쏠쏠하네요 감사합니다",
+        "writer": "UgziyH_HJMA104qknv14AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "cfoot 빵터짐",
+        "writer": "UgzOY3ru8rqPdLv6TBx4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "45살 실화냐",
+        "writer": "Ugzu24xpQI-ULik19RJ4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 이런 영화가 좋더라10",
+        "writer": "UgwJvf-1xX1Jq2IX9pd4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(혐오표현)자 친구여자분이 진짜 대박 웃김.",
+        "writer": "Ugztaxhxkh-GP1_Csjh4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘봤습니다 감사합니다",
+        "writer": "Ugwn02IMtmF8lKJ6VTx4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "볼링핀하니 딱 내꺼가 보이네",
+        "writer": "Ugy3awdo8UcH7N6IjFB4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 좋은영상 잘보고갑니다",
+        "writer": "Ugyd8d5PiaiGChF8RK14AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "띵잘 형은 사랑하는 사람 신고 가능해여 그리고 띵잘형은 리뷰 할때 목소리가 날로 가면 갈수록 미쳐가는거 같아요 알아요 .",
+        "writer": "Ugy9Gna0uv0mHsjmjlp4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "띵잘형, 볼링핀, .메모,",
+        "writer": "UgyPpGZwgT8LjBfnYZN4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래서 사랑이 뭐에여",
+        "writer": "Ugw4NcbxO4LjhAMHziN4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대사나 연기가 1도 안 구려",
+        "writer": "UgxgmKCpWzZc041Onld4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요즘은 혈액형이 아니라 MBTI가 뭔지 묻지요",
+        "writer": "UgypyMvRqzCWX1s66Zl4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대사 진짜 겁나게 웃기는 영화 배우들 연기도",
+        "writer": "UgzfYCLiF1M8O8yanal4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재미쒀 미치겠어요",
+        "writer": "UgxauY8MwlQriMFutpJ4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재밋게 봤네요 겁나 웃기네요",
+        "writer": "UgzLx_YjH9O_HMp6RZt4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 스타일 너무 좋다",
+        "writer": "UgzTYuUeftLSe6WfcEJ4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 재밌는데 헤허 내 동생 이거 좋아함",
+        "writer": "UgwEMX0w5t6OSJW12QZ4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 마른 아줌마 야(이름) 전문 조연 아닌가,",
+        "writer": "Ugz6Dq5ln8KB0His6Up4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 조녜",
+        "writer": "Ugx7SATOQ5MHq0J9SOd4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 너무 예쁘다 미춰버리겠네 예뻐서",
+        "writer": "UgzjjFshlUZSy6nHUh94AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어라구독이 취소되있네요, 아이들이 폰보다가 취소한듯하네요. 다시 구독 누르고 잘보고 갑니다.",
+        "writer": "UgwqIqHR938ApCRzCR54AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "최(이름) 넘좋아나오시는분들 다 귀여우세요재밋게보고갑니다.",
+        "writer": "UgwSm_Pe3bq7b99LI1Z4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "많은 이성에게 호감을 받고 싶다면 (이름)널 페로몬향수 존아자르를 사용해 보세요",
+        "writer": "UgxzkjR7v6LSVAf8NaF4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아무 기대 안하고 봤다가 너무 만족했던 영화, 너무 오래돼서 그런지 또 보고 싶네요",
+        "writer": "Ugx-rUN-OhFzDTlihRt4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 형의 비밀을 말해줄게요.",
+        "writer": "UgyKFeeuUFZAbc97NbF4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 넘 이뻐",
+        "writer": "Ugyx96O8zQn9O7KrozB4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 낄낄 귀여워 이게 청불이였구낭",
+        "writer": "Ugz_6V7aJrxmZRCAl754AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게 청불영화였었나요 엄청 웃긴 영화인데 딱히 야하거나 잔인한 장면이 많았던 영화로 기억되지는 않아서.",
+        "writer": "UgweW8WaV2nhwsepJy94AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영화가 미쳤나 싶었던영화",
+        "writer": "UgxHJYapLIuQT9nrq154AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 정말 애뿌당",
+        "writer": "UgywFB6dIN5RXfxnHN54AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저번에 하셨던 리뷰 아니가요",
+        "writer": "Ugz2zwWSeF5YJok3FSR4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오랜만이네요 (이름)",
+        "writer": "Ugy6S53QQNna1Mk5BSN4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "2 분전",
+        "writer": "UgxaMKsxflfaYfa9JeF4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쓸데없는 투머치 지식 으휴, (이름) 티냅니까",
+        "writer": "UgwqIqHR938ApCRzCR54AaABAg.9OMdD9ucSCr9OPAOz4bESh",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금같았으면 전체관람가로 최소 500만(이름) 넘었을듯요.",
+        "writer": "UgweW8WaV2nhwsepJy94AaABAg.9OMXDcCFOWZ9OVma9isDGs",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCj7tB0mu6Ja9AUCBX2XKelg",
+        "parent_url": "https://www.youtube.com/watch?v=L3xDMXKDh9o",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

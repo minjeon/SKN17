@@ -1,0 +1,740 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001664402",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001664402"
+    },
+    "text": [
+      {
+        "content": "귀여워 미치겠다",
+        "writer": "UgzRkS7zyN_lFL1tzGl4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)께서 이(이름) 이름도 대사에 녹여주시고 노래 실력도 발휘 할 수 있게 해주셔서 더 돋보이게 해주셨던 것 같아요, 그걸 또 찰떡 같이 살려 연기해주신 (이름) 최고 NG가 날 정도로 웃어 주신 (이름) 더 불러주지하시는 (이름) 넘 사랑스러워요 두 분 주연으로 정말 로코 한편만 찍어주세요",
+        "writer": "Ugx74YjFp9slAtOmr8R4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다재커플 사랑해요 나규도 좋지만 다재가 더 조아 드라마는 끝났지만 영원히 조아",
+        "writer": "UgxuuKqvRZGiPcrghTN4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초희언니 상이 오빠 잘 어울려요",
+        "writer": "UgwexNhMFte3PjslLsN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 사랑해",
+        "writer": "Ugwwr0QqI_k5g625Bdl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "매력이 흘려넘쳐,",
+        "writer": "UgzXJOdgYWv24S_nCz54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이(이름) (이름) 출신이더라구요 대박",
+        "writer": "Ugxf638Ta7D0VLLO8TN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "노래 듣고 싶었는데........ 진짜 mc만 신났네신났어 꺄르륵거려서 하나도 안들리잖어",
+        "writer": "UgyaWKhh1ri6kO6BT7t4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 잘생겼오...",
+        "writer": "UgywwtHt3u-l9jzBUXt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "분명 처음엔 나규러였는데 계속 다재가 사돈하면서 지내다가 재순 다식이가 되고 그러니까 다재러로 되버렸, 다는",
+        "writer": "UgyhfZO3cf7-EjKHCV14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 년말 연기대상 커풀상 될거 같어요",
+        "writer": "UgzxdkP-RXL-ZGKIg_h4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재커플 응원 합니다",
+        "writer": "UgzjB9L0MX4GHZHiGvR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 한다다 캐미가 진짜 짱",
+        "writer": "UgwGW5q8KMKkdZHFifR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘생겼다 (이름)",
+        "writer": "UgyqceVbHuUhcz0LLfR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "상이씨같은 분이 발군이지",
+        "writer": "Ugzul0NXFDPZswdNRBB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘못들어서 (이름) 라는줄",
+        "writer": "UgyixV8tgSsY_-ZEuTJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인생 드라마 1.뿌나 2.육나 3.한단",
+        "writer": "UgwofIPNlMK7VULiKHR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 보면 볼수록 (이름) 우리 수학 쌤 닮았어",
+        "writer": "UgyK6YdHkvKJMetwhbJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)(이름) 부르신 노래, 진짜 드라마 ost가 아닌 퀄리티, 뮤지컬 배우라 다르다,",
+        "writer": "UgxniTPx4D3EFBcXD454AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "때린게 애드립이야",
+        "writer": "UgwMlGq5AIMJgw2Nr094AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 영상을 비가 꼭 봤으면 좋겠다",
+        "writer": "Ugy6vD95AOtcxUljGDp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하, (이름) 성격 너무 좋아 내 최애",
+        "writer": "UgyFtDaasiw7XBbhQS54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)는 그냥 평범하게 생겼다 치고, (이름)는 진짜 미인이다, 세상에 저렇게 예쁜 여학생을 어디서 구했나 싶다,",
+        "writer": "UgxAguc4AUKjh6uWJtV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 커플 진짜 너무 귀여움",
+        "writer": "UgxSzzMvqkRGmw_3WRh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이(이름) 경력은 잘은 모르겟지만 오랜기간 열정으로 연기해온 커리어가 사람들의 관심을 받는 순간 폭발하는거 같아요. 아이돌들이 외모하나로 뜬금없이 주연차고 들어가는 일이 없기를 바랍니다. 오랜기간 스포트라이트 못받고 잇는 능력과 열정잇는 친구들이 인정받는 사회가 되엇으면,",
+        "writer": "Ugxd5gFmrfN8M3MuaV94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 상이 상엽 네 형재너무 좋아",
+        "writer": "Ugw6egt7Z726YR16MX14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도상이, 나두나두",
+        "writer": "UgyFtDaasiw7XBbhQS54AaABAg.9C_EQIlZUF39DQv0m3mGqW",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 , 노래 감상해야되는데, 말 너무 많이 하셔서 못들음",
+        "writer": "UgwYgfzrNL64VNIFTGp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "UCC가 뭐지",
+        "writer": "UgyoKr7nszV7hCcVDpl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 영상 보고 이(이름)도 이 영상 잘 된걸 아실까 이 계정 비번 기억하시는걸까 생각했었는뎈알고 계시다니 다행이네요.",
+        "writer": "Ugw_EMCMbrb4bPPsaVp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다재 댄스챌린지 영상 찍어줬으면 소원",
+        "writer": "UgzIMmzVt241wTxJx6F4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 최고",
+        "writer": "UgxFd4BSsoMO4qXUcUh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 같은스타일이 (반사회적용어)이 완전 빠져드는스타일임, 얼굴은 평범하지만 매력이(이름)님, 외모는 얼마못가 질리지만 매력은 진짜 안질리고 오래간다는, 여자든 남자든 매력이 가장중요한포인트임,",
+        "writer": "Ugz8v1wscKKmncNeA8l4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "케비에스에 와서 할말은 아니지만 복면가왕에도 한번,",
+        "writer": "UgxRJa9pCuDe20zc9jx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둘 다 왤케 좋지 너무 좋다",
+        "writer": "Ugx6_6XM9hkKsvmT6oF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 다재만 보면 자동 미소",
+        "writer": "Ugw3sPZtak1luiskMgx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앗 초희(이름) 얘기도 궁금한데, ...다른 영상에 있는 걸까요오 _",
+        "writer": "UgzF61TMZY8PaWT8NwB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한다다에서 제일 좋아하는 커플 다식이와 재순이 (이름)(이름) 넘 멋있어용.",
+        "writer": "UgzujgkoDjnBjyPDH4Z4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주인공은 나규커플인데, 다재커플이 인기가 더 많은것 같은데,",
+        "writer": "UgwCxblBv9Vy0CughvN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "노래할 때에는 조금 조용히 해주시지, 하나도 안들림",
+        "writer": "UgzG4_yXJfsAK4f3l_l4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "솔직히 첨봤을때 잘생긴줄 몰랐는데 계속 보다보니 점점 잘생겨보임 그리고 레이니즘이랑 라라랜드춤보니까 원래부터 멋쟁이 형이었네",
+        "writer": "UgzAxwb18FVJz5V6wcZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무조앙다재커플 짱짱",
+        "writer": "UgwPGDMr-OhWBos0ASB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아진짜 이(이름) 웃자웃자 귀여워",
+        "writer": "Ugyt8hj0u0ZrJsODqfF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 향기로운 남자",
+        "writer": "Ugz8v1wscKKmncNeA8l4AaABAg.9BIgUngMhhY9BgHpDBbXQo",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저런사람 다 속으로 한번씩은 좋아해봤을 스타일",
+        "writer": "Ugz8v1wscKKmncNeA8l4AaABAg.9BIgUngMhhY9CZnOFQX5wn",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "약간 여자애들이 안좋아한다면서 한번씸 맘에 품을st",
+        "writer": "Ugz8v1wscKKmncNeA8l4AaABAg.9BIgUngMhhY9CmjndOOk44",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그정돈 아닌데",
+        "writer": "Ugz8v1wscKKmncNeA8l4AaABAg.9BIgUngMhhY9DO0vEMHEsP",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보면서 (이름)같은 스타일남자가 너무 좋았어",
+        "writer": "Ugz8v1wscKKmncNeA8l4AaABAg.9BIgUngMhhY9Dk1K9pAepI",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 외모도 연예인중에 평범한(혐오표현) 일반인에선 훈남인거갇아요",
+        "writer": "Ugz8v1wscKKmncNeA8l4AaABAg.9BIgUngMhhY9DkmOPfWmed",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "외모는 약간 개성 형 인것 같아요오",
+        "writer": "Ugz8v1wscKKmncNeA8l4AaABAg.9BIgUngMhhY9Dr17Rew715",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "같은 학교 였으면 짝사랑 찐하게 했다,",
+        "writer": "Ugz8v1wscKKmncNeA8l4AaABAg.9BIgUngMhhY9Du6o9axqol",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밥보 요",
+        "writer": "Ugz8v1wscKKmncNeA8l4AaABAg.9BIgUngMhhY9DwH5YXvgyN",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)는 완벽 (반사회적용어)캐",
+        "writer": "Ugz8v1wscKKmncNeA8l4AaABAg.9BIgUngMhhY9PaZPasqLMt",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "원래 보통 메인보다 서브가 더 인기많음 주말은 근데 한다다는 나름 비슷한편임",
+        "writer": "UgwCxblBv9Vy0CughvN4AaABAg.9BCcGADZ4Gm9BIA82kmp4X",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "원래 주드는 메인보다 서브가 더 인기가 많죠. 솔약국 넝쿨당 아이가 다섯도 다 그래왔으니",
+        "writer": "UgwCxblBv9Vy0CughvN4AaABAg.9BCcGADZ4Gm9CyEOXcTBfm",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)스러운 (반사회적용어) 누님 월계수양복점도",
+        "writer": "UgwCxblBv9Vy0CughvN4AaABAg.9BCcGADZ4Gm9DfPEJSQf9m",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 저 짜증내고 있었는데 아니 노래 부를 떈 쫌 조용히 하지 진짜 하 이러면섴",
+        "writer": "UgzG4_yXJfsAK4f3l_l4AaABAg.9BCZq4skARc9BwOrtSD7DB",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니, 인터뷰 내용 이게 끝인가요 인터뷰 풀버전은 따로 없나요",
+        "writer": "UgzQJ_NX_M9GoqlZLmd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다재다능 이(이름) 넘 좋아 이 나이먹고 연예인을 좋아해보긴 처음이예요 남자연예인중 최고예요",
+        "writer": "Ugz6YJxyfgqqInidILt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 진짜 너무 좋아 다재커플",
+        "writer": "UgxlkYBusGQ-3G17jTN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이(이름)은 (이름)님 만나고 부터 인상이 밝아졌어요 정말",
+        "writer": "UgwFck51Ot4NYYHRWbF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내사랑 막내커플",
+        "writer": "UgyAUYKp4sqUYhva3G54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 장면은 진짜 반응도 개좋았고 이걸로 인해서 ost도 나왔고, 다시봐도 에요 진짜,",
+        "writer": "UgxYnpqgDGhoTU1cdGF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그 다희 풀어주려고 웃기는 장면 진짜 너무 재밌어서 계속 웃었어요",
+        "writer": "UgzzcjA0Lav3ey0Tlsh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재석이는 여자친구한테 화내지 말고, 여자친구 말 잘들으면 최고임.",
+        "writer": "UgwY-B-af7Jouf_3ILF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 처음에 못생겼다고 생각됐는데 매력있다",
+        "writer": "UgzQn17p53tQvDm7_Ml4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (이름)",
+        "writer": "UgytVFHA85sY0kmOx314AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 케베쑤 다재 키스 메이킹 왜 안 주시나요",
+        "writer": "UgzTRr9NQTY9e_ptS3h4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다재커플은 사랑입니다",
+        "writer": "UgxnaU9_35VKyXMhY2B4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남주 여주보다 이 커플이 좋아서 드라마 챙겨보고 있어요",
+        "writer": "Ugy-OHDYW6XHHy8cL0N4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도(이름) 최고",
+        "writer": "Ugz6YJxyfgqqInidILt4AaABAg.9BA9tiDETWD9D3kefUthjy",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김칫국 드링킹좀 하께요 실제로 사귀면 전 죽을게요 진심이에요",
+        "writer": "UgwFck51Ot4NYYHRWbF4AaABAg.9B9gccnZaOw9CBF0J_Gg_y",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저두요 지금이야 발견했지 연기천재라는 생각이 들어요 남자연예인중 이(이름) 최고다",
+        "writer": "Ugy-OHDYW6XHHy8cL0N4AaABAg.9B8MAqNqjo_9B97wcDvJcK",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 최고의 커플입니다,",
+        "writer": "Ugy-OHDYW6XHHy8cL0N4AaABAg.9B8MAqNqjo_9B9RnPATqOR",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금 막 보기 시작했는데 벌써 끝",
+        "writer": "UgwdhKtXCQWY5I_vvCZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 상 이 가 나 라 다",
+        "writer": "Ugz1ie934k_LWQpiZ8N4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 보고싶었어.",
+        "writer": "UgzZJ3dH1zwiBfyqNft4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "또 봐서 좋네요",
+        "writer": "UgxfhYzyhf7GEB1VaP54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "못봤는데 올려주시다니",
+        "writer": "Ugwjco3r4tbAkeBGefd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "매력터지는 (이름)",
+        "writer": "UgwmurcpCYQ9r6erqPB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Little Star진짜넘 좋다",
+        "writer": "Ugy3WILiEtgnvpn36Ht4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스토커 애드립",
+        "writer": "UgzFZFWzyr3benUcnzB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Lee Sang Yi라는 이름으로 춤 추는거 있어서 깜짝 놀라 봤죠",
+        "writer": "UgzadLPh8uDn8Za8kAR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "늘푸른 아동병원 후토스 의사",
+        "writer": "UgzEirFeATiqouyf7Nl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뺨 웃겼지",
+        "writer": "UgySNKr6UHWr12gs-P54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다재커플 (이름)씨 (이름)씨",
+        "writer": "Ugx7lnHdQcxIp1b6v6p4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둘이 너무 귀여워",
+        "writer": "Ugw-zG27J9DZNPzorfZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재주꾼 인정...",
+        "writer": "UgyW_NwcHsHUU7ul5D14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와우 드뎌 보는구나",
+        "writer": "Ugxt-MlpCjmkLpVaspJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아직 끝나지 않았습니다 끝나려면 좀 남았어요. 끝까지 본방사수 해주세요",
+        "writer": "UgwdhKtXCQWY5I_vvCZ4AaABAg.9B8DSfQWhsv9BAA7705JJS",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다희초희언니 그옷 위선자할때 옷 아닌가요",
+        "writer": "Ugx7lnHdQcxIp1b6v6p4AaABAg.9B82P-L-7g39BZHGaG2IlK",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=4Zg4PMt0xbU",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

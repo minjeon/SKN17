@@ -1,0 +1,804 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001660429",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001660429"
+    },
+    "text": [
+      {
+        "content": "사랑하는 벤(반사회적용어) 생일 축하해",
+        "writer": "UgzaWDe94zG6pXMlaOx4AaABAg",
+        "write_date": "2021-11-09",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤 오늘 생일이지 축하해",
+        "writer": "UgzHun3K9QYeJS0S0WF4AaABAg",
+        "write_date": "2021-11-08",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거볼때 눈물나옴",
+        "writer": "UgyJ1VbqJZbu1Rvh0bt4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 날고싶다,",
+        "writer": "UgxmBO-tIaClP14eMeh4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하 벤 웃는소리 진짜 애기소리야, 너무 행복해보여서 나까지 기분(이름) 흑흑 벤 하고싶은거 다하면서 살아,",
+        "writer": "Ugy3gFU4uLCO2PeAFBp4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 벤(반사회적용어) 태어나 줘서 고마워 건강하게 크자",
+        "writer": "UgxnsCaDoO1Dkt7Q-f14AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 눈물이 나냐",
+        "writer": "UgxdBWujXc3q-bFNvZ94AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 4살 애기가 감사함을 알아서 아빠 사랑해 엄마 사랑해 형 사랑해도 할줄 알고 너무 기특하거 귀여워",
+        "writer": "UgyP0EYuCBgmFfLM8dZ4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저거 놓치면 어쩌나 했는데 몸에 묶어 놓았네 다행이다",
+        "writer": "UgzQdMjLXwlsoqDqAt94AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아가 너무 좋아한다 앞으로도 멋지도 예쁘게 좋은말만 하면서 살았으면 좋겠다",
+        "writer": "Ugxv8fA7i9VpeD8yqIB4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 날면서 생일 축하 노래 부르는 거 소름 감동의 물결이다",
+        "writer": "Ugx2OXbs4KGTQ1jgRgp4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 진짜 노력 많이 했겠다 좋은 추억 생겻네 벤(반사회적용어) 부럽",
+        "writer": "UgzAXY2E-cUcnjZ_bRx4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무럭무럭 자라서 좋은 사람되릴 빈다",
+        "writer": "UgyhiCufsXUyK2rQrZF4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "매일 생각해도 오리임티 밴한테어울린다",
+        "writer": "UgyYMLYco6kn1A0skb94AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 하고싶닼",
+        "writer": "UgxDkYmhxMnzDGeiwpt4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "읭 나 왜 울지",
+        "writer": "UgwSpMXxHv_9Mv84aeF4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤 사랑이 넘치는 아이",
+        "writer": "Ugw-gCg6xFHZDX9s-JF4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내생일 맞구나 해피버스트 데이 투유 벤(반사회적용어) 사랑스러운 아가야",
+        "writer": "Ugwy9vVreIOoYQOmnOh4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나랑생일 똑같아",
+        "writer": "UgxhvX9D2EeMqfz7CHd4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어)의 소원을 위해 풍선만드는데 모두 힘 보태주신 스탭 삼촌 이모들도 넘넘 감사드려요. 해질 때까지 촬영 하느라 다들 진짜 고생 많으셨을 것 같아요. 본방보면서 정말 감동하고 감사했습니다.",
+        "writer": "UgxfyFDuWzrgurq-SYt4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "월벤저스가 슈돌 최강.",
+        "writer": "UgwXqtehDO0ddHZ9tnZ4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤진짜 너무 귀여워요",
+        "writer": "UgzQKgQZs_jADIw5zqx4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요기 나오는 음악 뭔가요",
+        "writer": "UgxY0rrDXfqIhSlvZ8V4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리이뿐아가 벤없으면못살아",
+        "writer": "UgyB6mlYuoCQ6iiwW6V4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 날 촬영장소 맨날 산책하느라 지나가는 집 주변 축구장인데 , .촬영하는거 아예 몰랐다는게 증말, 한 ,",
+        "writer": "UgygjpXvag6XXbqbohh4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 하늘 날라가고 싶다..",
+        "writer": "UgwYPwK0KT_a2JI-App4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아주아주잘생기고똑똑한 두아가들귀엽고예쁘기도 하지.",
+        "writer": "Ugy6CQJp0CmjC5xwLO14AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어) 생일을 축하해, 많아 많이많이",
+        "writer": "UgzHDqqkZ94mVUvvmZt4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예쁘게 자라줘 이쁜벤",
+        "writer": "UgwBQaTGCPdAMDjT17d4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개그콘서트 지금 집에 가요 가요 오늘 학교 학교 지내고 지내고 지내고 선생님 선생님 선생님 일찍 일어났네 감사합니다 수고하세요 수고하세요 오늘 오늘 오늘 네 네 네 많으셨습니다 많으셨습니다 많으셨습니다 서울 서울 서울 신사동 신사동 신사동 신사동",
+        "writer": "UgwLsTwVn6T9oX8iMVJ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤, 내김장는 너한테 날아 닸어",
+        "writer": "Ugy8utna5_xpp-IKOap4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "축하해 밴들리",
+        "writer": "Ugz0QBoxKFmZJ5-Bghl4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 이렇게 까지 사랑스러울수가 잇냐고. 화가나 넘 귀여운데 어떻게 할수가 없어서",
+        "writer": "UgxTk2i18ed_EYGXaa94AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 입 쪼끄만거 너무 귀여워",
+        "writer": "Ugy-JJC_bZRLJSg2YaZ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예쁜이 두형제 윌벤, 항상 행복하기를 바랄게요 엄마 아빠도 함께요",
+        "writer": "UgzQ2Av_kP1NLCfqx9J4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어) 생일 축하해",
+        "writer": "UgzwM0lqUQ8Rm59yp_Z4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 아(비속어) 저렇게까지 해주는거면 벤을 엄청 아끼는거임, .",
+        "writer": "UgytRKMEqg8eAMGTulB4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤웃음소리 듣는데 너무행복해진다",
+        "writer": "Ugz2TvcpiptO-hGQpXB4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애기 행복해 보여서 눈물나는거 내가 주책인가 싶었는데 다들 눈물 나셨군요......",
+        "writer": "UgwMHEYlyQn_bMn59Oh4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌벤 덕에 너무 행복했어앞으로도 쭉",
+        "writer": "Ugzew82BVnNygk6VRwV4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아가 넘 예쁘다 씩씩하게 잘자라주렴",
+        "writer": "UgzP2PSMSTfYrSuCVBt4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "날아라 슈퍼벤(반사회적용어)",
+        "writer": "UgwfwilhtbqKz6Q49ON4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭘해도 이뻐",
+        "writer": "Ugxlq1UAA9RSrgQ9cyZ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 진짜, 저젛게 행복한 가정(이름), 부럽다",
+        "writer": "UgzV2vhtYsyHFk6aZ-V4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어) 생일 축하해 우리 아가 넘 사랑해 너로 인해 얼마나 행복한지 모른다 맘껏 날아다니길",
+        "writer": "UgzPSRBPPWCu5BvxHmR4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 왜 눈물나냐, , 하늘까지 나니까 울 벤토리 진짜 천사같다.... 너무 귀여워 형아랑 엄마 아빠랑 영원토록 행복하길....",
+        "writer": "Ugy3WEy-bZZzcZOW55h4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "두천사 사랑해",
+        "writer": "UgwemDbeNyq_p6Q5fFF4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사랑스러운 벤 생일 축하한다",
+        "writer": "UgyN9XZG3VdEjbAECA54AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넌 좀 안귀여워",
+        "writer": "UgyKc6aNpnDUcgn4k6Z4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여경영은 구정물이잖아",
+        "writer": "UgyKc6aNpnDUcgn4k6Z4AaABAg.9Gfbt-yduMX9PrLm7gh4EL",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "추리가 아빠 사랑해 할때 너무 행복해보이고 눈물이 나네 우리 애기, 나중에 다큰 어른이 되어서도 행볻만하면 좋겠다",
+        "writer": "UgzjKrDayWpd7P1C_a54AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤토리 생일 축하해 4살 이자나",
+        "writer": "UgzZkqQRKu-eQzYUabx4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아가들이저렇게높이날으면 무서워할텐데, 번지점프도그렇구 벤은참여러모로대단해진짜 범상치가않아벤은 나중에 머가될런지참궁금해",
+        "writer": "UgypM6pCAbQAVjySoYB4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울벤 생일 축하해",
+        "writer": "Ugx6zXtG2IjBxZi2g4N4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사랑둥이 벤토리 윌리엄 사랑해 사랑해",
+        "writer": "Ugx7rPTn2es2CJBJ0a14AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤 생일축하해",
+        "writer": "UgzIv7VJPiv9aBD_NjV4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 훌륭한 오늘들 한국 최고",
+        "writer": "UgzIT6dv72NnDRc5JBZ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "늦었지만 사랑하는 벤틀아 생일 너무너무 추카추카하공 항상 건강하고 사랑하는 가족과 행복하고 씩씩하게 무럭무럭 멋진 벤(반사회적용어)로 잘 커주길 바래요",
+        "writer": "UgzkUNiPI1a0Q2AU7Ex4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 씩씩한 벤(반사회적용어) 늦었지만 생일 축하해",
+        "writer": "Ugy4jnisM94jRARYw9t4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어) 넘 좋아서 노래 크게 부르는모습귀여워귀여워 이 가족 넘 사랑스럽다",
+        "writer": "UgzSGNYiIGT3MOD74zF4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 앞부분에 팝송나오는데 팝송이름이 뭘까요",
+        "writer": "Ugwu-ahG4CBCeQKklfx4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃는소리 너무이쁘다 ,",
+        "writer": "Ugy6APSkXveHnmj4qU54AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Gnr Gnr 감사합니다. 그런데 벤(반사회적용어) 날 때 나오는 노래도 알수 있을까요,",
+        "writer": "Ugwu-ahG4CBCeQKklfx4AaABAg.9Gb2BszB8s59GcXXSsY1mO",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윤서 QUEEN I Was Born to Love You",
+        "writer": "Ugwu-ahG4CBCeQKklfx4AaABAg.9Gb2BszB8s59GdL-IF6b-4",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤 생일 축하해",
+        "writer": "UgyYEiRuqf9pyDEFAjl4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 벤(반사회적용어)땜에 넘 행복해요. 착하게 건강하게 훌륭한 어른으로 성장하길, 아 울벤은 크는거 싫다 아가.",
+        "writer": "UgwYvVqroMD1epYu1St4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기분 좋은 벤(반사회적용어) 윌벤져스 귀여워 윌벤져스 사랑한다",
+        "writer": "UgzW7o7MMdOzoO89jHN4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 야 저게 되네 나도 어릴때 해볼껄",
+        "writer": "UgyI5RZ6BfKUB2pLiu14AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무감동적이다 벤(반사회적용어) 생일축하해 항상 건강하게 크길",
+        "writer": "Ugw4yGlVW7kjq7MPuQB4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤4(혐오표현)생 역사를 보니 감동이다 벤 지금처럼 씩씩하게 예쁘게자라주렴",
+        "writer": "Ugz_zEchOtQnFlYWCX54AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌벤은 태어나면서 부터 성장하는 모든 모습을 영상으로 봤구나.",
+        "writer": "Ugyqj-b941VYjwevnCN4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "용감 무쌍한 벤 넘 멋져 사랑해",
+        "writer": "Ugxyj15AZ7Xoz2YH9Fl4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어) 대상",
+        "writer": "UgzrOwoXuI-_44YFGrN4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사랑해 윌벤",
+        "writer": "UgxEkCvmyt6vqShT3dF4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌리엄이나 벤(반사회적용어)는 항상 완전 만화에 나오는 주인공 아이들같네 평생 순수하고 재밌게 살았음 좋겠어",
+        "writer": "UgwXY_CxAzWnkqhbMG54AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤이 행복해서 저도 너무너무 좋고 . 너무너무 신나용..",
+        "writer": "UgyRPXJP7jWNzMKIinZ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가족들 다 사랑한다고 우리 사랑둥이 벤",
+        "writer": "Ugx4B2Uebqu9_rBJhhJ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "또하나의 윌벤져스 레전드편 볼때마다 넘 순수하고 귀엽고 감동적이에요 아가 해피벌쓰데이 지금처럼 건강하게 잘크길",
+        "writer": "UgyKpIiNWNGmMq2M8FJ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "행복해하는 벤(반사회적용어) 덕분에 나두 해피..... 늘 건강하고 행복하길 ..........",
+        "writer": "UgxfZs6ppWV1WXKGKX14AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 날으네 (반사회적용어)리 소윈풀어 다 삼촌형들 아빠 수고해어요",
+        "writer": "UgwhnZHfrCUFpG72FdZ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "환경 오염 생각해서 이런것 하지 마라. 이런거 일부러 안해도 충분히 오염이 심하다",
+        "writer": "UgxbunObj7X1dzccxj54AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아고 순수해라",
+        "writer": "UgxAqMVA9JyU8u1hNjJ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤 생일 축하해. 하늘 날고 싶은 소원 이룬 거 축하해",
+        "writer": "UgyoUulNX3Y8pukw1dZ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어) 예전엔 짜증났는데 지금은 좋다",
+        "writer": "UgztkenNX-Ozhoe-oxd4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤이 너무너무 행복해 보여 눈물이 나네. 츄리아 무럭무럭 건강하게 자라서 사회에 이바지 하는 건실한 청년으로 성장해 다오",
+        "writer": "Ugy3OPvwB1A1737Foo14AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "샘해밍턴이 대단하신게 훈육도 잘하시고 윌리엄 벤(반사회적용어) 생일때 엄청 잘 챙겨주시는게 정말 대단하다, 마지막 장면 너무 훈훈하다",
+        "writer": "UgxlDjcJKPa6HlEcvqp4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤이 웃으면 나도 웃는다",
+        "writer": "UgyOM4nrGg4njlvgTxl4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울애기 넘 작아 생일축하해",
+        "writer": "UgySBtO1tJnk7ntFNWJ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀엽다 So cute",
+        "writer": "UgypQZLBpDhOBlfk7Ix4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어) 너무 행복해보여서 눈물이 나온다, 평생 행복한 일만 가득하고 하고 싶은거 다 해보길 벤(반사회적용어) 랜선이모가 응원해",
+        "writer": "Ugx3vrJDebuw1v82knx4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "온우주의 사랑을 받기 위해 태어난 벤 이세상에 사랑을 주기 위해 태어난 벤. 우주최강 초귀요미 벤 생일 진촤 축하한다. 얼마나 하늘을 날고 싶었으면 저렇게 환한 웃음소리로 행복해할까. 샘윰녕아한테 고맙다고 하는데 왜 이리 눈물나는 거야. 타고난 방송센스로 생일노래에 생일 맞꾸나. 너란 아가 진촤 눈물나게 귀엽고 이쁘고 멋진 아가야. 갈수록 잘생겨지는 아가천사 윌리엄 꼭 헐리웃가서 슈퍼맨 영화 찍어야겠다. 우리 사랑스런 윌벤 (이름)래 보고싶다..",
+        "writer": "Ugw1ZbIM2-Ws9DpWAc94AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 진짜 이 장면 보고 울었다 윌벤 넘 사랑스럽고 샘아빠 멋지다",
+        "writer": "Ugwycz3rR1E_I_6FJq54AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "생일축하해 벤(반사회적용어) 건강해",
+        "writer": "UgzSsT96alvK5frl2ap4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "완전 감동이었어요 샘아빠 (이름)의 사랑과 따뜻한 훈계로 오늘의 윌벤져스가 있습니다",
+        "writer": "UgzaPNZW6BwlOONeXAx4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자축 생축송",
+        "writer": "Ugz0u8gjiJmmZ2jSuSB4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어) 웃음소리에 감격해서 우는 랜선이모",
+        "writer": "UgzTlmJVx94FKPRfPL14AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "생일 축하해 아가야",
+        "writer": "UgznBBbbQfZQIIA(반사회적용어)s94AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전세계 인구 76억 4047만명 중 울 벤(반사회적용어) 최고,",
+        "writer": "Ugz-qkU0CzdSOgOv9M14AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와 우주최강 귀염둥이",
+        "writer": "Ugz-qkU0CzdSOgOv9M14AaABAg.9GMs9ITluVL9GdSVotCrJS",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=CTFcFGnwn88",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

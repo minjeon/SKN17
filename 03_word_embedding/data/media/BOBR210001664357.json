@@ -1,0 +1,684 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001664357",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001664357"
+    },
+    "text": [
+      {
+        "content": "여전히 잘생긴 (이름) 얼굴진짜작네요 여자한테안밀림",
+        "writer": "UgzzQb8dG0qQwCzqMi14AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와시간 빨리간다",
+        "writer": "UgzyryrFauaYAEkDprt4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참치진심녀 모여랏,",
+        "writer": "Ugx2l067a53w3iy6wvl4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 님 우리 엄마 보다 나이 적네, 우리 엄마는 50살, 강(이름)은, 40살,",
+        "writer": "UgwPPuE2ZegqVyoP7ZR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "게스트들이 말하고있는데 누가 자꾸 리액션을 하는(혐오표현) 이례양이 엄청 컸네요 케이(반사회적용어)가 유행이잖아요. 저희가 듣고싶은건 게스트들의 멘트지 그쪽의 리액션이 아닙니다",
+        "writer": "UgzpCGP9rxnABjnTSwh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "군도봐라 친구들아 진짜 (혐오표현) 남녀노소 불문하고 시간남면 형사 의형제도 보고",
+        "writer": "UgxY6_E0UsvFJMGWP754AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 옷 반짝이는줄도 몰랐네 얼굴이 더 반짝여서",
+        "writer": "Ugw2P74IwQZ5FFU3-WZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 강(이름)는 왜 안늙어요 왜 점점 귀여워져요",
+        "writer": "UgxBOktG1ycs7Yx1iFF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 도랐다",
+        "writer": "UgwDX-JRS4Fep8aF-jB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앞으로 Y만들일 있음 저렇게 만들어야겠다",
+        "writer": "UgwoGK5bsBXQf1RcXXJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이레 진짜 너무 귀엽다 ,사리는것도 없고 털털해 ,언(비속어)소 절로나옴",
+        "writer": "UgyflkrHOtU4HUzkKDx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개인적으로 반도가더 재미있다 진짜(이름) 이레 (이름) 겁나 와, 대박",
+        "writer": "UgzeuJF7q5Goi4Ad7R94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 갓동원,",
+        "writer": "UgwEh5oga1tfdNyqWFF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인터뷰 시켜놓고 왜 패널들끼리 떠들면서 안들리게 하냐구요",
+        "writer": "Ugwz2o6d2My4sFbU7GB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아미쳤나 (이름) 따라하는 (이름)",
+        "writer": "Ugw-zFOtirug7_T8YY14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동원, 목소리 얼굴 다 미치도록 좋아 (비속어) 0n년생 (이름)진심녀",
+        "writer": "UgwcAo1hxMZVMJtgF-94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무슨 말이죠 뭐가 도랐다는 건가요",
+        "writer": "UgwDX-JRS4Fep8aF-jB4AaABAg.9CTDVY4n8Uo9OYUfLEVL9w",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "0n연생 참치 진심녀 2인",
+        "writer": "UgwcAo1hxMZVMJtgF-94AaABAg.9BgjhUbLhSo9KO9zMG7hRo",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상에서 들리는 남자분 목소리 빼주시면 안 돼요 배우들한테 소개 부탁해놓고 말하고 있는데 목소리 겹치까 불편해요",
+        "writer": "UgxBz68MqIaByw2CjIZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이레 이쁘당 헐, . 많이 컸넹,키",
+        "writer": "Ugzlimzo7We7GjJ4dK94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘 반도 보고왔는데 이 세 분 진짜 캐릭터 매력이 장난읎써요, 사랑해요 완전 반도 꼭 보세요 진짜 후회안함",
+        "writer": "UgzCmk3gv2nwJlUS5qV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 (이름) 쭬라 귀엽다",
+        "writer": "UgymhyF2Bs87x1PjSa14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)은 20대라고 해도 믿을 듯",
+        "writer": "UgwkrS2U8bRRoIc0IKV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맨날 잘생겼어",
+        "writer": "UgzFMdWBBE4Y7LAP97d4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이레 진짜 장면 나올때마다 설레네 멋있게 나와서,",
+        "writer": "UgxkEV1gsFuWQe42H294AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다들 저 날라 가는 사람이 (이름)인줄 알고 우와 이러네",
+        "writer": "UgwDItsokRfFjgOUcjt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 리즈는 개인적으로 군도때가아니었나 싶다 물론 지금도 천상계지만",
+        "writer": "UgyweSdjy-6e4e6gpTJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 셋이 최강 조합이었네 보니까",
+        "writer": "UgwT7owgE50ySR-h18N4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참치 오빠 왜 나만 나이 먹어, 전우치부터 봤는데 똑같아",
+        "writer": "UgzWhXZ-Kc4g89Fre_94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리포터 저 분장 굳이 해야했을까 하며 현타왔을거같은데",
+        "writer": "Ugz1wFLSYsre2KL5-Mp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 다리길이보소",
+        "writer": "UgwE2SVJS-mFvCK5m_R4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "배우들 소리듣는 패널들 토크소리 넘 잘들린다",
+        "writer": "Ugy7MGLmjSamzR9A28J4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 이번에도 탈출 해야 하네 군함도는 아쉽게 탈출 실패했지만 이번에 꼭 탈출 하시길",
+        "writer": "UgxtD-KYK48rl7OVU0h4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜안늙는다 부러워요",
+        "writer": "UgxjBi90bL2YUiOK9Kp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)는 나이를안먹나보네 마흔으로안보이네",
+        "writer": "Ugwr-ntZxNMWB9hnaFt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이레님멘트하는데 멘트하는 엠씨님 누구지 센스가, 없네",
+        "writer": "Ugw-hiN4i7AeZnAc56B4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동원 기여웡",
+        "writer": "Ugy_iDnAE9J5LZHGxgp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누가 내가 눌러 만든 99를 100으로 만들어주겠지,",
+        "writer": "UgymhyF2Bs87x1PjSa14AaABAg.9BJccBzUF7J9JQ8G_Yx8vt",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이레도 20대라해도 믿을듯 15살임",
+        "writer": "UgwkrS2U8bRRoIc0IKV4AaABAg.9BHSOrCiCL59Bp0cgLHAQg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "완전, 10살씩 어려보임 모든 영화에서",
+        "writer": "UgwkrS2U8bRRoIc0IKV4AaABAg.9BHSOrCiCL59C3AcLeh4ff",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요(저희반쌤은 50이라 해도 믿을듯, )",
+        "writer": "UgwkrS2U8bRRoIc0IKV4AaABAg.9BHSOrCiCL59CKo9ytmzje",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나만 27로 알고있었음",
+        "writer": "UgwkrS2U8bRRoIc0IKV4AaABAg.9BHSOrCiCL59JQ86cHppdz",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "있지 류진 닮음",
+        "writer": "UgxkEV1gsFuWQe42H294AaABAg.9BH6lCNVw2P9D_61Ii0yCM",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이제 40대니까",
+        "writer": "UgyweSdjy-6e4e6gpTJ4AaABAg.9BD_pD8_Z5U9BOn9JlsHHV",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "검은사제들보고 진짜 감탄했었는데",
+        "writer": "UgyweSdjy-6e4e6gpTJ4AaABAg.9BD_pD8_Z5U9BQxnfkj8Eg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Lucky조 검은사제들도 이지",
+        "writer": "UgyweSdjy-6e4e6gpTJ4AaABAg.9BD_pD8_Z5U9BRWL9rnQGx",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "늑대의 유혹이 짱이야",
+        "writer": "UgyweSdjy-6e4e6gpTJ4AaABAg.9BD_pD8_Z5U9BZRZrwUYOH",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인랑도 진짜 넘 멋있게 나옴 난 재밌게 봤지만 흥행은 못한",
+        "writer": "UgyweSdjy-6e4e6gpTJ4AaABAg.9BD_pD8_Z5U9Bbi4lLvi-y",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기 대댓보면 그냥 다 리즈임 근데 그게 사실 그래도 난 소드(비속어) 조윤 못잊어,",
+        "writer": "UgyweSdjy-6e4e6gpTJ4AaABAg.9BD_pD8_Z5U9Bc2wqb_2Rc",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "구름 다 리즈",
+        "writer": "UgyweSdjy-6e4e6gpTJ4AaABAg.9BD_pD8_Z5U9Bc37eMEEFT",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "걍 인생이 리즈임",
+        "writer": "UgyweSdjy-6e4e6gpTJ4AaABAg.9BD_pD8_Z5U9BjKJwQWvnI",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다들 왜그래 (이름) 자다 일어난 거 봐도 리즈라고 할 거면서 , (이름)은 인생이 리즈",
+        "writer": "UgyweSdjy-6e4e6gpTJ4AaABAg.9BD_pD8_Z5U9Bv5yI1aS1m",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한 순간 순간들이 다 리즈임, 반도도 (이름) 얼굴이 다 살린 영화",
+        "writer": "UgyweSdjy-6e4e6gpTJ4AaABAg.9BD_pD8_Z5U9BwbsJn__U_",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번 반도도 진짜 단발 겁나 멋있었다 크흐",
+        "writer": "UgyweSdjy-6e4e6gpTJ4AaABAg.9BD_pD8_Z5U9C0sT6x4JeN",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 매순간이 리즈인듯",
+        "writer": "UgyweSdjy-6e4e6gpTJ4AaABAg.9BD_pD8_Z5U9CY3wTZ6WYS",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전우치는 찐",
+        "writer": "UgyweSdjy-6e4e6gpTJ4AaABAg.9BD_pD8_Z5U9Co-fVk7laB",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유현지 전우차",
+        "writer": "UgyweSdjy-6e4e6gpTJ4AaABAg.9BD_pD8_Z5U9DQt5BqCg-C",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유현지 전우차",
+        "writer": "UgyweSdjy-6e4e6gpTJ4AaABAg.9BD_pD8_Z5U9DRDW-IOdac",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다들 형사때 (이름) 한번 봐주세요, 진짜 그건 사람아님 하늘에서 내려온 천사임",
+        "writer": "UgyweSdjy-6e4e6gpTJ4AaABAg.9BD_pD8_Z5U9IGQdPDimVm",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 그래서 내 리즈는 언제임,",
+        "writer": "UgyweSdjy-6e4e6gpTJ4AaABAg.9BD_pD8_Z5U9KEkcWwZ6iJ",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우왕 , 개길다",
+        "writer": "UgwE2SVJS-mFvCK5m_R4AaABAg.9BATDS-vf_U9BL-xy0Ck2v",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "키가 크니까 그렇징, 그럼 (이름) 다리는 외계인이겠네 키 더 크니깐",
+        "writer": "UgwE2SVJS-mFvCK5m_R4AaABAg.9BATDS-vf_U9BW436qr8JU",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Romaldo Cristianoon 키커도 다리 짧은 사람 많은데",
+        "writer": "UgwE2SVJS-mFvCK5m_R4AaABAg.9BATDS-vf_U9Boy0gRmUG3",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Romaldo Cristianoon 키 큰거랑 다리긴 건 별개 아닌가",
+        "writer": "UgwE2SVJS-mFvCK5m_R4AaABAg.9BATDS-vf_U9Bv5L-oSvMF",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Romaldo Cristianoon (이름)오다 (이름)이다리더김 저키에서는 비율을 따져야지",
+        "writer": "UgwE2SVJS-mFvCK5m_R4AaABAg.9BATDS-vf_U9C2uuQhLzpY",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "182에 비율이미침",
+        "writer": "UgwE2SVJS-mFvCK5m_R4AaABAg.9BATDS-vf_U9CFbJ2DNdHa",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Romaldo Cristianoon (비속어)크기도 (반사회적용어)는데 갑자기 왜 (이름)드립임",
+        "writer": "UgwE2SVJS-mFvCK5m_R4AaABAg.9BATDS-vf_U9CX6_WvS4jk",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Romaldo Cristianoon (비속어)",
+        "writer": "UgwE2SVJS-mFvCK5m_R4AaABAg.9BATDS-vf_U9ChkfxrgX0_",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)상남자 모델로 데뷔했는데 모델이 키를 어떻게 속여요 런웨이 서는 모델이 (이름) 나오는 영상마다 키 182 염불외며 (비속어)하는데 안쓰러울지경,",
+        "writer": "UgwE2SVJS-mFvCK5m_R4AaABAg.9BATDS-vf_U9Cs-AWCUrx-",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Romaldo Cristianoon 이런애 특 키 170도안됨",
+        "writer": "UgwE2SVJS-mFvCK5m_R4AaABAg.9BATDS-vf_U9DdSm-eQa19",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Romaldo Cristianoon 인성",
+        "writer": "UgwE2SVJS-mFvCK5m_R4AaABAg.9BATDS-vf_U9HAaG3uVE4v",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시끄럽기만 하고 노잼,",
+        "writer": "Ugw-hiN4i7AeZnAc56B4AaABAg.9B2WC6jLdJk9Bnnm_sCy6J",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개그우먼 인데요 (이름)",
+        "writer": "Ugw-hiN4i7AeZnAc56B4AaABAg.9B2WC6jLdJk9J9uaYISXNt",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참취옵하, 이 짤 평생 돌아다니게해줄께 이레쓰 너모 잘 자랏자나효",
+        "writer": "UgxvcMjAWJ_stq2kdDV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참치오빠는 내고딩때도 저모습인데 난이제 34줌만데 저 오빠는 ,뭐지 왜 혼자멈춰있지",
+        "writer": "Ugya8KURUb5fpwyOL494AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 표정이 부드러우시당",
+        "writer": "Ugxb5ifgNL7jgotPsGh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 살좀 생긴거샅은데",
+        "writer": "Ugx-KO1M1f3NL5X7n3V4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 동원오빠 얼굴 무슨일이야빛이나",
+        "writer": "UgyM0PlZg0V175xH6It4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Y만드는 참치 오빠 귀여워",
+        "writer": "UgxqCEkNZdoFsnTJlgN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한국인이 었잖아.",
+        "writer": "UgxjaU9UxGbuAdQnS1t4AaABAg.9AtqB7EN6dp9BN1wvrNniJ",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하 부러워요 진짜 전 참치오빠랑 나이 차이 너무나요",
+        "writer": "Ugya8KURUb5fpwyOL494AaABAg.9AtpBoVSQv39D_VVa_78cN",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞엉 나 5살때 봤는데도 저 얼굴,",
+        "writer": "Ugya8KURUb5fpwyOL494AaABAg.9AtpBoVSQv39JQ8PeCcfsv",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 살붙은게 더 예쁘심",
+        "writer": "Ugx-KO1M1f3NL5X7n3V4AaABAg.9AtgnZDGFOp9B1v5tbaW1r",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나이를 안먹어요",
+        "writer": "Ugx-KO1M1f3NL5X7n3V4AaABAg.9AtgnZDGFOp9B8IChic5wz",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=AwdsJ4ydQsE",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

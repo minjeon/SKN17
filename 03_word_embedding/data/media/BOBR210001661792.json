@@ -1,0 +1,852 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001661792",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001661792"
+    },
+    "text": [
+      {
+        "content": "개리, 좋은 남자다",
+        "writer": "Ugwrb8EKcLf2lSDbx_V4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나만 다 똑같아 보임",
+        "writer": "UgzGeaDiaOyrgJgCBkt4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "말을 어쩜 저렇게 잘해 _",
+        "writer": "UgwHY_sZtwN8gr7buaZ4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 하오 귀엽다 너무너무 귀여워",
+        "writer": "UgwlR7M1nMakLPe7arB4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오 넘귀여워",
+        "writer": "UgwjtJZ2lrm2gXgAaCF4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아가가 관찰력 짱임",
+        "writer": "UgwnVo3b6fXoBDb4h0p4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몇 번을 보는건지, 봐도봐도 넘귀엽구 놀랍구.",
+        "writer": "Ugw6RNxUEMHixr1GDlt4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나였으면 내장남감 왜 가지고가냐고 울꺼같은데",
+        "writer": "UgwgK_vi4lvmBaj3IA14AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오 최고.",
+        "writer": "Ugw2jkoo7Geb_Un5WBp4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 관찰력 대박임..",
+        "writer": "UgxWURFjKa3KdpzK6a14AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 애기야, 쪼로록 안기는 거 봐",
+        "writer": "UgxdIVxQ5NEfTuM4Sp14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오 섞을때 꺄르륵 웃는 거 넘 귀엽다",
+        "writer": "Ugw3linQqln7yZsLSGJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 개리아빠 리액션은 내가 봐도 너무 재밌다,",
+        "writer": "UgwJyVbfhdtgS48o2Nl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 대박,",
+        "writer": "Ugxb2HSurgEITLRnQyF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "음, 제생각엔 하오가 상자의 신인것같네요.(진지)",
+        "writer": "UgziAiaEY_G59Dh6Gs94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 하오는 천재야",
+        "writer": "UgzIPPDJix5d6Zb91N14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오 대단해요 엄마 아(비속어) 하오를 잘 이끌어주는것 같아요 관찰력 대박",
+        "writer": "UgxNckGdoTrvTJeRBdN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개리씨 창의성보면 하오도 쏙 빼닮은거 같아",
+        "writer": "UgyymgOtCI4QOkTsRbl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "상자 속에 숨겨서 섞을때 눈으로 따라가서야만 맞춘다는 상식 틀을 깨버리고 해결해버리네",
+        "writer": "UgygOoUxdy2pJMryQzJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개리아(비속어) 천재아들을 뒀네요 볼수록 하오 (이름)네요",
+        "writer": "Ugyag3VGm3Y-fFn9ZZh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요즘 아이들이 엄청 빠르 다는데 하오 진짜 천재 아니면 영제임에 틀림없다 개리도 보통 아빠는 아닌것 같아 아이랑 잘놀아주고 노는걸 공부하듯이 익숙하게 하니가 공부라 생각 안하고 놀이로 생각하는듯 넘 귀여운 천재 하오다",
+        "writer": "UgzfT_lrqPXzCtgpbd14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오는 천재중에 천재 정말 대단한 천재 맞군요",
+        "writer": "UgwuzYgubii9Hn4YVvF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넘 이쁘고 기특하고 귀엽고계속 보게되네요",
+        "writer": "Ugxt-nCvlARuUXhRlIB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오야, 넌 너무 똑똑 하오,",
+        "writer": "Ugw_OVuSaQ3KfmYZilx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오는 천재입니더",
+        "writer": "Ugxn8N9ToVkVvdKPBfB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오는 완전 멋지다 하오 ...",
+        "writer": "Ugz3Jf7YGeEGuzsrAel4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웬만하면 이런말 안하는데 진짜 천재같은데",
+        "writer": "UgyYh-vLA7l8azeQpRJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오가 토 기운이 강할지도 모르겠네",
+        "writer": "UgynVSPhLEqZEDYWCZh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 평범하진 않구나,",
+        "writer": "UgzNFmIHos63vdlqHzZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "위치이동을 본게 아니라 상자 특징을 본 거 아닐까 어떤건 살짝 파져있고 어떤건 완전 깨끗하고 그러던데",
+        "writer": "UgykT9b1Ld6g0_--arF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "상자가 달(반사회적용어) 천재,",
+        "writer": "Ugz0EZIPkhrQzTIWGl54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 나이에 저정도 인지능력이 있는건가",
+        "writer": "UgyS6M0iYOxUVK_E0ht4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 애기가 진짜 영리하네 근데 저런 아기들이 어릴때 케어를 잘 못하면 편집증걸리기 쉬운데 걱정이네,",
+        "writer": "UgxOzgkaOOH2T_nFgMt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요즘 너한테 빠졌어.",
+        "writer": "Ugx6xn5ZPUP4x-NSLa54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 눈썰미 최상위권인 듯,",
+        "writer": "Ugx4ZoYNTY7cUuz5HQ94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아무리봐도 천재야 하오는 어른도잘못찾는걸 (이름)를다외워서기억을 하다니",
+        "writer": "UgwYmQR7BGXdmcFcHU14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "섞을 때 안보는 애 아니 사람 첨봄",
+        "writer": "UgyZS0-3DYiRGd2QSRh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개리 진짜 재밌는 아빠네 저렇게 키우고싶다",
+        "writer": "Ugyyks-nOfwujyY1M9V4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한쪽으로 뛰어나면 다른쪽이 조금 부족할 수 있는데 하오는 전 영역이 뛰어난 듯볼수록 매력이",
+        "writer": "UgxiH1VdUnw_xQL1XY54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얜진짜 뭘하든 하겠다",
+        "writer": "UgwUzcJ03xUvCzx-khN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그렇다고 이미 영상에 나와있는데 예리한척은",
+        "writer": "UgykT9b1Ld6g0_--arF4AaABAg.9AA-lIr3XgS9DYZK46i4_V",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어쩜그리 하오눈높이에 맞춰서 잘하는지 개리는 참 대단하다 아마도 하오는 천재인거같다",
+        "writer": "UgwXt7W9foD99qJgdv94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우울한일있을 때 하오보고 힘이나요 개리행님 하오네 가족 늘 건강하시고 행복하세요",
+        "writer": "UgxCNRX6VMQ4aaPhVoJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데진짜 이번편 보면서 아니다 그전에도 느꼈다, 하오는 천재다, 정말 말도안돼, 나도 그냥 보고있었는데 그걸 웃으면서 보면서 어떻게 그시간에 캐치한거야, 말도안돼,",
+        "writer": "UgxYdavgK3_TyXll-H14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 하오 영재 보다 더 관찰력 좋네 아아 감탄 아니 어린 하오 머리 좋와 최고천재 교육 받아서 훌륭히 키워야됨",
+        "writer": "UgzWSFNaHi4gn3l435x4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오가 똑똑한 것도 있지만 (이름)과 아내분이 정말 교육을 잘해주시는게 큰 거 같네요 커서 저런 부모가 되야지",
+        "writer": "UgyKvUbV00CeSOYP9Oh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 영리하고 지능이 최고로구나",
+        "writer": "UgyLI-euzm20yHCMq7l4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오는 너무똑똑해서 정말 미치겠어요 대체 아이큐가 얼마나될까요",
+        "writer": "Ugwyl_sfbwoY53nf0BV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언제 하오홀에서 빠져나올수있는거니, 하",
+        "writer": "UgwGIion1OY6RzKW_NV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아기인데 말도 예쁘게 잘하고 똑똑하구나 너 하는 행동 모든게 귀엽고 (이름)기만하다 잘 커서 훌륭한 사람되거라",
+        "writer": "UgyrmkUHReGmzYzzYZ94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "강개리쒸 강하오를몰로보고지니어스 강하오",
+        "writer": "UgwjNGcS0alLNsYgObN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역쉬 하온천재야 뎟글을 안달수가없네",
+        "writer": "UgxG6kW-EKLOG0nuSE54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 하오야 너 천재지,",
+        "writer": "UgxF7GPen8h-r0u-cm94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오는 슈돌이 아니라 다큐 시리즈로 만들었으면 좋겠어요. 심리학자 칼융이 말하는 인간공통의 원형에 가장 가까운 상태입니다. 인식의 깊이나 넓이가 일반인과는 차원이 달라요. 인간이 향하는 가장 (이름)인 상태에 가깝습니다.",
+        "writer": "UgyhYQMsWrKLrPdtzSF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오는보통애랑은비교도안되지특별해 영재천재는당연한거고하오는별이야",
+        "writer": "UgyTspZXaeZgh_FGHid4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오진짜대박이다, 진짜크게될아이인듯",
+        "writer": "UgzfOxIhXw5TRvaFnSN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오 정말 귀엽 뭐든 하는 거 보면 천재인듯요",
+        "writer": "Ugzh4MxKGb-fqOxJeVB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다시보기로 하오영상만 봄 넘나 이쁘고 귀여운 생명체",
+        "writer": "UgyiTAA6IJ8XzWDFewB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오볼때랑 민경훈볼때랑 내표정과 심장반응이 삐까삐까 너무좋아",
+        "writer": "Ugy8MQhgeAbLqWBos5V4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 진짜 대박 각각의 상자가 다른걸 인지하고 어느 상자에 들어가 있었는지 볼 생각은 나도 전혀 못한건데 그저 상자의 움직임을 따라서 찾아야한다고만 생각했는데 진짜 하오 대박 똑똑하다 하, .",
+        "writer": "UgwRP-ZnvRY-43YY4kt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오마이갓 이쁜 하오야",
+        "writer": "Ugx9ugOwakSvJorjotd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "60먹은 나보다 어휘력이 풍부하다",
+        "writer": "Ugx5hafpbmY4E_wODOF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘은 개리가 귀엽나",
+        "writer": "UgxNeOYBdQGNEUzYLDx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 몸소 잘 놀아주고 리액션 잘 해주니 애기가 잘 클 수 밖에",
+        "writer": "Ugx1bYIT0JSdlpXn32N4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오 눈썰미도 좋아 하오는 정말 천재아이야",
+        "writer": "UgzE7dGeMIO5r8JShNh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 대단하네",
+        "writer": "UgzXVqpQQLfj-_JCmdJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오정말 천잰줄알면서도매번깜짝깜짝놀라게되네요 정말볼때마다놀라워요 우리하오 계속똑똑하고착하게자라주길바래요",
+        "writer": "Ugx0Sd4Ucoy_J05JMSh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오아빠는 좋겠다 하오도 좋겠다 하오야 우리집 삼촌도 하오처럼 아기(이름)었는데 이 할미가 사회가 지금과는 달라서 제대로 키워주지못한것이 한으로 남았는데 하오를 보면 예전생각에 울컥울컥 하단다",
+        "writer": "UgxA4bM7cs09ICIU-Nl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오가 너무똑똑해 만약에 하오동생 생기면 무어라구이름을할까 하다 세돌두안된아기가진짜똑똑하오",
+        "writer": "UgxgjfHeyGsonpF3aCF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오 보고 있을땐 아무생각없다 하오한테 푹빠져서 귀염둥이 천재",
+        "writer": "UgzXmnlmPoLin4xXYPJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아오 재밌어",
+        "writer": "Ugxaqe6uZzrLLJdHjb14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근디 (반사회적용어)이래",
+        "writer": "UgwRP-ZnvRY-43YY4kt4AaABAg.99LItTzhyk29A7gRYYR7xO",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누가 그래요",
+        "writer": "UgwRP-ZnvRY-43YY4kt4AaABAg.99LItTzhyk29ACQe-p1M5e",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그건 님이 바본대",
+        "writer": "UgwRP-ZnvRY-43YY4kt4AaABAg.99LItTzhyk29ADDAEg8AES",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 이거 그 윌리엄 편에서 대본나왔잖아 그리고 생각이 없음 모르는사람한테 그 따위로 비속어를 쓰냐 수준 떨어지네",
+        "writer": "UgwRP-ZnvRY-43YY4kt4AaABAg.99LItTzhyk29AEfil6PfOv",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대본이 나와도 애들이 뭘 알고 연기를 하겠어요, 아이들은 다 티가 나죠 다만 방송흐름같은건 아빠들이 대본보고 하긴 할거 같네요",
+        "writer": "UgwRP-ZnvRY-43YY4kt4AaABAg.99LItTzhyk29AJidANzTyi",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그거 댜본아니라고 해명했어욬",
+        "writer": "UgwRP-ZnvRY-43YY4kt4AaABAg.99LItTzhyk29AQSaCngHyH",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "상식적으로 초등학교도 안들어간 애기가 어떻게 연기를 하겠어요, 아직 5살도 안먹었는데 그냥 진짜 천재인거겠죠, 아빠들은 대본볼거같긴하지만 하오는 스스로 책도 제대로 못읽는 나이잖아요",
+        "writer": "UgwRP-ZnvRY-43YY4kt4AaABAg.99LItTzhyk29AV656hQU_-",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대본보고 똑같이 하는게 더 천잰데",
+        "writer": "UgwRP-ZnvRY-43YY4kt4AaABAg.99LItTzhyk29B1cbn54pch",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방송은 연기든 예능이든 음악방(이름) 작가진이 있고 대본은 반드시 있음 근데 대본이 대사하나 동작하나 다지칭하는 연기대본이 있는가하면 우리가 사업계획서 쓸때 큰틀을 구상하는듯이 기획적인 내용만 있는 대본이 있는 거임",
+        "writer": "UgwRP-ZnvRY-43YY4kt4AaABAg.99LItTzhyk29BZnpWCznpi",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어찌됐든 천재는 맞음 어린애가 저걸 연기 했다는것도 천재고 특징을 구별해서 찾은것도 천재고",
+        "writer": "UgwRP-ZnvRY-43YY4kt4AaABAg.99LItTzhyk29DYZXYh9bW_",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여(이름) 강강오 되는데",
+        "writer": "UgxgjfHeyGsonpF3aCF4AaABAg.99DbI2ZaQKq9Ec8vLs43HF",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오가 너무 즐거워하니 보기 좋습니다 사랑해요 강하오",
+        "writer": "UgySMPjwOVK36utcFtN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오 대단하오. 아직아기인데 이렇게 똑똑해도 되나요",
+        "writer": "Ugyze3s6vtS9dqtMzmh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 대박",
+        "writer": "UgytCtk3L4Vm67GFDph4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오도령 신났네 똑똑하고 이쁘요",
+        "writer": "Ugy3f4qKAtYn6X0_Kdd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오영상만 계속 본다니까요 너무 귀여워요",
+        "writer": "Ugyd_M4b2292-Y4lje94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보고있어도 보고싶은울순둥이하오이뻐죽겠네 하오는진짜기억력이최고",
+        "writer": "Ugynbwn0-5Gz-igqj-h4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보고또봐도 또보고싶은 예쁜하오 행복을 주는구나",
+        "writer": "UgxEbo0W75NXgR_0fOl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오아빠야 아들의 능력을 아직도 의심 하오",
+        "writer": "UgzOSVAnJRFgFog783N4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영재 넘어 천재에 가깝다 하오짱",
+        "writer": "Ugw1YVXZusvnZb9aMdJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애 어른어휘력. 완전 짱 진짜.",
+        "writer": "UgxUS723V15BmRJvCjB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 하오모야, 천재야 ,",
+        "writer": "UgxJasb1VLLzdEO-dSR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도요 중독있어요",
+        "writer": "Ugyd_M4b2292-Y4lje94AaABAg.99BRoKNLrTg99hLjnyYnYv",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "천재인거 같아요",
+        "writer": "Ugw1YVXZusvnZb9aMdJ4AaABAg.99A7Xg06law99IilUlkVM3",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오 스페셜 좀 해주세요 분량이 너무 짧아요",
+        "writer": "UgziDv0-GFd_u-pk2YV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개리도 하오도 넘 좋아 슈돌 하오땜에 본다.",
+        "writer": "Ugza2zhV_IsU1Y-lQSh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오는 천재 천사 사람들 기분 좋게한다.",
+        "writer": "Ugx2qAdYthd0pxO3m7J4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마자요 하오분량 너무 짧아요",
+        "writer": "UgziDv0-GFd_u-pk2YV4AaABAg.9938i8edEYR99Iite-CXpE",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "늘 저도 하오시간 넘 짧아 아쉬워요",
+        "writer": "UgziDv0-GFd_u-pk2YV4AaABAg.9938i8edEYR99YPZizKHL6",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오도보고싶고 개리도 보고싶어",
+        "writer": "UgziDv0-GFd_u-pk2YV4AaABAg.9938i8edEYR9AD6up-Bv19",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어쩜 저럴수가 있나요 놀랄수밖에요 천재",
+        "writer": "UgziDv0-GFd_u-pk2YV4AaABAg.9938i8edEYR9ARc5yNMRAJ",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그러니깐요, ,",
+        "writer": "UgziDv0-GFd_u-pk2YV4AaABAg.9938i8edEYR9A_w1vBjZfR",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "던엔더머님 닉네임하고 이 비디오 내용하고 뭔가 매치가 되요 저도 공감.",
+        "writer": "UgziDv0-GFd_u-pk2YV4AaABAg.9938i8edEYR9AfMICdMStp",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오 어쩜 넘 사랑하오",
+        "writer": "Ugza2zhV_IsU1Y-lQSh4AaABAg.992sA2Djb8q99CKE_IYMGU",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=z_kHN7O3oDk",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

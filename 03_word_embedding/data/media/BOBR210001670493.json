@@ -1,0 +1,516 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001670493",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001670493"
+    },
+    "text": [
+      {
+        "content": "토마토를 오븐에 굽나",
+        "writer": "UgyGYMkW(반사회적용어)S9-C3qRM14AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기범아 나한테 시집 올래",
+        "writer": "UgxmR_qctvavs7x_N1F4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요리 잘하는 사람들은 정말 요리할때 리듬감이 있더라.",
+        "writer": "Ugz9nqY_yFRiJDTJwH54AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "더이상 욕먹지 말구 나혼산 하차해",
+        "writer": "Ugy_LsT5i_G0Lclbzn14AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초록비 갓띵곡",
+        "writer": "Ugz7S0mbjRz8Mb4xbBl4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "키 유튜브할 생각없나",
+        "writer": "Ugxx2UVwkyrf8bl94iZ4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐퀴, 좋다",
+        "writer": "Ugz019DAC_LIDxVb3Vx4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 9년차 주부세요 전에는 어휴 지겨워 거리시더니 이번에는 그(비속어)",
+        "writer": "Ugw3An70-HTXHNuLyVp4AaABAg",
+        "write_date": "2021-05-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "못하는게 뭐야 김똑띨",
+        "writer": "Ugy3strPwyyrod5xh3B4AaABAg",
+        "write_date": "2021-05-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "중간에 나오는 비지엠 무에여",
+        "writer": "Ugya7SRavo3bUJ0DyA14AaABAg",
+        "write_date": "2021-05-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기범이 같은 부지런 사위강 있음 좋겠다 나혼자산다 게으른 모습들 보기싫었는데 동식물 사랑하는 부지런한 젊은이 보기좋습니다 (비속어) 두마리에 텃밭까지 이쁘게 사는모습 찐팬 도장요",
+        "writer": "UgzoE6kJICamUFvCZN94AaABAg",
+        "write_date": "2021-05-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아아아아 아수워",
+        "writer": "UgxR8rhnqIgVwbl6IhV4AaABAg",
+        "write_date": "2021-05-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기버미 열쩡열쩡.",
+        "writer": "Ugw94b1c15Co1dHx5Fd4AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여왕의 교실 ost 초록비 입니다",
+        "writer": "Ugya7SRavo3bUJ0DyA14AaABAg.9MRf3KA3Cdk9R6iXweMJsO",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (이름)이라서 첨보는사람은 김씨 남매로 알수도 있음",
+        "writer": "UgzDIRbLIW-GLs1EUHl4AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비지엠이 초록비라니 누구 울리시려고 이런 편집을,",
+        "writer": "Ugx_PNS1kDSnEhKCMpd4AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여윽시 만능열쇠..",
+        "writer": "UgxBconfhRMtzSZLzPV4AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고명 (비속어) 와 (비속어) 촌티 난다 피디야 고명이라 안하고 가니쉬라고 하는거야 이 촌닭아",
+        "writer": "Ugz0iOIVIrn5qz3VwK14AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하루 1시간 하루 7만원 학생 주부 직장인 투잡가능 문의만해도 현금지급 카카오톡 연락처로 추가 (전화번호) 24시간 문의가능",
+        "writer": "Ugw04VmigVrFpRNJ0UZ4AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "통화할때 태연누나 앞에 별 뭐냐구",
+        "writer": "UgxnzpbGOo2zL0IhMnt4AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엇 . 전화 목소리 주인공 당연히 (비속어)였다. 라고 생각들은 사람 손",
+        "writer": "Ugys3P7DyVonnNycyVB4AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수많은 댓글중 제 댓글을 발견하신 당신. 내일은 부디 행복한일만 있기를. 행복하자 아자아자. 모두 행복하시고 건강하세요.",
+        "writer": "Ugxs52XIVMyx-O8oWOV4AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와초록비 듣고 눈물 날뻔 이게 얼마만이냐",
+        "writer": "UgyuE4nAKL--5Pwe8WR4AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "브금 초록비 깔아두니까 뭔가 울컥한다",
+        "writer": "Ugz7WHOfS0rzVLYbjjZ4AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나랑 결혼갈겨",
+        "writer": "UgzSLlHqYCxm6yyYcFh4AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 못하는게 없어 김기밤",
+        "writer": "UgwValJXaavHd38Jtrl4AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기 노래 나오는거 제목이 뭐에요",
+        "writer": "UgwCQ1iXlITYplvxVBZ4AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 요리 잘하고 싶다 키 요리 잘해서 부럽",
+        "writer": "UgxmrCrj7fKcjvK8-694AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이노래 (비속어) 오랜만이다",
+        "writer": "UgwQN5rMGQ1ZIPoV3Up4AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요리만들때 나오는 노래 아시는분",
+        "writer": "UgwpU0nxogNbFOGbTZR4AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 그래가지구 가 너무 귀어워요,",
+        "writer": "UgwBdRd8HormMpDA6Tp4AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요리까지 잘하는 만능열쇠",
+        "writer": "Ugxfl9aiF4dusfX-dol4AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "키 요리할때 배경음악 머에요",
+        "writer": "UgzyKD24EPctyNMZvlh4AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그와중에 마늘 한국인 인증마크인가,",
+        "writer": "Ugzg6mpB_fn1S3p_GuV4AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 여왕의 교실 ost 깔린거 듣고 완전 행복 이 노래를 어떻게 bgm으로 깔 생각을 하셧지 넘 조타",
+        "writer": "UgygZxh-E_mdRkOwR4h4AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "만능열쇠 키 (반사회적용어)하네 못하는게 없다",
+        "writer": "Ugz4CGUravEbmo9uENh4AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 그래가지구 우리 기범인 몬하는 게 뭐여",
+        "writer": "Ugz9FGnH-h65TCVzNg14AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "태연누나 귀엽누 뭐양",
+        "writer": "UgySGvpqkitmA2CtSI54AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 똑똑이 못하는게 없어",
+        "writer": "Ugx-LKam8sG1A7FYfK54AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초록비 갓띵곡,",
+        "writer": "UgxZg4Wd-MdXSzuyLeR4AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맠늘잌 진짜 뼛속까지 한국인",
+        "writer": "Ugyh4oJeVcqkjiL4Dyt4AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1분17초부터 나오는 노래 제목좀 알려주실분",
+        "writer": "Ugzvtquah_kz3YY9u114AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기서 나온 노래 뭐엿죠",
+        "writer": "Ugyms2_eajBP_uGR2VZ4AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도연언니 좋은 배달집을 찾으면 되잖앜",
+        "writer": "UgzCjbGOMkIx5gnzKRp4AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 기봉이 못하는게 뭐야 얼굴은 아직도 20대 초반 얼굴을 해가지고는 요리도 잘해 노래도 잘해 랩도 잘해 춤도 잘춰",
+        "writer": "Ugy0xTRf60jwYs6zl6d4AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서른 넘은 어른한테 이런말하기 좀 그런데 미자 때부터 모습을 아니까, 그냥 잘 큰 거 같고, 진짜배기 어른 된 거 같고 그럼,",
+        "writer": "UgxHjRUuQ3g2Hi89cxF4AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "샤이니초록비 에요",
+        "writer": "UgwCQ1iXlITYplvxVBZ4AaABAg.9LGnmescWxp9LJj_TLRKiA",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "샤이니의 초록비입니다",
+        "writer": "UgwpU0nxogNbFOGbTZR4AaABAg.9LFukr0_6C69LTtJgkU9K8",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초록비 입니당",
+        "writer": "UgzyKD24EPctyNMZvlh4AaABAg.9LEcqjPMVFx9LFqmXxOM_N",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이노래 제 최애",
+        "writer": "UgygZxh-E_mdRkOwR4h4AaABAg.9LESjZ3T0sv9MZLO34suqZ",
+        "write_date": "2021-05-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "편집자분이 샤월이라는게 정설",
+        "writer": "UgygZxh-E_mdRkOwR4h4AaABAg.9LESjZ3T0sv9O304TxES2m",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "샤이니 초록비 인거같아요",
+        "writer": "Ugzvtquah_kz3YY9u114AaABAg.9LDZk8xjRQi9LDkCJMIj2S",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "샤이니 초록비 입니다. 여왕의 교실 ost",
+        "writer": "Ugyms2_eajBP_uGR2VZ4AaABAg.9LDMD9tOGOK9LDQdfQ530e",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "키트keyt 오 감사합니당",
+        "writer": "Ugyms2_eajBP_uGR2VZ4AaABAg.9LDMD9tOGOK9LDurLNXKqi",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "극공감 배달음식 먹는게 자존감이 왜 떨어지지, (이해불가 그사세)",
+        "writer": "UgzCjbGOMkIx5gnzKRp4AaABAg.9LCz_uOVlFP9LE7EyLHkqE",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "손뉴 근데 사실 저도 자존감떨어지진않지만 배달음식 자주시켜먹으면 나를 못챙기고있단생각이 들 때가 있더라구여. 물론 치킨피자떡볶이 맛있음 왕왕최고 뀨",
+        "writer": "UgzCjbGOMkIx5gnzKRp4AaABAg.9LCz_uOVlFP9LESUm0Mw0J",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "배달 음식 오래 먹으니까 확실히 건강이 망가지더라구요 그걸 모를때는 상관없는데 이게 내 건강을 망칠 걸 알면서도 여건상 시켜야 할때는 자존감이 낮아지더라구요",
+        "writer": "UgzCjbGOMkIx5gnzKRp4AaABAg.9LCz_uOVlFP9LOUvjM4FCZ",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "손뉴 내가 나를 위해서 요리해먹는 게 좀더 뭔가 건강하고 나에게 신경쓰는 방식이긴 하죠",
+        "writer": "UgzCjbGOMkIx5gnzKRp4AaABAg.9LCz_uOVlFP9LsP4HZYWN_",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1분 20초쯤 나오는 노래 뭔가요",
+        "writer": "UgyF2Lnj-LGOJ9sceUV4AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 느낌이 비슷함 계속 헷갈려.",
+        "writer": "UgxsJ65VBLm0KngjTYF4AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기범이 요섹남 등극이요",
+        "writer": "Ugw7VgdYd5PnSg8kOU54AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "샤이니 초록비 입니당",
+        "writer": "UgyF2Lnj-LGOJ9sceUV4AaABAg.9LBFUFggnOO9LC4CFciRGo",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "돈많으면 요리할맛 나겠다",
+        "writer": "UgySWZWeAKm2FsmZBGp4AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=Ge7QQtgKpF4",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

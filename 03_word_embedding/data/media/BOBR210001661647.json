@@ -1,0 +1,516 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001661647",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001661647"
+    },
+    "text": [
+      {
+        "content": "우리 건후 너무 귀여워",
+        "writer": "UgxqqY6uk3i7t9CA5UZ4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꺼후 너무 귀여워 똥(비속어) 사랑해",
+        "writer": "Ugx-eNlbGzKfpboIsB54AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀여워 죽겠넵",
+        "writer": "UgzMG7Yb6jpm7kR2Duh4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은이 포뇨 모먼트",
+        "writer": "UgzSDDQgT8XQvc9Sh1F4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후 천사같애.",
+        "writer": "Ugzo5f_LJtGUcgBykld4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정 말 정말 귀여워 미치겠당",
+        "writer": "UgyvfdjSE6QCmwSDXnx4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 대만 한국 국적 있는사람",
+        "writer": "UgzRiZ05rF5IA3Ty6tJ4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후 항상 일등",
+        "writer": "Ugx7XgGZnQPIWfTlkyx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혼자 일어나서 울지도 않고 귀여워,",
+        "writer": "UgxwI9pbBivyZCAB8j54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후 구석찾아 응가하는모습 너무귀여워 이뻐죽겠엉",
+        "writer": "UgybQQ4UTIItiCgt5mB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아진짜 봐도봐도 귀여운 사랑스러운 가족",
+        "writer": "UgzRrWKVz3bJiRxyLoR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 조카도 애기때 딴방가서 응가하던데애기들도 매너가 있어",
+        "writer": "UgxrZfc84ZpNtjO7dwl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아빠한테 조용히 안경 주고 아빠 손잡고 조용히 화장실로 행동 하나하나 진짜 신기방기 건후 어느 별에서 온 왕자",
+        "writer": "UgxDXzwC5vw24ctg2-F4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "숨어서 볼 일 보는 건후 역시",
+        "writer": "UgyCcBgXwTqyiqg5sO14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "국가대표면 뭐해. 그래봤자 거누 똥 치워야지",
+        "writer": "UgxO1SY6sWx-2OOJ_at4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 우리야 건후가 똥을 싸도 귀엽고 안되잖아. 호통쳐도 귀엽고 뭘해도 귀엽지만 다 자란 건후 입장에서 과연 아무리 애기때지만 본인 똥싸는 장면까지 방송이 되는걸 원하진 않을텐데, 아기들도 인권이 있는데,",
+        "writer": "UgxlMCIxwVfydalw4694AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "파추호씨가 집안일이나 아기들 케어를 평소에도 잘 했던 것 같은게 너무나 자연스럽게 똥싼 후 아빠를 깨우고 같이 화장실 감",
+        "writer": "UgwDXCiq5-MNUSqzJQJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아빠 깨우고 같이 손 잡고 나가는 거 웃기다",
+        "writer": "UgyIrVw8nCXP4qfiDyJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 (이름) 냄새 맡는거 (비속어)",
+        "writer": "Ugx5Q_f8DQHN3wryY494AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울지도 않고 안경 스르르 건내기",
+        "writer": "Ugy2Y2PLRI-18ocIypp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 일등으로 아무도 안깨우고 혼자",
+        "writer": "UgxD-rYKM9RL8rKeJMx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울건후 아빠한테 (이름)면서 푸푸라고 이야기 하네요",
+        "writer": "Ugx0ERUJLgMJpzOq3o14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "거느님 오늘도 건강하게 해피하게보고있어도 보고파다)))))))))))))",
+        "writer": "Ugw0ra5BBb6lu2mOo114AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초 쯤에 커튼에 뭐지, 뭔가 무섭",
+        "writer": "UgzcEwymc0VfrHWTjd54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "깜직하고 귀여운 건우 나은 무럭무럭 잘 자라세욤",
+        "writer": "UgxQCWDGg2PN7V9_dQJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나의 해피(반사회적용어), 건후야 언제 다시 나오니",
+        "writer": "UgyggzdVMZNceyiec9N4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후 머리카락잘랐으면 더예쁘겠다,",
+        "writer": "UgwudiYkYDHluYwLy9Z4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나레이션 좀 하지마라. 듣기도 싫어",
+        "writer": "UgyNdsW-ETUNgfQyDEV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다 귀여운데 이 영상에서 제일 귀여운건 건후 파추호 손 잡고 화장실 가는 게 너무 귀여워 뒷처리하는걸 알고 따라가는 그 모습이",
+        "writer": "Ugz66e94JRIqfFIabHd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Vj 킁킁대면서 냄새나 냄새나 말하는 거 왜 이렇게 웃기지",
+        "writer": "UgzPh0EimT_IRo3oJsF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "돌아다니면서 싸는기분 어떨까",
+        "writer": "UgwqD5m5E2AjzIWG0nJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "파추호 다리색 시강 큐큐큐",
+        "writer": "UgyMybk9SJXwUfEYbtl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은이 맨날 자는거보면 반대로누워잇더라",
+        "writer": "Ugy0pbhVhWOCekDv9dN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "슈돌 티비 채널 몇번이에요",
+        "writer": "UgzInkRvPRLzD7N2wFZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대만도여행가지말아야할듯 대만인들은일본과친하고 우릴싫어한다네",
+        "writer": "Ugw8vtrWkuhbbwn3f1B4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어....그러게요 처음엔 pd아님 (이름)인줄 알았는데 보니까 저기 창문인데, .",
+        "writer": "UgzcEwymc0VfrHWTjd54AaABAg.9581Fh7ayfg99fKRCkc52j",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제 채널에 합 4만원받을수 있는 이벤트 올려놨어요 50",
+        "writer": "UgzPh0EimT_IRo3oJsF4AaABAg.93dsTXU5Kxd9FvXKXAblZq",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기저귀차고 한번 해보세요",
+        "writer": "UgwqD5m5E2AjzIWG0nJ4AaABAg.93SpCXSI4ys93_9phT13ni",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Kai Havertz 해보고 후기공유까지 해주면 좋을듯",
+        "writer": "UgwqD5m5E2AjzIWG0nJ4AaABAg.93SpCXSI4ys998nrGUR95y",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대 만족",
+        "writer": "UgwqD5m5E2AjzIWG0nJ4AaABAg.93SpCXSI4ys999JkWaZ-Gs",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찝찝하겠죠 다 묻을텐데",
+        "writer": "UgwqD5m5E2AjzIWG0nJ4AaABAg.93SpCXSI4ys99OW4Jx47K6",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "축구선수라 그런가 선이 나눠져있엌",
+        "writer": "UgyMybk9SJXwUfEYbtl4AaABAg.93MQlwLdPX8947eIJELJrI",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 7번이용 kbs2 입니당",
+        "writer": "UgzInkRvPRLzD7N2wFZ4AaABAg.93BQr8-u2EL93M3DRmPA2L",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는 (비속어)인데요 그리고 정말 감사합니다.",
+        "writer": "UgzInkRvPRLzD7N2wFZ4AaABAg.93BQr8-u2EL93MA5yBk_8r",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후 쾌변은 아주 좋아",
+        "writer": "UgylbuBORxysTwOPmyp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "똥싸고 슬쩍 아빠 깨우는거 넘흐 귀염지답",
+        "writer": "UgwlM9quy4TlWHARW1F4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사랑스런 건후 입니다.",
+        "writer": "UgxEZLh3ychgJIID6_J4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어쩜 저리 이쁘니 건후",
+        "writer": "UgxgwxOd4BlY2VLB5xp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댓글이 온통 검은 것은 글자 흰 것은 종이",
+        "writer": "UgxouDxUM2ktNUpOpXF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "만족감의 미소. 안경 집어주는 저 센스 울지않고 자기 욕구를 충족(반사회적용어)네요. 건파파도 충분히 좋은 아빠",
+        "writer": "UgwYdA7gsb56hYu9pGh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아휴, 애기도 고달픔.사생활실종",
+        "writer": "UgxdE65MXDY8a823C1d4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이세상 최고의 이쁜이",
+        "writer": "UgylOuou7SzPKLXdDIh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래서 한국인들 외국에 나가면 절대 똥싸는 자세로 앉으면 안됩이다. 습관적으로 다리가 아프면 어디서든 저런 자세로 앉는데 아주 추하게 봅니다. 특히 서양과 미국 캐나다 호주 등등.",
+        "writer": "UgwLvDlZ3rzplAXuU-54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀여운 아가 영상보고 무슨 말같지도 않은 말을 합니까. 그쪽이 제일 추해요. 한국에서는 눈치없는 말 분위기 파악 못하고 계속 하는 사람들 추하게 봅니다",
+        "writer": "UgwLvDlZ3rzplAXuU-54AaABAg.92qzKPAJPhJ92tS9d4zZ8M",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀여운 아기의 모습을 좋아하니 이 영상을 보았지요. 그리고 이 영상에서 생각난 서양의 상식을 말해주는 겁니다. 정말이지 아무도 알려주지 않은 누구나 아는 서양상식. 이런 상식은 오랫동안 그 사회에 살아본 사람이 대뜸 나에게 알려줍디다. 내가 굳이 타민족에게는 말할 필요가 없지요. 그러나 한국을 사랑하니 중요한 정보를 공유하는 겁니다. 한국인은 어디서나 똥싸는 자세로 앉는다고 합니다. 외국에 나가면 특히 한국인은 누구나 외교관적인 국가의 (이름)를 줍니다. 소수여서 한사람 한사람 행동으로 아. 한국인은 그렇더라 라고 평가를 합니다. 우리가 배워서 조심할 메너는 빨리 배우는 것이 좋습니다.",
+        "writer": "UgwLvDlZ3rzplAXuU-54AaABAg.92qzKPAJPhJ92tccsENSPk",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서양(반사회적용어) 저렇게 앉아있던데,",
+        "writer": "UgwLvDlZ3rzplAXuU-54AaABAg.92qzKPAJPhJ933bXA1FF4a",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "드릉드릉 서양에도 (혐오표현)자도 있고 (혐오표현) 갱단 도둑 (반사회적용어)꾼 (반사회적용어) 부랑자 교육을 못받아 무식하고 성질만 드러운 (비속어)도 있지요. LA에 (혐오표현)들이 도로 옆에 (혐오표현)더미를 모아놓고 살며 똥싼듯이 헐렁한 추리닝을 입고 거리를 껄렁껄렁 걷는 모습을 보고 한국 청년이 그걸 멋있게 보고 한국에 돌아와 그 거리 부랑자 패션으로 돌아다닙니다. 참 무식하지요.",
+        "writer": "UgwLvDlZ3rzplAXuU-54AaABAg.92qzKPAJPhJ933fXQk9q2C",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "kani37 Seo 말 참 이뿌게 하네.",
+        "writer": "UgwLvDlZ3rzplAXuU-54AaABAg.92qzKPAJPhJ9365DdRJ35x",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어) 3주 압수",
+        "writer": "UgwLvDlZ3rzplAXuU-54AaABAg.92qzKPAJPhJ937JtNL9HdK",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어휴 (비속어)냄새",
+        "writer": "UgwLvDlZ3rzplAXuU-54AaABAg.92qzKPAJPhJ93CHICmBU_q",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "kani37 Seo 나이가 느껴지는 댓글입니다 젊은 사람들이 피하겠어요",
+        "writer": "UgwLvDlZ3rzplAXuU-54AaABAg.92qzKPAJPhJ93E3bpZ0lK4",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "kani37 Seo 전동차 3주 압수",
+        "writer": "UgwLvDlZ3rzplAXuU-54AaABAg.92qzKPAJPhJ93maIayJRP9",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "말투만 바꾸면 이게 바로 죠죠충이지",
+        "writer": "UgwLvDlZ3rzplAXuU-54AaABAg.92qzKPAJPhJ93nZXErLYeq",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=s1UoixAGefA",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

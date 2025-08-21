@@ -1,0 +1,1372 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001670464",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001670464"
+    },
+    "text": [
+      {
+        "content": "혜진온니 이뻐",
+        "writer": "UgxJndhb6rcsYft1sjV4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 기안84 왜이렇게웃김점점 더 웃겨짐",
+        "writer": "UgwuChBn62cQCip8Xhd4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 진짜 기안 넘 간단명요하닼 진짜 태어난 김에 사는 남잨",
+        "writer": "UgzBwccJL-Y5v5s1OMh4AaABAg",
+        "write_date": "2021-02-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혜진화(이름)굴 찰떡 이쁘도다",
+        "writer": "UgzWxLSlk-7TeB7Z0DR4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "충재씨 턱 괴고 있는 거 진심으로 혼자 기억조작될 듯",
+        "writer": "UgzdLUcjYdu3cdLKYKh4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜저래 말투.",
+        "writer": "Ugz9CVbn8o3XiD3IxKl4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 이 머리 박제,",
+        "writer": "Ugx4u32nz2pbwAnsRbN4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목집어 넣고 하면된됰",
+        "writer": "UgwjLYhEFNt6cw0gnft4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 진짜 최고였음",
+        "writer": "Ugz2UZwUB17Ge6bNrSd4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 이제는 모델 아니라 개그우먼이다",
+        "writer": "UgypAlZSJTLATvrJTSd4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 너무 좋아",
+        "writer": "Ugz4VXTvDAVAytKUBrV4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 뭐 굳이 하나하나 다 설명을 하나. 시간 비워놓고 오면 되는(혐오표현)",
+        "writer": "UgzjpuJeROK3iS3LL2x4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요새 나혼산 진짜 노잼조합이네",
+        "writer": "Ugw3-b16GnQ9jWox4-N4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 언니는 믿었는데.",
+        "writer": "UgxLvmG3wIEiUjPgL9h4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 쟤 이쁘지 않으면 사람으로도 안본대매 인성 (비속어)",
+        "writer": "UgwNm9gbxFeWsqs5TAh4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남자냐 여자냐",
+        "writer": "UgwNm9gbxFeWsqs5TAh4AaABAg.9Fq96z3LlGx9FqQr-lI7ja",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 남자여자가 왜냐오냐. 프레(이름)도 씌우려고",
+        "writer": "UgwNm9gbxFeWsqs5TAh4AaABAg.9Fq96z3LlGx9FqTYpn2nK0",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이면 그래도댐",
+        "writer": "UgwNm9gbxFeWsqs5TAh4AaABAg.9Fq96z3LlGx9K70ijiNdOG",
+        "write_date": "2021-03-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그런 말 한 적도 없는데",
+        "writer": "UgwNm9gbxFeWsqs5TAh4AaABAg.9Fq96z3LlGx9LWZSwC92U6",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혜진언니는 보면볼수록 멋져,",
+        "writer": "UgyjajMNKNoFEAqmlGF4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "립색깔 뭘까",
+        "writer": "UgylK_Vi3zBMJ-u5kuJ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "원래 기안처럼 하지 않나",
+        "writer": "UgxC536K-DzgX4ew5FZ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "솔직히 패션쇼편 보면서 한숨 나오긴 했음 나혼자 산다인데 또 떼(혐오표현)로 나와서 패션쇼 하는게 대체 프로그램 취지랑 무슨 연관성이 있는건지 1도 모르겠고 그렇다고 재미가 있었던 것도 아니고 김광규 나오는편 오랜만에 진짜 재밌게봤고 아 나혼산 시청률 떨어졌다더니 이제 다시 정신차린건가 싶었는데 바로 다음주에 이런 패션쇼 하는거 보여주니까 짜증제대로 났음",
+        "writer": "UgxYMa-bTwHW2H6Q-6B4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "노잼 채널 돌림",
+        "writer": "UgxHw4mCpkOXRcHnaLd4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "달심 예능인 다됐누 여보세요 한마디로 분위기 반전시킴",
+        "writer": "Ugy5s-wgOHnbC52wgjR4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나혼자산다 다신안본다 드럽게 재미없어",
+        "writer": "UgwR88iBcJ7sRLeZU2d4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기안 통화하는거 (비속어) 웃기네",
+        "writer": "UgxVlwFRMFR0w1rRgM94AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 온도차가 젤웃겨",
+        "writer": "UgzFKFPdOGcT28eaOD94AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(혐오표현) 쥐(비속어) 닮았누 (이름)",
+        "writer": "UgzdjUvXiYGoHwGraaJ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목 집어넣고 하면 된대",
+        "writer": "UgxdTwLIukowHIl8uyt4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 매력터지는 여보세요",
+        "writer": "UgyetNvq7TFccpIRwYV4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 머리 진짜 부티난다 개잘어울림",
+        "writer": "Ugx39Cyv3QLeIZR77Mt4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 인형아니냐",
+        "writer": "UgyRtiB7wk9G137dUvt4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게 진짜 남자들 통화지 레알 할말 딱하고 끝",
+        "writer": "Ugzay_oNpPiixvAS8tl4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 나혼산 보는 부분 기안 무지개 회원 아닌 연예인",
+        "writer": "Ugzjd2X3SIRWOSZVQxF4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)은 약간 컬있는 단발이 진짜 찰떡이다 존예",
+        "writer": "Ugyl0xzZ_PJJn0mTLuF4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혜진언니는 중단발도 찰떡이다.",
+        "writer": "UgzhoCcUir-Z6kACN5h4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1.나래, 윤균상좀 부르지,딱인뎈 2. 글로리킴 전화브하면서 혜진언니여보세요,",
+        "writer": "UgysfyTlF5_IV4tMdjd4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나르혼산 와이렇개 됬냐",
+        "writer": "UgzAujdJ1EfO8EUSw9d4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윤균상 싫어요",
+        "writer": "UgysfyTlF5_IV4tMdjd4AaABAg.9FkvqN7CyCh9Fmkg1SD7Vo",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김알바 싫은건 혼자싫으시면 됩니다 굳이 댓글다시면서까지 고생이 많으시네여, 좋은하루되세여",
+        "writer": "UgysfyTlF5_IV4tMdjd4AaABAg.9FkvqN7CyCh9FmoAJ3MnS0",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "CURA Jang 님은 더 싫어요",
+        "writer": "UgysfyTlF5_IV4tMdjd4AaABAg.9FkvqN7CyCh9FmqnhZqZ0G",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)도 딱이네요 키도크고 잘생겼고",
+        "writer": "UgysfyTlF5_IV4tMdjd4AaABAg.9FkvqN7CyCh9FnrppyPngc",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김알바 불쌍, . 인생이 얼마나 재미없고 꼬여서만 보면 이런 데에 이런 댓글이나 달고 있을까",
+        "writer": "UgysfyTlF5_IV4tMdjd4AaABAg.9FkvqN7CyCh9FpQkAMo6ld",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여누 롸 싫다는 말도 못하나 1차원적인 표현도 못해 어이가 없네",
+        "writer": "UgysfyTlF5_IV4tMdjd4AaABAg.9FkvqN7CyCh9FpRJ5UYNCI",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김알바 싫어할순 있어요 그치만 보았을때 상처가되는건 남기지맙시다 그냥",
+        "writer": "UgysfyTlF5_IV4tMdjd4AaABAg.9FkvqN7CyCh9FqRClNBxZ_",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유다 여기 마녀사냥 개쩌네 아주 나 죽을 죄 지었나봐 쌉(반사회적용어)들 그래놓고 길 가면서 (혐오표현)나 버리겠지",
+        "writer": "UgysfyTlF5_IV4tMdjd4AaABAg.9FkvqN7CyCh9FrFGhYXmhf",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김알바 (혐오표현) 너 버리면 되는겨 니가 (혐오표현)잖어 넷상 (혐오표현) 푸항",
+        "writer": "UgysfyTlF5_IV4tMdjd4AaABAg.9FkvqN7CyCh9Fsza2iaIb0",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나야 저보고 (혐오표현)라고 하신거죠 사이버명예훼손죄 라고 아세요 이번 주 내로 고소장 접수 할게요수고하세요",
+        "writer": "UgysfyTlF5_IV4tMdjd4AaABAg.9FkvqN7CyCh9Ft18gGmnDO",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김알바 저는 님이 한 행동이랑 똑같이 당사자가 볼 수도 있는 게시글에서 아 쟤 싫다 이러는 님한테 제 생각 말한건데요",
+        "writer": "UgysfyTlF5_IV4tMdjd4AaABAg.9FkvqN7CyCh9FtGnF6Gvrq",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김알바 제가 님한테 이러는거 고소 가능하면 저도 님 고소하면 가능하겠네요 똑같은거니까",
+        "writer": "UgysfyTlF5_IV4tMdjd4AaABAg.9FkvqN7CyCh9FtGvb3lCBn",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김알바 님같은 사람이 사람 한명 죽이는 악플러인건 모르면서 어디 주워들은거 하나 들고와서는 자기가 잘못한건 1도 모르고 나불대는 (혐오표현) 맞지 않나요 여기 다 인정할 것 같은데",
+        "writer": "UgysfyTlF5_IV4tMdjd4AaABAg.9FkvqN7CyCh9FtH7Y4B5__",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김알바 고소장 쓸려면 쓰세요 저도 아는 법쪽 공부하는 분께 고소장 양식 달라고 할라니까",
+        "writer": "UgysfyTlF5_IV4tMdjd4AaABAg.9FkvqN7CyCh9FtHE6Zokqr",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김알바 그리고 하나만 더 말씀 드릴게요 싫다는 표현 쓰는거 그쪽 마음인거 알겠는데요 사람들 다 볼 수 있고 당사자 볼 수 있는 게시물에서 싫어 싫어 하고 본인이 언급하신 죽을 죄 지었나봐 이러시는거 님이 욕한 본인 당사자가 만약에(반사회적용어) 이거 보고 스트레스 쌓이거나 죽거나 이러시면 죽을 죄 맞아요 님이 쓴 글로 인해서 그렇게 된거니까 아시겠나요",
+        "writer": "UgysfyTlF5_IV4tMdjd4AaABAg.9FkvqN7CyCh9FtHWpS0Yvb",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김알바 반박 더 하실 수 있으시면 해보세오",
+        "writer": "UgysfyTlF5_IV4tMdjd4AaABAg.9FkvqN7CyCh9FtI4sKBhOT",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나야 우왕 쫄리나봐 말 되게 많네 법을 너무 모르시는 것 같은데 저는 그쪽을 특(이름) 욕설이나 비방을 한 게 없어서 성립 안 돼요 그리고 저 싫다는 부정적인 댓글 처음 써봤어요 그렇다고 제가 잘했다는 건 또 아닌데 이렇게까지 핫할 줄이야 나보고 악플러 지금 상황이야말로 님이 저한테 악플 단 거예요 남 (반사회적용어)만 하기 좋아하는 사람들 보면 내로남불인 경우가 많던데 님은 100퍼 일 것 같아요 그리고 고소장 양식 서 가면 그냥 있어요 아니면 님이 구두로 말하면 (반사회적용어)관이 직접 작성 해주기도 하니까 그렇게 하시든지",
+        "writer": "UgysfyTlF5_IV4tMdjd4AaABAg.9FkvqN7CyCh9Ftk9xLtbGM",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김알바 이런 댓글들 많이 봐서 딱 간단하게 (이름)자면 첫째 니가 윤균상 싫어하는 거 아무도 안 궁금하다. 둘째 윤균상 보고싶어서 원하는 댓글에 이거 중요 윤균상 싫어요 라는 댓글을 달아 분위기를 (비속어)창냈다. 셋째 지가 뭘 잘못했고 간과했는지 모른다. 결론 니는 눈치가 (비속어) 없다.",
+        "writer": "UgysfyTlF5_IV4tMdjd4AaABAg.9FkvqN7CyCh9FvRjWbHwz9",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무야호 팩트네요",
+        "writer": "UgysfyTlF5_IV4tMdjd4AaABAg.9FkvqN7CyCh9FviEiBORSX",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김알바 윤균상 싫어요 한게 비방 아닌가 (비속어) 굴러서 좀 있는 척 하시는가본데 좀만 더 생각하셨음 자기도 잘못했다는 걸 아실텐데 아직 그 나이 드시고 생각은 참 어리시나봐요",
+        "writer": "UgysfyTlF5_IV4tMdjd4AaABAg.9FkvqN7CyCh9FviPF2rvNT",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김알바 그리고 님아 싫다는 부정적인 댓을 처음 써보던 말던 지금 사용하셨다는게 문제 아닌가요",
+        "writer": "UgysfyTlF5_IV4tMdjd4AaABAg.9FkvqN7CyCh9FviUzsEwra",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김알바 내로남불은 그쪽도 만만치 않으시네요",
+        "writer": "UgysfyTlF5_IV4tMdjd4AaABAg.9FkvqN7CyCh9FviYF9lLhL",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김알바 님이 잘했다는거 아닌거 지적해준 거니까 감사합니다 하고 담부터 쓰지마세요 지나가다 기분 잡칠라니까",
+        "writer": "UgysfyTlF5_IV4tMdjd4AaABAg.9FkvqN7CyCh9FvibN-KI3B",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무야호 아무도 안 궁금 나랑 공감하는 사람이 있으니 좋아요도 눌렀겠죠 무슨 전 세계에 같은 사람들만 있는 줄 아나 이런 댓글 쓰기 전에 주변 사람들한테나 잘하세요 객관적인 척 댓글 달지 마시고",
+        "writer": "UgysfyTlF5_IV4tMdjd4AaABAg.9FkvqN7CyCh9FvjZvDfHBv",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나야 있는 척 사실이고 상식인데 그쪽이 모르는 거 굳이 읊어드렸습니다만 진짜 소장 제출하러 가야겠네 윤균상 님한테 저 고소하라고 하세요 사이버명예훼손죄는 당사자만 가능해서요",
+        "writer": "UgysfyTlF5_IV4tMdjd4AaABAg.9FkvqN7CyCh9FvjjfK07Ve",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "님은 인생 어떻게 살아가지, 딱 봐도 모솔 아다 무직 아 참.. 저는 고소못하시겠네요 다수의 사람앞에서 특정사람을 비방한건 아니니까요",
+        "writer": "UgysfyTlF5_IV4tMdjd4AaABAg.9FkvqN7CyCh9GKGYp4dzML",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김알바 말 안해도 답 나온다",
+        "writer": "UgysfyTlF5_IV4tMdjd4AaABAg.9FkvqN7CyCh9GKGcE0aFvi",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 잘못한게 있다면 그냥 지나가도 되는 걸 (비속어) 참견한(혐오표현)만 내가 잘한건 이사람이 잘못했다는걸 지적해준거 둘중에 고르라면 난 후자",
+        "writer": "UgysfyTlF5_IV4tMdjd4AaABAg.9FkvqN7CyCh9GK_gwsgF_m",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김알바 말은 본인이 제일 많은듯해요. 연예인 싫다더니 댓글러도 싫다고 싸우시고 ,전 잊고 있었는데알바안가시고 몇 번을 이리글쓰시고 집에서 노시나봐요, 윤균상 싫어요 윤균상댓글단사람 더싫어요 쓰셨잖아요당신 악플러 맞을듯요 그러다 손이랑 입에서 똥내나실 것같은데 걱정되네여 고소장양식 서에가면 있는것도 아시고 여기저기 고소도 많이하고 고소많이 당하고 서에도 많이 다니셨나봐여 경험풍부하셔서 부러워염 저도 특(이름) 부정문안 쓰고 의문문의 예측글만 썻으니 고소못하시겠네여,아쉬우시겠다 별것도 아닌일에 열올리지마시고 기왕 댓글 쓸거면 선플달고사세여",
+        "writer": "UgysfyTlF5_IV4tMdjd4AaABAg.9FkvqN7CyCh9GKeiJF2flk",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무야호 오 학교다니실때 공부잘하셨을듯,",
+        "writer": "UgysfyTlF5_IV4tMdjd4AaABAg.9FkvqN7CyCh9GKgG7jZ1A-",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "CURA Jang 아 저 일가야해영 사회생활 도 안해본 는 모르겠지만 열심히 살아야 저렇게 안살죠 아아 맞다 또 고소드립 나올까봐 무서워서 말할게요 찔리시는 분 그냥 추측이에오 안해봤을 것 같아서",
+        "writer": "UgysfyTlF5_IV4tMdjd4AaABAg.9FkvqN7CyCh9GKy1pHFB_m",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김알바 싫어하는건 어쩔수 없지만 그걸 굳이 다른 사람들 다 보는데서 표현하는건 굉장히 무례한거에요",
+        "writer": "UgysfyTlF5_IV4tMdjd4AaABAg.9FkvqN7CyCh9Jyov1fkKpq",
+        "write_date": "2021-03-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 방송인 다됐네 개웃겨",
+        "writer": "UgzueFIlaHsSTDvtCPB4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "달심언니 배경음이랑 목소리랑 얼굴이랑 왤케 찰떡이야",
+        "writer": "UgyFXkS4FPffloOTV-94AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초 좀 설렌다,",
+        "writer": "UgyiobNj8Q55-A2fEhh4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 (이름) (비속어)이다",
+        "writer": "Ugx6V3eSWnPpzet5_EB4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아쉬 목집어넣고 하면된다 미쳤다 진짴",
+        "writer": "UgzfpJD2nhc_iIb58Q94AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혜진언니 얼굴 리즈네,",
+        "writer": "UgwXWNoY1aGoLJ_Y2aZ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 너무 귀엽고 잘생기셨어요 나혼산 식구들이 장소랑 시간 안 알려줘서 다시 전화한것도 웃기고 다들 귀엽고",
+        "writer": "UgwE47-wjvczXb1D8jN4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "글로리킴이라해서 (이름)쌍커풀한거랑 똑같네 했넼",
+        "writer": "Ugwgu3rXnruwc0pHxtJ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "글로리 킴 (비속어)",
+        "writer": "UgxCvNZmRv-yX3IxrUB4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기(이름) 하차하셈 피디랑 기(이름) 무슨 사이길래 사람들이 다 기안 싫어하는데 계속 쓰는거임",
+        "writer": "Ugwe8jOtKr5sLTFh1VN4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)은 단발이 진짜 잘 어울린다",
+        "writer": "Ugz6FdBory1or1Sehgh4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이랑 (이름)이랑 닮았네",
+        "writer": "Ugzg-th14uWyqpLveih4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "단발이 더 잘 어울리네 아예 완전 길거나",
+        "writer": "UgxC1NE2DbFXT_yO-xh4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누가 들어오고 나오고 누군 나오는데 누군 못나오고 그런건 모르겟고 그냥 어느프로그램에나 있는 중립이라는 기둥이 많이 무너진건 사실인듯. 예전 나혼산엔 분명 그런 중립이 있엇다. 게스트들을 대하는 존대와 손님으로서 대하는 태도 친분을 떠나서 말이다. 저는 이번 패션쇼 편도 그냥 보기싫어서 일부러 안봣어요 너무 자기네들 세상 돼버린거같아서",
+        "writer": "UgzMErerPe0dNWlrJIJ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기안 찐 (이름)모드",
+        "writer": "UgyhQMVD4hqbquVhZKx4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다 넘 좋아용",
+        "writer": "UgyspKEZCnRg4D_ek6t4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무심코 지나가는 길에 제 댓글을 보셨다면 당신은 천운이 함께 할 것입니다 구독 좋아요 누르시고 이제 행복만 가득하세요 당신의 2021년은 최고의 한해가 될 것입니다",
+        "writer": "UgylmNEs0DJ9U5z34Gd4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름), 여자가 봐도 매력적이야",
+        "writer": "Ugwn14yWhDwTPYuRMjt4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 이러지 마",
+        "writer": "UgyiobNj8Q55-A2fEhh4AaABAg.9FjwDOdOs0x9FsBZnxifD1",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다 기안 싫어하기는요 일반 시청자들은 오히려 기안씨 나오는게 공감되고 재밌다는 의견이 많은데요 혹시,",
+        "writer": "Ugwe8jOtKr5sLTFh1VN4AaABAg.9FhJVFhIuAu9FhpXrTaZ3w",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기안 좋아하는 사람이 훨씬 많을껄요",
+        "writer": "Ugwe8jOtKr5sLTFh1VN4AaABAg.9FhJVFhIuAu9FhsIREwP50",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 너가 싫어한다고 다른사람들도 싫어할거라 생각하는거냐",
+        "writer": "Ugwe8jOtKr5sLTFh1VN4AaABAg.9FhJVFhIuAu9Fhskvi76Dp",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "간간히 사고치긴 해도 한번씩 터뜨려줘서, 멤버 교체하고 영입하기도 쉽지 않으니까,",
+        "writer": "Ugwe8jOtKr5sLTFh1VN4AaABAg.9FhJVFhIuAu9FhtU8hsNMi",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어우 (비속어)들아 악플 좀 그만 달아라",
+        "writer": "Ugwe8jOtKr5sLTFh1VN4AaABAg.9FhJVFhIuAu9FjhxMR3esF",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)이들이나 하차해",
+        "writer": "Ugwe8jOtKr5sLTFh1VN4AaABAg.9FhJVFhIuAu9Fjk-OLeHDV",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 기안 없으면 나혼산 (비속어)노잼임 작년 레전드 다 기안이 뽑아줘서 기안은 나혼산 (반사회적용어)때까지 끌고 갈걸",
+        "writer": "Ugwe8jOtKr5sLTFh1VN4AaABAg.9FhJVFhIuAu9Fk-EIZeUhB",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기안이70퍼는 끌어가는디 니인생이나 챙기샘 니가싫어하면 다하차해야되냐",
+        "writer": "Ugwe8jOtKr5sLTFh1VN4AaABAg.9FhJVFhIuAu9Fk4Hz73vUx",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난기안땜에 본다",
+        "writer": "Ugwe8jOtKr5sLTFh1VN4AaABAg.9FhJVFhIuAu9FkCJezxR14",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시청률에 젤 민감한사람이 피디인데 실제로 사람들이 젤싫어하면 안쓰겠지",
+        "writer": "Ugwe8jOtKr5sLTFh1VN4AaABAg.9FhJVFhIuAu9Fl-VmXT3CY",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)이들은 하차말구 인생 하직하는게 맞지",
+        "writer": "Ugwe8jOtKr5sLTFh1VN4AaABAg.9FhJVFhIuAu9Fl0HGKz_-R",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기(이름) 똑같은 것 들 지랑 똑같아서 기안 옹호하는 거 봐 토나온다 우웩",
+        "writer": "Ugwe8jOtKr5sLTFh1VN4AaABAg.9FhJVFhIuAu9Fl_ZJBuyjs",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이이이 넌 (이름)랑 똑같음",
+        "writer": "Ugwe8jOtKr5sLTFh1VN4AaABAg.9FhJVFhIuAu9Fm1Fhld2Og",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)들 기안 시기 하는거 (비속어)노",
+        "writer": "Ugwe8jOtKr5sLTFh1VN4AaABAg.9FhJVFhIuAu9FmUY0YR9qf",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋아하는사람이 더 많으니깐요",
+        "writer": "Ugwe8jOtKr5sLTFh1VN4AaABAg.9FhJVFhIuAu9FnKmSugsqD",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "님이 뭔데 다른 사람들 생각을 일치시킴 (이름)이 나와서 보는 것도 있는데",
+        "writer": "Ugwe8jOtKr5sLTFh1VN4AaABAg.9FhJVFhIuAu9Fnl0JncH1d",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나혼자는 기안이야",
+        "writer": "Ugwe8jOtKr5sLTFh1VN4AaABAg.9FhJVFhIuAu9FonVK7g_6d",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쿵 쾅",
+        "writer": "Ugwe8jOtKr5sLTFh1VN4AaABAg.9FhJVFhIuAu9FulXMQ2ATC",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이이이 웃기다",
+        "writer": "Ugwe8jOtKr5sLTFh1VN4AaABAg.9FhJVFhIuAu9GuRkEotd47",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이이이 생각좀 하고 살길,",
+        "writer": "Ugwe8jOtKr5sLTFh1VN4AaABAg.9FhJVFhIuAu9GuRlddE4Qw",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 왔니 기안아",
+        "writer": "Ugwe8jOtKr5sLTFh1VN4AaABAg.9FhJVFhIuAu9GwMqDDcVZo",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "완전 칼단발 말고 중단발 너무 이뻐,",
+        "writer": "Ugz6FdBory1or1Sehgh4AaABAg.9FhBFwiT5cx9FkjFgN5O-J",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여담이지만 (이름)도 지금 머리스타일이 진짜 찰떡임 인생머리다",
+        "writer": "Ugz6FdBory1or1Sehgh4AaABAg.9FhBFwiT5cx9FkqskAsOVU",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보지도 않고 참 말 많다",
+        "writer": "UgzMErerPe0dNWlrJIJ4AaABAg.9FfcZ2uqKj79Fmhe9teCrT",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Jungah Park 예고편봣잖아",
+        "writer": "UgzMErerPe0dNWlrJIJ4AaABAg.9FfcZ2uqKj79FmoPMV_d_4",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "mukau묵어 난안본다꼬",
+        "writer": "UgzMErerPe0dNWlrJIJ4AaABAg.9FfcZ2uqKj79G1GGqY8Awo",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 알겠다꼬",
+        "writer": "UgzMErerPe0dNWlrJIJ4AaABAg.9FfcZ2uqKj79G3cxcjb-gA",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이딴 댓글이 좋아요가 500개가 넘는다는게 너무 신기할뿐,",
+        "writer": "UgylmNEs0DJ9U5z34Gd4AaABAg.9FezeH1NFCE9FlL8i6pnmo",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대(이름) 미래가 참 밝다",
+        "writer": "UgylmNEs0DJ9U5z34Gd4AaABAg.9FezeH1NFCE9FlLAKpFeVQ",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무엇보다 아린이 사진봐서 기분 좋습니다",
+        "writer": "UgylmNEs0DJ9U5z34Gd4AaABAg.9FezeH1NFCE9FmRbAs9O7t",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "악플은 조용히 신고 버튼을 눌러주세요 잼있고 좋아요 나혼산.....",
+        "writer": "UgxdUiXmtSlAMdUlxkJ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "듣고도 몰라 개웃겨",
+        "writer": "UgzkIFCqnWlZa4EzZsp4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모든 사람이 대체로 좋아하는 것은 있으나 모두가 다 좋아하고 모두가 싫어하는 건 없어요 그건 개개인의 선호도 차이죠 절이 싫으면 중이 떠난다고 하잖아요, 누군가의 하차 누군가의 합류 등으로 불편해지고 재미가 없다는 이야기를 이곳에 남기시는게 저 당사자들에겐 악플과 다름없지 않을까요, 지금 남아 있는 사람들도 열심히 하는데, 모두 응원의 눈빛으로 봐주시면 안 되나요 칭찬은 고래도 춤추게 한다고 하니까요. 예전의 느낌만을 찾는게 능사는 아니니까요.",
+        "writer": "Ugw6wkC1aBCgjBA7nzh4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댓글 상태 왜저러냐",
+        "writer": "UgyyH8LKmLUNyFira6d4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 나와서 너무 좋아요",
+        "writer": "Ugzne0t2ClZeTcnHZEh4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자기가 무슨 터줏대감 마님인듯 하는거 별로. (이름)오고나서 예전 나혼자 산다 룰이 많이 무너진듯, 멤버들에게 반말엄청하고 그전분들이 서로 반말못해서 안했냐, 자기 짜증 다 내면서 연애도 자기가 다하다가 다른사람못나오게하고. 같이 안나오던가, 안보면 그만이라지만 나혼산 오랜 광팬으로써 솔직히 짜증은 납니다. 홍철이형 나가고 심폐소생술한건 현무씨인데. (이름) 들어오면서 멤버들 이름 너나 오빠.야야 부르기 시작.",
+        "writer": "UgxLVH8E6aIs7MPajid4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 (이름) 너무 예쁘다",
+        "writer": "UgxzqgQ_HoIQY6I5RZJ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 화장 찰떡으로 이쁘다",
+        "writer": "UgwjNAX5Cn8GGHjfRap4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모처럼 보는 가장 정상적인 유튜브 댓글이네요",
+        "writer": "Ugw6wkC1aBCgjBA7nzh4AaABAg.9FdZj8rsr3i9G3fM7RyvZ0",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)는 메인MC 였는데도 (이름)만 하차하면 (이름)니까 아예 프로를 그만뒀는데 지는 은근슬쩍 이리 나오는거 되게 역겨움. 그리고 프로그램 컨셉 100 (이름) 때문에 망가짐.",
+        "writer": "UgxLVH8E6aIs7MPajid4AaABAg.9FTmm8K3kGu9FVw4nO-MZx",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "첫줄보고 왜 또 연예인 못잡아먹어서 안달인가 했는데 무슨말씀 하시는지 이해가 되네요. 이전에는 다들 존대했던것 같아요. (이름) (이름) 두분 다. 저는 지금은 지금의 재미대로 보고있었는데 생각해보니 저도 예전의 방식이 조금더 좋았던것 같긴 합니다.",
+        "writer": "UgxLVH8E6aIs7MPajid4AaABAg.9FTmm8K3kGu9FZrsQfUJ7W",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연애하가 헤어진게 뭐가 대수라고 누군나오고 누군안나오고 이런말이 왜나옴 결혼한것도 아닌데 웃김 (이름) 모델이고 재능기부하려고 나온건데 짜증나면 안보면되지 여기까지 굳이와서 댓글나네",
+        "writer": "UgxLVH8E6aIs7MPajid4AaABAg.9FTmm8K3kGu9FaxVo6z5WF",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쪼꼬렛뜨 그게 대수니까 둘 다 하차 했겠지 그건 당사자들이 정한거. (이름)는 그 이후에 안 나오고 있는데 (이름)은 나오는게 형평성에 어긋난다는 말을 하는건데 뇌에 (혐오표현)껴서 이해 못하시나보네.",
+        "writer": "UgxLVH8E6aIs7MPajid4AaABAg.9FTmm8K3kGu9Fb4hEY8WSC",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "fly(비속어)bj 당신이 (혐오표현)인가보네둘다 하차하고 (이름) 나온적 있는데 잘 알아보고 댓글이나 달던가그리고 재능기부에서 형평성이 왜 나옴 둘이 프로그램에 피해준게없는데 죄진것도 아니도 나오고 나오지말고를 판단하는것도 웃기네",
+        "writer": "UgxLVH8E6aIs7MPajid4AaABAg.9FTmm8K3kGu9Fb69pOZeNW",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쪼꼬렛뜨 우리는 (이름)이 와서 무너뜨린 나혼자산다 정신이 안타깝다는거에요. 프로그램 (반사회적용어)과 정신은 보존하면서 해야지 친친들끼리 깔깔거리고. 다른멤버들은 그나마 유지하려고 하는데 (이름)만 유독 야. 이러면서 이름부르고 나래 니가 그랬어 등등",
+        "writer": "UgxLVH8E6aIs7MPajid4AaABAg.9FTmm8K3kGu9FbnxPFAd-K",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래서 저는 이제 나혼산 안봅니다 가끔 좋아하는 연예인 나오면 그부분만 봐요 초반엔 분명히 멤버도 다양했고 새로운 느낌이 있었는데 거의 고정 멤버들같은 사람들이 자리잡고나서 재미가 없어지더라구요 뭐, 물론 고정멤버들때문에 나혼산 리즈시절이라던가 진짜 재밌다라고 그분들 때문에 보시는 분들도 있겠지만요 새로운 모습을 보거나 그런 느낌 찾기엔 너무 멀리온 느낌 톱스타 나오는거 아닌이상 다 일회성 느낌이니,",
+        "writer": "UgxLVH8E6aIs7MPajid4AaABAg.9FTmm8K3kGu9FcA40L-_rP",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "존대하면 뭐해 무례하고 헛소리만 했었는데, 오히려 (이름)이 중심 잡으니까 헛소리도 많이 차단되고 공감도 잘해주고 출연자 더 존중한다고 느껴짐. 존대하고 안하고는 형식의 문제일 뿐이에요 정 부담스럽다면 고치기도 쉬운 점이고",
+        "writer": "UgxLVH8E6aIs7MPajid4AaABAg.9FTmm8K3kGu9FcPJ8N-3jC",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)때문인지는 모르겠지만 (이름) 진행도 공감1도 없고 뭐야 왜저래식 비난진행이라서 보기불편했는데 옛날엔 (이름) 1명이었다면 지금은 다 (이름)처럼 뭐야 왜저래 뭐래 이래서 보기싫어져요 편한건 좋지만 너무 편해진",
+        "writer": "UgxLVH8E6aIs7MPajid4AaABAg.9FTmm8K3kGu9FcRWBo2LIQ",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞아요 너무 친목형이라 그사세 느낌이라 올만에 맘먹고봐도 그들만 재밌는 느낌이랄까요",
+        "writer": "UgxLVH8E6aIs7MPajid4AaABAg.9FTmm8K3kGu9FcSw5ZtwKr",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오히려 방송 중에 무례한 건 (이름)였음, 그리고 (이름)가 기안 행동 중재하고 잘 받아줬다 그러는데 옛날 영상 보면 전혀 아님,",
+        "writer": "UgxLVH8E6aIs7MPajid4AaABAg.9FTmm8K3kGu9Fd8Dd67ne5",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댓글창 개매너로 만들지말고 입 닫고 티비 꺼요. 뭘 찾아와서까지 악플이야.",
+        "writer": "UgxLVH8E6aIs7MPajid4AaABAg.9FTmm8K3kGu9FebB3YMzSE",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "솔직히 둘이 나가고 (이름) 돌아와달라는 의견 많았고 (이름)는 특유의 그 무례한 진행방식때문에 안돌아오길 바라는 의견도 많았음. 솔직히 지금 방식이 예전보다 재밌다고 보는데 대다수가 보는 (이름) 있는거고 보기 싫은 인간들은 이런 댓 싸지르지말고 안보면 그만임. 뭘 여기서 어쩌네 저쩌네 나불나불,",
+        "writer": "UgxLVH8E6aIs7MPajid4AaABAg.9FTmm8K3kGu9Fevfk9gPAo",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 다음 시어머니",
+        "writer": "UgxLVH8E6aIs7MPajid4AaABAg.9FTmm8K3kGu9Ff7IU9F-PR",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하 진짜 이게 시(비속어)질인가, 난 (이름) 나가서 좋고 (이름) 들어와서 좋은데. 제작진이 어련히 알아서 할까",
+        "writer": "UgxLVH8E6aIs7MPajid4AaABAg.9FTmm8K3kGu9FfJtU1uXCb",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋기만하고 재밋기만하그만 (비속어)이여",
+        "writer": "UgxLVH8E6aIs7MPajid4AaABAg.9FTmm8K3kGu9Fg17mqXdcY",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예능 하나에 진짜, 어휴 독서 하고 독후감이나 그렇게 쓰세요 웃자고 만든 예능에",
+        "writer": "UgxLVH8E6aIs7MPajid4AaABAg.9FTmm8K3kGu9Fg1kcbxUK_",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오히려 (이름) 혼자일때 (이름) 엄청 무시하고 더 그랬어요 완전 (이름)가 중심을 못잡더라구요 그런데 (이름) 들어와서 (이름)한테도 찐으로 잘 웃어주고 좀 더 나아졌어요 그리고 (이름)가 가면 보면 남들 뭐라 뭐라 무안줘요",
+        "writer": "UgxLVH8E6aIs7MPajid4AaABAg.9FTmm8K3kGu9FgB01F0AFT",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그건 (이름) 때문에 그런게아니라 메인MC인 (이름)가 중심을 못잡아서 그런거임 (이름)가 지인맥 끼워팔기시작하면서 무너진거임 손담비 (이름) 들어오면서 완전히 무너지고 그이후로 될대로 되라 식으로 (이름)가 진행하는데 지가 지인맥끼워팔기 장사했으면 감당을 해야 프로그램이 굴러가는데 전혀 감당을못하고있어서 밸런스가 다무너졌음 (이름)가 메인MC잡을 깜냥이 안됨 그렇다고 다른무지개 맴버들은 더 안되는인간들이고 (이름)가 정신차리고 똑바로안하면 나혼산은 (혐오표현)길만 남음",
+        "writer": "UgxLVH8E6aIs7MPajid4AaABAg.9FTmm8K3kGu9FgazIDgNmc",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐(비속어)어봐도됌 왜 기안싫어함 기엽지않아요",
+        "writer": "UgxLVH8E6aIs7MPajid4AaABAg.9FTmm8K3kGu9FhO0a9o8b8",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "손담비 (이름)은 무례해서 싫어하는거고 기안이 논란됬던건 논란이아닌데 논란으로 만들어진거아니었음 유아인 애호(이름) (이름) 종아리처럼",
+        "writer": "UgxLVH8E6aIs7MPajid4AaABAg.9FTmm8K3kGu9FijN6UFpVl",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그럼 보지마셔요, 별로라면서 굳이 유튜브 짤 까지 들어와서 악플을,",
+        "writer": "UgxLVH8E6aIs7MPajid4AaABAg.9FTmm8K3kGu9FiwZvCp9t2",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쪼꼬렛뜨 내가 하고 싶은말 님이 다 해줘서 댓글 안달아도 될듯 감사",
+        "writer": "UgxLVH8E6aIs7MPajid4AaABAg.9FTmm8K3kGu9FlLVje4tbd",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누가보면 연애를 (이름) 혼자 한줄 알겠다 둘이 같이한 연애를 왜 (이름)한테 화풀이야",
+        "writer": "UgxLVH8E6aIs7MPajid4AaABAg.9FTmm8K3kGu9FmiABGOSJU",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)도 가끔 나오던데 뭘. 이건 패션쇼가 주젠데 그럼 (이름)이 나오지 (이름)가 나오겠냐 아나운서 주제로 뭐 하면 (이름)가 나오겠지.별게다 불만이여",
+        "writer": "UgxLVH8E6aIs7MPajid4AaABAg.9FTmm8K3kGu9Fo5CyYVW0X",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 무례한걸로 따지면 손담비만큼 무례한사람도없는데, 인사했더니 소름끼쳥 거리질않나,기안 닮았다는말은 칭찬아닌가요 돈 저만큼만 벌면 소원이없겠는데 살빼고 화보찍었을때는 (반사회적용어)가 저정도였나싶던데,",
+        "writer": "UgxLVH8E6aIs7MPajid4AaABAg.9FTmm8K3kGu9FoD18YNxDY",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그 전까지 사람으로써의 잘잘못만 따지고 있었는데 갑자기 기안언급 하고 젠더갈등 만들어서 바로 비하발언때리네 누가보면 기안보다 돈많고 기안보다 인생 열심히 사는줄 알겠어",
+        "writer": "UgxLVH8E6aIs7MPajid4AaABAg.9FTmm8K3kGu9Fq7UNP9y0H",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "투명 but he is younger than sunghoon oppa",
+        "writer": "UgyniFqP7nPug_BYDyl4AaABAg.9FSjyUT3keW9Fd2fd_X84j",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "프사 보고 난줄 , .",
+        "writer": "UgxzqgQ_HoIQY6I5RZJ4AaABAg.9FS24fL0unV9FcKnyYdjWe",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐야 이 사람들",
+        "writer": "UgxzqgQ_HoIQY6I5RZJ4AaABAg.9FS24fL0unV9FjhNbCGODS",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 짰네 짰어,",
+        "writer": "UgxzqgQ_HoIQY6I5RZJ4AaABAg.9FS24fL0unV9FmkoN5V5yF",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요즘유행함 나도 저걸로 바꿀까",
+        "writer": "UgxzqgQ_HoIQY6I5RZJ4AaABAg.9FS24fL0unV9Fudg7VURU-",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 이참에 세쌍둥이,",
+        "writer": "UgxzqgQ_HoIQY6I5RZJ4AaABAg.9FS24fL0unV9FufTilR4uu",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어디서 얻어요 프사",
+        "writer": "UgxzqgQ_HoIQY6I5RZJ4AaABAg.9FS24fL0unV9FufmbiEJom",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 기억이 안나요 그냥 쌍둥이 친구 하시는걸로,",
+        "writer": "UgxzqgQ_HoIQY6I5RZJ4AaABAg.9FS24fL0unV9Fugkb-Xy7A",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그니까여 썸넬보고 후다닥 들어왔어여",
+        "writer": "UgwjNAX5Cn8GGHjfRap4AaABAg.9FRzi9sY-0h9FfUt_yISZ5",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 나만 그생각한게 아니었군",
+        "writer": "UgwjNAX5Cn8GGHjfRap4AaABAg.9FRzi9sY-0h9Fjj4moH1-Z",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가을가을하게 찰떡으로 너무 잘 됐다,",
+        "writer": "UgwjNAX5Cn8GGHjfRap4AaABAg.9FRzi9sY-0h9FpqLrWxGK_",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)은 섹시한게 어울림",
+        "writer": "UgwjNAX5Cn8GGHjfRap4AaABAg.9FRzi9sY-0h9FsEI5G_TCk",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잇몸이 시꺼멓게,",
+        "writer": "UgwjNAX5Cn8GGHjfRap4AaABAg.9FRzi9sY-0h9FuP_fCmmjP",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 이쁘잖아",
+        "writer": "UgwjNAX5Cn8GGHjfRap4AaABAg.9FRzi9sY-0h9GQdI2MQCur",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=F9isC9J1614",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

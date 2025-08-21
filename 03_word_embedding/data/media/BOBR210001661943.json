@@ -1,0 +1,956 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001661943",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001661943"
+    },
+    "text": [
+      {
+        "content": "같이 사는건 장점도 잊지만 단점도 많을거다 (이름)들께서 잘 정리을 하셔야 한다",
+        "writer": "UgyVTpCl4UlH0AbdEDh4AaABAg",
+        "write_date": "2021-11-14",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누구지 일반인인가",
+        "writer": "Ugy_xek4fAQrN9T6ryx4AaABAg",
+        "write_date": "2021-11-07",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재율이 거들먹 거들먹 말하는거 너무 귀엽네요",
+        "writer": "UgygL1yFIz0k7gq5Dih4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 제발 탕수육을 왜 말도 없이 부어.. 자시 그릇 갖고와서 알아서 부어먹든가 왜그래 찍먹있더는거 생각(이름)",
+        "writer": "UgycywUkKAP6rs0MXnN4AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "5분 30초에 나오는 노래제목알수있을까요",
+        "writer": "UgyiQKW7inS6C3hfjJV4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근대 저런 거는 물어보고 부어야지, 그리고, 군대 얘기를, 기싸움 같음,",
+        "writer": "Ugz8tDpRpQekfc_11GB4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다른 사람 의견 물오보고 소스 뿌리는게 기본 아닌가요 왠지 기본이 안된분 아님 넘 긴(이름) 그냥 한건지",
+        "writer": "UgzNOK-obUz1Cc6BuJp4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다영은 얼굴이 배우같다",
+        "writer": "UgwJyFSme3Hy76w6dtB4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무보기좋네요, 진짜 든든한 가족이네요, 행복하길",
+        "writer": "UgzNOq7VwtqzwveIPot4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어색할 수밖에 없징 한지붕에 같이 사는것도 매제가 동생한테 엄청 배려해준거임",
+        "writer": "Ugx-g(반사회적용어)Kx9IVwG97qe14AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한건물에 다 같이 사시는건가요",
+        "writer": "UgzcYB4NbxozsR7eiYZ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 왜 살 뺐어 그 잘생긴 애는 어디 간거여 그리구 (이름)은 어디 가셨나요",
+        "writer": "UgxCddjFkfitqKD2w8N4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 민환이형 군대갔다오더니 많이바뀐거같아요 멋있슴당",
+        "writer": "UgyRErdSEIKuSgyMXRh4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저건 진짜 배려가 없었다, . 묻지도 않고,",
+        "writer": "UgwLPAFj63i29TRNV114AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 그래도 넷이 보기 좋다 네 분 친해져서 꽁냥꽁냥 조잘조잘 같이 노는 모습 방송에 많이 나왔으면...",
+        "writer": "UgyQBSN8K_D1bW7qx0J4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 살빼니까 잘생겼누,",
+        "writer": "Ugz0RXCh3Z2sCVjcjyh4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "탕수육 소스 붓는순간 wow. 여쭤보지도 않고 바로 직진이네 저 행님은 그 이후에 당황",
+        "writer": "UgwXZiF6eAf1tZaMRFZ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방송하기 싫다면서 방송 왜 나오는지 이해가 안가네 주변에 피해입힐건 다 입혀놓고서는",
+        "writer": "Ugx2bPq1uDTk8vhBpSV4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리아빠이름 나와서놀람처음봄(이름)",
+        "writer": "Ugx3r1uM25tPGjQPDIp4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그건 확실히 하자 현역 상근 공익 이 3개는 다르다 상근과 현역은 달라 상근과 공익도 다르고",
+        "writer": "UgyZgDOeAhmybhzvMHN4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웬지 쎄하다",
+        "writer": "Ugx4RT9jnoMhSdtd3Z94AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민환엄마 깔금한척은 업체서내보낼때 소독하구 다합니다",
+        "writer": "Ugxf_nlAs8U504ZE1gd4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 재밌다 XD",
+        "writer": "UgwcpMIV0G7mESqTc4R4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "매제보다 나이가 어리면 처남이라고부르고 존댓말쓰면됩니다. 윗동서도 마찬가지고,",
+        "writer": "UgwV2fOcJmEISAAb-nd4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "율희님이 분위기 전환 잘 해주시네요 매부(오(비속어) 여동생의 남편이 자기보다 나이가 많을땐 매부 동갑이거나 어릴땐 매제라고 한다네요)님 너무 긴장하시니까 실수 연발하시는듯",
+        "writer": "UgzrYUyGxIcXJ7gbobh4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남자가 6살이나 많은데 돈도 없나",
+        "writer": "Ugwxnb-kalbvH0nvM094AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나이많은 매제랑 가까워질려면은 나이많은 매제가 잘해야된다, 이거 나이많은 매제가 자존심 강하고 나이따지면 만나는거 피하고 서로 계속해서 멀어지면서 안만나게됨, 주위에 이런사람들잇음, 여동생은 오빠집에 혼자오고 절대 남편은 안오더라, 뭐 피하는 방법은 많아 일잇다고 부인혼자 오빠집에 가라고하면 되니까 (반사회적용어)은 나이 별로 안따지는대 남자세계는 나이많은대 나이적은 처의 오빠에게 형대우하는게 힘든거같음, 성격나름이지만, (이름)도 진짜 아버지가 충북 옥천 출(이름)서 나이 많은분에게 존중하는 스타일이고 한국의 고유한 예의범절에 익숙해서 힘들겟다,(이름)이는 어디 내놔도 칭찬받을 모범생임, 나이많은 형인대 매제이니까 서로 존대어 하는게 좋을뜻하다, 가족관계상 매제이지만 매제가 나이가 많으면 서로 존대어 해주는게 한국의 예절에 맞는거같음,(이름) 동생은 방송 카메라 촬영해도 완전 자유로워 오빠 닮아서 연예인 끼가 잇는거같음, 아버지 미남에 어머니 미녀 집(이름)서 민환이랑 동생이랑 미남미녀임,",
+        "writer": "UgzTJ7ZgxuCRnW8PGCR4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "호칭도 바뀔때가 훨 지났는데 (이름) 법이나 개정하지말고 호칭부터 개정되면 좋겠어요 남편동생에게 (이름). (이름) 어우,",
+        "writer": "Ugw1N2tYoIF7Sp7kYWh4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우월(반사회적용어)매로시다, 대박이네요, 저도 족보가 완젼 꼬여서, 제가 31살이고 제 신랑이 42살이고 친언니가 33살이고 형부가 30(혐오표현)데, 언니나 저는 호칭 제대로 부르는데, 남자들끼리,호칭을 제대로 안부르니, 에휴,",
+        "writer": "UgzYGztOlG82Fjz3nwx4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서로가 존댓말 쓰면 되지 호칭은 제대로 쓰고",
+        "writer": "UgwI16SplCYWaWyw7GB4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "매제 (이름) 닮았어요",
+        "writer": "UgyWKANG-GEpj4L4mSx4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 행복한가족이라서 진심으로 부럽다............",
+        "writer": "Ugw9uQAHKrBTHnTWS4Z4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "눈치가없네 다영 님편님",
+        "writer": "UgzpblVP0JN8TzE_EWZ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도대체 뭔 피해 이런애들은 엑소 첸 혼전임신 보곤 기절하겠네",
+        "writer": "Ugx2bPq1uDTk8vhBpSV4AaABAg.9(반사회적용어)RlcZ8Zv89TMWVjRGME2",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예부터 뱃속의할아버지는있어도 나이어(이름)은 없습니다.",
+        "writer": "UgwV2fOcJmEISAAb-nd4AaABAg.9THICNMq62_9U9vij2htzX",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 사회에서 만난 친구처럼 대하는 것도 나쁘지 않을 듯요, 비격식으론 형 아 이런식으로 저희 아빠는 이모들이랑 꽤 친밀하셔서 합의하에 이름으로 부르심. 큰이모부랑 작은이모도 비슷하시고요",
+        "writer": "Ugw1N2tYoIF7Sp7kYWh4AaABAg.9TGLWIgo49O9TRRnfeA5KS",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리도 딱 비슷해요. (반사회적용어)은 호칭 잘 하는데 남자들은 못함 심지어 형부한테 거래처에서 알던 사람 소개받아 남편이 된거라 서로 뿅(이름) 하고 있음 절레절레",
+        "writer": "UgzYGztOlG82Fjz3nwx4AaABAg.9TG4_t1xGap9TT0vxmStuO",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동생분 메이비 닮앗어요....",
+        "writer": "UgwYA5NbXN3FEDoVx6p4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여동생 인형같아요 예뻐요",
+        "writer": "UgxvO-V_zsWpBXSCbdd4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동생 인터뷰 톤 기내방송 톤이야",
+        "writer": "Ugzp_rfSKqreHb2u_sR4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "탕수육의 기본은 부먹이다 이 찍먹충들아",
+        "writer": "UgxxwZLQVB4-8vGFIQd4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)아닌줄, 살이왜이리빠졌어요 근데여동생 진짜이뿌네요",
+        "writer": "UgxECNcFiIcVh64RmEd4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "율희님 유튜브에서 알게 되었는데 여기서보니 더 좋다",
+        "writer": "UgyMegmnHQlQvHNAiAJ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 아주머니라고 부르는 것도 약간 이상할듯,",
+        "writer": "Ugy6f6R58rMgxEeBtWh4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "매제도 뭔가 (이름)고 매제님은 웃김",
+        "writer": "UgzuGlsEvNRXNyWddyV4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와 근데 오빠도 잘샐겨서 그런지 여동생도, 이쁨,유전자 몰빵이 아님,",
+        "writer": "UgyPvg3zB-kSbuwGMBF4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민환 ( 친 오빠 ) 다영 ( 여동생 ) 남매 민환 ( 남편 ) 율희 ( 아내 ) 부부 다영 ( 예비 신부 ) 기원 ( 예비 신랑 ) 부부 민환 1992년생 30살 다영 1994년생 28살 율희 1997년생 25살 기원 1988년생 34살 (이름)에게는 율희님이 오빠의 아내니까 3살 어린 새언니 또는 올케 율희님에게는 (이름)이 남편의 여동생이니까 3살 많은 (이름) 또는 시누이 민환님에게는 (이름)이 여동생의 남편이니까 4살 많은 매제 (이름)에게는 민환님이 아내의 오빠니까 4살 어린 형님 율희님에게는 (이름)이 남편의 여동생의 남편이니까 9살 많은 (이름) (이름)에게는 율희님이 아내의 오빠의 아내니까 9살 어린 아주머니 이것으로 서로간의 호칭을 정리 해드렸습니다",
+        "writer": "Ugxayn33BvD_MhbTWft4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아, 대본 너무 티난다 탕수육 바로 붓는 사람이 세상에 어딨어 동생도 아니고 것도 예비 신랑분이",
+        "writer": "Ugy1nl00RkfkWtnFtXx4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재율이 겁나 웃기고 귀엽다",
+        "writer": "UgzHTPFYs7kw9IQHlE94AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 처먹해 뭘 부먹 찍먹이야",
+        "writer": "UgxB8YQ55OoYAZOhZiV4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런식으로 계속 각본짜서 방송하면 곧 아내의맛꼴날듯",
+        "writer": "UgyJVZ1X75OyJJcIig14AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여동생 왤케 이뻐 얼굴 작고 눈크고 키크고 다가졌네",
+        "writer": "UgxI8szV4HQSJ5_0Z6F4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한지붕 세가족이네",
+        "writer": "Ugyhkm9uzchr0X1mV494AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재유리 아유니 아리니 다 귀엽",
+        "writer": "UgxqYgvx__yvGxiqqwl4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그들은 너무 재미있다",
+        "writer": "UgyFz6F6H57skyJaRyJ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막에 살짝 올라가는 톤",
+        "writer": "Ugzp_rfSKqreHb2u_sR4AaABAg.9TDWBnG-M7Y9TH031FYVJj",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재율이 어릴때 살림남 나오셨을때 동생분이 승무원이라고 하셨어요.",
+        "writer": "Ugzp_rfSKqreHb2u_sR4AaABAg.9TDWBnG-M7Y9THAKD8de-T",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "각자의 취향이 있는거죠그래도 물어봤음 좋았을것을",
+        "writer": "UgxxwZLQVB4-8vGFIQd4AaABAg.9TDTUhlg_hd9TDf0ZPJE6O",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아주버니 아닌가요",
+        "writer": "Ugy6f6R58rMgxEeBtWh4AaABAg.9TDFP43zSEl9TO3HNE_3nK",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민환님 가족이랑 (이름) 부부 실제로 전부터 같이 많이 노시고 서로 친하세요, 제발 이런 짜여진 각본만 보고 욕하지 말아주세요",
+        "writer": "Ugw7OqXt4afKyx3hs7F4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐(반사회적용어) 하려다 소스를 부어버렸네 서로 한건물에 살아야하니 잘맞춰살다보면 재미있을듯",
+        "writer": "UgyCA3Agh1rWTQd4hjV4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "탕수육부먹 너무 과한 설정의 냄새가 난다",
+        "writer": "UgwliL0-HtHIouFU_8p4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형님 매제라고 칭하되 서로 맞존대를 하시는게 마음이 편안하지 않을까 합니다.",
+        "writer": "UgxzHhUQbkzOyRnB5UV4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "복잡하고 쓸데없는 한국식 호칭의 문제점이 여기서 나오네",
+        "writer": "UgxgAyoGaVlx4OvLcX54AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "각본일 수도 있지만 묻지도 않고 소스 붓는 건 비매너지",
+        "writer": "UgyMp7YzdPR8FRAVJop4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부먹은 누가봐도 대본인데요 과몰입 해서 일반인 욕좀 작작하세요들,",
+        "writer": "UgyD8EZv9OtPH5OgQw94AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "똥밟았네 가사",
+        "writer": "UgzrSUNn-FopCmeGd294AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자기 부어먹는다고 다른 사람한테 물어보지도 않고 냅다 붓는거 무슨 일 저거는 어떤 자리이던 기본 아닌가",
+        "writer": "Ugw_YHu5GkOonuEubmF4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "율희언니 성격 너무 좋아보임 ,",
+        "writer": "UgxUGhkHOlpJDwd9R514AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민환씨정말 또뚱이엄마잘해줘요 정말대다해요",
+        "writer": "UgwRUJhruskPnYs_PJR4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 족보 제대로 꼬였다 , 다들 나이가 뒤죽박죽 , 그래 , 원래 호칭대로 부르는게 낫지",
+        "writer": "UgxPm_f2nDhQfLTmuAR4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "매제 인상이 별로라는 댓글들 어떻게 몇 분 짜리 영상 보고 사람을 판단하나요, 이 영상 하나만 봐도 다 짜여진 각본인 게 보이는데, 그리고 일반인이 처음 방송 출연하는데 당연히 어색하죠",
+        "writer": "UgytvvQ7-hUx4bSKq_14AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리얼 (비속어)잼 짱이 너무 귀여워",
+        "writer": "Ugw5tcc_tCsvDIzqP2l4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그걸 어케 알지,",
+        "writer": "Ugw7OqXt4afKyx3hs7F4AaABAg.9TB0RQ1IBsr9TLqV2tJDWn",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누가보면 친척인줄 알겠네 아는척은",
+        "writer": "Ugw7OqXt4afKyx3hs7F4AaABAg.9TB0RQ1IBsr9TNgvylGyKz",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인스타만 봐도 나오는데 대댓글들 진짜 , 얼마 전에도 신혼여행 가서 라이브 틀 때 율희님이 합방하셨는데",
+        "writer": "Ugw7OqXt4afKyx3hs7F4AaABAg.9TB0RQ1IBsr9TUhWj2EA_8",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "팬이니까 아시겠지 뭐더럽게 꼬였네",
+        "writer": "Ugw7OqXt4afKyx3hs7F4AaABAg.9TB0RQ1IBsr9U1Xh99yVQU",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쓸데없는건 아니지 그럼 맘대로 부르고 반말하는게 나은건가",
+        "writer": "UgxgAyoGaVlx4OvLcX54AaABAg.9TAfbuA9ju49TBgtGQffhI",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "두리안 그 호칭 안쓰는게 반말하는거로 이어지냐 충분히 서로 형동생할수도있고 다른방법이있는건데 갑자기 반말충만드네 이분법적 사고 쩌네",
+        "writer": "UgxgAyoGaVlx4OvLcX54AaABAg.9TAfbuA9ju49TC-bmpP0-0",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "탕수육 부먹 찍먹 이라는 말도 있듯이 서로 취향이 다른데 막 부어버리네요",
+        "writer": "UgyMp7YzdPR8FRAVJop4AaABAg.9TAfSFCepe79TH9GAxMnDT",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 그사람을 알지도못하면서 겉만보고 판단하는사람들 거울이나봤으면",
+        "writer": "UgytvvQ7-hUx4bSKq_14AaABAg.9T9qDNsrJ0a9TNAQ1Ft4_R",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대본 티가 너무 난다, 왜 예능도 아닌 걍 일상 프로그램에 대본을 써야하는지,",
+        "writer": "UgzLTi1GvYoWx720uo94AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부먹이(반사회적용어) 사람들 많을땐 배려있이 물어봐야지 개념없네. 자기들이 부먹이라 묻지도 않고 쯧쯧",
+        "writer": "UgxOw4-hOq2Tr4jv3214AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그러면 그 반지하집은 민환님동생네가 들어오는건가",
+        "writer": "Ugz6-GIFklsDqd9rtER4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이고, 탕수육은 찍먹인데,",
+        "writer": "Ugy2pRR6wY_qQnVDyLB4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "약간 좀그렇지않나",
+        "writer": "UgwQhH12urCj258xeG14AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "분위기가 너무.옛날 텃세 같음",
+        "writer": "UgyMhCw1mMKmy(반사회적용어)bxLF4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 율희님 부를때 약간,그렇다,",
+        "writer": "UgwyOsJsJhjtmPNWyK94AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일상이라고 다 보여줄수있는게 아니니까 대본 주는(혐오표현) 님같으면 님 일상 100 프로 다 보여줄수 있겠음 님 지인이랑 하는 리얼 대화도 내보낼수있나 그 한계가 있으니까 연출하는건데",
+        "writer": "UgzLTi1GvYoWx720uo94AaABAg.9T9fHZSg4Tp9TAb5TytCL2",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 왜 초면에 반말을 하시죠 제가 일상을 다 보여달래요 다행히 이번 편에는 없었지만 대본으로 불화 시나리오 만들고 대중은 보는대로 믿고 간섭하는데 굳이 일상 프로에 대본을 써야하나 하는건데요. 그리고 애초에 카메라가 있는데 출연자분들이 다 보여주겠어요 대본 있으면 그냥 더 자연스럽고 재밌게 연출하면 되는데 그러는거죠. 대본 없어도 재밌게 연출하는 프로 많은데. 형님이랑 매제가 견제하는 거 말고 다르게 연출할 수 있는데 탕수워도 그렇고 호칭 검색하려고 미리 노트북을 식탁 옆도 아니고 바로 앞에 자리한 거 그냥 타나니까 얘기한건데 왜 그렇게 예민하게 반응하시는지",
+        "writer": "UgzLTi1GvYoWx720uo94AaABAg.9T9fHZSg4Tp9TB7GYiKQQ0",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아나스타시아 님이 더 예민한듯 별 얘기도 안했구만. 근데 대본 티나는건 인정 너무 심함",
+        "writer": "UgzLTi1GvYoWx720uo94AaABAg.9T9fHZSg4Tp9TCLKdZLM92",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보노보노 다시 읽어보니 다른 사람 눈에서는 예민해 보일 수도 있네요. 편견일 수도 있지만 초면에 말 짧게 하면서 그런 말투 쓰는 분들이 뭐라하면 자기 주장을 강요하는 걸 많이 봐서 그냥 답글 다는 김에 한 번에 설명을 다 쓰려고 했더니 생각보다 기네요",
+        "writer": "UgzLTi1GvYoWx720uo94AaABAg.9T9fHZSg4Tp9TCNiE-tbx_",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예비신랑인상이좀, 처가살이",
+        "writer": "UgxOw4-hOq2Tr4jv3214AaABAg.9T9e-1LDRqv9T9hVN7mnSc",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "긴(이름) 정신도 없고 그냥 크게 중요하게 생각 안하고 뭐(반사회적용어) 해야겠다 싶으니까 했겠죠, 안그래도 여자친구 오빠랑 있으면 세상 불편한데 일반인이 카메라까지 여기저기 있으니 나(반사회적용어) 정신 반쯤 놓고있었을듯",
+        "writer": "UgxOw4-hOq2Tr4jv3214AaABAg.9T9e-1LDRqv9T9r-pyxkt0",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Donae L 이말이 딱맞네요",
+        "writer": "UgxOw4-hOq2Tr4jv3214AaABAg.9T9e-1LDRqv9TAoO-iMz6T",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지하 동생네 1층 민환님 2층에 (이름)이 사신다네요",
+        "writer": "Ugz6-GIFklsDqd9rtER4AaABAg.9T9c-BYtV-79T9f-3Sj7yb",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 아 그러면 그 반지하는 아예 다른분이 들어오는거고 1층이 재율이고모네 2층이 재율이 친할머니할아버지댁 옆 새집이 재울이네라는거네요",
+        "writer": "Ugz6-GIFklsDqd9rtER4AaABAg.9T9c-BYtV-79T9gXtFj_t8",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 지하동생 1층율희민환2층(이름)이신 거 같아요.",
+        "writer": "Ugz6-GIFklsDqd9rtER4AaABAg.9T9c-BYtV-79T9h25uNQPU",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "climber 아 새집으느 알고 있는데요 재율이네",
+        "writer": "Ugz6-GIFklsDqd9rtER4AaABAg.9T9c-BYtV-79T9i605kill",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 네 재율이네고 1층으로 가면서 인테리어 싹 공사했더라구요",
+        "writer": "Ugz6-GIFklsDqd9rtER4AaABAg.9T9c-BYtV-79T9iI2uH5sQ",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 2층이 할아버지 할머니네 1층 재율이네 반지하에 재율이 고모네가 들어옵니다.",
+        "writer": "Ugz6-GIFklsDqd9rtER4AaABAg.9T9c-BYtV-79T9yAMHRPzn",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 아뇨 민환율희네 살던 반지하 동생네 부부 (이름) 살던 1층 민환율희네 (이름)은 같은 집 2층으로 올라가신대요",
+        "writer": "Ugz6-GIFklsDqd9rtER4AaABAg.9T9c-BYtV-79TAsdhMcRyS",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 새집 아니고 민환율희네 들어오면서인테리어를 싹 새로 리모델링 했대요 반지하도 동생네가 들어오면서 싹 리모델링 했구요",
+        "writer": "Ugz6-GIFklsDqd9rtER4AaABAg.9T9c-BYtV-79TAsm6yThi-",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Ss 2 아항",
+        "writer": "Ugz6-GIFklsDqd9rtER4AaABAg.9T9c-BYtV-79TB5J1wKBgx",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "코로나시국인데 요즘 누가 찍먹을 합니까",
+        "writer": "Ugy2pRR6wY_qQnVDyLB4AaABAg.9T9ZtNtEX509T9apjpx1be",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저희가족은 다그러는데요",
+        "writer": "Ugy2pRR6wY_qQnVDyLB4AaABAg.9T9ZtNtEX509T9b5FmgUWt",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무슨소리 탕수육은 원래부터 소스가 함께 볶아져서 나오는 음식입니다탕수육은 부먹...",
+        "writer": "Ugy2pRR6wY_qQnVDyLB4AaABAg.9T9ZtNtEX509T9fVM-quDw",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찍먹이어도 요즘 시국에 여러명이서 먹을때는 부먹이 맞다고 봅니다",
+        "writer": "Ugy2pRR6wY_qQnVDyLB4AaABAg.9T9ZtNtEX509TAiqa2862C",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서린 에이 그러면 눅눅해져서별로에요,",
+        "writer": "Ugy2pRR6wY_qQnVDyLB4AaABAg.9T9ZtNtEX509TBCKGVgCk0",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 저는 그냥그렇게먹어요",
+        "writer": "Ugy2pRR6wY_qQnVDyLB4AaABAg.9T9ZtNtEX509TBCPtsxRbn",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서린 탕수육은 역시 부먹이죠굿",
+        "writer": "Ugy2pRR6wY_qQnVDyLB4AaABAg.9T9ZtNtEX509TBV5Xrmr6F",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "컴콩 아니 아주머니 가 좀 그렇다고요...",
+        "writer": "UgwQhH12urCj258xeG14AaABAg.9T9ZqpmtKNG9T9brGv53cA",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나라 아 네,",
+        "writer": "UgwQhH12urCj258xeG14AaABAg.9T9ZqpmtKNG9T9cqjjwEOH",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아주머니, 뭔가 어감이 좀,",
+        "writer": "UgwQhH12urCj258xeG14AaABAg.9T9ZqpmtKNG9T9i4GyGRZB",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맛탕 참고 불러야하는거요",
+        "writer": "UgwyOsJsJhjtmPNWyK94AaABAg.9T9XEsO1JCB9T9_3Roe_9g",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어쩔 수 없지요 율희님이 (이름)의 예비 신랑분한테는 아내 (이름)의 친오빠 민환님의 아내잖아요 즉 아내의 친오빠의 아내를 아주머니 (이름)이라고 호칭을 쓴다네요",
+        "writer": "UgwyOsJsJhjtmPNWyK94AaABAg.9T9XEsO1JCB9TCkBFbCsCm",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요즘은 (이름)이라고도 하던데. 율희님은 고모부라고 불러도 좋을듯요.",
+        "writer": "UgwyOsJsJhjtmPNWyK94AaABAg.9T9XEsO1JCB9TNbmSPmW3I",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "박보옴 (이름)이라는 호칭은 남자가 자신의 친형의 아내한테 부를 때 쓰는 말입니다 그러므로 (이름)이라는 호칭은 쓸 수 없어요 (이름)이 율희님한테는 남편의 여동생의 남편이니깐 (이름)이라고 부르는게 맞는 호칭이고 율희님이 (이름)한테는 아내의 친오빠의 아내니까 아주머니 (이름)이 맞는 호칭이예요",
+        "writer": "UgwyOsJsJhjtmPNWyK94AaABAg.9T9XEsO1JCB9TNlCwN-4Wm",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WokQIDBjk1c",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

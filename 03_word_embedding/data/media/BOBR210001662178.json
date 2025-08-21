@@ -1,0 +1,412 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001662178",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001662178"
+    },
+    "text": [
+      {
+        "content": "주은이 똑똑하네 말도 잘하고",
+        "writer": "UgxTE73nArZh8CAFGmR4AaABAg",
+        "write_date": "2021-11-12",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "똑똑하다 딸",
+        "writer": "UgwvClCS9PGpQnr4_lB4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무너무 이쁘고 현명하고 (이름) 심하은 부부 좋겠어요",
+        "writer": "UgyG9W3A0Zl5g2FZvht4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주은이 넘 속이 깊고 착하네",
+        "writer": "Ugw0YjVU6Sx_4uQHeOh4AaABAg",
+        "write_date": "2021-10-21",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넘 귀여워요",
+        "writer": "UgwyF0bCql2tVImbe8B4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)선수 딸 참 이쁘네요",
+        "writer": "UgwRuMGpNweggyFHa7x4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)씨가 딸을 낳아서 키우다보니 성격이 유해졌나보다. 아들 키웠으면 엄근진이 기본이지.",
+        "writer": "Ugyk81TaXsJm04LYyTZ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주은인 정말 똑똑, 기특하네",
+        "writer": "Ugy43BS6o-JzHkpiOat4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 주은이 이쁘다,",
+        "writer": "UgwkNXoowykvQL4rcO14AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애 잘키웠다 저런 100로 (이름) 영향",
+        "writer": "UgyXmwd9Rzxb9O6htDJ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와(이름) 언변의 달인. 어른들이 주은이 말 한 마디에 행복해서 쓰러집니다.",
+        "writer": "UgwzBH-FYP3mGcRF1cR4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주은이에게 입덕합니다",
+        "writer": "UgxCQpHSr-AlK37mPp14AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주은이에게 입덕합니다",
+        "writer": "UgyuMUP3s_6ZQNVJlzZ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어쩜 저리도 예쁘게 말을 잘할까",
+        "writer": "UgxGUFeo3rKq3xjIylB4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아(비속어) 워낙 악동같은 (이름)여서 아빠같은 얼굴로 천재같은 대답하니까 진짜 (이름)다",
+        "writer": "Ugz79MOII2XqD1ETB614AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "천수형 딸은 정말",
+        "writer": "UgzWoJFmDJ7jW643d254AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "똑슌이 딸내미",
+        "writer": "UgzjQQmmtZGNqqlCqfN4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "천수형 진짜 기적을 낳았다 얼굴은 똑같은데 애가 말하는게 어쩜",
+        "writer": "UgwcR0embbxnZewtZgZ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "천수씨 부럽다 나두 저런 딸하나 있었어면 (이름) 주은이 왕팬 되었다 말을 어찌 저렇게 이쁘고 깜찍하게 하는지",
+        "writer": "Ugx3cdmG9s6dGhwyYkl4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주은이 최고다",
+        "writer": "UgxbPu4T6X6-7Gtw8fZ4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주은이 방송에 나오면 좋겠어요, 아주 배울게 많아요. 차분하고 지적인 말과행동이 아주 짱 입니다. 슈돌이에서 매주 기다리는데 ,",
+        "writer": "Ugy5FdjKr0A2QCGR9VF4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주은아 넘 이뻐, 이쁜딸,",
+        "writer": "UgxnKLsm7G51YXxyIER4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "심성이 착하다 애가 진짜저건 타고나야한다",
+        "writer": "Ugy9aEV_O0Ea769AZWB4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어매 이쁜딸 속이예쁨으로 가득찬아이 (이름) 행운이다",
+        "writer": "UgzzO5h-plp2U3HhkmV4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 진짜 대박, 멋지고 이쁘고 기특한 딸.. 건강하게 자라다오",
+        "writer": "UgwrYEUFxP1hjyuY6wV4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 저 주은이 친구인데요 주은이가 tv에 나올준 몰랐어요",
+        "writer": "UgzGvY0EVcpkaOzkPj94AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 똑같이 생겼다. 그게 놀라워.",
+        "writer": "UgxM0cLYMCD7EJCfTht4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "천수형, 딸 진짜 천사다, 부럽다",
+        "writer": "UgyQb6c9aq9cCdN3N3N4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이래서 큰딸은 살림 믿천이라고 하나봐요 주은이가 지네 아빠를 폭풍 감동 (반사회적용어)네요 주은아 동생들과 건강하고 밝게 자라렴",
+        "writer": "UgxTr5G7Q0rFERQsAGB4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄마는 보호해줘 아 귀여워",
+        "writer": "UgzIRjMcPOKG6RRVyEp4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주은이 진 예뻐",
+        "writer": "UgxR9q2q4p14fIpyqqN4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저렇(비속어)뿐말하다니 주은이",
+        "writer": "UgxUVlS8kdddT6fGvFB4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주은이는 넘 이쁘고 넘 착해 말도 잘하고.",
+        "writer": "UgxOtXy9oHI2QTt9Y-B4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "똑똑하고 예쁜 주운이 사랑해",
+        "writer": "UgzNQJGcRqXSplsYsPJ4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 진짜 너무 사랑스럽다 와 매력이 대박 도경완 자꾸",
+        "writer": "UgzvrVwd9gS4nDYdNgd4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이야 대박이다 주은이 우와, 주은아 사랑한다.",
+        "writer": "Ugw_FQ12g4A8sn_OO814AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딸래미 너무 예쁘다",
+        "writer": "UgxGOOe9A-B_P6Tvmk54AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유머 센스 갑",
+        "writer": "UgxYPFwrlF-c42eiO_N4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주은이는 누구 닮아서 말을 이렇게 차분하게 이쁘게 재밌게 잘하누 참 볼매녀야",
+        "writer": "Ugx-EwJcZsGQQm4HzLh4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도경완이 며느리 삼고 싶어하는 눈치,",
+        "writer": "UgzDx45q85nZmplKF0x4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 귀엽다",
+        "writer": "UgxoO3d7ITTiZ0SbYbh4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주은이 매력 쩔어 하루종일 봤으면 좋겠다",
+        "writer": "UgznW2bqHducZyFeeBZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아(비속어) 애들 안보는게 너무 티나서 완전 방송용 애들돌보기",
+        "writer": "UgzonQOSc22Jox2VmZp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주은아 어쩜... 이렇게 말도 잘 하고 똑쟁이 일까 너무 귀여워요 한참 웃고 가요",
+        "writer": "UgwVLN47uNksBipU8Qp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "똑쟁이 주은이 너무 사랑스럽다",
+        "writer": "UgwrzlozOMltreK7L614AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어쩜 이리 예쁘지정말 사랑스러워",
+        "writer": "Ugz-ezjDZnOLBiyl5lB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주은이 진짜 마음이 예쁘다",
+        "writer": "UgwRxRknYuttK1Mp7X14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주은아 너무 어른스럽다 영상 보는 내내 흐뭇해 , 어쩜 저렇게 말을 예쁘게 할까 너무 기특해",
+        "writer": "UgzIDXSvX5_vbHvB0yN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부모들은 자기 아들이 저렇게 똑부러지는 여자 만나길 원할듯.",
+        "writer": "UgzDx45q85nZmplKF0x4AaABAg.9H0C0SoGre49JwwI8ySBYZ",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래서 지금 돈벌면서 애돌보기 하잖아유, 히유",
+        "writer": "UgzonQOSc22Jox2VmZp4AaABAg.9F_x7bOR3Kj9FxINZo3Ebn",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=o2QM1FSnLaE",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}
