@@ -11,3 +11,6 @@ https://aihub.or.kr/aihubdata/data/view.do?pageIndex=1&currMenu=115&topMenu=100&
     → wonderful_word_game.ipynb
 
 ## 🔸 게임 실행 결과 
+<img width="422" height="159" alt="image" src="https://github.com/user-attachments/assets/395acc19-c6f0-4e18-9bf7-a01859d0d328" /> <br>
+<img width="409" height="157" alt="image" src="https://github.com/user-attachments/assets/ee18f203-350c-43a6-886b-db246d3882bd" />
+
