@@ -14,20 +14,3 @@ https://aihub.or.kr/aihubdata/data/view.do?pageIndex=1&currMenu=115&topMenu=100&
 <img width="422" height="159" alt="image" src="https://github.com/user-attachments/assets/395acc19-c6f0-4e18-9bf7-a01859d0d328" /> <br>
 <img width="409" height="157" alt="image" src="https://github.com/user-attachments/assets/ee18f203-350c-43a6-886b-db246d3882bd" />
 
-
----
-# 🥹[내가 만든 감성 분석 모델]🥹
-
-
----
-# 🤖[Seq2Seq QnA Chatbot]🤖
-
-## 🔸 사용한 데이터셋
-https://raw.githubusercontent.com/songys/Chatbot_data/refs/heads/master/ChatbotData.csv
-
-## 🔸 실행 파일
-02_seq2seq_qna_chatbot
-→ 학습 진행이 너무 오래 걸려서 colab 사용 권장
-
-## 🔸 실행 결과
-<img width="478" height="584" alt="image" src="https://github.com/user-attachments/assets/583b48d9-6151-4224-9ead-e5db18f3c275" />
