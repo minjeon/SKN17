@@ -16,4 +16,16 @@ https://aihub.or.kr/aihubdata/data/view.do?pageIndex=1&currMenu=115&topMenu=100&
 
 
 ---
-# 🤖[내가 만든 감성 분석 모델]🤖
+# 🥹[내가 만든 감성 분석 모델]🥹
+
+
+---
+# 🤖[Seq2Seq QnA Chatbot]🤖
+
+## 🔸 사용한 데이터셋
+https://raw.githubusercontent.com/songys/Chatbot_data/refs/heads/master/ChatbotData.csv
+
+## 🔸 실행 파일
+
+## 🔸 실행 결과
+<img width="478" height="584" alt="image" src="https://github.com/user-attachments/assets/583b48d9-6151-4224-9ead-e5db18f3c275" />
